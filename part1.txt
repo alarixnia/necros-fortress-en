@@ -371,6 +371,63 @@ Magic ( MAG)
 ま り ょ く
 8f 98 6e 78
 
+そうび
+   こううんのゆみや
+   こううんのきんか
+
+Equipment (ITEM)
+   Lucky Bow (LUCKYBOW)
+   Lucky Gold (GOLDEN)
+
+そ う び de
+7f 73 8b de
+
+こ う う ん の ゆ み や
+7a 73 73 9d 89 95 90 94
+l  u  c  k  y  b  o  w
+
+こ う う ん の き ん か
+7a 73 73 9d 89 77 9d 76
+g  o  l  d  e  n
+
+ていこうりょく
+   まほう    105
+   どく        2
+   あつさ     20
+   さむさ     20
+
+Resistance (RESISTS)
+    Magic  105 (MAG)
+    Poison 2   (PSN)
+    Heat   20  (HOT)
+    Cold   20  (CLD)
+
+て い こ う り ょ く
+83 72 7a 73 98 6e 78
+r  e  s  i  s  t  s
+
+ま ほ う
+8f 8e 73
+
+と de く
+84 de 78
+
+あ つ さ
+71 82 7b
+
+さ む さ
+7b 91 7b
+
+--- settings select
+
+メッセージ スピード
+いどう スピード
+スクロール スピード
+
+MSG SPEED
+MOVE SPEED
+SCROLL SPEED
+
 --- bartender initial dialogue
 
 *「まいど、ありがとうございます。
@@ -381,3 +438,62 @@ Magic ( MAG)
 
 Thanks for visiting.
 100G please. (That'll be 100G)
+
+--- yellow guy in bar dialogue
+
+*「たしかにネクロスはたおれたけれども、けっして
+よのなかがよくなったワケじゃない。
+げんに、このむらだって...
+
+Sure, Necros is gone, but that doesn't mean
+the world is a better place. Even here..
+
+Necros fell, but that doesn't mean the world is all nice.
+
+*  「 た し か に ネ ク ロ ス は た お れ た け れ ど de も 、 け っ し て
+2a a2 80 7c 76 86 c8 b8 db bd 8a 80 75 9a 80 79 9a 84 de 93 a4 79 6f 7c 83 
+
+--- brown dress woman in bar dialogue
+
+*「えっ、あなたがゆうしゃのひとり?
+もっとマシなくどきかたしなさいよ!
+
+*"What, you're one of the heroes?
+You should have a better way to express your feelings!
+
+YOU'RE one of the 8? Have some self-respect!
+YOU'RE one of the 8? Sort yourself out!
+
+* 「  え っ 、 あ な た が de 8  ゆ う し ゃ の ひ と り ?
+2a a2 74 6f a4 71 85 80 76 de 38 95 73 7c 6c 89 8b 84 98 3f
+
+も っ と マ シ な く ど de き か た し な さ い よ !
+93 6f 84 cf bc 85 78 84 de 77 76 80 7c 85 7b 72 96 21
+
+--- robe guy in bar dialogue
+
+*「ほう、あんたは8ゆうしゃの
+マーシナリーさんなのかい?
+
+*「ほう、あんたは8ゆうしゃのマーシナリーさんなのかい?
+
+Oh, you're one of the 8 heroes?
+... one of the 8 heroes?
+
+*  「 ほ う 、 あ ん た は 8 ゆうしゃのマーシナリーさんなのかい?
+2a a2 8e 73 a4 71 9d 80
+
+--- bar helper 1
+
+*「う~い。
+ひるまからサケをのみたくもなるわい。
+
+Ugh. I feel like drinking sake in the afternoon.
+
+Ugh. I need a drink...
+
+*  「 う ~  い 。
+2a a2 73 ec 72 a1 02
+
+ひ る ま か ら サ ケ を の み た く も な る わ い
+8b 99 8f 76 97 bb b9 66 89 90 80 78 93 85 99 9c 72 a1 0f 2a a2 9c 6f 8a
