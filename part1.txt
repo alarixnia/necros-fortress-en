@@ -370,3 +370,14 @@ Magic ( MAG)
 
 ま り ょ く
 8f 98 6e 78
+
+--- bartender initial dialogue
+
+*「まいど、ありがとうございます。
+しめて100Gになります。
+
+2a a2 8f 72 84 de a4 71 98 76 de 84 73 7a de 7b de 72 8f 7d a1
+02 7c 92 83 31 30 30 47 86 85 98 8f 7d a1
+
+Thanks for visiting.
+100G please. (That'll be 100G)
