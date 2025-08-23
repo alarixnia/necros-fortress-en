@@ -139,6 +139,9 @@ VIKING
 
 And Yohei the Mercenary
 
+appears really often, mercenary:
+マ ー シ フ リ ー
+
 ---- post-character portraits
 
 0002ba50
@@ -333,3 +336,37 @@ t  h  e  r  e  '  s  20 n  o  t  h  i  n  g
 
 There's nothing interesting.
 
+--- trying to use a skill when not knowing any
+
+なにもおぼえていない。
+
+な に も お ぼ de え て い な い 。
+85 86 93 75 8e de 74 83 72 85 72 a1
+i  20 k  n  o  w  20 n  o  n  e  .
+
+--- stats
+
+0007b530
+
+TODO: the alignment here needs fixing.
+
+こうげき
+Attack (  ATK)
+ぼうぎょ
+Speed (   SPD)
+すばやさ
+Defence (  DEF)
+まりょく
+Magic ( MAG)
+
+こ う げ de き
+7a 73 79 de 77
+
+ぼ de う ぎ de ょ
+8e de 73 77 de 6e
+
+す ば de や さ
+7d 8a de 94 7b
+
+ま り ょ く
+8f 98 6e 78
