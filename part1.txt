@@ -1,0 +1,335 @@
+----- game intro menu
+0007ddf0
+
+ぼ    う け ん を は じ    め る
+8e de 73 79 9d 66 8a 7c de 92 99
+START GAME[...]
+
+さ い か い の う た
+7b 72 76 72 89 73 80
+PASSWORD[...]
+
+バ    ッ ク ア ッ プ メ モ リ
+ca de af b8 b1 af cc df d2 d3
+BACKUP MEMORY[...]
+
+----- game intro cutscene
+
+0022400
+
+わ れ わ れ の せ か い と
+9c 9a 9c 9a 89 7e 76 72 84 02
+ち が     う ば    し ょ '  ち が    う じ    だ    ...
+81 76 de  73 8a de 7c 6e a4 81 76 de 73 7c de 80 de
+
+の せ か い と
+
+Our world, but...
+another place, another time...
+
+In our world, long ago...
+
+---- long game background intro
+
+00022560
+
+はるかなるおうこく、 タンキリエ。
+とつぜん、このちをふこうがおそった。
+くろまじゅつのていおう、ネクロス。
+かれは、じゃあくのけしんネクラーガをよびだし、
+このよをせいふくしようとたくらんだ。
+モンスターのむれがひとびとをおそい、
+せかいは、だいこんらんにおちいった。
+
+は る か な る お う こ く 、 タ ン キ リ エ 。
+8a 99 76 85 99 75 73 7a 78 a4 c0 dd b7 d8 b4 a1
+
+00022370
+
+そのとき、8にんのゆうしゃが、
+せかいをすくうためにたちあがったのだ。
+
+そ の と き 、 8
+7f 89 84 77 a4 38
+
+In the far-away land (kingdom) of
+Tankirie, disaster struck.
+Necros, dark magic emperor,
+summoned an evil spirit.
+(and plotted to destroy the world)
+Hordes of monsters
+attacked,
+(and the world fell into chaos).
+
+then 8 heroes rose up
+(to save the world).
+
+---- knight intro cutscene
+
+き し    ナ イ ト
+77 9d 20 XX b2 XX
+
+KNIGHT KISHI
+
+---- magician intro cutscene
+
+0002b7c0
+
+ま ほ う つ か い    マ ー ジ
+8f 8e 73 82 76 72 20 17 04 8c de
+MAGICIAN MERGE
+
+---- samurai intro cutscene
+
+0002b7c0
+
+あし サムライ
+
+あ    し    サ ム ラ イ
+8c de 7c 20 bb XX XX b2
+a  b  c  d 
+
+ASHI SAMURAI
+
+---- amazon intro cutscene
+
+0002b870
+
+お ん せ ん し      ア マ ゾ ン
+75 9d 85 7e 9d 7c   10 04 96 73 7e 72
+
+ア マ ゾ ニ ィ
+
+AMAZON
+
+---- elf intro cutscene
+
+0002b870
+
+よ う せ い    エ ル
+96 73 7e 72 20 11 04
+
+ELF
+
+---- dwarf intro cutscene
+
+0002b880
+
+こ び    と    ド
+7a 8b de 84 20 13 04 a2
+
+DWARF
+
+---- berserker intro cutscene
+
+0002b900
+
+ば    ん じ    ん
+8a de 9d 7c de 9d
+
+BERSERKER
+VIKING
+
+---- mercenary intro cutscene
+
+そして、 ようへ い マーシフリー
+
+そ し て 、 よ う へ い   
+7f 7c 83 a4 96 73 8d 72 20
+
+And Yohei the Mercenary
+
+---- post-character portraits
+
+0002ba50
+
+か れ ら は ,  ゆ う が ん な た た か い の す え 、
+76 9a 97 8a a4 95 73 76 9d 85 80 80 76 72 89 7d 74 a4
+a  f  t  e  r     a     f  i  e  r  c  e     b  a  t 
+つ い に ネ ク ロ ス を お い つ め た…
+82 72 86 c8 b8 db bd 66 75 72 82 92 80
+t  l  e  1  2  3  4  5  6  7  8  9  0  1  2
+
+After a fierece battle
+they (finally) cornered Necros
+
+Fighting fiercely, they cornered Necros
+
+かれらは, ゆうがんなたたかいのすえ、ついにネクロスをおいつめた…
+
+--- necros dying
+
+0002bdd0
+
+ネクロスをたおした!
+「ク、クソ...わしは、けっしてしなん!
+いつかまた。ふっかつする
+わしの7にんのでしたちが...
+
+I defeated Necros!
+"Damn it... I will never give up!
+Someday, I will return.
+My seven companions..."
+
+ネ ワ ロ ス を た お し た !
+c8 b8 db bd 66 80 75 7c 80 21
+
+damn it!
+i will prevail!
+some day, my 7 companions...
+
+--- post-battle cutscene
+
+00021310
+
+ネロロスがたおされ、よのきかはへいれにをきったように
+みえた
+
+ネワロマガたおされ, よのながはへいわになったように
+みえた…
+
+ネ ワ ロ ス が    た お さ れ
+c8 b8 db bd 76 de 80 75 7b 9a
+
+Neroros was defeated, and Yono Kika seemed to have cut him down.
+It looked like that...
+
+It seemed Necros was defeated...
+
+--- initial town message
+
+00021380
+
+8 ゆうしゃののひとりマージブナリーは
+ワロスもたおしたあと、ほうびののきんかももって
+たなび、きままをのひとりたびのをはじめたら
+
+After defeating Necros,
+one of the 8 heroes took
+the reward, and began his journey alone.
+
+After defeating Necros,
+one of the 8 heroes took
+the reward, journeying alone.
+He gambled and drank it away...
+
+8  ゆ う し ゃ の ひ と り マ ー シ 
+38 95 73 7c 6c 89 8b 84 98 16 8a a4 02
+
+000213C0
+
+しかし、さけとバワチとおんなにめがない
+マーシナリー。
+ほうびのきんかも、なくなるのがはやかった。
+
+But the mercenary drank far too much sake and
+gambled the reward away.
+
+し か し 、 さ け と バ    ワ チ と お ん な に め が de な い
+7c 76 7c a4 7b 79 84 ca de b8 c1 84 75 9d 85 86 92 76 de 85 72 02
+
+000213E0
+
+ほ う び    の き ん か も 、 な く な る の が de は や か っ た 。
+8e 73 8b de 89 77 9d 76 93 a4 85 78 85 99 89 76 de 8a 94 76 6f 80 a1
+
+--- initial tavern message
+
+00021460
+
+ここは、タンキリエおうこくはずれの
+リオアウのむら。
+
+This is the village of Rioau, in the Kingdom of Tankirie.
+
+In the village of Riaou,
+in Tankirie...
+with all his money spent.
+
+こ こ は 、 タ ン キ リ エ お う こ く は す    れ の
+7a 7a 8a a4 c0 dd b7 d8 b4 75 73 7a 78 8a 7d de 9a 89
+
+このちいささをむらにさかれつっいたマージナリーは、
+のこったわすかなきんかも、バワラそすってしまった
+ところであぁる.
+
+このちいさなむらにながれついたマーシナリーは、
+のこったわずかなきんかも、バワチですってしまった
+ところである...
+
+(The village's vices destroyed what little reward money was left.
+This is where we are now.)
+
+What little reward money left is gone...
+
+こ の ち い さ な む ら に な が de れ つ い た マ ー シ ナ リ ー は 、
+7a 89 81 72 7b 85 91 97 86 85 76 de 9a 82 72 80                16 8a a4 02
+
+の こ っ た わ ず de か な き ん か も 、 バ de ワ チ で de す っ て し ま っ た
+89 7a 6f 80 9c 7d de 76 85 77 9d 76 93 a4 ca de b8 c1 83 de 7d 6f 83 7c 8f 6f 80 02
+
+
+--- story 1
+
+STORY 1
+まよなかの  ほうもんしゃ
+
+ま よ な か の
+8f 96 85 76 89
+
+ほ う も ん し ゃ
+8e 73 93 9d 7c 6c
+
+8f 96 85 76 89  20 8e 73 93 9d 7c 6c 0f 2a a2 38
+
+Midnight Visitor
+
+Night Visitor fits
+
+--- INGAME MENU
+
+0007c5d0
+
+はなす
+TALK (SAY)
+とくいわざ
+SKILL
+もちもの
+ITEM
+つよさ
+STRENGTH (POW)
+しらべる
+FIND (OUT)
+
+は な す
+8a 85 7d
+
+と く い わ ざ de
+84 78 72 9c 7b de
+
+も ち も の
+93 81 93 89 02 20?
+
+つ よ さ
+82 96 7b 02 20
+
+--- talking to nobody
+
+しかし、へんじは、かえってこなかった。
+
+し か し 、 へ ん じ de は 、 か え っ て こ な か っ た 。
+7c 76 7c a4 8d 9d 7c de 8a a4 76 74 6f 83 7a 85 76 6f 80 a1
+t  h  e  r  e  '  s     n  o     r  e  s  p  o   n  s  e  .
+
+There is no response.
+
+--- finding nothing
+
+とくに、あやしいところはない。
+
+と く に 、 あ や し い と こ ろ は な い 。
+84 78 86 a4 71 94 7c 72 84 7a 9b 8a 85 72 a1
+t  h  e  r  e  '  s  20 n  o  t  h  i  n  g
+
+There's nothing interesting.
+
