@@ -428,17 +428,6 @@ MSG SPEED
 MOVE SPEED
 SCROLL SPEED
 
---- bartender initial dialogue
-
-*「まいど、ありがとうございます。
-しめて100Gになります。
-
-2a a2 8f 72 84 de a4 71 98 76 de 84 73 7a de 7b de 72 8f 7d a1
-02 7c 92 83 31 30 30 47 86 85 98 8f 7d a1
-
-Thanks for visiting.
-100G please. (That'll be 100G)
-
 --- yellow guy in bar dialogue
 
 *「たしかにネクロスはたおれたけれども、けっして
@@ -497,3 +486,44 @@ Ugh. I need a drink...
 
 ひ る ま か ら サ ケ を の み た く も な る わ い
 8b 99 8f 76 97 bb b9 66 89 90 80 78 93 85 99 9c 72 a1 0f 2a a2 9c 6f 8a
+
+--- bar helper 2
+
+*「わっはっは!
+あんちゃんのおかげで、ずいぶんともうかったわい。
+
+*Ha ha ha!
+Thanks to you, I've made a lot of money.
+
+Hah! Thanks to you, I'm rich!
+
+*  「 わ っ は っ は !
+2a a2 9c 6f 8a 6f 8a 21 02
+
+あ ん ち ゃ ん の お か げ de で de 、 ず de い ぶ de ん と も う か っ た わ い
+71 9d 81 6c 9d 89 75 76 79 de 83 de a4 7d de 72 8c de 9d 84 93 73 76 6f 8a 6f 8a
+
+--- leaving the bar sequence
+
+*「まいど、ありがとうございます。
+しめて100Gになります。
+
+2a a2 8f 72 84 de a4 71 98 76 de 84 73 7a de 7b de 72 8f 7d a1
+02 7c 92 83 31 30 30 47 86 85 98 8f 7d a1
+
+Thanks for visiting.
+100G please. (That'll be 100G)
+
+なにイ! カネがねえだと? ふてえヤロウだ!
+
+な に イ  !    カ ネ が de ね え だ de と ?     ふ て え ヤ ロ ウ だ de ! 
+85 86 b2 21 20 b6 c8 76 de 88 74 80 de 84 3f 20 8c 83 74 d4 db b3 80 de 21
+
+...What the hell! No money, huh? You bastard!
+
+*「まてまて、ワシがそののみだいをだそうじゃないか。
+
+Wait, let me pay.
+
+*  「 ま て ま て 、 ワ シ が de そ の の み だ de い を だ de そ う じ de ゃ な い か
+2a a2 8f 83 8f 83 a4 dc bc 76 de 7f 89 89 90 80 de 72 66 80 de 72 66 80 de 7f 73 7c de 6c 85 72 76 a1
