@@ -634,3 +634,21 @@ Our village's men are disappearing one by one...
 
 わ た し の お っ と も ...
 9c 80 7c 89 75 6f 84 93 eb
+
+--- pink haired man in house north of inn
+
+*「よるになるたび、ひとがきえていくのじゃ...
+このむらのひがしにフィボナという
+もりがある。
+
+Every night, people disappear...
+There's forest called Fibon to the east.
+
+*  「 よ る に な る た ひ de 、 ひ と が de き え て い く の じ de ゃ...
+2a a2 96 99 86 85 99 80 8b de a4 8b 84 76 de 77 74 83 72 78 89 7c de 6c eb 02 05
+
+こ の む ら の ひ が de し に フ ィ ボ df ナ と い う
+7a 89 91 97 89 8b 76 de 7c 86 cc a8 ce df c5 84 72 73 02
+
+も り が de あ る 。
+93 98 76 de 71 99 a1
