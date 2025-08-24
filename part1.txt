@@ -67,7 +67,7 @@ then 8 heroes rose up
 ---- knight intro cutscene
 
 き し    ナ イ ト
-77 9d 20 XX b2 XX
+?? 9d 20 c5 b2 be
 
 KNIGHT KISHI
 
@@ -140,6 +140,7 @@ VIKING
 And Yohei the Mercenary
 
 appears really often, mercenary:
+
 マ ー シ フ リ ー
 
 ---- post-character portraits
@@ -427,6 +428,18 @@ r  e  s  i  s  t  s
 MSG SPEED
 MOVE SPEED
 SCROLL SPEED
+
+needs alignment fixed.
+probably bad OCR here but the hex is correct
+
+メ ッ セ ー ジ de 20 ス ピ df ー ド de
+d2 af be b0 bc de 20 bd cb df b0 c4 de 20
+
+い ど de う    ス ピ df ー ド de
+72 84 de 73 20 bd cb df b0 c4 de 20
+
+ス ク ロ ー ル 20 ス ピ df ー ド de
+bd b8 db b0 d9 20 bd cb df b0 c4 de 20
 
 --- yellow guy in bar dialogue
 

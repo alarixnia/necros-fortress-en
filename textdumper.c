@@ -94,6 +94,7 @@ main(int argc, char **argv)
 	charset[0x9c] = "わ";
 	charset[0x9d] = "ん";
 	charset[0xaf] = "ッ";
+	charset[0xb0] = "ー";
 	charset[0xb1] = "ア";
 	charset[0xb2] = "イ";
 	charset[0xb3] = "ウ";
@@ -123,7 +124,10 @@ main(int argc, char **argv)
 	charset[0xd2] = "モ";
 	charset[0xd3] = "リ";
 	charset[0xd4] = "ヤ";
+	charset[0xd6] = "ヨ";
+	charset[0xd7] = "ラ";
 	charset[0xd8] = "リ";
+	charset[0xd9] = "ル";
 	charset[0xdb] = "ロ";
 	charset[0xdd] = "ン";
 	charset[0xde] = "゙";
@@ -144,6 +148,9 @@ main(int argc, char **argv)
 			fputc(ch, stdout);
 		} else if (charset[ch] != NULL) {
 			printf("%s", charset[ch]);
+		}
+		if (ch == 0xa1) {
+			printf("\n");
 		}
 	}
 	printf("\n");
