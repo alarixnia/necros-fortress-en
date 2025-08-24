@@ -284,11 +284,11 @@ STORY 1
 ほ う も ん し ゃ
 8e 73 93 9d 7c 6c
 
-8f 96 85 76 89  20 8e 73 93 9d 7c 6c 0f 2a a2 38
+8f 96 85 76 89 20 8e 73 93 9d 7c 6c 0f 2a a2 38
 
 Midnight Visitor
 
-Night Visitor fits
+Night Visit fits
 
 --- INGAME MENU
 
@@ -534,12 +534,31 @@ Thanks for visiting.
 
 ...What the hell! No money, huh? You bastard!
 
-*「まてまて、ワシがそののみだいをだそうじゃないか。
+*「まてまて、ワシがそののみだいをだそうじゃないか
+ワシは、このむらのそんちょうです。
+じつは、のみだいのかわりに、ひきうけて
+ほしいことがあるのです...
 
 Wait, let me pay.
+I'm the village chief.
+Young hero, please meet me
+at my home.
+I have a task for you...
 
 *  「 ま て ま て 、 ワ シ が de そ の の み だ de い を だ de そ う じ de ゃ な い か
 2a a2 8f 83 8f 83 a4 dc bc 76 de 7f 89 89 90 80 de 72 66 80 de 72 66 80 de 7f 73 7c de 6c 85 72 76 a1
+
+*「なんだ、またオマエか!
+しっしっ!カネのないやつはかえりな
+
+*  「 な ん だ de 、 ま た オ マ エ か !
+2a a2 85 9d 80 de a4 8f 80 b5 cf b4 76 21 02
+
+し っ し っ !  20 カ ネ の な い や つ は か え り な !
+7c 6f 7c 6f 21 20 b6 c8 89 85 72 94 82 8a 76 74 98 85 21 0f
+
+You again!
+Don't come back 'til you can pay!
 
 --- kid outside bar
 
@@ -548,7 +567,8 @@ Wait, let me pay.
 のんでいるの?
 
 Hey, where's (my) dad?
-Why's gramps drinking sake at 12PM?
+Why's gramps drinking
+sake at 12PM?
 
 *  「 ね え 、 お と う さ ん は 、 ど de こ へ い っ た の ?
 2a a2 88 74 a4 75 84 73 7b 9d 8a a4 84 de 7a 8d 72 6f 80 89 3f 02
@@ -654,8 +674,12 @@ Our village's men are disappearing one by one...
 このむらのひがしにフィボナという
 もりがある。
 
-Every night, people disappear...
-There's forest called Fibon to the east.
+Every night, more people
+disappear...
+
+I wonder if Fipona forest to the east of
+here is connected in some
+way.
 
 *  「 よ る に な る た ひ de 、 ひ と が de き え て い く の じ de ゃ...
 2a a2 96 99 86 85 99 80 8b de a4 8b 84 76 de 77 74 83 72 78 89 7c de 6c eb 02 05
@@ -665,3 +689,40 @@ There's forest called Fibon to the east.
 
 も り が de あ る 。
 93 98 76 de 71 99 a1
+
+--- battle messages
+
+*はのダモージ。
+Damaged.
+*は、はねかえした。
+Bounced back.
+*は、かわした。
+Ran away.
+
+*  は ?? の ダde モ ー ジde 。
+2a 8a 25 89 c0 de d2 b0 bc de a1 02
+d  a  m  a  g  e  d  .
+
+*  は 、 は ね か え し た 。
+2a 8a a4 8a 88 76 74 7c 80 a1 02
+d  e  f  l  e  c  t  e  d  .
+
+*  は 、 か わ し た 
+2a 8a a4 76 9c 7c 80
+f  l  e  e  s  .
+
+*は、とびかかった!
+Foe jumping!
+*は、とくをはいた!
+Foe has venom!
+*のたいあたり!
+Foe attacks! (Attack!)
+
+*  の た い あ た り
+2a 89 80 72 71 80 98
+
+*「あたたっ!?ー
+Ouch!?
+
+*「あたたたたたたっ!?ー
+Ouch ouch!?

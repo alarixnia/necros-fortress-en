@@ -102,7 +102,7 @@ main(int argc, char **argv)
 	charset[0xb5] = "オ";
 	charset[0xb6] = "カ";
 	charset[0xb7] = "キ";
-	charset[0xb8] = "ワ";
+	charset[0xb8] = "ク";
 	charset[0xb9] = "ケ";
 	charset[0xba] = "コ";
 	charset[0xbb] = "サ";
@@ -129,6 +129,7 @@ main(int argc, char **argv)
 	charset[0xd8] = "リ";
 	charset[0xd9] = "ル";
 	charset[0xdb] = "ロ";
+	charset[0xdc] = "ワ";
 	charset[0xdd] = "ン";
 	charset[0xde] = "゙";
 	charset[0xdf] = "゚";
@@ -142,14 +143,20 @@ main(int argc, char **argv)
 	}
 	for (size_t i = 0; i < len; ++i) {
 		uint8_t ch = buf[i] & 0xff;
+		if (ch == 0x02 || ch == 0x0f) {
+			printf("\n");
+			continue;
+		}
 		if (ch >= '0' && ch <= '9') {
 			fputc(ch, stdout);
 		} else if (ch >= 'A' && ch <= 'Z') {
 			fputc(ch, stdout);
 		} else if (charset[ch] != NULL) {
 			printf("%s", charset[ch]);
+		} else {
+			printf("?");
 		}
-		if (ch == 0xa1) {
+		if (ch == 0xa1 || ch == 0xeb) {
 			printf("\n");
 		}
 	}
