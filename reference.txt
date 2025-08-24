@@ -1,18 +1,3 @@
-Necros Fortress is a turn-based RPG released in Japan for the
-PC Engine in 1990 on HuCard. It is based on a line of candy toys,
-but don't let that fool you, this game was designed by the company
-behind Far East of Eden and Sakura Wars. It is notable for its
-battle animations, which were very flashy for the time.
-
-The game is divided into seven chapters, each with a different
-party of three characters. 
-
-The full characters available are the Mercenary, Knight,
-Amazon, Magician, Elf, Samurai, Beserker, Dwarf, and Marine.
-
-U+3099 COMBINING " 0xde
-U+30xx COMBINING o 0xdf
-
 NL 0x02 (newline)
 ー 0x04 (also seems to cause screen to clear)
    0x04 (seems to cause screen delay)
