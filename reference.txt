@@ -13,7 +13,7 @@ Amazon, Magician, Elf, Samurai, Beserker, Dwarf, and Marine.
 U+3099 COMBINING " 0xde
 U+30xx COMBINING o 0xdf
 
-NL 0x02 (when used after space)
+NL 0x02 (newline)
 ー 0x04 (also seems to cause screen to clear)
    0x04 (seems to cause screen delay)
    0x05 (end of dialogue section, wait for input with display)
@@ -25,6 +25,7 @@ NL 0x02 (when used after space)
 [...] 0xeb
 ー 0x16 (or name of mercenary?)
 ! 0x21
+" 0x22
 0 0x30
 1 0x31
 2 0x32

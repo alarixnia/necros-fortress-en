@@ -43,6 +43,7 @@ main(int argc, char **argv)
 	charset[0x16] = "ー ";
 	charset[0x20] = " ";
 	charset[0x21] = "!";
+	charset[0x22] = "\"";
 	charset[0x3f] = "?";
 	charset[0x66] = "を";
 	charset[0x6c] = "ゃ";
@@ -145,6 +146,10 @@ main(int argc, char **argv)
 		uint8_t ch = buf[i] & 0xff;
 		if (ch == 0x02 || ch == 0x0f) {
 			printf("\n");
+			continue;
+		}
+		if (ch == 0x04 || ch == 0x05) {
+			printf("\n[...]\n");
 			continue;
 		}
 		if (ch >= '0' && ch <= '9') {

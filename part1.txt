@@ -589,6 +589,7 @@ Mercenary: "Hey, young lady, are you alone?"
 
 No, I don't want to go on a date.
 No, I don't wanna date you.
+My eyes are up here.
 
 「 や あ 、 お じ de ょ う さ ん  、お ひ と り で de す か ?
 a2 94 71 a4 75 7c de 6e 73 7b 9d a4 75 8b 84 98 83 de 7d 76 3f 02
@@ -599,7 +600,7 @@ a2 94 71 a4 75 7c de 6e 73 7b 9d a4 75 8b 84 98 83 de 7d 76 3f 02
 
 If it's Soncho's house, it's on top of this.
 The chief's house is right here.
-That's the chief's house.
+This is chief's house.
 
 *  「 そ ん ち ょ う さ ん の う ち な ら 、 こ の う え だ de よ。
 2a a2 7f 9d 81 6e 73 7b 9d 89 73 81 85 97 a4 7a 89 73 74 80 de 96
@@ -690,6 +691,29 @@ way.
 も り が de あ る 。
 93 98 76 de 71 99 a1
 
+--- kid in bedroom
+
+*「へやは、あと2つあるぜ。
+
+*  「 へ や は 、 あ と 2
+2a a2 8d 94 8a a4 71 84 32
+
+There's 2 more rooms.
+We have 4 rooms.
+
+--- old man in bedroom
+
+*「ものをひとにみせるときや
+よむときも"つかう"だよ。
+
+よ む と き も " つかう " だよ。
+96 91 84 77 93 22
+
+To show an item to someone or read it, "use" it.
+
+Use use to show people
+items!
+
 --- battle messages
 
 *はのダモージ。
@@ -726,3 +750,6 @@ Ouch!?
 
 *「あたたたたたたっ!?ー
 Ouch ouch!?
+
+
+---
