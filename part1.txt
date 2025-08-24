@@ -527,3 +527,90 @@ Wait, let me pay.
 
 *  「 ま て ま て 、 ワ シ が de そ の の み だ de い を だ de そ う じ de ゃ な い か
 2a a2 8f 83 8f 83 a4 dc bc 76 de 7f 89 89 90 80 de 72 66 80 de 72 66 80 de 7f 73 7c de 6c 85 72 76 a1
+
+--- kid outside bar
+
+*「ねえ、おとうさんは、どこへいったの?
+なんでおじいちゃんは、ひるまからおサケを
+のんでいるの?
+
+Hey, where's (my) dad?
+Why's gramps drinking sake at 12PM?
+
+*  「 ね え 、 お と う さ ん は 、 ど de こ へ い っ た の ?
+2a a2 88 74 a4 75 84 73 7b 9d 8a a4 84 de 7a 8d 72 6f 80 89 3f 02
+
+な ん で de お じ de い ち ゃ ん は 、 ひ る ま か ら お サ ケ を
+85 9d 83 de 75 7c de 72 81 6c 9d 8a a4 8b 99 8f 76 97 75 bb b9 66 02
+
+の ん で de い る の ?
+89 9d 83 de 72 99 89 3f
+
+--- brown-haired woman in village
+
+マーシナリー「やあ、おじょうさん、おひとりですか?
+*「つーん
+
+Mercenary: "Hey, young lady, are you alone?"
+"Ugh"
+
+No, I don't want to go on a date.
+No, I don't wanna date you.
+
+「 や あ 、 お じ de ょ う さ ん  、お ひ と り で de す か ?
+a2 94 71 a4 75 7c de 6e 73 7b 9d a4 75 8b 84 98 83 de 7d 76 3f 02
+
+--- other kid in village
+
+*「そんちょうさんのうちなら、このうえだよ。
+
+If it's Soncho's house, it's on top of this.
+The chief's house is right here.
+That's the chief's house.
+
+*  「 そ ん ち ょ う さ ん の う ち な ら 、 こ の う え だ de よ。
+2a a2 7f 9d 81 6e 73 7b 9d 89 73 81 85 97 a4 7a 89 73 74 80 de 96
+
+--- old man with cat in village
+
+*「キズついたら、ムリせずこのむらにかえって
+やどやにはいるんじゃぞき
+
+If you get hurt, don't push yourself.
+Come back to the village and rest at the inn.
+
+If you get hurt, rest at
+our inn.
+
+*  「 キ ズ de つ い た ら 、 ム リ せ ず de こ の む ら に か え っ て
+2a a2 b7 bd de 82 72 80 97 a4 d1 d8 7e 7d de 7a 89 91 97 86 76 74 6f 83 02
+や ど de や に は い る ん じ de ゃ ぞ de き
+94 84 de 94 86 8a 72 99 9d 7c de 6c 7f de 21 0f
+
+--- other old man in village
+
+*「たびにでるときは、なるべくたくさん
+やくそうをもっていきな
+
+When you go on a trip, bring as many medicines as possible.
+
+When you leave, bring
+medicines.
+
+*  「 た び de に で de る と き は 、 な る べ de く た く さ ん
+2a a2 80 8b de 86 83 de 99 84 77 8a a4 85 99 8d de 78 80 78 7b 9d 02
+
+や く そ う を も っ て い き な
+94 78 7f 73 66 93 6f 83 72 77 85 a1 0f
+
+--- maid in village
+
+*「よいしょ、よいしょ!
+ああ、まいにちみずくみがたいへん!
+
+*"Come on, come on!
+Oh, it's so hard to get up every day!
+It's so hard to get up every day.
+
+あ あ 、 ま い に ち み ず de く み が de た い へ ん !
+71 71 a4 8f 72 86 81 90 7d de 78 90 76 de 80 72 8d 9d 21
