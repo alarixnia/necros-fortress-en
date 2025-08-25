@@ -99,3 +99,36 @@ Sacred Salts (SALTS)
 せ い な る し お
 7e 72 85 99 7c 75
 
+-- sleeping at the inn
+
+おはようごさいます。
+きょうもいちにちがんぼってください。
+
+Good morning.
+Have a great day!
+
+お は よ う ご de さ い ま す 。
+75 8a 96 73 7a de 7b 72 8f 7d a1 02
+
+き ょ う も い ち に ち ,  が de ん ぼ de っ て く だ de さ い 。
+77 6e 73 93 72 81 86 81 a4 76 de 9d 8a de 6f 83 78 80 de 7b 72 a1 0f
+
+-- save game guy
+
+*「わたしは、たびのぎんゆうしじんです。
+わたしのなかまは、せかいじゅうをたびしており、
+みたりきいたりしたことをうたにしています。
+
+I'm a travelling bard.
+We write songs about
+legendary adventures.
+
+*  「 わ た し は 、 た びde の ぎde ん ゆ う し じde ん でde す 。
+2a a2 9c 80 7c 8a a4 80 8b de 89 77 de 9d 95 73 7c 7c de 9d 83 de 7d a1 02
+
+わ た し の な か ま は 、 せ か い じde ゅ う を た びde し て お り 、
+9c 80 7c 89 85 76 8f 8a a4 7e 76 72 7c de 6d 73 66 80 8b de 7c 83 75 98 a4 02
+
+み た り き い た り し た こ と を う た に し て い ま す 。
+90 80 98 77 72 80 98 7c 80 7a 84 66 73 80 86 7c 83 72 8f 7d a1 02 
+

@@ -67,7 +67,7 @@ then 8 heroes rose up
 ---- knight intro cutscene
 
 き し    ナ イ ト
-?? 9d 20 c5 b2 be
+77 7c 20 c5 b2 c4
 
 KNIGHT KISHI
 
@@ -86,7 +86,7 @@ MAGICIAN MERGE
 あし サムライ
 
 あ    し    サ ム ラ イ
-8c de 7c 20 bb XX XX b2
+8c de 7c 20 bb XX d7 b2
 a  b  c  d 
 
 ASHI SAMURAI
