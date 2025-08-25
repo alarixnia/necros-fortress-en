@@ -714,6 +714,52 @@ To show an item to someone or read it, "use" it.
 Use use to show people
 items!
 
+--- chief of village
+
+*「やあ、よくきてくださった!
+むらのものたちにもきいたとおもいますが、
+このむらでは、へんなじけんがおこってるのです。
+
+*"Hello, thank you for coming!
+I'm sure you've heard from the villagers,
+but there's been a strange incident in this village.
+
+You came! Strange things have been
+happening in the village.
+
+む ら の も
+91 97 89 93
+
+どうか、いなくなったひとをみつけてくだされ。
+わずかながら、おカネもよういしました。
+
+Please find the missing
+people!
+
+どde う か 、 い な く な っ た ひ と を み つ け て く た de さ れ 。
+84 de 73 76 a4 72 85 78 85 6f 80 8b 84 66 90 82 79 83 78 80 de 7b 9a a1 02
+
+I've prepared a small
+budget for you.
+
+わ す de か な か de ら 、 お カ ネ も よ う い し ま し た 。
+9c 7d de 76 85 76 de 97 a4 75 b6 c8 93 96 73 72 7c 8f 7c 80 a1 02
+
+*「やあ、マーシナリーさん。
+しゅびはどうですか? がんばってください!
+
+Hey, Mercenary.
+How's the task? Keep up the good work!
+
+Hi, how's the task?
+Keep up the work!
+
+*  「 や あ 、 XX さ ん 。
+2a a2 94 71 a4 16 7b 9d a1 02
+
+し ゅ び de は ど de う で de す か ?     が de ん ば de っ て く だ de さ い !
+7c 6d 8b de 8a 84 de 73 83 de 7d 76 3f 20 76 de 9d 8a de 6f 83 78 80 de 7b 72 21 0f
+
 --- battle messages
 
 *はのダモージ。

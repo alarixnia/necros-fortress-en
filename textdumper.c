@@ -40,13 +40,14 @@ main(int argc, char **argv)
 	charset[0xa2] = "「";
 	charset[0xa4] = "、";
 	charset[0xeb] = "...";
-	charset[0x16] = "ー ";
+	charset[0x16] = "MERCENARY, ";
 	charset[0x20] = " ";
 	charset[0x21] = "!";
 	charset[0x22] = "\"";
 	charset[0x3f] = "?";
 	charset[0x66] = "を";
 	charset[0x6c] = "ゃ";
+	charset[0x6d] = "ゅ";
 	charset[0x6e] = "ょ";
 	charset[0x6f] = "っ";
 	charset[0x71] = "あ";
