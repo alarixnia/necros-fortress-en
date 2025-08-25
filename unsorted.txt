@@ -78,3 +78,24 @@ Can I help you?
 と de れ を お も と め に な り ま す か ?
 84 de 9a 66 75 93 84 92 86 85 98 8f 7d 76 3f 02
 c  a  n  20 i  20 h  e  l  p  20 y  o  u  ?
+
+-- Medicine Shop
+
+やくそう
+Herb (HERB)
+
+や く そ う
+94 78 7f 73
+
+チョコレート
+Chocolate (CHOCO)
+
+チ ョ コ レ ー ト
+c1 ae ba da b0 c4
+
+せいなるしお
+Sacred Salts (SALTS)
+
+せ い な る し お
+7e 72 85 99 7c 75
+

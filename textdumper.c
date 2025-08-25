@@ -95,6 +95,7 @@ main(int argc, char **argv)
 	charset[0x9b] = "ゑ";
 	charset[0x9c] = "わ";
 	charset[0x9d] = "ん";
+	charset[0xae] = "ョ";
 	charset[0xaf] = "ッ";
 	charset[0xb0] = "ー";
 	charset[0xb1] = "ア";
@@ -110,9 +111,9 @@ main(int argc, char **argv)
 	charset[0xbb] = "サ";
 	charset[0xbc] = "シ";
 	charset[0xbd] = "ス";
-	charset[0xbe] = "ト";
 	charset[0xc0] = "タ";
 	charset[0xc1] = "チ";
+	charset[0xc4] = "ト";
 	charset[0xc5] = "ナ";
 	charset[0xc6] = "ニ";
 	charset[0xc7] = "ヌ";
@@ -131,6 +132,7 @@ main(int argc, char **argv)
 	charset[0xd8] = "リ";
 	charset[0xd9] = "ル";
 	charset[0xdb] = "ロ";
+	charset[0xda] = "レ";
 	charset[0xdc] = "ワ";
 	charset[0xdd] = "ン";
 	charset[0xde] = "゙";
