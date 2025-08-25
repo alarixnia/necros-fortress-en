@@ -120,6 +120,7 @@ main(int argc, char **argv)
 	charset[0xc8] = "ネ";
 	charset[0xc9] = "ノ";
 	charset[0xca] = "ハ";
+	charset[0xcb] = "ヒ";
 	charset[0xcc] = "フ";
 	charset[0xcd] = "ヘ";
 	charset[0xce] = "ホ";

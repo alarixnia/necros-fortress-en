@@ -796,6 +796,32 @@ XX 「 オ レ は XX 。
 た び de か ら た び de の わ た り ど de り さ 。
 80 8b de 76 97 80 8b de 89 9c 80 98 84 de 98 7b a1
 
+マリン「クスクス、へんなヒトねー。
+
+Hehe, you're odd.
+
+マ リ ン 「 ク ス ク ス 、 へ ん な ヒ ト ね ー 。
+cf d8 dd a2 b8 bd b8 bd a4 8d 9d 85 cb c4 88 b0 a1 02
+
+なんでい、ひとがせっかく
+マジにきめてんのに。
+とこゑで、なにしてるんだい?
+
+I feel so scrutinized.
+What are you doing here?
+
+(... What do you mean you feel
+scrutinized?)
+
+16 a2 な ん でde い 、 ひ と がde せ っ か く
+16 a2 85 9d 83 de 72 a4 8b 84 76 de 7e 6f 76 78 02
+
+マ ジde に き め て ん の に 。
+cf bc de 86 77 92 83 9d 89 86 a1 02
+
+と こ ゑ でde 、 な に し て る ん だい?
+84 7a 9b 83 de a4 85 86 7c 83 99 9d 80 de
+
 マリン「ほんとに、おとうさんをさがせる?
 なんかたよりないなあ...
 
