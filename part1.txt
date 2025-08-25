@@ -760,14 +760,62 @@ Keep up the work!
 し ゅ び de は ど de う で de す か ?     が de ん ば de っ て く だ de さ い !
 7c 6d 8b de 8a 84 de 73 83 de 7d 76 3f 20 76 de 9d 8a de 6f 83 78 80 de 7b 72 21 0f
 
+--- blue haired girl (Marin)
+
+おっ、びじんのネーチャンがいるぞ!
+Hey, there's a beautiful girl!
+[Wow, she's pretty!]
+
+お っ 、 び de じ de ん のネーチャンがいるぞ!
+75 6f a4 8b de 7c de 9d
+
+(exact sentence appears 3 more times)
+
+[slight nightmare from here since text
+has to be synced with animation delays]
+
+マリン「あたし、マリンよ。あなたは?
+マーシナリー「オレはマーシナリー。
+たびからたびのわたりどりさ。
+
+Hi, I'm Marin. Who are you?
+Oh, you're the travelling Mercenary?
+
+Hi, I am Marin.
+You're a Mercenary?
+
+マ リ ン 「 あ た し 、 マ リ ン よ 。
+cf d8 dd a2 71 80 7c a4 cf d8 dd 96 a1 
+
+あ な た は ?
+71 85 80 8a 3f 02
+
+XX 「 オ レ は XX 。
+16 a2 b5 da 8a 16 a1 02
+
+た び de か ら た び de の わ た り ど de り さ 。
+80 8b de 76 97 80 8b de 89 9c 80 98 84 de 98 7b a1
+
+マリン「ほんとに、おとうさんをさがせる?
+なんかたよりないなあ...
+
+Can you really find my dad?
+I don't know if I can trust you.
+
+Can I trust you to find my
+dad...?
+
+マ リ ン 「 ほ ん と に 、 お と う さ ん を さ がde せ る ?
+cf d8 dd a2 8e 9d 84 86 a4 75 84 73 7b 9d 66 7b 76 de 7e 99 3f 02
+
 --- battle messages
 
 *はのダモージ。
 Damaged.
 *は、はねかえした。
-Bounced back.
+Bounced back. (Deflected.)
 *は、かわした。
-Ran away.
+Ran away. (Dodged.)
 
 *  は ?? の ダde モ ー ジde 。
 2a 8a 25 89 c0 de d2 b0 bc de a1 02
@@ -779,7 +827,7 @@ d  e  f  l  e  c  t  e  d  .
 
 *  は 、 か わ し た 
 2a 8a a4 76 9c 7c 80
-f  l  e  e  s  .
+d  o  d  g  e  d  .
 
 *は、とびかかった!
 Foe jumping!
@@ -797,5 +845,11 @@ Ouch!?
 *「あたたたたたたっ!?ー
 Ouch ouch!?
 
+Mercenary's attack message:
+は、ゆみをはなった!
+Arrow fired!
+Shoot bow!
 
----
+は 、 ゆ み を は な っ た !
+8a a4 95 90 66 8a 85 6f 80 21
+S  H  O  O  T  20 B  O  W  !
