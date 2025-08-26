@@ -891,48 +891,19 @@ dad...?
 マ リ ン 「 ほ ん と に 、 お と う さ ん を さ がde せ る ?
 cf d8 dd a2 8e 9d 84 86 a4 75 84 73 7b 9d 66 7b 76 de 7e 99 3f 02
 
---- battle messages
+--- fancy guy standing by the bridge in forest
 
-*はのダモージ。
-Damaged.
-*は、はねかえした。
-Bounced back. (Deflected.)
-*は、かわした。
-Ran away. (Dodged.)
+*「このはしよりさきは、ひとりではキケンです。
+なかまをつれてからいくといいでしょう。
 
-*  は ?? の ダde モ ー ジde 。
-2a 8a 25 89 c0 de d2 b0 bc de a1 02
-d  a  m  a  g  e  d  .
+It's dangerous to go alone
+past this bridge.
+(It's better with companions.)
 
-*  は 、 は ね か え し た 。
-2a 8a a4 8a 88 76 74 7c 80 a1 02
-d  e  f  l  e  c  t  e  d  .
+*  「 こ の は し よ り さ き は 、 ひ と り て de は キ ケ dd ン de です。
+2a a2 7a 89 8a 7c 96 98 7b 77 8a a4 8b 84 98 83 de 8a b7 b9 dd 83 de 7d a1 02
+p  a  s  t  20 t  h  i  s  20 b  r  i  d  g  e  ,  20 i  t  '  s  d  a  n  g
 
-*  は 、 か わ し た 
-2a 8a a4 76 9c 7c 80
-d  o  d  g  e  d  .
-
-*は、とびかかった!
-Foe jumping!
-*は、とくをはいた!
-Foe has venom!
-*のたいあたり!
-Foe attacks! (Attack!)
-
-*  の た い あ た り
-2a 89 80 72 71 80 98
-
-*「あたたっ!?ー
-Ouch!?
-
-*「あたたたたたたっ!?ー
-Ouch ouch!?
-
-Mercenary's attack message:
-は、ゆみをはなった!
-Arrow fired!
-Shoot bow!
-
-は 、 ゆ み を は な っ た !
-8a a4 95 90 66 8a 85 6f 80 21
-S  H  O  O  T  20 B  O  W  !
+な か ま を つ れ て か ら い く と い い でde し ょ う 。
+85 76 8f 66 82 9a 83 76 97 72 78 84 72 72 83 de 7c 6e 73 a1 0f
+e  r  o  u  s  20 t  o  20 g  o  20 a  l  o  n  e  .

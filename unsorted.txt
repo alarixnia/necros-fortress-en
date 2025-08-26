@@ -132,3 +132,97 @@ legendary adventures.
 み た り き い た り し た こ と を う た に し て い ま す 。
 90 80 98 77 72 80 98 7c 80 7a 84 66 73 80 86 7c 83 72 8f 7d a1 02 
 
+--- battle messages
+
+*はのダモージ。
+Damaged.
+*は、はねかえした。
+Bounced back. (Deflected.)
+*は、かわした。
+Ran away. (Dodged.)
+
+*  は ?? の ダde モ ー ジde 。
+2a 8a 25 89 c0 de d2 b0 bc de a1 02
+d  a  m  a  g  e  d  .
+
+*  は 、 は ね か え し た 。
+2a 8a a4 8a 88 76 74 7c 80 a1 02
+d  e  f  l  e  c  t  e  d  .
+
+*  は 、 か わ し た 
+2a 8a a4 76 9c 7c 80
+d  o  d  g  e  d  .
+
+*は、とびかかった!
+Foe jumping!
+*は、とくをはいた!
+Foe has venom!
+*のたいあたり!
+Foe attacks! (Attack!)
+
+*  の た い あ た り
+2a 89 80 72 71 80 98
+
+*「あたたっ!?ー
+Ouch!?
+
+*「あたたたたたたっ!?ー
+Ouch ouch!?
+
+Mercenary's attack message:
+は、ゆみをはなった!
+Arrow fired!
+Shoot bow!
+
+は 、 ゆ み を は な っ た !
+8a a4 95 90 66 8a 85 6f 80 21
+S  H  O  O  T  20 B  O  W  !
+
+ダイビングアタック!
+Dive attack!
+
+タ de イ ヒ de ン ク de ア タ ッ ク !
+c0 de b2 cb de dd b8 de b1 c0 af b8 21
+D  I  V  E  20 A  T  T  A  C  K  !
+
+は、きりかかった!
+Critical hit!
+Critical!
+
+は 、 き り か か っ た !
+8a a4 77 98 76 76 6f 80 21 02
+f  a  t  a  l  20 h  i  t
+C  R  I  T  I  C  A  L  !
+
+は、むかっていったす
+Advancing!
+
+は 、 む か っ て い っ た す
+8a a4 91 76 6f 83 72 6f 80 21 02
+
+オーワが、あられれた!
+Foe spotted!
+
+が de 、 あ ら れ れ た !
+76 de a4 71 97 9c 9a 80 21
+S  P  O  T  T  E  D  !
+
+オ ー ワ が de 、 あ ら れ れ た!
+b5 b0 dc 76 de a4 71 97 
+
+こちらに、きづいていない。
+They didn't see us.
+We are hidden.
+
+こ ち ら に 、 き づ い て い な い 。
+7a 81 97 86 a4 77 82 de 72 83 72 85 72 a1 02
+t  h  e  y  20 d  i  d  n  '  t  20 s  e
+w  e  20 h  a  v  e  20 s  t  e  a  l  t
+w  e  20 a  r  e  20 h  i  d  d  e  n  .
+
+は、レヘdeルかdeあかdeった!
+LEVEL UP!
+
+は 、 レ ヘ de ル か de あ か de っ た !
+8a a4 da cd de d9 76 de 71 76 de 6f 80 21
+L  E  V  E  L  20 UP !                  
