@@ -932,6 +932,107 @@ whathisname of the 8 heroes is often here too!
 8  ゆ う し ゃ の 17 さ ま も
 38 95 73 7c 6c 89 17 7b 8f 93 02
 
+--- inn on road - first old man
+
+*「さいきん、てつやあぶらがよくうれる。
+はくしゃくさまが、ぜんぶかってくれるからな...
+[...]
+おっと、いけね...
+きかなかったことにしてくれ。
+
+Lately, grease is (all) sold out.
+The king buys it all...
+... (Wait,) You heard nothing.
+
+*  「 さ い き ん 、 て つ や あ ぶde ら がde よ く う れ る 。
+2a a2 7b 72 77 9d a4 83 82 94 71 8c de 97 76 de 96 78 73 9a 99 a1 02
+l  a  t  e  l  y  ,  20 g  r  e  a  s  e  20 i  s  20 s  o  l  d  20
+
+は く し ゃ く さ ま か de 、 せ de ん ふ de か っ て く れ る か ら な ...
+8a 78 7c 6c 78 7b 8f 76 de a4 7e de 9d 8c de 76 6f 83 78 9a 99 76 97 85 eb 02 05
+o  u  t  .  20 t  h  e  20 k  i  n  g  20 b  u  y  s  20 i  t  20 a  l  l  .  02
+
+お っ と 、 い け ね ...
+75 6f 84 a4 72 79 88 eb 02
+05 .  .  .  y  o  u  20 h
+
+き か な か っ た こ と に し て く れ 。
+77 76 85 76 6f 80 7a 84 86 7c 83 78 9a a1 0f
+e  a  r  d  20 n  o  t  h  i  n  g  .  0f
+
+--- inn on road - second old man
+
+*「さいきんこのへんてde、きdeんをかいしめている
+やつかdeいるらしいせde。
+
+Someone's been stealing
+our silver.
+
+* 「  さ い き ん こ の へ ん て de 、 き de ん を か い し め て い る
+2a a2 7b 72 77 9d 7a 89 8d 9d 83 de a4 77 de 9d 66 76 72 7c 92 83 72 99 02
+
+や つ か de い る ら し い せ de 。
+94 82 76 de 72 99 97 7c 72 7e de a1 0f
+
+--- inn on road - third old man
+
+*「ネクロスかdeたおされたというのに、またおかしな
+しdeけんかdeつつdeいている。
+?のまちてdeも、なにか
+おこっているというし...
+
+(Even though Necros was defeated,
+strange things keep happening.)
+I heard something odd is
+happening in the Knight's hometown.
+
+*  「 ネ ク ロ ス か de た お さ れ た と い う の に 、 ま た お か し な
+2a a2 c8 b8 db bd 76 de 80 75 7b 9a 80 84 72 73 89 86 a4 8f 80 75 76 7c 85 02
+i  20 h  e  a  r  d  20 s  o  m  e  t  h  i  n  g  20 o  d  d  20 i  s  20 h
+
+し de け ん か de つ つ de い て い る。
+7c de 79 9d 76 de 82 82 de 72 83 72 99 a1
+a  p  p  e  n  i  n  g  20 i  n  20 t  h
+
+?  の ま ち て de も 、 な に か
+14 89 8f 81 83 de 93 a4 85 86 76 02
+e  20 k  n  i  g  h  t  '  s  20 h
+
+お こ っ て い る と い う し...
+75 7a 6f 83 72 99 84 72 73 7c eb 0f
+o  m  e  t  o  w  n  .
+
+--- inn on the road - two people arguing
+
+*「う~い、おれはMERCENARY, さまだあ!
+*「おい、どうせホラふくなら、KNIGHT, さまくらいに
+なれよ。すこしセコいぜ!
+MERCENARY, 「こ、こいつら~!
+
+Ugh, I'm a real mercenary!
+If you're gonna lie, at least be a Knight! Aim high!
+Agh, these blighters!
+
+I'm really a mercenary!
+At least say you're a
+knight!
+Shut up!
+
+*  「 う ~  い 、 お れ は 16 さ ま た de あ !
+2a a2 73 ec 72 a4 75 9a 8a 16 7b 8f 80 de 71 21 02
+i  '  m  20 r  e  a  l  l  y  20 a  20 m  e  r  c
+
+*  「 お い 、 と de う せ ホ ラ ふ く な ら 、 14 さ ま く ら い に
+2a a2 75 72 a4 84 de 73 7e ce d7 8c 78 85 97 a4 14 7b 8f 78 97 72 86 02
+e  n  a  r  y  !  02 at 20 l  e  a  s  t  20 s  a  y  20 y  o  u  '  r  e
+
+な れ よ 。 す こ し セ コ い せ de !
+85 9a 96 a1 7d 7a 7c be ba 72 7e de 21 02
+e  20 a  20 k  n  i  g  h  t  ! 20
+
+こ い つ ら ~
+7a 72 82 97 ec
+
 --- inn on the road - barmaid
 
 *「おいてdeませ、はくはdeていへ。

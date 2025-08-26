@@ -40,6 +40,7 @@ main(int argc, char **argv)
 	charset[0xa2] = "「";
 	charset[0xa4] = "、";
 	charset[0xeb] = "...";
+	charset[0x14] = "KNIGHT, ";
 	charset[0x16] = "MERCENARY, ";
 	charset[0x17] = "KNIGHT, ";
 	charset[0x20] = " ";
@@ -111,6 +112,7 @@ main(int argc, char **argv)
 	charset[0xba] = "コ";
 	charset[0xbb] = "サ";
 	charset[0xbc] = "シ";
+	charset[0xbe] = "セ";
 	charset[0xbd] = "ス";
 	charset[0xc0] = "タ";
 	charset[0xc1] = "チ";
