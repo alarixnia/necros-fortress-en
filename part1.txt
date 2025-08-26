@@ -769,7 +769,7 @@ Hey, there's a beautiful girl!
 お っ 、 び de じ de ん のネーチャンがいるぞ!
 75 6f a4 8b de 7c de 9d
 
-(exact sentence appears 3 more times)
+(exact sentence appears 3 more times in binary)
 
 [slight nightmare from here since text
 has to be synced with animation delays]
@@ -821,6 +821,63 @@ cf bc de 86 77 92 83 9d 89 86 a1 02
 
 と こ ゑ でde 、 な に し て る ん だい?
 84 7a 9b 83 de a4 85 86 7c 83 99 9d 80 de
+
+マリン「うん...じつはね・・
+マーシナリー「フーン、オマエのオヤジも
+ゆくえふめいなのか?
+
+Well... actually...
+Oh, so your old man's gone missing too?
+
+(My dad...
+He's gone missing...)
+
+マ リ ン 「 う ん ...じ de つ は ね ...
+cf d8 dd a2 73 9d eb 7c de 82 8a 88 eb 02
+
+XX 「 フ ー ン 、 オ マ エ の オ ヤ ジ de も
+16 a2 cc b0 dd a4 b5 cf b4 89 b5 d4 bc de 93 02
+
+マリン「うん。さがしにいきたいんだけど、
+みんな、あぶないから、よせって...
+マーシナリー「よし、オレにまかせな!
+すぐにみつけてきてやるぜ。
+
+(Yes, )I wanna find him...
+(but) they say it's (too) dangerous...
+
+Leave it to me! I'll find him straight away!
+
+(... Huh, you say that you can?)
+
+マ リ ン 「 う ん 。 さ が de し に い き た い ん だ de け ど de 、
+cf d8 dd a2 73 9d a1 7b 76 de 7c 86 72 77 80 72 9d 80 de 79 84 de a4 02
+
+み ん な 、 あ ぶ de な い か ら 、 よ せ っ て...
+90 9d 85 a4 71 8c de 85 72 76 97 a4 96 7e 6f 83 eb 02
+
+ー 「 よ し 、 オ レ に ま か せ な !
+16 a2 96 7c a4 b5 da 86 8f 76 7e 85 21 02
+
+す ぐ de に み つ け て き て や る ぜ de 。
+7d 78 de 86 90 82 79 83 77 83 94 99 7e de a1 04
+
+マリン「ええーっ、あなたがあ?
+マーシナリー「アララ...おれって、しんよう
+ねえのかなあ。
+
+Really...? You? Can I trust you?
+
+マ リ ン 「 え え ー っ 、 あ な た が de あ ?
+cf d8 dd a2 74 74 b0 6f a4 71 85 80 76 de 71 3f 02
+r  e  a  l  l  y  ?  20 y  o  u  ?  20 c  a  n  20
+
+ー 「 ア ラ ラ... お れ っ て 、 し ん よ う
+16 a2 b1 d7 d7 eb 75 9a 6f 83 a4 7c 9d 96 73 02
+i  20 t  r  u  s  t  20 y  o  u  ?
+
+ね え の か な あ 。
+88 74 89 76 85 71 a1
 
 マリン「ほんとに、おとうさんをさがせる?
 なんかたよりないなあ...
