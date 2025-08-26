@@ -144,7 +144,7 @@ main(int argc, char **argv)
 	charset[0xec] = "~";
 
 	size_t len;
-	char *buf = read_file_full("./original.pce", &len);
+	char *buf = read_file_full(argv[1], &len);
 	if (buf == NULL) {
 		printf("failed to read\n");
 		return 1;
