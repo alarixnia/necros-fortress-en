@@ -39,10 +39,11 @@ main(int argc, char **argv)
 	charset[0xa1] = "。";
 	charset[0xa2] = "「";
 	charset[0xa4] = "、";
+	charset[0xa8] = "ィ";
 	charset[0xeb] = "...";
-	charset[0x14] = "KNIGHT, ";
-	charset[0x16] = "MERCENARY, ";
-	charset[0x17] = "KNIGHT, ";
+	charset[0x14] = "KNIGHT ";
+	charset[0x16] = "MERCENARY ";
+	charset[0x17] = "KNIGHT ";
 	charset[0x20] = " ";
 	charset[0x21] = "!";
 	charset[0x22] = "\"";

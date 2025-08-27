@@ -1085,8 +1085,7 @@ t  h  e  r  e  ,  20  m  a  n . 20
 b4 b2 b3 de 7e 9d 81 6e 73 84 73 90 66 9c 80 6f 80 7a 84 93 71 99 7e de 21 0f
 t  r  a  v  e  l  ,  20 i  20 h  a  d  20 m  y  20 s  h  a  r  e  !  20
 
-
---- inn on the road - lady at the back
+--- inn on the road - lady at the back (sylvia)
 
 *「リオアウからいらしたの?
 いま、あのみちにサーヘdeルタイカdeーかdeてdeて、
@@ -1128,3 +1127,84 @@ reward you. Hehe...
 い い こ と を し て さ し あ け de ま す わ 。 ウ フ フ...
 72 72 7a 84 66 7c 83 7b 7c 71 79 de 8f 7d 9c a1 b3 cc cc eb 0f
 l  l  20 r  e  w  a  r  d  20 y  o  u  .  20 h  e  h  e .
+
+After defeating the tiger:
+
+*「まあ、ほんとうにたいしdeしてきたのね。
+あなたのような、つよいひとかdeひつようなのよね...
+いえ、こっちのこと。
+
+Well, aren't you a strong one... exactly what
+I need.
+
+わたしのなは、シルウdeィア。
+KNIGHT, のまちで、またおあいしましょう。
+いいことは、そのときに...
+
+I'm Sylvia. Let's meet again in Knight's town.
+Good things await...
+
+*  「 ま あ 、 ほ ん と う に た い し de し て き た の ね 。
+2a a2 8f 71 a4 8e 9d 84 73 86 80 72 7c de 7c 83 77 80 89 88 a1 02
+a  r  e  n  '  t  20 y  o  u  20 s  t  r  o  n  g  eb 20 e  x  a
+
+あ な た の よ う な 、 つ よ い ひ と か de ひ つ よ う な の よ ね...
+71 85 80 89 96 73 85 a4 82 96 72 8b 84 76 de 8b 82 96 73 85 89 96 88 eb 02
+c  t  l  y  20 w  h  a  t  20 i  20 n  e  e  d  .  02 i  '  m  20 s  y  l
+
+い え 、 こ っ ち の こ と 。
+72 74 a4 7a 6f 81 89 7a 84 a1 02 05
+v  i  a  .  20 w  e  '  l  l  20 m
+
+わ た し の な は 、 シ ル ウ de ィ ア 。
+9c 80 7c 89 85 8a a4 bc d9 b3 de a8 b1 a1 02
+e  e  t  20 a  g  a  i  n  20 i  n  20 k  n
+
+14 の ま ち て de 、 ま た お あ い し ま し ょ う 。
+14 89 8f 81 83 de a4 8f 80 75 71 72 7c 8f 7c 6e 73 a1 02
+i  g  h  t  '  s  20 t  o  w  n  20 f  o  r  20 y  o  u
+
+い い こ と は 、 そ の と き に...
+72 72 7a 84 8a a4 7f 89 84 77 86 eb 0f
+r  20 r  e  w  a  r  d  .  .  .
+
+--- inn on the road - knight
+
+*「わたしは、きしロイ。
+KNIGHT, さまのめいれいで、リオアウの
+むらのじけんをしらべにきたのです。
+
+(I'm Kishi Roy).
+I've come to investigate the trouble in
+Riaou (on behalf of Sir Knight).
+
+どうやら、たいへんなじたいのようですね。
+はやくKNIGHT, さまにほうこくしなければ...
+
+It seems to be quite a pickle.
+We should inform Sir Knight at once.
+
+Greetings.
+We must bring news of the
+trouble in Riaou to Sir
+Knight at once.
+
+*  「 わ た し は 、 き し ロ イ 。
+2a a2 9c 80 7c 8a a4 77 7c db b2 a1 02
+g  r  e  e  t  i  n  g  s  .  02 w  e 
+
+14 さ ま の め い れ い て de 、 リ オ ア ウ の
+14 7b 8f 89 92 72 9a 72 83 de a4 d8 b5 b1 b3 89 02
+20 m  u  s  t  20 b  r  i  n  g  20 n  e  w  s  20 
+
+む ら の し de け ん を し ら へ de に き た の て de す 。
+91 97 89 7c de 79 9d 66 7c 97 8d de 86 77 80 89 83 de 7d a1 02 05
+o  f  20 t  h  e  20 t  r  o  u  b  l  e  20 i  n  20 r  i  a  o
+
+と de う や ら 、 た い へ ん な し de た い の よ う て de す ね 。
+84 de 73 94 97 a4 80 72 8d 9d 85 7c de 80 72 89 96 73 83 de 7d 88 a1 02
+u  20 t  o  20 h  i  s  20 m  a  j  e  s  t  y  20 s  i  r  20 k  n  i
+
+は や く 14 さ ま に ほ う こ く し な け れ は de ...
+8a 94 78 14 7b 8f 86 8e 73 7a 78 7c 85 79 9a 8a de eb 0f 
+g  h  t  20 a  t  20 o  n  c  e .
