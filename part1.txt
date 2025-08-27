@@ -932,6 +932,22 @@ whathisname of the 8 heroes is often here too!
 8  ゆ う し ゃ の 17 さ ま も
 38 95 73 7c 6c 89 17 7b 8f 93 02
 
+after defeating the tiger and speaking to sylvia:
+
+*「きのうまてdeとまってた、あのしょうにんは
+とdeうしたんだゑう?
+
+Where did that lady staying at the inn go?
+Where did that lady at the inn go?
+
+*  「 き の う ま て de と ま っ て た 、 あ の し ょ う に ん は
+2a a2 77 89 73 8f 83 de 84 8f 6f 83 80 a4 71 89 7c 6e 73 86 9d 8a 02
+w  h  e  r  e  20 d  i  d  20 t  h  a  t  20 l  a  d  y  20 a  t  20
+
+と de う し た ん た de ゑ う ?
+84 de 73 7c 80 9d 80 de 9b 73 3f 0f
+t  h  e  20 i  n  n  20 g  o  ?
+
 --- inn on road - first old man
 
 *「さいきん、てつやあぶらがよくうれる。
@@ -983,24 +999,24 @@ our silver.
 
 (Even though Necros was defeated,
 strange things keep happening.)
-I heard something odd is
-happening in the Knight's hometown.
+I heard something strange is
+happening in the Knight's town.
 
 *  「 ネ ク ロ ス か de た お さ れ た と い う の に 、 ま た お か し な
 2a a2 c8 b8 db bd 76 de 80 75 7b 9a 80 84 72 73 89 86 a4 8f 80 75 76 7c 85 02
-i  20 h  e  a  r  d  20 s  o  m  e  t  h  i  n  g  20 o  d  d  20 i  s  20 h
+i  20 h  e  a  r  d  20 s  o  m  e  t  h  i  n  g  20 s  t  r  a  n  g  e  20
 
 し de け ん か de つ つ de い て い る。
 7c de 79 9d 76 de 82 82 de 72 83 72 99 a1
-a  p  p  e  n  i  n  g  20 i  n  20 t  h
+i  s  20 h  a  p  p  e  n  i  n  g  20 i 
 
 ?  の ま ち て de も 、 な に か
 14 89 8f 81 83 de 93 a4 85 86 76 02
-e  20 k  n  i  g  h  t  '  s  20 h
+n  20 t  h  e  20 k  n  i  g  h  t
 
 お こ っ て い る と い う し...
 75 7a 6f 83 72 99 84 72 73 7c eb 0f
-o  m  e  t  o  w  n  .
+'  s  20  t  o  w  n  .
 
 --- inn on the road - two people arguing
 
@@ -1208,3 +1224,20 @@ u  20 t  o  20 h  i  s  20 m  a  j  e  s  t  y  20 s  i  r  20 k  n  i
 は や く 14 さ ま に ほ う こ く し な け れ は de ...
 8a 94 78 14 7b 8f 86 8e 73 7a 78 7c 85 79 9a 8a de eb 0f 
 g  h  t  20 a  t  20 o  n  c  e .
+
+--- inn on the road - guy outside
+
+he appears after defeating the sabretooth tiger.
+
+*「たいへんでしたねえ。
+こっちがリオアウのむらへのちかみちなんですよ。
+
+There's a new shortcut to Riaou now.
+
+*  「 た い へ ん て de し た ね え 。
+2a a2 80 72 8d 9d 83 de 7c 80 88 74 a1 02
+t  h  e  r  e  '  s  20 a  20 n  e  w  20
+
+こ っ ち か de リ オ ア ウ の む ら へ の ち か み ち な ん て de す よ 。
+7a 6f 81 76 de d8 b5 b1 b3 89 91 97 8d 89 81 76 90 81 85 9d 83 de 7d 96 a1 0f
+s  h  o  r  t  c  u  t  20 t  o  20 r  i  a  o  u  20 n  o  w  .
