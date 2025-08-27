@@ -1225,6 +1225,17 @@ u  20 t  o  20 h  i  s  20 m  a  j  e  s  t  y  20 s  i  r  20 k  n  i
 8a 94 78 14 7b 8f 86 8e 73 7a 78 7c 85 79 9a 8a de eb 0f 
 g  h  t  20 a  t  20 o  n  c  e .
 
+--- sabretooth tiger
+
+*「くdeるる、かdeうう...
+
+(appears twice in the code)
+
+Grr.. grr...
+
+*  「 く de る る 、 か de
+2a a2 78 de 99 99 a4 76 de
+
 --- inn on the road - guy outside
 
 he appears after defeating the sabretooth tiger.
@@ -1241,3 +1252,39 @@ t  h  e  r  e  '  s  20 a  20 n  e  w  20
 こ っ ち か de リ オ ア ウ の む ら へ の ち か み ち な ん て de す よ 。
 7a 6f 81 76 de d8 b5 b1 b3 89 91 97 8d 89 81 76 90 81 85 9d 83 de 7d 96 a1 0f
 s  h  o  r  t  c  u  t  20 t  o  20 r  i  a  o  u  20 n  o  w  .
+
+--- knight's town - guard
+
+*「ここは、KNIGHT さまのおさめるKNIGHT のまちたde。
+
+This is knight's town, ruled by sir knight.
+This is knight's town.
+
+* 「  こ こ は 、 14 さ ま の お さ め る 14 の ま ち た de 。
+2a a2 7a 7a 8a a4 14 7b 8f 89 75 7b 92 99 14 89 8f 81 80 de a1 0f
+t  h  i  s  20 i  s  20 k  n  i  g  h  t  '  s  20 t  o  w  n
+
+--- knight's town - castle guard
+
+*「KNIGHTさまは、たdeれともおあいにならん!
+あ、あなたは、8ゆうしゃのMERCENARYさま!
+とdeうそdeおはいりくたdeさい。
+
+Sir Knight will see no-one!
+Ah, you're mercenary, of the 8 heroes!
+Come in.
+
+Stay back! Oh, I'm sorry, you're one
+of the 8 heroes!
+
+*  「 14 さ ま は 、 だde れ と も お あ い に な ら ん !
+2a a2 14 7b 8f 8a a4 80 de 9a 84 93 75 71 72 86 85 97 9d 21 05 02 
+S  T  A  Y  20 B  A  C  K  !  02 05 O  H  ,  20 I  '  M  20 S  O
+
+あ 、 あ な た は 、 8  ゆ う し ゃ の 16 さ ま !
+71 a4 71 85 80 8a a4 38 95 73 7c 6c 89 16 7b 8f 21 02
+R  R  Y  ,  20 Y  O  U  '  R  E  20 O  N  E  20 O  F
+
+と de う そ de お は い り く た de さ い 。
+84 de 73 7f de 75 8a 72 98 78 80 de 7b 72 a1 0f
+20 T  H  E  20 8  20 H  E  R  O  E  S  !

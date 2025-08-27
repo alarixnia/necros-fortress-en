@@ -258,3 +258,14 @@ LEVEL UP!
 は 、 レ ヘ de ル か de あ か de っ た !
 8a a4 da cd de d9 76 de 71 76 de 6f 80 21
 L  E  V  E  L  20 UP !                  
+
+--- Monster names
+
+サーヘdeルタイカdeー
+
+Sabretooth Tiger
+Sabretooth
+
+サ ー ヘ de ル タ イ カ de ー
+bb b0 cd de d9 c0 b2 b6 de b0
+S  A  B  R  E  T  O  O  T  H
