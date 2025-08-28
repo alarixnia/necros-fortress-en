@@ -1549,3 +1549,24 @@ Let's sing a (memory) song.
 さ い か い の う た を き か せ て あ け de ま し ょ う 。
 7b 72 76 72 89 73 80 66 77 76 7e 83 71 79 de 8f 7c 6e 73 a1
 l  e  t  '  s  20 s  i  n  g  20 a  20 s  o  n  g  .
+
+--- knight's town, sylvia in back of inn
+
+MERCENARY 「おや、あんたは、はくばていで...
+*「おぼえていてくださったのね。
+さあ、ふたりでたのしくよるをすごしましょう...
+
+Do you remember me? Good...
+Let's enjoy the evening together.~
+
+16 「 お や 、 あ ん た は 、 は く は de て い て de ...
+16 a2 75 94 a4 71 9d 80 8a a4 8a 78 8a de 83 72 83 de eb 02
+D  O  20 Y  O  U  20 R  E  M  E  M  B  E  R  20 M  E  ?  02
+
+*  「 お ほ de え て い て く た de さ っ た の ね 。
+2a a2 75 8e de 74 83 72 83 78 80 de 7b 6f 80 89 88 a1 02
+05 G  O  O  D  .  .  .  20 L  E  T  '  S  20 E  N  J  O
+
+さ あ 、 ふ た り て de た の し く よ る を す こ de し ま し ょ う...
+7b 71 a4 8c 80 98 83 de 80 89 7c 78 96 99 66 7d 7a de 7c 8f 7c 6e 73 eb 0f
+Y  20 T  H  E  20 E  V  E  N  I  N  G  20 T  O  G  E  T  H  E  R  eb ~  0f
