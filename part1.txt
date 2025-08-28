@@ -1410,6 +1410,42 @@ s  i  r  20 k  n  i  g  h  t  20 i  s  20 c  u  r  e  d  !  20 l  o  n  g  20
 14 7b 8f a4 8a de 9d 7b de 72 21 20 38 95 73 7c 6c a4 8a de 9d 7b de 72 21 0f
 l  i  v  e  20 t  h  e  20 8  20 h  e  r  o  e  s  !
 
+*「KNIGHT さまのこdeひdeょうきは、とてもくdeうせdeんとは
+おもえない...
+まさか、やつかdeめさdeめたのてdeは!
+
+Sir Knight's illness is unnatural... has the creature
+awakened?
+
+Sir's illness is not
+natural. Has a monster
+awoken?
+
+*  「 14 さ ま の こ de ひ de ょ う き は 、 と て も く de う せ de ん と は
+2a a2 14 7b 8f 89 7a de 8b de 6e 73 77 8a a4 84 83 93 78 de 73 7e de 9d 84 8a 02
+S  I  R  '  S  20 I  L  L  N  E  S  S  20 I  S  20 N  O  T  02 N  A  T  U R  A
+
+お も え な い ...ま さ か 、 や つ か de め さ de め た の て de は !
+75 93 74 85 72 eb 8f 7b 76 a4 94 82 76 de 92 7b de 92 80 89 83 de 8a 21 02
+L  .  20 H  A  S  20 A  20 M  O  N  S  T  E  R  02 A  W  O  K  E  N  ?  20
+
+*「まんかdeいちにもKNIGHT さまかdeなくなったら、
+いったいとdeうなるのたdeゑう!
+
+If Sir Knight is gone from this world,
+what the hell will happen?
+
+If Sir Knight's gone,
+what next...?
+
+*  「 ま ん か de い ち に も 14 さ ま か de な く な っ た ら 、
+2a a2 8f 9d 76 de 72 81 86 93 14 7b 8f 76 de 85 78 85 6f 80 97 a4 02
+I  F  20 S  I  R  20 K  N  I  G  H  T  '  S  20 G  O  N  E  ,  20 W
+
+い っ た い と de う な る の た de ゑ う !
+72 6f 80 72 84 de 73 85 99 89 80 de 9b 73 21 0f
+H  A  T  20 N  E  X  T  .  .  .  ?
+
 *「KNIGHT さま、はdeんさdeーい!
 こんやはのみまくるそde!
 
@@ -1445,3 +1481,67 @@ W  H  E  N  20 W  I  L  L  20 S  I  R  20 K  N  I  G  H  T  20 R  E
 も と de ら れ る の た de ゑ う...
 93 84 de 97 9a 99 89 80 de 9b 73 eb 0f
 E  T  U  R  N  .  .  .  ?
+
+--- knight's town, north west house
+
+*「ああ、はくしゃくがふっかつする!
+ちのうみじゃ! またもや、きょうふのまちじゃ!
+
+Really needs double-checking:
+
+The demon returns!
+Again, our city suffers!
+
+*「ああ、はくしゃくかdeふっかつする!
+ちのうみしdeゃ! またもや、きょうふのまちしdeゃ!
+
+*  「 あ あ 、 は く し ゃ く か de ふ っ か つ す る !
+2a a2 71 71 a4 8a 78 7c 6c 78 76 de 8c 6f 76 82 7d 99 21 02
+T  H  E  20 D  E  M  O  N  20 R  E  T  U  R  N  S  !  02 A
+
+ち の う み し de ゃ !  20 ま た も や 、 き ょ う ふ の ま ち し de ゃ !
+81 89 73 90 7c de 6c 21 20 8f 80 93 94 a4 77 6e 73 8c 89 8f 81 7c de 6c 21 02 0f
+G  A  I  N  ,  20 O  U  R  20 C  I  T  Y  20 S  U  F  F  E  R  S  !  20 
+
+*「こdeめんなさい。
+おしdeいちゃんは、すこしホdeケているの...
+
+I'm sorry.
+Granddad's (a bit) senile (these days).
+
+*  「 こ de め ん な さ い 。
+2a a2 7a de 92 9d 85 7b 72 a1 02
+I  '  M  20 S  O  R  R  Y  .  02
+
+お し de い ち ゃ ん は 、 す こ し ホ de ケ て い る の...
+75 7c de 72 81 6c 9d 8a a4 7d 7a 7c ce de b9 83 72 99 89 eb 0f
+G  R  A  N  D  A  D  '  S  20 S  E  N  I  L  E  .  .  .
+
+--- knight's town, old man outside
+
+*「KNIGHT さまのほこらは、このまちのきたにある。
+
+Sir Knight's shrine is to the north.
+Up there is a shrine.
+
+*  「 17 さ ま の ほ こ ら は 、 こ の ま ち の き た に あ る 。
+2a a2 17 7b 8f 89 8e 7a 97 8a a4 7a 89 8f 81 89 77 80 86 71 99 a1 0f
+U  P  20 T  H  E  R  E  20 I  S  20 A  20 S  H  R  I  N  E  .
+
+--- knight's town, barkeep
+
+*「みんな、ふあんてde、サケをのみにくるのさ...
+
+Needs double-checking:
+
+(Bad times.) Everyone wants sake...
+
+*  「 み ん な 、 ふ あ ん て de 、 サ ケ を の み に く る の さ...
+2a a2 90 9d 85 a4 8c 71 9d 83 de a4 bb b9 66 89 90 86 78 99 89 7b eb 0f
+E  V  E  R  Y  O  N  E  20 W  A  N  T  S  20 S  A  K  E  .  .  .
+
+--- knight's town, save game guy in bar
+
+さいかいのうたをきかせてあけdeましょう。
+
+Let's sing a memory song.
