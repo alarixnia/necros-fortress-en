@@ -1369,7 +1369,8 @@ s  e  s  s  e  d  !
 Sir Knight has fallen!
 Oh, what will we do?
 
-Oh no, Sir Knight has fallen...
+Oh no, Sir Knight has
+fallen...
 
 *  「 14 さ ま か de た お れ た と な !
 2a a2 14 7b 8f 76 de 80 75 9a 80 84 85 21 02
@@ -1378,6 +1379,22 @@ O  H  20 N  O  .  .  .  20 S  I  R  20 K  N
 あ あ 、 わ し ら は 、 と de う な る の か !
 71 71 a4 9c 7c 97 8a a4 84 de 73 85 99 89 76 21 0f
 I  G  H  T  20 H  A  S  20 F  A  L  L  E  N  !
+
+*「KNIGHT さまかdeしにそうたdeなんて、
+ウソにきまっているわ!
+
+Sir Knight's dying? I don't believe it...
+
+Sir Knight's dying?
+Lies!
+
+*  「 14 さ ま か de し に そ う た de な ん て 、
+2a a2 14 7b 8f 76 de 7c 86 7f 73 80 de 85 9d 83 a4 02
+S  I  R  20 K  N  I  G  H  T  '  S  20 D  Y  I  N  G
+
+ウ ソ に き ま っ て い る わ !
+b3 bf 86 77 8f 6f 83 72 99 9c 21 0f
+?  20 L  I  E  S  !
 
 *「KNIGHT さまのこdeひdeょうきが、なおったそうたde!
 KNIGHT さま、はdeんさdeい! 8ゆうしゃ、ばんさdeい!
@@ -1392,3 +1409,39 @@ s  i  r  20 k  n  i  g  h  t  20 i  s  20 c  u  r  e  d  !  20 l  o  n  g  20
 14 さ ま 、 は de ん さ de い !  20 8  ゆ う し ゃ 、 は de ん さ de い !
 14 7b 8f a4 8a de 9d 7b de 72 21 20 38 95 73 7c 6c a4 8a de 9d 7b de 72 21 0f
 l  i  v  e  20 t  h  e  20 8  20 h  e  r  o  e  s  !
+
+*「KNIGHT さま、はdeんさdeーい!
+こんやはのみまくるそde!
+
+Hooray for Sir Knight! Let's drink!
+Hooray! Let's get drunk!
+
+*  「 14 さ ま 、 は de ん さ de ー い !
+2a a2 14 7b 8f a4 8a de 9d 7b de b0 72 21 02
+H  O  O  R  A  Y  !  20 L  E  T  '  S  20 G
+
+こ ん や は の み ま く る そ de !
+7a 9d 94 8a 89 90 8f 78 99 7f de 21 0f
+E  T  20 D  R  U  N  K  !
+
+*「ああ、KNIGHT さまかdeけdeんきになってよかった!
+
+Ah, joy, Sir Knight is healthy!
+Yay, Sir's healthy!
+
+*  「 あ あ 、 14 さ ま か de け de ん き に な っ て よ か っ た !
+2a a2 71 71 a4 14 7b 8f 76 de 79 de 9d 77 86 85 6f 83 96 76 6f 80 21 0f
+Y  A  Y  ,  20 S  I  R  20 '  S  20 H  E  A  L  T  H  Y  !
+
+*「KNIGHT さまは、いつになったら、このおうさdeに
+もとdeられるのたdeゑう...
+
+When will Sir Knight return (to this palace)...?
+
+*  「 14 さ ま は 、 い つ に な っ た ら 、 こ の お う さ de に
+2a a2 14 7b 8f 8a a4 72 82 86 85 6f 80 97 a4 7a 89 75 73 7b de 86 02
+W  H  E  N  20 W  I  L  L  20 S  I  R  20 K  N  I  G  H  T  20 R  E
+
+も と de ら れ る の た de ゑ う...
+93 84 de 97 9a 99 89 80 de 9b 73 eb 0f
+E  T  U  R  N  .  .  .  ?
