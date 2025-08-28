@@ -35,7 +35,6 @@ int
 main(int argc, char **argv)
 {
 	charset[0x04] = "ー";
-	charset[0x2a] = "*";
 	charset[0xa1] = "。";
 	charset[0xa2] = "「";
 	charset[0xa4] = "、";
@@ -47,6 +46,14 @@ main(int argc, char **argv)
 	charset[0x20] = " ";
 	charset[0x21] = "!";
 	charset[0x22] = "\"";
+	charset[0x27] = "'";
+	charset[0x28] = "(";
+	charset[0x29] = ")";
+	charset[0x2a] = "*";
+	charset[0x2b] = "+";
+	charset[0x2c] = ",";
+	charset[0x2d] = "-";
+	charset[0x2e] = ".";
 	charset[0x3f] = "?";
 	charset[0x66] = "を";
 	charset[0x6c] = "ゃ";

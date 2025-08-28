@@ -1288,3 +1288,107 @@ R  R  Y  ,  20 Y  O  U  '  R  E  20 O  N  E  20 O  F
 と de う そ de お は い り く た de さ い 。
 84 de 73 7f de 75 8a 72 98 78 80 de 7b 72 a1 0f
 20 T  H  E  20 8  20 H  E  R  O  E  S  !
+
+--- knight's town - town crier
+
+*「まちのものたちにつくde!
+KNIGHT さまは、けdeんきそのもの!
+ねもはもないウワサに、たぶらかされてはならん!
+くりかえす! KNIGHT さまは...
+
+Hear me, citizens!
+All is well with Sir Knight!
+Do not be swayed by rumours!
+I repeat...
+
+Hear ye! Don't believe the rumours!
+All is well with Sir Knight!
+
+*  「 ま ち の も の た ち に つ く de !
+2a a2 8f 81 89 93 89 80 81 86 82 78 de 21 02
+H  E  A  R  20 Y  E  !  20 D  O  N  '  T  20
+
+14 さ ま は 、 け de ん き そ の も の !
+14 7b 8f 8a a4 79 de 9d 77 7f 89 93 89 21 02
+B  E  L  I  E  V  E  20 T  H  E  20 R  U  M 
+
+ね も は も な い ウ ワ サ に 、 た ふ de ら か さ れ て は な ら ん !
+88 93 8a 93 85 72 b3 dc bb 86 a4 80 8c de 97 76 7b 9a 83 8a 85 97 9d 21 02
+O  U  R  S  !  02 A  L  L  20 I  S  20 W  E  L  L  20 W  I  T  H  20 S  I
+
+78 98 76 74 7d 21 20 14 7b 8f 8a eb 0f
+R  20 K  N  I  G  H  T  !
+
+--- knight's town - random dialogue about sickness
+
+*「KNIGHT さまかdeこdeひdeょうきというのは、ほんとう
+たdeゑうか...
+
+Could it be true, Sir Knight is ill?
+Is it true...? Sir Knight
+is ill?
+
+*  「 14 さ ま か de こ de ひ de ょ う き と い う の は 、 ほ ん と う
+2a a2 14 7b 8f 76 de 7a de 8b de 6e 73 77 84 72 73 89 8a a4 8e 9d 84 73 02
+I  S  20 I  T  20 T  R  U  E  eb ?  20 S  I  R  20 K  N  I  G  H  T  20 I
+
+た de ゑ う か...
+80 de 9b 73 76 eb 0f
+S  20 I  L  L  ?
+
+*「ああ、KNIGHT さま!
+とdeうか、こdeふdeしdeてdeいてくたdeさい!
+
+Oh, Sir Knight! Please hold on!
+
+*  「 あ あ 、 14 さ ま !
+2a a2 71 71 a4 14 7b 8f 21 02
+O  H  ,  20 S  I  R  20 K  N
+
+と de う か 、 こ de ふ de し de て de い て く た de さ い !
+84 de 73 76 a4 7a de 8c de 7c de 83 de 72 83 78 80 de 7b 72 21 0f
+I  G  H  T  !  20 P  L  E  A  S  E  20 H  O  L  D  20 O  N  !
+
+*「KNIGHT さまは、ただのごびょうきではなく、
+なにものかにのゑわれているとか!
+
+They say Sir Knight's (not just ill, he's)
+possessed!
+
+*  「 14 さ ま は 、 た た de の こ de びょ de う き て de は な く 、
+2a a2 14 7b 8f 8a a4 80 80 de 89 7a de 8b de 6e 73 77 83 de 8a 85 78 a4 02
+t  h  e  y  20 s  a  y  20 s  i  r  20 k  n  i  g  h  t  '  s  20 p  o  s
+
+な に も の か に の ゑ わ れ て い る と か !
+85 86 93 89 76 86 89 9b 9c 9a 83 72 99 84 76 21 0f
+s  e  s  s  e  d  !
+
+*「KNIGHT さまかdeたおれたとな!
+ああ、わしらは、とdeうなるのか!
+
+Sir Knight has fallen!
+Oh, what will we do?
+
+Oh no, Sir Knight has fallen...
+
+*  「 14 さ ま か de た お れ た と な !
+2a a2 14 7b 8f 76 de 80 75 9a 80 84 85 21 02
+O  H  20 N  O  .  .  .  20 S  I  R  20 K  N 
+
+あ あ 、 わ し ら は 、 と de う な る の か !
+71 71 a4 9c 7c 97 8a a4 84 de 73 85 99 89 76 21 0f
+I  G  H  T  20 H  A  S  20 F  A  L  L  E  N  !
+
+*「KNIGHT さまのこdeひdeょうきが、なおったそうたde!
+KNIGHT さま、はdeんさdeい! 8ゆうしゃ、ばんさdeい!
+
+Sir Knight is cured!
+(Long live Sir Knight.) Long live the 8 heores!
+
+*  「 14 さ ま の こ de ひ de ょ う き か de 、 な お っ た そ う た de !
+2a a2 14 7b 8f 89 7a de 8b de 6e 73 77 76 de a4 85 75 6f 80 7f 73 80 de 21 02
+s  i  r  20 k  n  i  g  h  t  20 i  s  20 c  u  r  e  d  !  20 l  o  n  g  20
+
+14 さ ま 、 は de ん さ de い !  20 8  ゆ う し ゃ 、 は de ん さ de い !
+14 7b 8f a4 8a de 9d 7b de 72 21 20 38 95 73 7c 6c a4 8a de 9d 7b de 72 21 0f
+l  i  v  e  20 t  h  e  20 8  20 h  e  r  o  e  s  !
