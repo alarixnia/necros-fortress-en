@@ -71,13 +71,22 @@ Welcome.
 
 -- This sentence appears twice:
 
+どなたがごらんになりますか?
+Who needs items?
+
+ど de な た が de ご de ら ん に な り ま す か ?
+84 de 85 80 76 de 7a de 97 9d 86 85 98 8f 7d 76 3f
+W  H  O  20 N  E  E  D  S  20 I  T  E  M  S  ?
+
+-- This sentence appears twice:
+
 とdeれをおもとめになりますか?
-What do you need?
-Can I help you?
+What (item) do you need?
+Which item?
 
 と de れ を お も と め に な り ま す か ?
 84 de 9a 66 75 93 84 92 86 85 98 8f 7d 76 3f 02
-c  a  n  20 i  20 h  e  l  p  20 y  o  u  ?
+W  h  i  c  h  20 i  t  e  m  ?
 
 -- Medicine Shop
 
