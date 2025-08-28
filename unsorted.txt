@@ -269,3 +269,44 @@ Sabretooth
 サ ー ヘ de ル タ イ カ de ー
 bb b0 cd de d9 c0 b2 b6 de b0
 S  A  B  R  E  T  O  O  T  H
+
+--- Armour & Weapon types
+
+かいそくブーツ
+Speed boots
+SP Boots
+
+か い そ く フ de ー ツ
+76 72 7f 78 cc de b0 c2
+S  P     B  O  O  T  S
+
+ロングボウ
+Longbow
+
+ロ ン ク de ホ de ウ
+db dd b8 de ce de b3
+L  O  N  G  B  O  W
+
+アマゾンアーマー
+Amazon Armour
+Amazonian
+
+ア マ ゾ de ン ア ー マ ー
+b1 cf bf de dd b1 b0 cf b0
+A  M  A  Z  O  N  I  A  N
+
+マージのローブ
+Mage's Robe
+Mage Robe
+
+マ ー ジ de の ロ ー ブ de
+cf b0 bc de 89 db b0 cc de
+M  A  G  E  20 R  O  B  E
+
+こんとんのつえ
+Chaos Staff
+C. Staff
+
+こ ん と ん の つ え
+7a 9d 84 9d 89 82 74
+C  .  S  T  A  F  F

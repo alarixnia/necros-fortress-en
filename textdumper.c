@@ -121,9 +121,11 @@ main(int argc, char **argv)
 	charset[0xbb] = "サ";
 	charset[0xbc] = "シ";
 	charset[0xbe] = "セ";
+	charset[0xbf] = "ソ";
 	charset[0xbd] = "ス";
 	charset[0xc0] = "タ";
 	charset[0xc1] = "チ";
+	charset[0xc2] = "ツ";
 	charset[0xc4] = "ト";
 	charset[0xc5] = "ナ";
 	charset[0xc6] = "ニ";
