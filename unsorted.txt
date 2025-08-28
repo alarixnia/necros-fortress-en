@@ -82,11 +82,11 @@ W  H  O  20 N  E  E  D  S  20 I  T  E  M  S  ?
 
 とdeれをおもとめになりますか?
 What (item) do you need?
-Which item?
+Choose an item.
 
 と de れ を お も と め に な り ま す か ?
 84 de 9a 66 75 93 84 92 86 85 98 8f 7d 76 3f 02
-W  h  i  c  h  20 i  t  e  m  ?
+C  H  O  O  S  E  20 A  N  20 I  T  E  M  .
 
 -- Medicine Shop
 
@@ -140,6 +140,16 @@ legendary adventures.
 
 み た り き い た り し た こ と を う た に し て い ま す 。
 90 80 98 77 72 80 98 7c 80 7a 84 66 73 80 86 7c 83 72 8f 7d a1 02 
+
+Appears twice:
+
+さいかいのうたをきかせてあけdeましょう。
+
+Let's sing a (memory) song.
+
+さ い か い の う た を き か せ て あ け de ま し ょ う 。
+7b 72 76 72 89 73 80 66 77 76 7e 83 71 79 de 8f 7c 6e 73 a1
+l  e  t  '  s  20 s  i  n  g  20 a  20 s  o  n  g  .
 
 --- battle messages
 
