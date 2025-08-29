@@ -9,6 +9,7 @@ NL 0x02 (newline)
 、0xa4
 ィ 0xa8
 [...] 0xeb
+サムライ 0x12 (name of samurai without symbols)
 ナイト 0x14 (name of knight without symbols)
 ー 0x16 (name of mercenary)
 ー 0x17 (name of knight)

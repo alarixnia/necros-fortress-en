@@ -1712,3 +1712,52 @@ T  '  S  20 R  E  A  L  L  Y  20 H  I  M  .
 い っ た い 、 と de う し た ん た de ?
 72 6f 80 72 a4 84 de 73 7c 80 9d 80 de 3f 0f
 H  A  P  P  E  N  E  D  .  .  .  ?  ]
+
+--- cutscene with samurai
+
+「おっ、SAMURAIしdeゃねーか!
+ひさしふdeりたdeな。
+
+Hey, Samurai! (Long time no see).
+
+「 お っ 、 12 し de ゃ ね ー か !
+a2 75 6f a4 12 7c de 6c 88 b0 76 21 02
+H  E  Y  20 S  A  M  U  R  A  I  !  L
+
+8b 7b 7c 8c de 98 80 de 85 a1 04
+O  N  G  20 T  I  M  E  .
+
+「むっ、MERCENARYとdeのてdeこdeさdeるか。
+
+Hmph, mercenary...
+
+a2 91 6f a4 16 84 de 89 83 de 7a de 7b de 99 76 a1 04
+「 む っ 、 16 と de の て de こ de さ de る か 。
+H  M  P  H  ,  20 M  E  R  C  E  N  A  R  Y  .  .
+
+「なにをしてるんたdeい?
+
+What are you doing?
+What's up?
+
+「 な に を し て る ん た de い ?
+a2 85 86 66 7c 83 99 9d 80 de 72 3f
+W  H  A  T  '  S  20 U  P  ?
+
+「うむ、KNIGHTどのに、そうだんごとが
+あったのだが...
+どうやら、ちとムリのようでござるな。
+
+The situation with Knight seems quite impossible.
+
+「 う む 、 14 と de の に 、 そ う た de ん こ de と がde
+a2 73 91 a4 14 84 de 89 86 a4 7f 73 80 de 9d 7a de 84 76 de 02
+T  H  E  20 S  I  T  U  A  T  I  O  N  20 W  I  T  H  20 K  N
+
+あ っ た の た de か de ...
+71 6f 80 89 80 de 76 de eb
+I  G  H  T  20 S  E  E  M
+
+と de う や ら 、 ち と ム リ の よ う て de こ de さ de る な 。
+84 de 73 94 97 a4 81 84 d1 d8 89 96 73 83 de 7a de 7b de 99 85 a1 04
+S  20 Q  U  I  T  E  20 I  M  P  O  S  S  I  B  L  E  .  .  .  20
