@@ -1446,6 +1446,52 @@ I  F  20 S  I  R  20 K  N  I  G  H  T  '  S  20 G  O  N  E  ,  20 W
 72 6f 80 72 84 de 73 85 99 89 80 de 9b 73 21 0f
 H  A  T  20 N  E  X  T  .  .  .  ?
 
+*「KNIGHT さまは、いつになったら、このおうさdeに
+もとdeられるのたdeゑう...
+
+When will Sir Knight be back here (on the throne)...?
+
+*「KNIGHT さまは、いくでやすんでおられます。
+
+Sir Knight is resting.
+Sir Knight's resting.
+
+*  「 14 さ ま は 、 い く て de や す ん て de お ら れ ま す 。
+2a a2 14 7b 8f 8a a4 72 78 83 de 94 7d 9d 83 de 75 97 9a 8f 7d a1 0f
+S  I  R  20 K  N  I  G  H  T  '  S  20 R  E  S  T  I  N  G  .
+
+*  「 14 さ ま は 、 い つ に な っ た ら 、 こ の お う さ de に
+2a a2 14 7b 8f 8a a4 72 82 86 85 6f 80 97 a4 7a 89 75 73 7b de 86 02
+W  H  E  N  20 W  I  L  L  20 S  I  R  20 K  N  I  G  H  T  20 R  E
+
+も と de ら れ る の た de ゑ う...
+93 84 de 97 9a 99 89 80 de 9b 73 eb 0f
+E  T  U  R  N  .  .  .  ?
+
+*「KNIGHT さまのこdeひdeょうきは、とdeんなくすりてdeも
+なおりません。
+これは、KNIGHT さまのまほうてdeしかなおせないのてdeは...
+
+Medicine can't cure Sir
+Knight's illness, only
+magic...
+
+2a a2 14 7b 8f 89 7a de 8b de 6e 73 77 8a a4 84 de 9d 85 78 7d
+M  E  D  I  C  I  N  E  20 C  A  N  '  T  20 C  U  R  E  20 S
+98 83 de 93 02 85 75 98 8f 7e 9d a1 02 7a 9a 8a a4 17 7b 8f 89 
+I  R  20 K  N  I  G  H  T  '  S  20 I  L  L  N  E  S  S  ,  20
+8f 8e 73 83 de 7c 76 85 75 7e 85 72 89 83 de 8a eb 0f
+O  N  L  Y  20 M  A  G  I  C  .  .  .
+
+*「ああ、これがKNIGHT さまとはおもえません。
+
+I can't believe Sir Knight's in this state.
+I can't believe it...
+
+*  「 あ あ 、 こ れ がde 14 さ ま と は お も え ま せ ん 。
+2a a2 71 71 a4 7a 9a 76 de 14 7b 8f 84 8a 75 93 74 8f 7e 9d a1 0f
+I  20 C  A  N  '  T  20 B  E  L  I  E  V  E  20 I  T  .  .  .
+
 *「KNIGHT さま、はdeんさdeーい!
 こんやはのみまくるそde!
 
@@ -1468,19 +1514,6 @@ Yay, Sir's healthy!
 *  「 あ あ 、 14 さ ま か de け de ん き に な っ て よ か っ た !
 2a a2 71 71 a4 14 7b 8f 76 de 79 de 9d 77 86 85 6f 83 96 76 6f 80 21 0f
 Y  A  Y  ,  20 S  I  R  20 '  S  20 H  E  A  L  T  H  Y  !
-
-*「KNIGHT さまは、いつになったら、このおうさdeに
-もとdeられるのたdeゑう...
-
-When will Sir Knight return (to this palace)...?
-
-*  「 14 さ ま は 、 い つ に な っ た ら 、 こ の お う さ de に
-2a a2 14 7b 8f 8a a4 72 82 86 85 6f 80 97 a4 7a 89 75 73 7b de 86 02
-W  H  E  N  20 W  I  L  L  20 S  I  R  20 K  N  I  G  H  T  20 R  E
-
-も と de ら れ る の た de ゑ う...
-93 84 de 97 9a 99 89 80 de 9b 73 eb 0f
-E  T  U  R  N  .  .  .  ?
 
 --- knight's town, north west house
 
@@ -1629,7 +1662,53 @@ V  A  M  P  I  R  E  S  .
 
 Sir Knight is upstairs.
 
-
 2a a2 14 7b 8f 8a a4 73 74 83 de a4 84 7a 86 8c 7c 83 75 97 9a 8f 7d a1 0f
 *  「 14 さ ま は 、 う え て de 、 と こ に ふ し て お ら れ ま す 。
 S  I  R  20 K  N  I  G  H  T  20 I  S  20 U  P  S  T  A  I  R  S  .
+
+--- talking to ill sir knight
+
+MERCENARY 「おい、KNIGHT ! とdeうしたんたde!
+KNIGHT 「フdeツフdeツ...
+ああ、いとしき、わがひめよ!
+こんやもまた、きてくたdeさるか...
+
+Mumble mumble... Oh, my
+beloved princess!
+(Will you visit again tonight?)
+
+MERCENARY 「うえー、とてもあのKNIGHT とは
+おもえねー。
+いったい、とdeうしたんたde?
+
+[I can't believe it's
+really him... what
+happened?]
+
+16 「 お い 、 14 !  20 と de う し た ん た de !
+16 a2 75 72 a4 14 21 20 84 de 73 7c 80 9d 80 de 21 02
+M  U  M  B  L  E  20 M  U  M  B  L  E  .  .  .  20 O 
+
+14 「 フ de ツ フ de ツ...
+14 a2 cc de c2 cc de c2 eb
+H  ,  20 M  Y  20 B  E  L
+
+あ あ 、 い と し き 、 わ か de ひ め よ  !
+71 71 a4 72 84 7c 77 a4 9c 76 de 8b 92 96 21 02
+O  V  E  D  20 P  R  I  N  C  E  S  S  !  02 05
+
+こ ん や も ま た 、 き て く た de さ る か...
+7a 9d 94 93 8f 80 a4 77 83 78 80 de 7b 99 76 eb 02 05
+[  I  20 C  A  N  '  T  20 B  E  L  I  E  V  E  20 I
+
+16 「 う え ー 、 と て も あ の 14 と は
+16 a2 73 74 b0 a4 84 83 93 71 89 14 84 8a 02
+T  '  S  20 R  E  A  L  L  Y  20 H  I  M  .
+
+お も え ね ー 。
+75 93 74 88 b0 a1
+20 W  H  A  T  20
+
+い っ た い 、 と de う し た ん た de ?
+72 6f 80 72 a4 84 de 73 7c 80 9d 80 de 3f 0f
+H  A  P  P  E  N  E  D  .  .  .  ?  ]

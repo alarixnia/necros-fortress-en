@@ -329,3 +329,12 @@ C. Staff
 こ ん と ん の つ え
 7a 9d 84 9d 89 82 74
 C  .  S  T  A  F  F
+
+--- Locked chest
+
+this appears four times in the binary!!!
+
+カキdeかdeかかっている。
+
+b6 b7 de 76 de 76 76 6f 83 72 99 a1 0f
+I  T  '  S  20 L  O  C  K  E  D  .
