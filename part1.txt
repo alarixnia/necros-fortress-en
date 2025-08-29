@@ -246,7 +246,7 @@ gambled the reward away.
 
 This is the village of Rioau, in the Kingdom of Tankirie.
 
-In the village of Riaou,
+In the village of Rioau,
 in Tankirie...
 he was now penniless.
 
@@ -1192,7 +1192,7 @@ KNIGHT, さまのめいれいで、リオアウの
 
 (I'm Kishi Roy).
 I've come to investigate the trouble in
-Riaou (on behalf of Sir Knight).
+Rioau (on behalf of Sir Knight).
 
 どうやら、たいへんなじたいのようですね。
 はやくKNIGHT, さまにほうこくしなければ...
@@ -1202,7 +1202,7 @@ We should inform Sir Knight at once.
 
 Greetings.
 We must bring news of the
-trouble in Riaou to Sir
+trouble in Rioau to Sir
 Knight at once.
 
 *  「 わ た し は 、 き し ロ イ 。
@@ -1243,7 +1243,7 @@ he appears after defeating the sabretooth tiger.
 *「たいへんでしたねえ。
 こっちがリオアウのむらへのちかみちなんですよ。
 
-There's a new shortcut to Riaou now.
+There's a new shortcut to Rioau now.
 
 *  「 た い へ ん て de し た ね え 。
 2a a2 80 72 8d 9d 83 de 7c 80 88 74 a1 02
@@ -1570,3 +1570,66 @@ D  O  20 Y  O  U  20 R  E  M  E  M  B  E  R  20 M  E  ?  02
 さ あ 、 ふ た り て de た の し く よ る を す こ de し ま し ょ う...
 7b 71 a4 8c 80 98 83 de 80 89 7c 78 96 99 66 7d 7a de 7c 8f 7c 6e 73 eb 0f
 Y  20 T  H  E  20 E  V  E  N  I  N  G  20 T  O  G  E  T  H  E  R  eb ~  0f
+
+
+--- knight's castle, knights
+
+*「リオアウのしdeけんは、きいています。
+しかし、KNIGHT さまかdeあれてdeは...
+
+I've heard news from Rioau, but
+if Sir Knight were to be...
+
+Rioau is in trouble, but
+(if) Sir Knight (were to be)...
+
+*  「 リ オ ア ウ の し de け ん は 、 き い て い ま す 。
+2a a2 d8 b5 b1 b3 89 7c de 79 9d 8a a4 77 72 83 72 8f 7d a1 02
+R  I  O  A  U  20 I  S  20 I  N  20 T  R  O  U  B  L  E  ,  20
+
+し か し 、 14 さ ま か de あ れ て de は...
+7c 76 7c a4 14 7b 8f 76 de 71 9a 83 de 8a eb 0f
+B  U  T  20 S  I  R  20 K  N  I  G  H  T  eb
+
+*「このとこゑ、8ゆうしゃのかたかde、つつdeけて
+このしゑにみえられますなあ。
+
+One by one, the 8 heroes
+appear here...
+
+*  「 こ の と こ ゑ 、 8  ゆ う し ゃ の か た か de 、 つ つ de け て
+2a a2 7a 89 84 7a 9b a4 38 95 73 7c 6c 89 76 80 76 de a4 82 82 de 79 83 02
+O  N  E  20 B  Y  20 O  N  E  ,  20 T  H  E  20 8  20 H  E  R  O  E  S  20
+
+こ の し ゑ に み え ら れ ま す な あ 。
+7a 89 7c 9b 86 90 74 97 9a 8f 7d 85 71 a1 0f
+A  P  P  E  A  R  20 H  E  R  E  .  .  .
+
+*「リオアウには、こたdeいのちかほdeしつかdeあるとか。
+そこには、かつてハdeンハdeイヤをふうしdeたアイテムも
+かくされているはすde。
+
+It's said that Rioau hides
+a sacred artefact harmful
+to vampires.
+
+*  「 リ オ ア ウ に は 、 こ た de い の ち か ほ de し つ か de あ る と か 。
+2a a2 d8 b5 b1 b3 86 8a a4 7a 80 de 72 89 81 76 8e de 7c 82 76 de 71 99 84 76 a1 02
+I  T  '  S  20 S  A  I  D  20 T  H  A  T  20 R  I  O  A  U  20 H  I  D  E  S  20 A
+
+そ こ に は 、 か つ て ハ de ン ハ de イ ヤ を ふ う し de た ア イ テ ム も
+7f 7a 86 8a a4 76 82 83 ca de dd ca df b2 d4 66 8c 73 7c de 80 b1 b2 c3 d1 93 02
+S  A  C  R  E  D  20 A  R  T  E  F  A  C  T  20 H  A  R  M  F  U  L  20 T  O  20
+
+か く さ れ て い る は す de 。
+V  A  M  P  I  R  E  S  .
+76 78 7b 9a 83 72 99 8a 7d de a1 0f
+
+*「KNIGHT さまは、うえてde、とこにふしておられます。
+
+Sir Knight is upstairs.
+
+
+2a a2 14 7b 8f 8a a4 73 74 83 de a4 84 7a 86 8c 7c 83 75 97 9a 8f 7d a1 0f
+*  「 14 さ ま は 、 う え て de 、 と こ に ふ し て お ら れ ま す 。
+S  I  R  20 K  N  I  G  H  T  20 I  S  20 U  P  S  T  A  I  R  S  .

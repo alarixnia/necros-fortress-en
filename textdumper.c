@@ -126,6 +126,7 @@ main(int argc, char **argv)
 	charset[0xc0] = "タ";
 	charset[0xc1] = "チ";
 	charset[0xc2] = "ツ";
+	charset[0xc3] = "テ";
 	charset[0xc4] = "ト";
 	charset[0xc5] = "ナ";
 	charset[0xc6] = "ニ";
@@ -138,6 +139,7 @@ main(int argc, char **argv)
 	charset[0xcd] = "ヘ";
 	charset[0xce] = "ホ";
 	charset[0xcf] = "マ";
+	charset[0xd1] = "ム";
 	charset[0xd2] = "モ";
 	charset[0xd3] = "リ";
 	charset[0xd4] = "ヤ";
