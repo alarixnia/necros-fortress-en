@@ -1,3 +1,20 @@
+--- inventory menu
+
+み る (Look)
+90 99 02 20
+S  E  E
+
+つ か う
+82 76 73 02 20
+U  S  E
+
+す て る (Discard)
+7d 83 99
+D  E  L 
+
+
+---
+
 「あいかわらず、おんなにめがないよう
 ぢゃのう。
 
@@ -6,10 +23,6 @@ As usual, don't stare at women. OK?
 「おおきなおせわだ!
 
 Hey you, big guy!
-
-「ワシをさがしていたんぢゃゑう?
-
-Were you looking for me?
 
 「まあ、そうおこるな。
 
@@ -107,6 +120,13 @@ Sacred Salts (SALTS)
 
 せ い な る し お
 7e 72 85 99 7c 75
+
+まほうのふろしき
+Magic Cloth (MAGCLOTH)
+
+ま ほ う の ふ ろ し き
+8f 8e 73 89 8c 9b 7c 77
+M  A  G  C  L  O  T  H
 
 -- sleeping at the inn
 

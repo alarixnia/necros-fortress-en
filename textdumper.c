@@ -103,7 +103,7 @@ main(int argc, char **argv)
 	charset[0x98] = "り";
 	charset[0x99] = "る";
 	charset[0x9a] = "れ";
-	charset[0x9b] = "ゑ";
+	charset[0x9b] = "ろ";
 	charset[0x9c] = "わ";
 	charset[0x9d] = "ん";
 	charset[0xae] = "ョ";

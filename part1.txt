@@ -805,7 +805,7 @@ cf d8 dd a2 b8 bd b8 bd a4 8d 9d 85 cb c4 88 b0 a1 02
 
 なんでい、ひとがせっかく
 マジにきめてんのに。
-とこゑで、なにしてるんだい?
+ところで、なにしてるんだい?
 
 I feel so scrutinized.
 What are you doing here?
@@ -819,7 +819,7 @@ scrutinized?)
 マ ジde に き め て ん の に 。
 cf bc de 86 77 92 83 9d 89 86 a1 02
 
-と こ ゑ でde 、 な に し て る ん だい?
+と こ ろ でde 、 な に し て る ん だい?
 84 7a 9b 83 de a4 85 86 7c 83 99 9d 80 de
 
 マリン「うん...じつはね・・
@@ -935,7 +935,7 @@ whathisname of the 8 heroes is often here too!
 after defeating the tiger and speaking to sylvia:
 
 *「きのうまてdeとまってた、あのしょうにんは
-とdeうしたんだゑう?
+とdeうしたんだろう?
 
 Where did that lady staying at the inn go?
 Where did that lady at the inn go?
@@ -944,7 +944,7 @@ Where did that lady at the inn go?
 2a a2 77 89 73 8f 83 de 84 8f 6f 83 80 a4 71 89 7c 6e 73 86 9d 8a 02
 w  h  e  r  e  20 d  i  d  20 t  h  a  t  20 l  a  d  y  20 a  t  20
 
-と de う し た ん た de ゑ う ?
+と de う し た ん た de ろ う ?
 84 de 73 7c 80 9d 80 de 9b 73 3f 0f
 t  h  e  20 i  n  n  20 g  o  ?
 
@@ -1322,7 +1322,7 @@ R  20 K  N  I  G  H  T  !
 --- knight's town - random dialogue about sickness
 
 *「KNIGHT さまかdeこdeひdeょうきというのは、ほんとう
-たdeゑうか...
+たdeろうか...
 
 Could it be true, Sir Knight is ill?
 Is it true...? Sir Knight
@@ -1332,7 +1332,7 @@ is ill?
 2a a2 14 7b 8f 76 de 7a de 8b de 6e 73 77 84 72 73 89 8a a4 8e 9d 84 73 02
 I  S  20 I  T  20 T  R  U  E  eb ?  20 S  I  R  20 K  N  I  G  H  T  20 I
 
-た de ゑ う か...
+た de ろ う か...
 80 de 9b 73 76 eb 0f
 S  20 I  L  L  ?
 
@@ -1350,7 +1350,7 @@ O  H  ,  20 S  I  R  20 K  N
 I  G  H  T  !  20 P  L  E  A  S  E  20 H  O  L  D  20 O  N  !
 
 *「KNIGHT さまは、ただのごびょうきではなく、
-なにものかにのゑわれているとか!
+なにものかにのろわれているとか!
 
 They say Sir Knight's (not just ill, he's)
 possessed!
@@ -1359,7 +1359,7 @@ possessed!
 2a a2 14 7b 8f 8a a4 80 80 de 89 7a de 8b de 6e 73 77 83 de 8a 85 78 a4 02
 t  h  e  y  20 s  a  y  20 s  i  r  20 k  n  i  g  h  t  '  s  20 p  o  s
 
-な に も の か に の ゑ わ れ て い る と か !
+な に も の か に の ろ わ れ て い る と か !
 85 86 93 89 76 86 89 9b 9c 9a 83 72 99 84 76 21 0f
 s  e  s  s  e  d  !
 
@@ -1430,7 +1430,7 @@ S  I  R  '  S  20 I  L  L  N  E  S  S  20 I  S  20 N  O  T  02 N  A  T  U R  A
 L  .  20 H  A  S  20 A  20 M  O  N  S  T  E  R  02 A  W  O  K  E  N  ?  20
 
 *「まんかdeいちにもKNIGHT さまかdeなくなったら、
-いったいとdeうなるのたdeゑう!
+いったいとdeうなるのたdeろう!
 
 If Sir Knight is gone from this world,
 what the hell will happen?
@@ -1442,12 +1442,12 @@ what next...?
 2a a2 8f 9d 76 de 72 81 86 93 14 7b 8f 76 de 85 78 85 6f 80 97 a4 02
 I  F  20 S  I  R  20 K  N  I  G  H  T  '  S  20 G  O  N  E  ,  20 W
 
-い っ た い と de う な る の た de ゑ う !
+い っ た い と de う な る の た de ろ う !
 72 6f 80 72 84 de 73 85 99 89 80 de 9b 73 21 0f
 H  A  T  20 N  E  X  T  .  .  .  ?
 
 *「KNIGHT さまは、いつになったら、このおうさdeに
-もとdeられるのたdeゑう...
+もとdeられるのたdeろう...
 
 When will Sir Knight be back here (on the throne)...?
 
@@ -1464,7 +1464,7 @@ S  I  R  20 K  N  I  G  H  T  '  S  20 R  E  S  T  I  N  G  .
 2a a2 14 7b 8f 8a a4 72 82 86 85 6f 80 97 a4 7a 89 75 73 7b de 86 02
 W  H  E  N  20 W  I  L  L  20 S  I  R  20 K  N  I  G  H  T  20 R  E
 
-も と de ら れ る の た de ゑ う...
+も と de ら れ る の た de ろ う...
 93 84 de 97 9a 99 89 80 de 9b 73 eb 0f
 E  T  U  R  N  .  .  .  ?
 
@@ -1624,17 +1624,17 @@ R  I  O  A  U  20 I  S  20 I  N  20 T  R  O  U  B  L  E  ,  20
 7c 76 7c a4 14 7b 8f 76 de 71 9a 83 de 8a eb 0f
 B  U  T  20 S  I  R  20 K  N  I  G  H  T  eb
 
-*「このとこゑ、8ゆうしゃのかたかde、つつdeけて
-このしゑにみえられますなあ。
+*「このところ、8ゆうしゃのかたかde、つつdeけて
+このしろにみえられますなあ。
 
 One by one, the 8 heroes
 appear here...
 
-*  「 こ の と こ ゑ 、 8  ゆ う し ゃ の か た か de 、 つ つ de け て
+*  「 こ の と こ ろ 、 8  ゆ う し ゃ の か た か de 、 つ つ de け て
 2a a2 7a 89 84 7a 9b a4 38 95 73 7c 6c 89 76 80 76 de a4 82 82 de 79 83 02
 O  N  E  20 B  Y  20 O  N  E  ,  20 T  H  E  20 8  20 H  E  R  O  E  S  20
 
-こ の し ゑ に み え ら れ ま す な あ 。
+こ の し ろ に み え ら れ ま す な あ 。
 7a 89 7c 9b 86 90 74 97 9a 8f 7d 85 71 a1 0f
 A  P  P  E  A  R  20 H  E  R  E  .  .  .
 
@@ -1803,7 +1803,7 @@ MERCENARY「あっ、マリンじゃないか!
 
 マリン「しんぱいで、ついてきちゃったのよ。
 
-MERCENARY「やれやれ、まかせとけといったゑう。
+MERCENARY「やれやれ、まかせとけといったろう。
 はやく、リオアウにかえるんだ。
 
 マリン「それより、あのシルウdeィアっていう
@@ -1839,7 +1839,7 @@ up!
 cf d8 dd a2 7c 9d 8a df 72 83 de a4 82 72 83 77 81 6c 6f 80 89 96 a1 02
 O  R  R  I  E  D  ,  20 S  O  20 I  20 F  O  L  L  O  W  E  D  20 Y  O
 
-16 「 や れ や れ 、 ま か せ と け と い っ た ゑ う 。
+16 「 や れ や れ 、 ま か せ と け と い っ た ろ う 。
 16 a2 94 9a 94 9a a4 8f 76 7e 84 79 84 72 6f 80 9b 73 a1 02
 U  .  20 I  20 K  N  O  W  20 Y  O  U  20 S  A  I  D  20 T
 
