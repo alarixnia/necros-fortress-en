@@ -128,6 +128,13 @@ Magic Cloth (MAGCLOTH)
 8f 8e 73 89 8c 9b 7c 77
 M  A  G  C  L  O  T  H
 
+-- misc. items
+
+ローフdf
+ROPE
+
+db b0 cc df
+
 -- sleeping at the inn
 
 おはようごさいます。
@@ -342,6 +349,12 @@ LEVEL UP!
 L  E  V  E  L  20 UP !                  
 
 ハdfーティは、にけdeたdeした。
+
+The party fled.
+
+ハ df ー テ ィ は 、 に け de た de し た 。
+ca df b0 c3 a8 8a a4 86 79 de 80 de 7c 80 a1
+T  H  E  20 P  A  R  T  Y  20 F  L  E  D  .
 
 --- Monster names
 

@@ -150,6 +150,7 @@ appears really often, mercenary:
 か れ ら は ,  ゆ う が ん な た た か い の す え 、
 76 9a 97 8a a4 95 73 76 9d 85 80 80 76 72 89 7d 74 a4
 a  f  t  e  r     a     f  i  e  r  c  e     b  a  t 
+
 つ い に ネ ク ロ ス を お い つ め た…
 82 72 86 c8 b8 db bd 66 75 72 82 92 80
 t  l  e  1  2  3  4  5  6  7  8  9  0  1  2
@@ -157,9 +158,82 @@ t  l  e  1  2  3  4  5  6  7  8  9  0  1  2
 After a fierece battle
 they (finally) cornered Necros
 
-Fighting fiercely, they cornered Necros
-
 かれらは, ゆうがんなたたかいのすえ、ついにネクロスをおいつめた…
+
+--- necros fight
+
+「ネクロス! もうにけdeられないそde!
+(Necros!) You can't escape!
+
+「 ネ ク ロ ス !  20 も う に け de ら れ な い そ de !
+a2 c8 b8 db bd 21 20 93 73 86 79 de 97 9a 85 72 7f de 21 04
+Y  O  U  20 C  A  N  '  T  20 E  S  C  A  P  E  !  20 20 04
+
+「なにを、こしゃくな!
+Hah, fools.
+
+「 な に を 、 こ し ゃ く な !
+a2 85 86 66 a4 7a 7c 6c 78 85 21 04
+H  E  H  ,  20 F  O  O  L  S  !
+
+ネクロスはファイヤーのしdeゅもんをとなえた!
+Necros chanted the fire spell!
+Necros used fire spell
+
+ネ ク ロ ス は フ ァ イ ヤ ー の じde ゅ も ん を と な え た !
+c8 b8 db bd 8a cc a7 b2 d4 b0 89 7c de 6d 93 9d 66 84 85 74 80 21 04
+N  E  C  R  O  S  20 U  S  E  D  20 F  I  R  E  20 S  P  E  L  L
+
+ネクロスはてdeんけdeきをはっしゃした!
+Necros used lightning!
+
+ネ ク ロ ス は て de ん け de き を は っ し ゃ し た !
+c8 b8 db bd 8a 83 de 9d 79 de 77 66 8a 6f 7c 6c 7c 80 21 02
+N  E  C  R  O  S  20 U  S  E  D  20 E  L  E  C  .  !  20 02
+
+KNIGHTのこうけdeき!
+Knight attacks!
+
+14 89 7a 73 79 de 77 21
+A  T  T  A  C  K  !  20
+
+SAMURAIのこうけdeき!
+Samurai attacks!
+
+12 89 7a 73 79 de 77 21 04
+A  T  T  A  C  K  !  20
+
+ネクロスは15のタdeモーシde!
+Necros hit 15!
+Necros damaged!
+
+ネ ク ロ ス は 1  5  の タ de モ ー シ de !
+c8 b8 db bd 8a 31 35 89 c0 de d2 b0 bc de 21 04
+N  E  C  R  O  S  20 H  I  T  20 15 !  20 20
+N  E  C  R  O  S  20 D  A  M  A  G  E  D  !
+
+ネクロスは10のタdeモーシde!
+Necros hit 10!
+Necros damaged!
+
+ネ ク ロ ス は 1  0  の タ de モ ー シ de !
+c8 b8 db bd 8a 31 30 89 c0 de d2 b0 bc de 21 04
+N  E  C  R  O  S  20 H  I  T  20 1  5  !  20
+N  E  C  R  O  S  20 D  A  M  A  G  E  D  !
+
+MERCENARYは20のタdeモーシde!
+Mercenary hit 20!
+
+16 は 2  0  の タ de モ ー シ de !
+16 8a 32 30 89 c0 de d2 b0 bc de 21 04
+M  E  R  C  .  20 H  I  T  !  20 20
+
+KNIGHTは15のタdeモーシde!
+Knight hit 15!
+
+16 は 1  5  の タ de モ ー シ de !
+17 8a 31 35 89 c0 de d2 b0 bc de 21 04
+K  N  I  G  H  T  20 H  I  T  !  20
 
 --- necros dying
 
