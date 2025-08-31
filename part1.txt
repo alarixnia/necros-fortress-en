@@ -1880,3 +1880,100 @@ H  U  R  R  Y  20 B  A  C  K  20 T  O  20 R  I  O  A  U
 マ リ ン 「 わ か っ た わ よ お 。
 cf d8 dd a2 9c 76 6f 80 9c 96 75 a1 0f
 ?  20 F  I  N  E  .  .  .
+
+--- man at knight's town dungeon
+
+*「このほこらには、かいふdeつかdeたくさん
+すんてdeいます。 おきをつけて。
+
+There's (many) monsters here.
+(Take care.)
+
+*  「 こ の ほ こ ら に は 、 か い ふ de つ か de た く さ ん
+2a a2 7a 89 8e 7a 97 86 8a a4 76 72 8c de 82 76 de 80 78 7b 9d 02
+T  H  E  R  E  '  S  20 M  O  N  S  T  E  R  S  20 H  E  R  E  .
+
+す ん て de い ま す 。 お き を つ け て 。
+7d 9d 83 de 72 8f 7d a1 75 77 66 82 79 83 a1 0f
+20 T  A  K  E  20 C  A  R  E  .
+
+--- thief in knight's town dungeon
+
+MERCENARY「あっ、おまえは、シーフ!
+シーフ「ひさしぶりだな! まえにおまえとコンヒdeを
+くんだのは、いつたdeったっけ?
+
+[It's thief!]
+Hey Mercenary, how long's it been?
+
+8ゆうしゃのひとりとは、エラくなったな。
+
+Well, one of the 8 heroes has become quite a big shot!
+You've become quite a big shot!
+
+MERCENARY「ところてde、こんなところで
+なにしてるんたde?
+
+What are you [Thief] doing here?
+What am I doing here, eh?
+
+シーフ「しごとさ。
+ぬすみにはいったんだが、
+かいぶつだらけで、そろそろたいさんする
+ところだ。
+
+Work, you see.
+I've been trying to steal here,
+but there's too many monsters.
+
+そうたde、いいものをやろう。
+いとdeのそこにてdeもなにかみつけたら、
+これをつかってみな!
+
+16 a2 71 6f a4 75 8f 74 8a a4 bc b0 cc 21 02 05
+16 「 あ っ 、 お ま え は 、 シ ー フ !
+[  I  T  '  S  20 T  H  I  E  F  !  ]  02 05 H
+
+bc b0 cc a2 8b 7b 7c 8c de 98 80 de 85 21 20 8f 74 86 75 8f 74 84 ba dd cb de 66 02
+シ ー フ 「 ひ さ し ふ de り た de な !  20 ま え に お ま え と コ ン ヒ de を
+E  Y  20 M  E  R  C  E  N  A  R  Y  ,  20 H  O  W  20 L  O  N  G  '  S  20 I  T  20
+
+く ん た de の は 、 い つ た de っ た っ け ?
+78 9d 80 de 89 8a a4 72 82 80 de 6f 80 6f 79 3f 02
+B  E  E  N  ?  !  02 Y  O  U  '  V  E  20 B  E  C
+
+8  ゆ う し ゃ の ひ と り と は 、 エ ラ く な っ た な 。
+38 95 73 7c 6c 89 8b 84 98 84 8a a4 b4 d7 78 85 6f 80 85 a1 02 05
+O  M  E  20 Q  U  I  T  E  20 A  20 B  I  G  20 S  H  O  T  !  02
+
+16 「 と こ ろ て de 、 こ ん な と こ ろ でde
+16 a2 84 7a 9b 83 de a4 7a 9d 85 84 7a 9b 83 de 02
+05 W  H  A  T  20 A  M  20 I  20 D  O  I  N  G  20
+
+な に し て る ん た de ?
+85 86 7c 83 99 9d 80 de 3f 02 05
+H  E  R  E  ,  20 E  H  ?  02 05
+
+シ ー フ 「 し こ de と さ 。 ぬ す み に は い っ た ん た de か de 、
+bc b0 cc a2 7c 7a de 84 7b a1 87 7d 90 86 8a 72 6f 80 9d 80 de 76 de a4 02
+W  O  R  K  ,  20 Y  O  U  20 S  E  E  .  02 I  '  V  E  20 B  E  E  N  20
+
+か い ふ de つ た de ら け て de 、 そ ろ そ ろ た い さ ん す る
+76 72 8c de 82 80 de 97 79 83 de a4 7f 9b 7f 9b 80 72 7b 9d 7d 99 02
+02 T  R  Y  I  N  G  20 T  O  20 S  T  E  A  L  ,  20 B  U  T  20 T
+
+と こ ろ た de 。
+84 7a 9b 80 de a1 02 05
+H  E  R  E  '  S  20 T
+
+そ う た de 、 い い も の を や ろ う 。
+7f 73 80 de a4 72 72 93 89 66 94 9b 73 a1 02
+O  O  20 M  A  N  Y  20 M  O  N  S  T  E  R
+
+い と de の そ こ に て de も な に か み つ け た ら 、
+72 84 de 89 7f 7a 86 83 de 93 85 86 76 90 82 79 80 97 a4 02
+S  .  02 H  E  R  E  ,  20 T  A  K  E  20 T  H  I  S  .  02
+
+こ れ を つ か っ て み な !
+7a 9a 66 82 76 6f 83 90 85 21 0f
+20 S  E  E  20 Y  A  !  20 20
