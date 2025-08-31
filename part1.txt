@@ -164,10 +164,12 @@ they (finally) cornered Necros
 
 「ネクロス! もうにけdeられないそde!
 (Necros!) You can't escape!
+You're cornered!
 
 「 ネ ク ロ ス !  20 も う に け de ら れ な い そ de !
 a2 c8 b8 db bd 21 20 93 73 86 79 de 97 9a 85 72 7f de 21 04
 Y  O  U  20 C  A  N  '  T  20 E  S  C  A  P  E  !  20 20 04
+Y  O  U  '  R  E  20 C  O  R  N  E  R  E  D  !  20 20 20 04
 
 「なにを、こしゃくな!
 Hah, fools.
