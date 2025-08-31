@@ -1532,15 +1532,15 @@ E  T  U  R  N  .  .  .  ?
 これは、KNIGHT さまのまほうてdeしかなおせないのてdeは...
 
 Medicine can't cure Sir
-Knight's illness, only
-magic...
+Knight('s illness), only Mage's
+spells...
 
 2a a2 14 7b 8f 89 7a de 8b de 6e 73 77 8a a4 84 de 9d 85 78 7d
 M  E  D  I  C  I  N  E  20 C  A  N  '  T  20 C  U  R  E  20 S
 98 83 de 93 02 85 75 98 8f 7e 9d a1 02 7a 9a 8a a4 17 7b 8f 89 
-I  R  20 K  N  I  G  H  T  '  S  20 I  L  L  N  E  S  S  ,  20
+I  R  20 K  N  I  G  H  T  ,  20 O  N  L  Y  20 M  A  G  E  '
 8f 8e 73 83 de 7c 76 85 75 7e 85 72 89 83 de 8a eb 0f
-O  N  L  Y  20 M  A  G  I  C  .  .  .
+S  02 S  P  E  L  L  S  .  .  .  20
 
 *「ああ、これがKNIGHT さまとはおもえません。
 

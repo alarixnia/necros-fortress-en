@@ -162,6 +162,14 @@ ROPE
 
 db b0 cc df
 
+マージのてがみ
+MAGE'S LETTER
+MAGE NOTE
+
+マ ー ジ de の て が de み
+cf b0 bc de 89 83 76 de 90
+M  A  G  E  20 N  O  T  E
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -504,3 +512,11 @@ Found!
 を て に い れ た !
 66 83 86 72 9a 80 21
    F  O  U  N  D  !
+
+をみつけた。
+
+Found.
+
+を み つ け た 。
+66 90 82 79 80 a1
+20 F  O  U  N  D
