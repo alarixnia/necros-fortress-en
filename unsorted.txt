@@ -1,3 +1,30 @@
+--- INGAME MENU
+
+0007c5d0
+
+はなす
+TALK
+とくいわざ
+SKILL (POWR)
+もちもの
+ITEM
+つよさ
+STRENGTH 
+しらべる
+LOOK
+
+は な す
+8a 85 7d
+
+と く い わ ざ de
+84 78 72 9c 7b de
+
+も ち も の
+93 81 93 89 02 20?
+
+つ よ さ
+82 96 7b 02 20
+
 --- inventory menu
 
 み る (Look)
