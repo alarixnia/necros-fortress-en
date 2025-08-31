@@ -2047,9 +2047,9 @@ S  E  E  20 Y  A  !  20 20
 かdeんばれよ。
 
 Well done.
-Meet me in Hakubatei.
+Meet me in Hakubatei (Roadside Inn).
 Good luck.
-Signed, Mage
+Toodles, Mage
 
 MERCENARY「うう、MAGEのヤツめ!
 [That bastard!]
