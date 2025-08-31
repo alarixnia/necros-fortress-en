@@ -35,16 +35,10 @@ int
 main(int argc, char **argv)
 {
 	charset[0x04] = "ー";
-	charset[0xa1] = "。";
-	charset[0xa2] = "「";
-	charset[0xa4] = "、";
-	charset[0xa7] = "ァ";
-	charset[0xa8] = "ィ";
-	charset[0xeb] = "...";
 	charset[0x12] = "SAMURAI";
 	charset[0x14] = "KNIGHT";
 	charset[0x16] = "MERCENARY";
-	charset[0x17] = "KNIGHT";
+	charset[0x17] = "MAGE";
 	charset[0x20] = " ";
 	charset[0x21] = "!";
 	charset[0x22] = "\"";
@@ -107,6 +101,12 @@ main(int argc, char **argv)
 	charset[0x9b] = "ろ";
 	charset[0x9c] = "わ";
 	charset[0x9d] = "ん";
+	charset[0xa1] = "。";
+	charset[0xa2] = "「";
+	charset[0xa4] = "、";
+	charset[0xa7] = "ァ";
+	charset[0xa8] = "ィ";
+	charset[0xab] = "ォ";
 	charset[0xae] = "ョ";
 	charset[0xaf] = "ッ";
 	charset[0xb0] = "ー";
@@ -155,6 +155,7 @@ main(int argc, char **argv)
 	charset[0xdd] = "ン";
 	charset[0xde] = "゙";
 	charset[0xdf] = "゚";
+	charset[0xeb] = "...";
 	charset[0xec] = "~";
 
 	size_t len;

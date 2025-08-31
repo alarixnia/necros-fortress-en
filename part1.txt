@@ -240,12 +240,12 @@ Mercenary hit 20!
 16 8a 32 30 89 c0 de d2 b0 bc de 21 04
 M  E  R  C  .  20 H  I  T  !  20 20
 
-KNIGHTは15のタdeモーシde!
-Knight hit 15!
+MAGEは15のタdeモーシde!
+Mage hit 15!
 
 16 は 1  5  の タ de モ ー シ de !
 17 8a 31 35 89 c0 de d2 b0 bc de 21 04
-K  N  I  G  H  T  20 H  I  T  !  20
+M  A  G  E  20 H  I  T  !  20
 
 --- necros dying
 
@@ -1611,14 +1611,16 @@ G  R  A  N  D  A  D  '  S  20 S  E  N  I  L  E  .  .  .
 
 --- knight's town, old man outside
 
-*「KNIGHT さまのほこらは、このまちのきたにある。
+*「MAGE さまのほこらは、このまちのきたにある。
 
-Sir Knight's shrine is to the north.
+Mage's shrine is to the north.
 Up there is a shrine.
+Mage's shrine is north
 
 *  「 17 さ ま の ほ こ ら は 、 こ の ま ち の き た に あ る 。
 2a a2 17 7b 8f 89 8e 7a 97 8a a4 7a 89 8f 81 89 77 80 86 71 99 a1 0f
 U  P  20 T  H  E  R  E  20 I  S  20 A  20 S  H  R  I  N  E  .
+M  A  G  E  '  S  20 S  H  R  I  N  E  20 I  S  20 N  O  R  T  H
 
 --- knight's town, barkeep
 
@@ -1940,7 +1942,7 @@ H  U  R  R  Y  20 B  A  C  K  20 T  O  20 R  I  O  A  U
 cf d8 dd a2 9c 76 6f 80 9c 96 75 a1 0f
 ?  20 F  I  N  E  .  .  .
 
---- man at knight's town dungeon
+--- man at mage's dungeon
 
 *「このほこらには、かいふdeつかdeたくさん
 すんてdeいます。 おきをつけて。
@@ -1956,7 +1958,7 @@ T  H  E  R  E  '  S  20 M  O  N  S  T  E  R  S  20 H  E  R  E  .
 7d 9d 83 de 72 8f 7d a1 75 77 66 82 79 83 a1 0f
 20 T  A  K  E  20 C  A  R  E  .
 
---- thief in knight's town dungeon
+--- thief in mage's dungeon
 
 MERCENARY「あっ、おまえは、シーフ!
 シーフ「ひさしぶりだな! まえにおまえとコンヒdeを
@@ -1995,44 +1997,80 @@ but there's too many monsters.
 
 bc b0 cc a2 8b 7b 7c 8c de 98 80 de 85 21 20 8f 74 86 75 8f 74 84 ba dd cb de 66 02
 シ ー フ 「 ひ さ し ふ de り た de な !  20 ま え に お ま え と コ ン ヒ de を
-E  Y  20 M  E  R  C  E  N  A  R  Y  ,  20 H  O  W  20 L  O  N  G  '  S  20 I  T  20
+E  Y  20 M  E  R  C  E  N  A  R  Y  ,  20 L  O  N  G  20 T  I  M  E  !  02 Y  O
 
 く ん た de の は 、 い つ た de っ た っ け ?
 78 9d 80 de 89 8a a4 72 82 80 de 6f 80 6f 79 3f 02
-B  E  E  N  ?  !  02 Y  O  U  '  V  E  20 B  E  C
+U  '  V  E  20 B  E  C  O  M  E  20 Q  U  I  T  E
 
 8  ゆ う し ゃ の ひ と り と は 、 エ ラ く な っ た な 。
 38 95 73 7c 6c 89 8b 84 98 84 8a a4 b4 d7 78 85 6f 80 85 a1 02 05
-O  M  E  20 Q  U  I  T  E  20 A  20 B  I  G  20 S  H  O  T  !  02
+20 A  20 B  I  G  20 S  H  O  T  !  02 05 W  H  A  T  20 A  M  20
 
 16 「 と こ ろ て de 、 こ ん な と こ ろ でde
 16 a2 84 7a 9b 83 de a4 7a 9d 85 84 7a 9b 83 de 02
-05 W  H  A  T  20 A  M  20 I  20 D  O  I  N  G  20
+I  20 D  O  I  N  G  20 H  E  R  E  ,  20 E  H  ?
 
 な に し て る ん た de ?
 85 86 7c 83 99 9d 80 de 3f 02 05
-H  E  R  E  ,  20 E  H  ?  02 05
+W  O  R  K  ,  20 Y  O  U  20 S  
 
 シ ー フ 「 し こ de と さ 。 ぬ す み に は い っ た ん た de か de 、
 bc b0 cc a2 7c 7a de 84 7b a1 87 7d 90 86 8a 72 6f 80 9d 80 de 76 de a4 02
-W  O  R  K  ,  20 Y  O  U  20 S  E  E  .  02 I  '  V  E  20 B  E  E  N  20
+E  E  .  02 I  '  V  E  20 B  E  E  N  20 T  R  Y  I  N  G  20 T  O  20 S
 
 か い ふ de つ た de ら け て de 、 そ ろ そ ろ た い さ ん す る
 76 72 8c de 82 80 de 97 79 83 de a4 7f 9b 7f 9b 80 72 7b 9d 7d 99 02
-02 T  R  Y  I  N  G  20 T  O  20 S  T  E  A  L  ,  20 B  U  T  20 T
+T  E  A  L  ,  20 B  U  T  20 T  H  E  R  E  '  S  20 T  O  O  20 M
 
 と こ ろ た de 。
 84 7a 9b 80 de a1 02 05
-H  E  R  E  '  S  20 T
+A  N  Y  20 M  O  N  S  
 
 そ う た de 、 い い も の を や ろ う 。
 7f 73 80 de a4 72 72 93 89 66 94 9b 73 a1 02
-O  O  20 M  A  N  Y  20 M  O  N  S  T  E  R
+T  E  R  S  .  02 05 T  A  K  E  20 T  H  I
 
 い と de の そ こ に て de も な に か み つ け た ら 、
 72 84 de 89 7f 7a 86 83 de 93 85 86 76 90 82 79 80 97 a4 02
-S  .  02 H  E  R  E  ,  20 T  A  K  E  20 T  H  I  S  .  02
+S  .  02 U  S  E  20 I  T  20 O  N  20 W  E  L  L  S  .  02
 
 こ れ を つ か っ て み な !
 7a 9a 66 82 76 6f 83 90 85 21 0f
-20 S  E  E  20 Y  A  !  20 20
+S  E  E  20 Y  A  !  20 20
+
+--- mage's message in dungeon chest
+
+こdeくろうぢゃったな。
+ワシにあいたくば、
+はくはdeていまてdeくるかdeよい。
+かdeんばれよ。
+
+Well done.
+Meet me in Hakubatei.
+Good luck.
+Signed, Mage
+
+MERCENARY「うう、MAGEのヤツめ!
+[That bastard!]
+[.. Prick!]
+
+こ de く ろ う ち de ゃ っ た な 。
+7a de 78 9b 73 81 de 6c 6f 80 85 a1
+W  E  L  L  20 D  O  N  E  .  02 M
+
+ワ シ に あ い た く は de 、
+dc bc 86 71 72 80 78 8a de a4 02
+E  E  T  20 M  E  20 I  N  20 H
+ 
+は く は de て い ま て de く る か de よ い 。
+8a 78 8a de 83 72 8f 83 de 78 99 76 de 96 72 a1 02
+A  K  U  B  A  T  E  I  .  02 G  O  O  D 20 L  U
+
+か de ん は de れ よ 。
+76 de 9d 8a de 9a 96 a1
+C  K  .  02 20 20 20 20
+
+16 「 う う 、 17 の ヤ ツ め !
+16 a2 73 73 a4 17 89 d4 c2 92 21 0f
+[  .  .  20 P  R  I  C  K  !  ]
