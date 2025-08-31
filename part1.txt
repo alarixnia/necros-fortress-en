@@ -203,6 +203,10 @@ Samurai attacks!
 12 89 7a 73 79 de 77 21 04
 A  T  T  A  C  K  !  20
 
+ネクロスは10のタdeモーシde!
+Necros hit 10!
+Necros damaged!
+
 ネクロスは15のタdeモーシde!
 Necros hit 15!
 Necros damaged!
@@ -212,9 +216,17 @@ c8 b8 db bd 8a 31 35 89 c0 de d2 b0 bc de 21 04
 N  E  C  R  O  S  20 H  I  T  20 15 !  20 20
 N  E  C  R  O  S  20 D  A  M  A  G  E  D  !
 
-ネクロスは10のタdeモーシde!
-Necros hit 10!
+ネクロスは20のタdeモーシde!
+Necros hit 20!
 Necros damaged!
+
+c8 b8 db bd 8a 32 30 89 c0 de d2 b0 bc de 21
+
+ネクロスは30のタdeモーシde!
+Necros hit 30!
+Necros damaged!
+
+c8 b8 db bd 8a 33 30 89 c0 de d2 b0 bc de 21
 
 ネ ク ロ ス は 1  0  の タ de モ ー シ de !
 c8 b8 db bd 8a 31 30 89 c0 de d2 b0 bc de 21 04
