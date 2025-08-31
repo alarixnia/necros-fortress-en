@@ -135,6 +135,27 @@ ROPE
 
 db b0 cc df
 
+-- attempting to use magic cloth
+
+this string appears thrice in the binary:
+
+をつかった。
+Used.
+
+を つ か っ た 。
+66 82 76 6f 80 a1
+20 U  S  E  D  . 
+
+this string appears twice in the binary:
+
+しかし、なにもおこらなかった。
+But nothing happened.
+But zilch.
+
+し か し 、 な に も お こ ら な か っ た 。
+7c 76 7c a4 85 86 93 75 7a 97 85 76 6f 80 a1
+.  .  .  20 B  U  T  20 Z  I  L  C  H  .
+
 -- sleeping at the inn
 
 おはようごさいます。
