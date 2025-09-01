@@ -309,6 +309,35 @@ Lunged forward (Lunged!)
 は 、 と ひ de か か っ た !
 8a a4 84 8b de 76 76 6f 80 21
 
+は、とdeくをはいた!
+Spat poison!
+Spat venom!
+
+は 、 と de く を は い た !
+8a a4 84 de 78 66 8a 72 80 21
+S  P  A  T  20 V  E  N  O  M
+
+*はレーザーをうった!
+Shot laser!
+
+*  は レ ー サ de ー を う っ た !
+2a 8a da b0 bb de b0 66 73 6f 80 21 02
+2a S  H  O  T  20 L  A  S  E  R  !
+
+*はエナシdeーホdeールをうった!
+Shot energy ball!
+
+*  は エ ナ シ de ー ホ de ー ル を う っ た !
+2a 8a b4 c5 bc de b0 ce de b0 d9 66 73 6f 80 21 02 04
+2a S  H  O  T  20 E  N  E  R  G  Y  !  20 20 20
+
+*は、さいみんビームをはっしゃした!
+Shot sleep beam!
+Fired sleep ray!
+
+2a 8a a4 7b 72 90 9d cb de b0 d1 66 8a 6f 7c 6c 7c 80 21 02
+2a F  I  R  E  D  20 S  L  E  E  P  20 R  A  Y  !
+
 は、むかってきた!
 Foe approaching! (Coming!)
 
