@@ -496,6 +496,20 @@ The party fled.
 ca df b0 c3 a8 8a a4 86 79 de 80 de 7c 80 a1
 T  H  E  20 P  A  R  T  Y  20 F  L  E  D  .
 
+もをやっつけた!
+Defeated!
+Beaten
+
+も を や っ つ け た !
+93 66 94 6f 82 79 80 21 02
+93 20 B  E  A  T  E  N
+
+dead bit before xp gained:
+
+も は 、
+93 8a a4
+93 -  20
+
 もEXPせいちょうした。
 EXP gained.
 
