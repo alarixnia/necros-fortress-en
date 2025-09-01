@@ -304,10 +304,11 @@ Foe jumping!
 Foe has venom!
 
 は、とひdeかかった!
-Lunged forward (Lunged!)
+Lunged forward (Lunges!)
 
 は 、 と ひ de か か っ た !
 8a a4 84 8b de 76 76 6f 80 21
+20 L  U  N  G  E  S  !  20
 
 は、とdeくをはいた!
 Spat poison!
@@ -352,8 +353,15 @@ Come on!
 *  「 い く そ de !
 2a a2 72 78 7f de 21
 
+*の、こうけdeき!
+Attacks!
+
+*  の 、 こ う け de き !
+2a 89 a4 7a 73 79 de 77 21
+20 H  I  T  S  !  20
+
 *のたいあたり!
-Foe attacks! (Attack!)
+Foe attacks! (Hits!)
 
 たちは、ダンスをおどった!a
 Foe is dancing! (Dancing!)
@@ -379,18 +387,19 @@ Ouch ouch!
 Mercenary's attack message:
 は、ゆみをはなった!
 Arrow fired!
-Shoot bow!
+Fires bow!
 
 は 、 ゆ み を は な っ た !
 8a a4 95 90 66 8a 85 6f 80 21
 S  H  O  O  T  20 B  O  W  !
+20 F  I  R  E  S  20 B  O  W
 
 ダイビングアタック!
 Dive attack!
 
 タ de イ ヒ de ン ク de ア タ ッ ク !
 c0 de b2 cb de dd b8 de b1 c0 af b8 21
-D  I  V  E  20 A  T  T  A  C  K  !
+20 D  I  V  E  20 A  T  T  A  C  K  !
 
 は、きりかかった!
 Critical hit!
@@ -398,13 +407,15 @@ Critical!
 
 は 、 き り か か っ た !
 8a a4 77 98 76 76 6f 80 21 02
-C  R  I  T  I  C  A  L  !
+20 C  R  I  T  I  C  A  L
 
 は、むかっていったす
 Advancing!
+Advances!
 
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
+20  A  D  V  A  N  C  E  S  !
 
 オーワが、あられれた!
 Foe spotted!
@@ -427,11 +438,11 @@ w  e  20 h  a  v  e  20 s  t  e  a  l  t
 w  e  20 a  r  e  20 h  i  d  d  e  n  .
 
 は、レヘdeルかdeあかdeった!
-LEVEL UP!
+LEVELS UP!
 
 は 、 レ ヘ de ル か de あ か de っ た !
 8a a4 da cd de d9 76 de 71 76 de 6f 80 21
-L  E  V  E  L  20 UP !                  
+20 L  E  V  E  L  S  20 UP !
 
 ハdfーティは、にけdeたdeした。
 
