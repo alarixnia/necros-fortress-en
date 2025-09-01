@@ -572,3 +572,57 @@ Actually appears twice:
 は 、 よ み か de え っ た 。
 8a a4 96 90 76 de 74 6f 80 a1
 20 R  E  V  I  V  E  D  .  20
+
+---
+
+find and replace:
+every hero's name prefixed with も
+every hero's name suffixed with D
+
+もアマゾン AMAZON
+
+も ア マ ソ
+93 b1 cf bf
+93 A  M  Z
+
+もエルフ ELF
+
+も エ ル フ
+93 b4 d9 cc
+93 E  L  F
+
+もサムライ SAMURAI 0x12
+
+も サ ム ラ イ
+93 bb d1 d7 b2
+93 S  A  M  .
+
+もドワーフ DWARF
+
+も ト de ワ ー フ
+93 c4 de dc b0 cc
+93 D  W  A  R  F
+
+もナイト KNIGHT 0x14
+
+も ナ イ ト 
+93 c5 b2 c4 1f
+93 K  N  I
+
+もハdeーサーカー BERSERKER
+
+も ハ de ー サ ー カ ー
+93 ca de b0 bb b0 b6 b0 1f 00
+20 B  E  R  S  E  R  .
+
+もマーシナリー MERCENARY 0x16
+
+も マ ー シ ナ リ ー
+93 cf b0 bc c5 d8 b0 1f 00
+   M  E  R  C  .  20
+
+もマーシde MAGE 0x17
+
+も マ ー シ
+93 cf b0 bc de
+93 M  A  G  E

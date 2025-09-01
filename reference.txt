@@ -4,8 +4,12 @@ NL 0x02 (newline)
    0x05 (end of dialogue section, wait for input with display)
    0x0f (end of dialogue, wait for input)
 * 0x2a
+0x10 (name of amazon ASSUMED)
+0x11 (name of elf ASSUMED)
 サムライ 0x12 (name of samurai)
+0x13 (name of dwarf ASSUMED)
 ナイト 0x14 (name of knight)
+0x15 (name of berserker ASSUMED)
 ー 0x16 (name of mercenary)
 ー 0x17 (name of mage)
 ! 0x21
@@ -104,6 +108,7 @@ U+308A り 0x98
 ァ 0xa7
 ィ 0xa8
 ォ 0xab
+ャ 0xac
 ョ 0xae
 ッ 0xaf
 ー 0xb0 (no linebreak)

@@ -752,7 +752,22 @@ way.
 も り が de あ る 。
 93 98 76 de 71 99 a1
 
---- kid in bedroom
+--- young woman in rioau inn entrance
+
+MERCENARY「よー、きれーなネーチ?ンだな!
+*「ふふふ、おじょうずね。
+
+Hehe, you think I'm cute?
+Cheeky!
+
+16 「 よ ー 、 き れ ー な ネ ー チ ャ ン た de な !
+16 a2 96 b0 a4 77 9a b0 85 c8 b0 c1 ac dd 80 de 85 21 02
+H  E  H  E  ,  20 Y  O  U  20 T  H  I  N  K  20 I  '  M
+
+2a a2 8c 8c 8c a4 75 7c de 6e 73 7d de 88 a1 0f
+20 C  U  T  E  ?  20 C  H  E  E  K  Y  !  20
+
+--- kid in inn bedroom
 
 *「へやは、あと2つあるぜ。
 
@@ -762,7 +777,7 @@ way.
 There's 2 more rooms.
 We have 4 rooms.
 
---- old man in bedroom
+--- old man in inn bedroom
 
 *「ものをひとにみせるときや
 よむときも"つかう"だよ。
@@ -979,7 +994,7 @@ This inn is loved by travellers!
 
 *  「 こ の や と de 、 た ひ de ひ de と の あ い た de し de ゃ
 2a a2 7a 89 94 84 de a4 80 8b de 8b de 84 89 71 72 80 de 7c de 6c 02
-t  h  i  s  20 i  n  n  20 i  s  20 l  o  v  e  d  20 b  y  20 t  r
+t  h  i  s  20 i  n  n  20 i  s  20 l  o  v  e  d  20 b  y  02 t  r
 
 ゆ う め い な ん だde 。
 95 73 92 72 85 9d 80 de a1
@@ -988,10 +1003,15 @@ a  v  e  l  l  e  r  s  !
 8ゆうしゃの?さまも
 よくいらっしゃるんだよ!
 
-whathisname of the 8 heroes is often here too!
+MAGE of the 8 heroes is often here too!
+Also Mage, the hero!
 
 8  ゆ う し ゃ の 17 さ ま も
 38 95 73 7c 6c 89 17 7b 8f 93 02
+20 A  L  S  O  20 M  A  G  E  ,
+
+96 78 72 97 6f 7c 6c 99 9d 80 de 96 21 0f
+20 T  H  E  20 H  E  R  O  !
 
 after defeating the tiger and speaking to sylvia:
 
