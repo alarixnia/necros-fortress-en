@@ -245,7 +245,7 @@ LUCKY
 
 う ん た de め し
 73 9d 80 de 92 7c
-L  U  C  K  de de
+L  U  C  K  ?  02 20
 
 にけdeる
 FLEE
@@ -268,14 +268,14 @@ BLOCK
 
 ほ de う き de ょ
 8e de 73 77 de 6e 02 20
-B  L  O  C  K  de
+B  L  O  C  K  02 20
 
 とdeうくde
-ITEM
+ITEMS
 
 と de う ぐde
 84 de 73 78 de
-I  T  E  M  de
+I  T  E  M  S  02 20
 
 --- battle messages
 
@@ -409,13 +409,28 @@ Critical!
 8a a4 77 98 76 76 6f 80 21 02
 20 C  R  I  T  I  C  A  L
 
+うえからきりかかる!
+Upper strike!
+Up strike!
+
+う え か ら き り か か る !
+73 74 76 97 77 98 76 76 99 21 02 04
+U  P  20 S  T  R  I  K  E  !
+
+*は、なくdeりかかった!
+Strikes!
+
+*  は 、 な く de り か か っ た !
+2a 8a a4 85 78 de 98 76 76 6f 80 21 02
+2a 20 S  T  R  I  K  E  S  !
+
 は、むかっていったす
 Advancing!
-Advances!
+Charges!
 
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
-20  A  D  V  A  N  C  E  S  !
+20 C  H  A  R  G  E  S  !  20
 
 オーワが、あられれた!
 Foe spotted!
@@ -451,6 +466,20 @@ The party fled.
 ハ df ー テ ィ は 、 に け de た de し た 。
 ca df b0 c3 a8 8a a4 86 79 de 80 de 7c 80 a1
 T  H  E  20 P  A  R  T  Y  20 F  L  E  D  .
+
+もEXPせいちょうした。
+EXP gained.
+
+93 45 58 50 7e 72 81 6e 73 7c 80 a1 02
+も E  X  P  20 G  A  I  N  E  D  .
+
+もGOLDみつけた。
+GOLD found.
+GP found.
+
+も G  O  L  D  み つ け た 。
+93 47 4f 4c 44 90 82 79 80 a1 02
+93 G  P  20 F  O  U  N  D  .
 
 --- Monster names
 
