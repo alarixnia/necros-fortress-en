@@ -2095,3 +2095,45 @@ H  E  20 R  O  A  D  S  I  D  E  20 I  N  N  .  02
 16 「 う う 、 17 の ヤ ツ め !
 16 a2 73 73 a4 17 89 d4 c2 92 21 0f
 [  .  .  20 P  R  I  C  K  !  ]
+
+--- roadside inn - intro with mage
+
+*「あら、おひさしふdeり。
+MERCENARY「え? とdeこかてdeおあいしましたっけ?
+
+*「あら、まだきかdeつかないの?
+MERCENARY「なに? なに?
+
+Tidings. It's been a while.
+
+Oh dear, still don't know who I am?
+
+*  「 あ ら 、 お ひ さ し ふ de り 。
+2a a2 71 97 a4 75 8b 7b 7c 8c de 98 a1 02
+T  I  D  I  N  G  S  .  20 I  T  '  S  20
+
+16 「 え ?  20 と de こ か て de お あ い し ま し た っ け ?
+16 a2 74 3f 20 84 de 7a 76 83 de 75 71 72 7c 8f 7c 80 6f 79 3f 02 05
+B  E  E  N  20 A  20 W  H  I  L  E  .  02 05 O  H  20 D  E  A  R  ,
+
+*  「 あ ら 、 ま た de き か de つ か な い の ?
+2a a2 71 97 a4 8f 80 de 77 76 de 82 76 85 72 89 3f 02
+20 S  T  I  L  L  20 D  O  N  '  T  20 K  N  O  W  20
+
+16 「 な に ?  20 な に ?
+16 a2 85 86 3f 20 85 86 3f 02 05
+W  H  O  20 I  20 A  M  ?  02 05
+
+*「ふふふ、これでも、わからんか!
+MERCENARY「うっ! そのこえは、マ、MAGE!
+
+HEH HEH HEH.
+[That voice! Mage!]
+
+*  「 ふ ふ ふ 、 こ れ て de も 、 わ か ら ん か !
+2a a2 8c 8c 8c a4 7a 9a 83 de 93 a4 9c 76 97 9d 76 21 02
+H  E  H  20 H  E  H  20 H  E  H  .  02 [  T  H  A  T  20
+
+16 「 う っ !  20 そ の こ え は 、 マ 、 17 !
+16 a2 73 6f 21 20 7f 89 7a 74 8a a4 cf a4 17 21 0f
+V  O  I  C  E  !  20 M  A  G  E  !  ]
