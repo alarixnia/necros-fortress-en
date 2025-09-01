@@ -2137,3 +2137,25 @@ H  E  H  20 H  E  H  20 H  E  H  .  02 [  T  H  A  T  20
 16 「 う っ !  20 そ の こ え は 、 マ 、 17 !
 16 a2 73 6f 21 20 7f 89 7a 74 8a a4 cf a4 17 21 0f
 V  O  I  C  E  !  20 M  A  G  E  !  ]
+
+--- roadside inn - mage cutscene
+
+「フォッフォッフォ。
+ひさしふdeりちdeゃのう、MERCENARY。
+
+Hoho. Good to see you(, Mercenary).
+
+「 フ ォ ッ フ ォ ッ フ ォ 。
+a2 cc ab af cc ab af cc ab a1 02
+H  O  H  O  .  20 G  O  O  D  20
+
+ひ さ し ふ de り ち de ゃ の う 、 16 。
+8b 7b 7c 8c de 98 81 de 6c 89 73 a4 16 a1 04
+20 T  O  20 S  E  E  20 Y  O  U  .
+
+--- roadside inn - mage party addition
+
+MERCENARY「おおきなおせわだ!
+MAGE「ワシをさがしていたんぢゃろう?
+
+You were looking for me, right?
