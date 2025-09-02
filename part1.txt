@@ -1261,6 +1261,23 @@ R  R  Y  ,  20 Y  O  U  '  R  E  20 O  N  E  20 O  F
 84 de 73 7f de 75 8a 72 98 78 80 de 7b 72 a1 0f
 20 T  H  E  20 8  20 H  E  R  O  E  S  !
 
+after recruiting mage:
+
+*「や、これはMAGEさま!
+はやくKNIGHTさまをなおしてください。
+
+Sir Mage!
+Please heal Sir
+Knight (at once)!
+
+*  「 や 、 こ れ は 17 さ ま !
+2a a2 94 a4 7a 9a 8a 17 7b 8f 21 02
+17 !  20 P  L  E  A  S  E  20 H  E
+
+は や く 14 さ ま を な お し て く た de さ い 。
+8a 94 78 14 7b 8f 66 85 75 7c 83 78 80 de 7b 72 a1 0f
+A  L  20 S  I  R  02 K  N  I  G  H  T  !  20 20 20
+
 --- knight's town - town crier
 
 *「まちのものたちにつくde!
