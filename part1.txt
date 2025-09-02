@@ -2340,6 +2340,46 @@ G  O  20 Q  U  I  C  K  L  Y  ,  20 W  H  I  L  E  20 W  E  20 H  O  L  D
 8a 94 78 7c 6d 6f 8a df 82 7c 83 78 80 de 7b 72 a1 0f
 20 B  A  C  K  20 S  I  R  20 K  N  I  G  H  T  .
 
+*「KNIGHTさまは、きゅうけつきにおそわれていたの
+ですね。
+まさか、あのバンパイヤはくしゃくが
+よみがえったのでは...
+
+A vampire attacked Sir
+Knight?
+Surely not Kushaka reborn...
+
+*  「 14 さ ま は 、 き ゅ う け つ き に お そ わ れ て い た の
+2a a2 14 7b 8f 8a a4 77 6d 73 79 82 77 86 75 7f 9c 9a 83 72 80 89 02
+A  20 V  A  M  P  I  R  E  20 A  T  T  A  C  K  E  D  20 S  I  R  20
+
+て de す ね 。 ま さ か 、 あ の ハ de ン ハ df イ ヤ は く し ゃ く がde
+83 de 7d 88 a1 8f 7b 76 a4 71 89 ca de dd ca df b2 d4 8a 78 7c 6c 78 76 de 02
+K  N  I  G  H  T  ?  20 S  U  R  E  L  Y  20 N  O  T  20 K  U  S  H  A  K  A
+
+よ み か de え っ た の て de は...
+96 90 76 de 74 6f 80 89 83 de 8a eb 0f
+02 R  E  B  O  R  N  .  .  .
+
+*「あ、KNIGHTさまをすくってくださって、
+ありがとうございます!
+そうだ、このはこをあけてみてください。
+
+Thank you for helping Sir Knight.
+Please open this box.
+
+*  「 あ 、 14 さ ま を す く っ て く た de さ っ て 、
+2a a2 71 a4 14 7b 8f 66 7d 78 6f 83 78 80 de 7b 6f 83 a4 
+T  H  A  N  K  20 Y  O  U  20 F  O  R  20 H  E  L  P  I
+
+あ り か と de う こ さ de い ま す !
+02 71 98 76 de 84 73 7a de 7b de 72 8f 7d 21 02
+N  G  20 S  I  R  20 K  N  I  G  H  T  .  20 P
+
+そ う た de 、 こ の は こ を あ け て み て く た de さ い 。
+7f 73 80 de a4 7a 89 8a 7a 66 71 79 83 90 83 78 80 de 7b 72 a1 0f
+L  E  A  S  E  20 O  P  E  N  20 T  H  I  S  02 B  O  X  .
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
