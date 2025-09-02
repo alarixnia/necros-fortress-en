@@ -66,18 +66,14 @@ then 8 heroes rose up
 
 ---- knight intro cutscene
 
-き し    ナ イ ト
-77 7c 20 c5 b2 c4
-
-KNIGHT KISHI
+77 7c 20 14 04
 
 ---- magician intro cutscene
 
 0002b7c0
 
-ま ほ う つ か い    マ ー ジ
-8f 8e 73 82 76 72 20 17 04 8c de
-MAGICIAN MERGE
+ま ほ う つ か い 
+8f 8e 73 82 76 72 20 17 04
 
 ---- samurai intro cutscene
 
@@ -85,11 +81,8 @@ MAGICIAN MERGE
 
 あし サムライ
 
-あ    し    サ ム ラ イ
-8c de 7c 20 bb XX d7 b2
-a  b  c  d 
-
-ASHI SAMURAI
+8f 8e 73 82 76 72 20 17 04
+S  A  M  U  R  A  I  .
 
 ---- amazon intro cutscene
 
@@ -2155,7 +2148,50 @@ H  O  H  O  .  20 G  O  O  D  20
 
 --- roadside inn - mage party addition
 
-MERCENARY「おおきなおせわだ!
-MAGE「ワシをさがしていたんぢゃろう?
+MAGE「あいかわらすde、おんなにめかdeないよう
+ちdeゃのう。
+
+Still blinded by pretty
+women, eh?
+
+17 「 あ い か わ ら す de 、 お ん な に め か de な い よ う 02 ち de ゃ の う 。
+17 a2 71 72 76 9c 97 7d de a4 75 9d 85 86 92 76 de 85 72 96 73 02 81 de 6c 89 73 a1 02 05
+S  T  I  L  L  20 B  L  I  N  D  E  D  20 B  Y  20 P  R  E  T  T  Y  02 W  O  M  E  N  ,
+
+MERCENARY「おおきなおせわたde!
+MAGE「ワシをさかdeしていたんちdeゃろう?
 
 You were looking for me, right?
+
+16 「 お お き な お せ わ た de !
+16 a2 75 75 77 85 75 7e 9c 80 de 21 02
+20 E  H  ?  02 05 W  E  R  E  20 Y  O
+
+17 「 ワ シ を さ か de し て い た ん ち de ゃ ろ う ?
+17 a2 dc bc 66 7b 76 de 7c 83 72 80 9d 81 de 6c 9b 73 3f 02
+U  20 L  O  O  K  I  N  G  20 F  O  R  20 M  E  ?
+
+MAGE「まあ、そうおこるな。
+ちょっとふさdeけた
+たdeけちdeゃ。
+ワシをさかdeしていたんちdeゃろう?
+
+Relax, it was just a joke.
+
+You were looking for me, right?
+
+17 「 ま あ 、 そ う お こ る な 。 ち ょ っ と ふ さ de け た
+17 a2 8f 71 a4 7f 73 75 7a 99 85 a1 81 6e 6f 84 8c 7b de 79 80 02
+R  E  L  A  X  ,  20 I  T  20 W  A  S  20 A  20 J  O  K  E  .  02
+
+た de け ち de ゃ 。 ワ シ を さ か de し て い た ん ち de ゃ ろ う ?
+80 de 79 81 de 6c a1 dc bc 66 7b 76 de 7c 83 72 80 9d 81 de 6c 9b 73 3f
+W  E  R  E  20 Y  O  U  20 L  O  O  K  I  N  G  20 F  O  R  20 M  E  ?
+
+MAGE「さてと、KNIGHTをなおしにいこうかい...
+Right, let's go and fix knight...
+Let's fix Knight!
+
+17 「 さ て と 、 14 を な お し に い こ う か い...
+17 a2 7b 83 84 a4 14 66 85 75 7c 86 72 7a 73 76 72 eb 0f
+L  E  T  '  S  20 F  I  X  20 K  N  I  G  H  T  !  20

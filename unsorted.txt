@@ -773,3 +773,13 @@ every hero's name suffixed with D
 も マ ー シ
 93 cf b0 bc de
 93 M  A  G  E
+
+--- appears multiple times:
+
+をなかまにくわえた
+added to party
+joined
+
+を な か ま に く わ え た !
+66 85 76 8f 86 78 9c 74 80 21
+20 J  O  I  N  E  D  !  20 20
