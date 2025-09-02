@@ -2193,6 +2193,31 @@ I see, so that's how it is.
 16 94 a4 7a 9d 94 a4 8f 81 8c de 7e 7c 83 90 99 89 8a 02 84 de 73 81 de 6c 3f
 R  Y  20 L  Y  I  N  G  20 I  N  20 W  A  I  T  20 T  O  N  I  G  H  T  ? 
 
+かあらわれたぞ...
+
+MERCENARY「ふあ~、ねむいぜ...
+MAGE「しずかにせい!
+ほれ、なにかあらわれたぞ...
+
+Fufu... So sleepy...
+Quiet! Someone's here!
+
+16 「 ふ あ ~  、 ね む い せ de ...
+16 a2 8c 71 ec a4 88 91 72 7e de eb 02
+S  O  20 S  L  E  E  P  Y  .  .  .  02
+
+17 「 し す de か に せ い ! 
+17 a2 7c 7d de 76 86 7e 72 21 02
+05 02 Q  U  I  E  T  !  20 S  O
+
+ほ れ 、 な に か あ ら わ 
+8e 9a a4 85 86 76 71 97 9c
+M  E  O  N  E  '  S  20 H
+
+れ た そ de ...
+9a 80 7f de eb 0f
+E  R  E  !  20
+
 *「ほほほほ。 KNIGHTも、ついに
 はくしゃくさまのしもべになるのよ!
 
