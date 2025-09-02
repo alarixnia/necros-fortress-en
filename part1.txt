@@ -2265,6 +2265,38 @@ Grr... grr... rawr!
 *  「 く de る る 、 く de る る... か de お ~  ~  !
 G  R  R  .  .  .  G  R  R  .  .  .  20 R  A  W  R  !
 
+--- after defeating sylvia's cat
+
+シルヴィアは、にげてしまったようだ。
+おや? なにかおちている。
+
+(It seems that) Sylvia ran.
+Oh? She left something...
+
+シ ル ウ de ィ ア は 、 に け de て し ま っ た よ う た de 。
+bc d9 b3 de a8 b1 8a a4 86 79 de 83 7c 8f 6f 80 96 73 80 de a1 05 02
+S  Y  L  V  I  A  20 R  A  N  .  05 02 O  H  ?  20 S  H  E  20 L  E
+
+お や ?  20 な に か お ち て い る 。
+75 94 3f 20 85 86 76 75 81 83 72 99 a1 0f 
+F  T  20 S  O  M  E  T  H  I  N  G  .
+
+ロケットをあけると、なんとリオアウそんちょうの
+しゃしんがはいっている!
+
+Upon opening the locket, there was a
+photo of Rioau's chief!
+
+Inside there's a photo of the chief!
+
+ロ ケ ッ ト を あ け る と 、 な ん と リ オ ア ウ そ ん ち ょ う の
+db b9 af c4 66 71 79 99 84 a4 85 9d 84 d8 b5 b1 b3 7f 9d 81 6e 73 89 02
+I  N  S  I  D  E  20 T  H  E  R  E  '  S  20 A  20 P  H  O  T  O  20 O
+
+し ゃ し ん か de は い っ て い る !
+7c 6c 7c 9d 76 de 8a 72 6f 83 72 99 21 0f
+F  20 T  H  E  20 C  H  I  E  F  !  20
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
