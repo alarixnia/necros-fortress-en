@@ -2297,6 +2297,49 @@ I  N  S  I  D  E  20 T  H  E  R  E  '  S  20 A  20 P  H  O  T  O  20 O
 7c 6c 7c 9d 76 de 8a 72 6f 83 72 99 21 0f
 F  20 T  H  E  20 C  H  I  E  F  !  20
 
+--- talking to castle guards after sylvia encounter
+
+KNIGHT「ええい、はなせ!
+あのバンパイヤはくしゃくが、めざめたのだぞ!
+ウマをひけ! ヨロイをもて!
+
+Let's go! Get that vampire!
+Ready my horse and armour!
+
+14 「 え え い 、 は な せ !
+14 a2 74 74 72 a4 8a 85 7e 21 02
+L  E  T  '  S  20 G  O  !  02 G
+
+あ の ハ de ン ハ df イ ヤ は く し ゃ く か de 、 め さ de め た の た de そ de !
+71 89 ca de dd ca df b2 d4 8a 78 7c 6c 78 76 de a4 92 7b de 92 80 89 80 de 7f de 21 02
+E  T  20 T  H  A  T  20 V  A  M  P  I  R  E  !  02 R  E  A  D  Y  20 M  Y  20 H  O  R
+
+ウ マ を ひ け !  20 ヨ ロ イ を も て !
+b3 cf 66 8b 79 21 20 d6 db b2 66 93 83 21 0f
+S  E  20 A  N  D  20 A  R  M  O  U  R  !
+
+*「KNIGHTさま!
+そのおからだではムリです!
+
+Sir! You need to rest!
+
+* 「  14 さま  !  02 そ の お か ら た de て de は ム リ て de す !
+2a a2 14 7b 8f 21 02 7f 89 75 76 97 80 de 83 de 8a d1 d8 83 de 7d 21 0f
+S  I  R  !  20 Y  O  U  20 N  E  E  D  20 T  O  20 R  E  S  T  !
+
+*「われわれがKNIGHTさまをおさえているあいだに、
+はやくしゅっぱつしてください。
+
+Go quickly, while we hold back Sir Knight.
+
+*  「 わ れ わ れ か de 14 さ ま を お さ え て い る あ い た de に 、
+2a a2 9c 9a 9c 9a 76 de 14 7b 8f 66 75 7b 74 83 72 99 71 72 80 de 86 a4 02
+G  O  20 Q  U  I  C  K  L  Y  ,  20 W  H  I  L  E  20 W  E  20 H  O  L  D
+
+は や く し ゅ っ は df つ し て く た de さ い 。
+8a 94 78 7c 6d 6f 8a df 82 7c 83 78 80 de 7b 72 a1 0f
+20 B  A  C  K  20 S  I  R  20 K  N  I  G  H  T  .
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
