@@ -378,7 +378,14 @@ l  e  t  '  s  20 s  i  n  g  20 a  20 s  o  n  g  .
 
 TODO kind of need a better way to have a zero-with filler
 
-at 3CE68
+at 3CDD0
+
+しdeゅもん
+SPELL
+
+し de ゅ も ん
+02 20 7c de 6d 93 9d
+S  P  E  L  L  02 20
 
 うんたdeめし
 LUCKY
@@ -411,11 +418,11 @@ BLOCK
 B  L  O  C  K  02 20
 
 とdeうくde
-ITEMS
+ITEM
 
 と de う ぐde
 84 de 73 78 de
-I  T  E  M  S  02 20
+I  T  E  M  02 20
 
 --- battle messages
 

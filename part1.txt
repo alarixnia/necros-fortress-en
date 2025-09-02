@@ -853,6 +853,28 @@ p  a  s  t  20 t  h  i  s  20 b  r  i  d  g  e  ,  20 i  t  '  s  d  a  n  g
 85 76 8f 66 82 9a 83 76 97 72 78 84 72 72 83 de 7c 6e 73 a1 0f
 e  r  o  u  s  20 t  o  20 g  o  20 a  l  o  n  e  .
 
+*「なかまをつれてきましたね。
+しかし、ゆだんはきんもつですよ。
+きをつけていきなさい。
+
+Ah, you've bought you companion along.
+But don't be complacent. Be cautious.
+
+Ah, you're with a friend.
+Still, be cautious.
+
+*  「 な か ま を つ れ て き ま し た ね 。
+2a a2 85 76 8f 66 82 9a 83 77 8f 7c 80 88 a1 02
+A  H  ,  20 Y  O  U  '  R  E  20 W  I  T  H  20
+
+し か し 、 ゆ た de ん は き ん も つ て de す よ 。
+7c 76 7c a4 95 80 de 9d 8a 77 9d 93 82 83 de 7d 96 a1 02
+20 A  20 F  R  I  E  N  D  .  20 S  T  I  L  L  ,  20 B
+
+き を つ け て い き な さ い 。
+77 66 82 79 83 72 77 85 7b 72 a1 0f
+E  20 C  A  U  T  I  O  U  S  .
+
 --- inn on the road - guy by the entrance
 
 *「このやとde、たひdeひdeとのあいたdeしdeゃ
