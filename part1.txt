@@ -2110,3 +2110,103 @@ Let's fix Knight!
 17 「 さ て と 、 14 を な お し に い こ う か い...
 17 a2 7b 83 84 a4 14 66 85 75 7c 86 72 7a 73 76 72 eb 0f
 L  E  T  '  S  20 F  I  X  20 K  N  I  G  H  T  !  20
+
+--- mage healing knight cutscene
+
+very timing sensitive...
+
+「ふむふむ、このやまいはじゃなあ...
+MAGEは、じゅもんをとなえた!
+
+Hmm, this illness then...
+MAGE casts a spell!
+
+「 ふ む ふ む 、 こ の や ま い は し de ゃ な あ...
+a2 8c 91 8c 91 a4 7a 89 94 8f 72 8a 7c de 6c 85 71 eb 02
+H  M  M  ,  20 T  H  I  S  20 I  L  L  N  E  S  S  eb 02
+
+17 は 、 し de ゅ も ん を と な え た !
+17 8a a4 7c de 6d 93 9d 66 84 85 74 80 21 04
+17 20 C  A  S  T  20 A  20 S  P  E  L  L
+17 20 U  S  E  D  20 M  A  G  I  C  !  20 04
+
+KNIGHTはいしきをとりもどした!
+
+KNIGHT regained consciousness!
+
+14 8a 72 7c 77 66 84 98 93 84 de 7c 80 21 04
+K  N  I  G  H  T  20 W  O  K  E  20 U  P 
+
+「おお! MERCENARY、それにMAGEさま...
+いったいわたしは、どうしたのか?
+
+Oh Mercenary, Mage...
+What came over me?
+What happened?
+
+「 お お !  20 16 、 そ れ に 17 さ ま...
+a2 75 75 21 20 16 a4 7f 9a 86 17 7b 8f eb 02
+O  H  20 M  E  R  C  E  N  A  R  Y  ,  20 17
+
+い っ た い わ た し は 、 と de う し た の か ?
+72 6f 80 72 9c 80 7c 8a a4 84 de 73 7c 80 89 76 3f 02
+.  .  02 W  H  A  T  20 H  A  P  P  E  N  E  D  ?
+
+--- knight discussing what happened
+
+KNIGHT「じつは、あるよるに、あしをくじいたじょせいをせおっておくったのだが...
+そのとき、くびすじにいたみをかんじ...
+あとはおぼえておらんのだ。
+
+I recall, one night I help
+ed a woman home...  After
+that, I remember nothing.
+
+14 「 し de つ は 、 あ る よ る に 、 あ し を く し de い た し de ょ せ
+14 a2 7c de 82 8a a4 71 99 96 99 86 a4 71 7c 66 78 7c de 72 80 7c de 6e 7e
+I  20 R  E  C  A  L  L  ,  20 O  N  E  20 N  I  G  H  T  20 I  20 H  E  L
+
+い を せ お っ て お く っ た の た de か de ...そ の と き 、 く ひ
+72 66 7e 75 6f 83 75 78 6f 80 89 80 de 76 de eb 7f 89 84 77 a4 78 8b
+P  E  D  20 A  20 W  O  M  A  N  20 H  O  M  E  .  .  .  20 A  F  T
+
+de す し de に い た み を か ん し de ...あ と は お ほ de え て お
+de 7d 7c de 86 72 80 90 66 76 9d 7c de eb 71 84 8a 75 8e de 74 83 75
+E  R  02 T  H  A  T  ,  20 I  20 R  E  M  E  M  B  E  R  20 N  O  T
+
+ら ん の た de 。
+97 9d 89 80 de a1
+H  I  N  G  .
+
+MAGE「なるほど、そういうわけぢゃな。
+
+MERCENARYや、こんや、まちぶせしてみるのは どうぢゃ?
+
+I see, so that's how it is.
+... Why don't we try lying in wait tonight?
+
+17 「 な る ほ と de 、 そ う い う わ け ち de ゃ な 。
+17 a2 85 99 8e 84 de a4 7f 73 72 73 9c 79 81 de 6c 85 a1 02
+.  .  .  16 W  H  Y  20 D  O  N  '  T  20 W  E  20 T
+
+16 や 、 こ ん や 、 ま ち ふ de せ し て み る の は 02 と de う ち de ゃ ?
+16 94 a4 7a 9d 94 a4 8f 81 8c de 7e 7c 83 90 99 89 8a 02 84 de 73 81 de 6c 3f
+R  Y  20 L  Y  I  N  G  20 I  N  20 W  A  I  T  20 T  O  N  I  G  H  T  ? 
+
+--- ???
+
+「わしには、SAMURAIがうらぎったなんて
+しんじられん。
+たのむ、わしもつれていってくれ!
+
+(I can't believe) SAMURAI betrayed me!
+Let me join you!
+
+a2 9c 7c 86 8a a4 12 76 de 73 97 77 de 6f 80 85 9d 83 02
+S  A  M  U  R  A  I  20 B  E  T  R  A  Y  E  D  20 M  E
+
+7c 9d 7c de 97 9a 9d a1 02
+!  02 L  E  T  20 M  E  20
+
+80 89 91 a4 9c 7c 93 82 9a 83 72 6f 83 78 9a 21 04
+J  O  I  N  20 Y  O  U  .
