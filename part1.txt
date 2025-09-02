@@ -2193,6 +2193,53 @@ I see, so that's how it is.
 16 94 a4 7a 9d 94 a4 8f 81 8c de 7e 7c 83 90 99 89 8a 02 84 de 73 81 de 6c 3f
 R  Y  20 L  Y  I  N  G  20 I  N  20 W  A  I  T  20 T  O  N  I  G  H  T  ? 
 
+*「ほほほほ。 KNIGHTも、ついに
+はくしゃくさまのしもべになるのよ!
+
+Hoho. Even Knight will become my lord's servant!
+Hoho. Even he'll become my lord's servant!
+Hoho. Even he'll become a servant!
+Hoho. Even he'll become a thrall!
+Hoho. Even he'll be our thrall!
+
+* 「 ほ ほ ほ ほ  。 14 も 、 つ い に
+2a a2 8e 8e 8e 8e a1 14 93 a4 82 72 86 02
+H  O  H  O  .  20 E  V  E  N  20 H  E  '
+
+は く し ゃ く さ ま の し も へ de に な る の よ !
+8a 78 7c 6c 78 7b 8f 89 7c 93 8d de 86 85 99 89 96 21 05 02
+L  L  20 B  E  20 O  U  R  02 T  H  R  A  L  L  !
+
+MERCENARY「まて!...
+あっ、おまえはシルウdeィア!
+
+Sylvia... It's you!
+
+16 「 ま て !  ...あ っ 、 お ま え は シ ル ウ de ィ ア !
+16 a2 8f 83 21 eb 71 6f a4 75 8f 74 8a bc d9 b3 de a8 b1 21 05 02
+S  Y  L  V  I  A  !  20 I  T  '  S  20 Y  O  U  !  20 20 20
+
+*「むっ、MERCENARY!
+バレたのならしかたないわ。
+おいき、SABRETOOTH!
+
+Hmph, Mercenary.
+Well, no matter.
+Here, SABRETOOTH!
+
+2a a2 91 6f a4 16 21 02 ca de da 80 89 85 97 7c 76 80 85 72 9c a1 02
+H  M  P  H  ,  20 M  E  R  C  E  N  A  R  Y  .  02 N  O  20 M  A  T
+
+75 72 77 a4 53 41 42 52 45 54 4f 4f 54 48 21 02 05
+T  T  E  R  .  20 G  E  T  20 H  I  M  !  20
+
+*「ぐるる、ぐるる... がお~~!
+Grr... grr... rawr!
+
+2a a2 78 de 99 99 a4 78 de 99 99 eb 76 de 75 ec ec 21 0f
+*  「 く de る る 、 く de る る... か de お ~  ~  !
+G  R  R  .  .  .  G  R  R  .  .  .  20 R  A  W  R  !
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
