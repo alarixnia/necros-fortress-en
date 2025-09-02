@@ -1,3 +1,105 @@
+--- stats
+
+0007b515
+
+TODO: the alignment here needs fixing.
+
+レヘdeル 
+Level (LVL.)
+
+レ ヘ de ル 
+da cd de d9
+
+こうげき
+Attack (  ATK)
+ぼうぎょ
+Speed (   SPD)
+すばやさ
+Defence (  DEF)
+まりょく
+Magic ( MAG)
+
+こ う げ de き
+7a 73 79 de 77
+
+ぼ de う ぎ de ょ
+8e de 73 77 de 6e
+
+す ば de や さ
+7d 8a de 94 7b
+
+ま り ょ く
+8f 98 6e 78
+
+そうび
+   こううんのゆみや
+   こううんのきんか
+
+Equipment (ITEM)
+   Lucky Bow (LUCKYBOW)
+   Lucky Gold (GOLDEN)
+
+そ う び de
+7f 73 8b de
+
+こ う う ん の ゆ み や
+7a 73 73 9d 89 95 90 94
+l  u  c  k  y  b  o  w
+
+こ う う ん の き ん か
+7a 73 73 9d 89 77 9d 76
+g  o  l  d  e  n
+
+ていこうりょく
+   まほう    105
+   どく        2
+   あつさ     20
+   さむさ     20
+
+Resistance (RESISTS)
+    Magic  105 (MAG)
+    Poison 2   (PSN)
+    Heat   20  (HOT)
+    Cold   20  (CLD)
+
+て い こ う り ょ く
+83 72 7a 73 98 6e 78
+r  e  s  i  s  t  s
+
+ま ほ う
+8f 8e 73
+
+と de く
+84 de 78
+
+あ つ さ
+71 82 7b
+
+さ む さ
+7b 91 7b
+
+--- settings select
+
+メッセージ スピード
+いどう スピード
+スクロール スピード
+
+MSG SPEED
+MOVE SPEED
+SCROLL SPEED
+
+needs alignment fixed.
+probably bad OCR here but the hex is correct
+
+メ ッ セ ー ジ de 20 ス ピ df ー ド de
+d2 af be b0 bc de 20 bd cb df b0 c4 de 20
+
+い ど de う    ス ピ df ー ド de
+72 84 de 73 20 bd cb df b0 c4 de 20
+
+ス ク ロ ー ル 20 ス ピ df ー ド de
+bd b8 db b0 d9 20 bd cb df b0 c4 de 20
+
 --- INGAME MENU
 
 0007c5d0
@@ -39,6 +141,44 @@ U  S  E
 7d 83 99
 D  E  L 
 
+--- talking to nobody
+
+しかし、へんじは、かえってこなかった。
+
+し か し 、 へ ん じ de は 、 か え っ て こ な か っ た 。
+7c 76 7c a4 8d 9d 7c de 8a a4 76 74 6f 83 7a 85 76 6f 80 a1
+t  h  e  r  e  '  s     n  o     r  e  s  p  o   n  s  e  .
+
+There is no response.
+
+--- finding nothing
+
+とくに、あやしいところはない。
+
+と く に 、 あ や し い と こ ろ は な い 。
+84 78 86 a4 71 94 7c 72 84 7a 9b 8a 85 72 a1
+t  h  e  r  e  '  s  20 n  o  t  h  i  n  g
+
+There's nothing interesting.
+
+--- trying to use a skill when not knowing any
+
+なにもおぼえていない。
+
+な に も お ぼ de え て い な い 。
+85 86 93 75 8e de 74 83 72 85 72 a1
+i  20 k  n  o  w  20 n  o  n  e  .
+
+--- trying to use a skill when none appropriate
+
+つかえるわざはない。
+(There's no useful skills).
+Not right now.
+Now now...
+
+も つ か え る わ さ de は な い 。
+93 82 76 74 99 9c 7b de 8a 85 72 a1 0f
+93 N  O  T  20 N  O  W  .  .  .
 
 ---
 
@@ -572,6 +712,22 @@ D  R  .  A  P  P  L  A
 
 --- Armour & Weapon types
 
+こdeまかしのつえ
+Deception Staff
+LieStaff
+
+こ de ま か し の つ え
+7a de 8f 76 7c 89 82 74
+L  I  E  S  T  A  F  F
+
+ぬののローフde
+ClothRobe
+Cl.Robe
+
+ぬ の の ロ ー フ de
+87 89 89 db b0 cc de
+C  L  .  R  O  B  E
+
 かいそくブーツ
 Speed boots
 SP Boots
@@ -610,6 +766,15 @@ C. Staff
 こ ん と ん の つ え
 7a 9d 84 9d 89 82 74
 C  .  S  T  A  F  F
+
+--- Spells
+
+ファイヤー
+Fire
+
+フ ァ イ ヤ ー
+cc a7 b2 d4 b0
+F  I  R  E  20
 
 --- Chests
 
