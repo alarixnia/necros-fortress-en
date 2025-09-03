@@ -310,6 +310,13 @@ MAGE NOTE
 cf b0 bc de 89 83 76 de 90
 M  A  G  E  20 N  O  T  E
 
+ロケットヘdfンタdeント
+Locket
+
+ロ ケ ッ ト ヘ df ン タ de ン ト
+db b9 af c4 cd df dd c0 de dd c4
+S  Y  L  .     L  O  C  K  E  T 
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -717,7 +724,7 @@ Dr.Appla
 ト de ク ア ッ フ df ラ
 D  R  .  A  P  P  L  A
 
---- Armour & Weapon types
+--- Armour & Weapons
 
 こdeまかしのつえ
 Deception Staff
@@ -773,6 +780,14 @@ C. Staff
 こ ん と ん の つ え
 7a 9d 84 9d 89 82 74
 C  .  S  T  A  F  F
+
+はやぶさのゆみや
+Falcon Bow
+FalconBow
+
+は や ふ de さ の ゆ み や
+8a 94 8c de 7b 89 95 90 94
+F  A  L  C  O  N  B  O  W
 
 --- Spells
 
@@ -839,6 +854,15 @@ Found.
 を み つ け た 。
 66 90 82 79 80 a1
 20 F  O  U  N  D
+
+Finding a weapon/armour:
+
+もが、そうびした。
+[name] equips it.
+
+も か de 、 そ う ひ de し た 。
+93 76 de a4 7f 73 8b de 7c 80 a1
+93 20 E  Q  U  I  P  S  20 I  T
 
 --- Death
 
