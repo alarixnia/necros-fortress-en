@@ -1308,6 +1308,17 @@ O  U  R  S  !  02 A  L  L  20 I  S  20 W  E  L  L  20 W  I  T  H  20 S  I
 78 98 76 74 7d 21 20 14 7b 8f 8a eb 0f
 R  20 K  N  I  G  H  T  !
 
+After Sir Knight is healed:
+
+*「うー。
+のどがいたい。
+
+Ugh. My throat hurts.
+
+*  「 う ー 。 の と de か de い た い 。
+2a a2 73 b0 a1 89 84 de 76 de 72 80 72 a1 0f
+U  G  H  ,  20 M  Y  20 T  H  R  O  A  T
+
 --- knight's town - random dialogue about sickness
 
 *「KNIGHT さまかdeこdeひdeょうきというのは、ほんとう
@@ -1563,6 +1574,22 @@ Needs double-checking:
 *  「 み ん な 、 ふ あ ん て de 、 サ ケ を の み に く る の さ...
 2a a2 90 9d 85 a4 8c 71 9d 83 de a4 bb b9 66 89 90 86 78 99 89 7b eb 0f
 E  V  E  R  Y  O  N  E  20 W  A  N  T  S  20 S  A  K  E  .  .  .
+
+*「KNIGHTさまのぜんかいいわいだ!
+きょうは、みんなタダでのんでくれ!!
+
+Hooray, it's Sir Knight's treat!
+Everyone drinks for free!
+
+Hooray, everyone's drinks on the house!
+
+* 「  14 さ ま の せ de ん か い い わ い た de !
+2a a2 14 7b 8f 89 7e de 9d 76 72 72 9c 72 80 de 21 02 
+H  O  O  R  A  Y  ,  20 E  V  E  R  Y  O  N  E  '  S
+
+き ょ う は 、 み ん な タ タ de て de の ん て de く れ !  !
+77 6e 73 8a a4 90 9d 85 c0 c0 de 83 de 89 9d 83 de 78 9a 21 21 0f
+20 D  R  I  N  K  S  20 O  N  20 T  H  E  20 H  O  U  S  E  !
 
 --- knight's town, save game guy in bar
 

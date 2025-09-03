@@ -315,7 +315,7 @@ Locket
 
 ロ ケ ッ ト ヘ df ン タ de ン ト
 db b9 af c4 cd df dd c0 de dd c4
-S  Y  L  .     L  O  C  K  E  T 
+L  O  C  K  E  T  20 20 20 20 20
 
 -- attempting to use magic cloth
 
