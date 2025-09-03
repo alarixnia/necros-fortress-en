@@ -2517,7 +2517,7 @@ N  G  20 S  I  R  20 K  N  I  G  H  T  .  20 P
 7f 73 80 de a4 7a 89 8a 7a 66 71 79 83 90 83 78 80 de 7b 72 a1 0f
 L  E  A  S  E  20 O  P  E  N  20 T  H  I  S  02 B  O  X  .
 
---- marin in in after knight's town
+--- marin in rioau inn after knight's town
 
 マリン「もう、むちゃはしないで、ここではたらきながらまつことにしたの。
 
@@ -2533,6 +2533,115 @@ I  '  M  20 S  E  T  T  L  I  N  G  20 D  O  W  N
 こ こ て de は た ら き な か de ら ま つ こ と に し た の 。
 7a 7a 83 de 8a 80 97 77 85 76 de 97 8f 82 7a 84 86 7c 80 89 a1 
 20 A  N  D  02 W  O  R  K  I  N  G  20 H  E  R  E .
+
+--- cutscene with amazon in fipona forest
+
+「いやーおじょうさん、
+いいてんきですね。
+
+Hey young lady, nice weather, right?
+
+「 い や ー お し de ょ う さ ん 、
+a2 72 94 b0 75 7c de 6e 73 7b 9d a4 02
+H  E  Y  20 Y  O  U  N  G  20 L  A  D
+
+い い て ん き て de す ね 。
+72 72 83 9d 77 83 de 7d 88 a1 04
+Y  .  .  .
+
+「なにいってんの! アタシをわすれたの?
+
+(What?) Did you forget me?
+Did you forget me..?
+
+「 な に い っ て ん の !  20 ア タ シ を わ す れ た の ?
+a2 85 86 72 6f 83 9d 89 21 20 b1 c0 bc 66 9c 7d 9a 80 89 3f 04
+D  I  D  20 Y  O  U  20 F  O  R  G  E  T  20 M  E  .  .  ?
+
+「うっ! おまえは、ア、AMAZON!
+
+Oh, it's you, Amazon!
+...Hi, Amazon.
+
+a2 73 6f 21 20 75 8f 74 8a a4 b1 a4 10 21 04
+.  .  .  H  I  ,  20 A  M  A  Z  O  N  .
+
+「あいかわらず、ハズかしいことを
+してるわねえ。
+
+Still up to (your) old tricks?
+
+「 あ い か わ ら す de 、 ハ ス de か し い こ と を
+a2 71 72 76 9c 97 7d de a4 ca bd de 76 7c 72 7a 84 66 02
+S  T  I  L  L  20 U  P  20 T  O  20 O  L  D  20 T  R  I
+
+し て る わ ね え 。
+7c 83 99 9c 88 74 a1 04
+C  K  S  ?  20 20 20
+
+「おおきなおせわだ!
+しかしおまえ、なぜここに?
+
+Mind your own business!
+Why are you here?
+
+「 お お き な お せ わ た de !
+a2 75 75 77 85 75 7e 9c 80 de 21 02
+S  H  U  S  H  .  20 W  H  Y  20 A
+
+し か し お ま え 、 な せ de こ こ に ?
+7c 76 7c 75 8f 74 a4 85 7e de 7a 7a 86 3f 04
+R  E  20 Y  O  U  20 H  E  R  E  ? 
+
+「じつは、いちぞくのこが、
+ゆくえふめいになっちゃってね。
+
+One of my clan has
+gone missing.
+
+「 し de つ は 、 い ち そ de く の こ か de 、
+a2 7c de 82 8a a4 72 81 7f de 78 89 7a 76 de a4 02
+O  N  E  20 O  F  20 M  Y  20 C  L  A  N  20 H  A
+
+ゆ く え ふ め い に な っ ち ゃ っ て ね 。
+95 78 74 8c 92 72 86 85 6f 81 6c 6f 83 88 a1 04
+S  02 G  O  N  E  20 M  I  S  S  I  N  G  .
+
+「そっちもゆくえふめいか?
+
+More (people) missing?
+
+「 そ っ ち も ゆ く え ふ め い か ?
+a2 7f 6f 81 93 95 78 74 8c 92 72 76 3f 04
+M  O  R  E  20 M  I  S  S  I  N  G  ?
+
+「ちょうどいいわ。
+また、いっしょに
+ぼうけんするとしましょ!
+
+Common goals! Let's go
+together!
+
+「 ち ょ う と de い い わ 。 ま た 、 い っ し ょ に
+a2 81 6e 73 84 de 72 72 9c a1 8f 80 a4 72 6f 7c 6e 86 02
+C  O  M  M  O  N  20 G  O  A  L  S  !  20 L  E  T  '  S  
+
+ほ de う け ん す る と し ま し ょ !
+8e de 73 79 9d 7d 99 84 7c 8f 7c 6e 21 04
+20 G  O  02 T  O  G  E  T  H  E  R  !
+
+--- amazon joining party
+
+AMAZONは、うむをいわさずなかまにくわわった!
+
+Amazon joined without a word!
+Amazon quickly joins!
+(The implication is that she's not offering Mercenary and Mage
+a choice.)
+
+10 は 、 う む を い わ さ す de な か ま に く わ わ っ た !
+10 8a a4 73 91 66 72 9c 7b 7d de 85 76 8f 86 78 9c 9c 6f 80 21 02
+A  M  A  Z  O  N  20 Q  U  I  C  K  L  Y  20 J  O  I  N  S  !
 
 --- ???
 

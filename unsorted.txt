@@ -933,9 +933,9 @@ every hero's name suffixed with D
 
 もアマゾン AMAZON
 
-も ア マ ソ
-93 b1 cf bf
-93 A  M  Z
+も ア マ ソ de dd
+93 b1 cf bf de dd
+93 A  M  A  Z  N
 
 もエルフ ELF
 
