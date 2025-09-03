@@ -586,6 +586,13 @@ Fires bow!
 S  H  O  O  T  20 B  O  W  !
 20 F  I  R  E  S  20 B  O  W
 
+*「うっ!
+"Ugh!"
+
+*  「 う っ !
+2a a2 73 6f 21 02
+U  G  H  !  20
+
 ダイビングアタック!
 Dive attack!
 
@@ -686,6 +693,33 @@ GP found.
 も G  O  L  D  み つ け た 。
 93 47 4f 4c 44 90 82 79 80 a1 02
 93 G  P  20 F  O  U  N  D  .
+
+*は、にげだした。
+X ran away.
+
+*  は 、 に け de た de し た 。
+2a 8a a4 86 79 de 80 de 7c 80 a1
+2a R  A  N  20 A  W  A  Y  .  
+
+*をたおした!
+X beaten!
+
+2a 66 80 75 7c 80 21 02
+2a B  E  A  T  E  N  02
+
+*は、しんでしまった!
+X is dead!
+
+*  は 、 し ん て de し ま っ た !
+2a 8a a4 7c 9d 83 de 7c 8f 6f 80 21 02
+X  20 I  S  20 D  E  A  D  !  20 20
+
+いきなりおそいかかってきた。
+Sudden attack.
+
+い き な り お そ い か か っ て き た 。
+72 77 85 98 75 7f 72 76 76 6f 83 77 80 a1 04
+S  U  D  D  E  N  20 A  T  T  A  C  K  .
 
 --- Monster names
 
