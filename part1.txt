@@ -2643,6 +2643,51 @@ a choice.)
 10 8a a4 73 91 66 72 9c 7b 7d de 85 76 8f 86 78 9c 9c 6f 80 21 02
 A  M  A  Z  O  N  20 Q  U  I  C  K  L  Y  20 J  O  I  N  S  !
 
+--- mysterious woman in forest
+
+*「...わたしは、じゅもくのようせいドライアド。
+ひみつのカギは、このきにむかってつかいなさい...
+...いそいで...もりが、てつとほのおにおおわれてしまう...
+
+I am a dryad, a wood fairy.
+Use the key upon this tree.
+Hurry, or the forest will no longer be.
+
+I'm a dryad, wood fairy.
+Use the key on this tree,
+or make this forest history...
+
+*  「... わ た し は 、 し de ゅ も く の よ う せ い ト de ラ イ ア ト de 。
+2a a2 eb 9c 80 7c 8a a4 7c de 6d 93 78 89 96 73 7e 72 c4 de d7 b2 b1 c4 de a1 02
+I  '  M  20 A  20 D  R  Y  A  D  ,   20 W  O  O  D  20 F  A  I  R  Y  . 02 U  S
+
+ひ み つ の カ キ de は 、 こ の き に む か っ て つ か い な さ い...
+8b 90 82 89 b6 b7 de 8a a4 7a 89 77 86 91 76 6f 83 82 76 72 85 7b 72 eb 02
+ E  20 T  H  E  20 K  E  Y  20 O  N  20 T  H  I  S  20 T  R E  E  ,  O  R
+
+...い そ い て de ...も り か de 、 て つ と ほ の お に お お わ れ て し ま う...
+eb 72 7f 72 83 de eb 93 98 76 de a4 83 82 84 8e 89 75 86 75 75 9c 9a 83 7c 8f 73 eb 0f
+20 M  A  K  E  20 T  H  I  S  20 F  O  R  E  S  T  20 H  I  S  T  O  R  Y  .  .  .
+
+--- using the key on the dryad tree
+
+はくしゃくのやかたから、
+はしのおりるおとがひびいてきた!
+
+From the count's home, the sound
+of a ladder being lowered echoed!
+
+A great sound echoed
+southward!
+
+は く し ゃ く の や か た か ら 、
+8a 78 7c 6c 78 89 94 76 80 76 97 a4 02
+A  20 G  R  E  A  T  20 S  O  U  N  D
+
+は し の お り る お と か de ひ ひ de い て き た !
+8a 7c 89 75 98 99 75 84 76 de 8b 8b de 72 83 77 80 21 0f 
+20 E  C  H  O  E  D  20 S  O  U  T  H  W  A  R  D !
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
