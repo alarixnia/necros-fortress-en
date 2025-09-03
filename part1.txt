@@ -2688,6 +2688,29 @@ A  20 G  R  E  A  T  20 S  O  U  N  D
 8a 7c 89 75 98 99 75 84 76 de 8b 8b de 72 83 77 80 21 0f 
 20 E  C  H  O  E  D  20 S  O  U  T  H  W  A  R  D !
 
+--- talking to vampire inside manor
+
+*「ふふふ、わがバンパイヤじょうへようこそ!
+なだたるゆうしゃをおまねきでき、こうえいです。
+それでは、かんげいパーティとまいりましょうか!
+
+Hah, welcome to my abode.
+A pleasure to have such (heroic) guests.
+Now, shall we proceed to the welcome party?
+Now, the main event.
+
+*  「 ふ ふ ふ 、 わ か de ハ de ン ハ df イ ヤ し de ょ う へ よ う こ そ !
+2a a2 8c 8c 8c a4 9c 76 de ca de dd ca df b2 d4 7c de 6e 73 8d 96 73 7a 7f 21 02
+H  A  H  ,  20 W  E  L  C  O  M  E  20 T  O  20 M  Y  20 A  B  O  D  E  .  20 A
+
+な た de た る ゆ う し ゃ を お ま ね き て de き 、 こ う え い て de す 。
+85 80 de 80 99 95 73 7c 6c 66 75 8f 88 77 83 de 77 a4 7a 73 74 72 83 de 7d a1 02
+20 P  L  E  A  S  U  R  E  20 T  O  20 H  A  V  E  20 S  U  C  H  02 G  U  E  S
+
+そ れ て de は 、か  ん け de い ハ df ー テ ィ と ま い り ま し ょ う か !
+7f 9a 83 de 8a a4 76 9d 79 de 72 ca df b0 c3 a8 84 8f 72 98 8f 7c 6e 73 76 21 0f
+T  S  .  02 05 N  O  W  ,  20 T  H  E  20 M  A  I  N  20 E  V  E  N  T  !  20
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
