@@ -9,7 +9,7 @@ START GAME[...]
 7b 72 76 72 89 73 80
 PASSWORD[...]
 
-バ    ッ ク ア ッ プ メ モ リ
+バ    ッ ク ア ッ プ df メ モ リ
 ca de af b8 b1 af cc df d2 d3
 BACKUP MEMORY[...]
 

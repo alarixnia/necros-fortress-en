@@ -147,8 +147,8 @@ main(int argc, char **argv)
 	charset[0xce] = "ホ";
 	charset[0xcf] = "マ";
 	charset[0xd1] = "ム";
-	charset[0xd2] = "モ";
-	charset[0xd3] = "リ";
+	charset[0xd2] = "メ";
+	charset[0xd3] = "モ";
 	charset[0xd4] = "ヤ";
 	charset[0xd6] = "ヨ";
 	charset[0xd7] = "ラ";
