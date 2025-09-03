@@ -535,6 +535,22 @@ This is chief's house.
 *  「 そ ん ち ょ う さ ん の う ち な ら 、 こ の う え だ de よ。
 2a a2 7f 9d 81 6e 73 7b 9d 89 73 81 85 97 a4 7a 89 73 74 80 de 96
 
+after finding the locket:
+
+*「あれ! そのロケットは、
+そんちょうさんのむすめの、シルヴィアさんのだ!
+
+The locket's Sylvia's,
+Chief's daughter!
+
+*  「 あ れ !  20 そ の ロ ケ ッ ト は 、
+2a a2 71 9a 21 20 7f 89 db b9 af c4 8a a4 02
+T  H  E  20 L  O  C  K  E  T  '  S  20 S  Y
+
+そ ん ち ょ う さ ん の む す め の 、 シ ル ウ de ィ ア さ ん の た de !
+7f 9d 81 6e 73 7b 9d 89 91 7d 92 89 a4 bc d9 b3 de a8 b1 7b 9d 89 80 de 21 0f
+L  V  I  A  '  S  .  02 C  H  I  E  F  '  S  20 D  A  U  G  H  T  E  R  !
+
 --- old man with cat in village
 
 *「キズついたら、ムリせずこのむらにかえって
@@ -704,6 +720,100 @@ Keep up the work!
 
 し ゅ び de は ど de う で de す か ?     が de ん ば de っ て く だ de さ い !
 7c 6d 8b de 8a 84 de 73 83 de 7d 76 3f 20 76 de 9d 8a de 6f 83 78 80 de 7b 72 21 0f
+
+after using sylvia's locket:
+
+*「そ、それは...
+こうなれば、しかたありません。
+すべてをおはなししましょう。
+わたしのあとについてきてください。
+
+Well...
+Since it's come to this I have no choice but to tell you everything.
+Follow me.
+
+I have no choice but to tell you everything. Follow me.
+
+*  「 そ 、 そ れ は...
+2a a2 7f a4 7f 9a 8a eb 02 05
+.  .  .  02 05 I  20 H  A  V
+
+こ う な れ は de 、 し か た あ り ま せ ん 。
+7a 73 85 9a 8a de a4 7c 76 80 71 98 8f 7e 9d a1 02
+E  20 N  O  20 C  H  O  I  C  E  20 B  U  T  20 T
+
+す へ de て を お は な し し ま し ょ う 。
+7d 8d de 83 66 75 8a 85 7c 7c 8f 7c 6e 73 a1 02
+O  02 T  E  L  L  20 Y  O  U  20 E  V  E  R  Y
+
+わ た し の あ と に つ い て き て く た de さ い 。
+9c 80 7c 89 71 84 86 82 72 83 77 83 78 80 de 7b 72 a1 0f
+T  H  I  N  G  .  02 F  O  L  L  O  W  20 M  E. 20 20
+
+*「じつは、むすめのシルヴィアは、はくしゃくのてで
+きゅうけつきにされてしまったのです。
+むらのじけんも、すべてシルヴィアのしわざです。
+
+むすめかわいさのあまり、ずっとむらびとをだまして
+きたのですが、やはり、まちがっていました。
+
+うう...
+
+そうだ、これをおわたししましょう。
+
+In truth, a count turned
+Sylvia into a vampire.
+
+The village incident was
+all her doing.
+
+Out of love for my daughter, I lied (to my villagers).
+Ugh...
+
+Please, take this.
+
+*  「 し de つ は 、 む す め の シ ル ウ de ィ ア は 、 は く し ゃ く の て で
+2a a2 7c de 82 8a a4 91 7d 92 89 bc d9 b3 de a8 b1 8a a4 8a 78 7c 6c 78 89 83 83 de 02
+I  N  20 T  R  U  T  H  ,  20 A  20 C  O  U  N  T  20 T  U  R  N  E  D  20 S  Y  L  20
+
+き ゅ う け つ き に さ れ て し ま っ た の て de す 。
+77 6d 73 79 82 77 86 7b 9a 83 7c 8f 6f 80 89 83 de 7d a1 02
+V  I  A  20 I  N  T  O  20 A  20 V  A  M  P  I  R  E  .
+
+む ら の し de け ん も 、 す へ de て シ ル ウ de ィ ア の し わ さ de て de す 。
+91 97 89 7c de 79 9d 93 a4 7d 8d de 83 bc d9 b3 de a8 b1 89 7c 9c 7b de 83 de 7d a1 02 05
+T  H  E  20 V  I  L  L  A  G  E  20 I  N  C  I  D  E  N  T  20 W  A  S  20 A  L  L 
+
+む す め か わ い さ の あ ま り 、 す de っ と む ら ひ de と を た de ま し て
+91 7d 92 76 9c 72 7b 89 71 8f 98 a4 7d de 6f 84 91 97 8b de 84 66 80 de 8f 7c 83 02
+H  E  R  20 D  O  I  N  G  .  02 05 O  U  T  20 O  F  20 L  O  V  E  20 F  O  R  20
+
+き た の て de す か de 、 や は り 、 ま ち か de っ て い ま し た 。
+77 80 89 83 de 7d 76 de a4 94 8a 98 a4 8f 81 76 de 6f 83 72 8f 7c 80 a1 02
+M  Y  20 D  A  U  G  H  T  E  R  ,  20 I  20 L  I  E  D. 02 05 U  G  H  .
+
+73 73 eb 02 05
+.  .  20 02 05 
+
+7f 73 80 de a4 7a 9a 66 75 9c 80 7c 7c 8f 7c 6e 73 a1 02
+P  L  E  A  S  E  ,  20 T  A  K  E  20 T  H  I  S  .
+
+フィポナのもりのどこかでつかえば、はくしゃくの
+やかたにはいれるはずです。
+
+If you use it somewhere in the (fipona) forest,
+you should be able to enter Count's mansion.
+
+Use it to open the
+count's forest mansion.
+
+フ ィ ホ df ナ の も り の と de こ か て de つ か え は de 、 は く し ゃ く の
+cc a8 ce df c5 89 93 98 89 84 de 7a 76 83 de 82 76 74 8a de a4 8a 78 7c 6c 78 89 02
+U  S  E  20 I  T  20 T  O  20 O  P  E  N  20 T  H  E  02 C  O  U  N  T  '  S  20 F
+
+や か た に は い れ る は す de て de す 。
+94 76 80 86 8a 72 9a 99 8a 7d de 83 de 7d a1 0f
+O  R  E  S  T  20 M  A  N  S  I  O  N  .
 
 --- blue haired girl (Marin)
 
@@ -2406,6 +2516,23 @@ N  G  20 S  I  R  20 K  N  I  G  H  T  .  20 P
 そ う た de 、 こ の は こ を あ け て み て く た de さ い 。
 7f 73 80 de a4 7a 89 8a 7a 66 71 79 83 90 83 78 80 de 7b 72 a1 0f
 L  E  A  S  E  20 O  P  E  N  20 T  H  I  S  02 B  O  X  .
+
+--- marin in in after knight's town
+
+マリン「もう、むちゃはしないで、ここではたらきながらまつことにしたの。
+
+I decided to settle down and work here.
+
+I'm settling down and
+working here.
+
+マ リ ン 「 も う 、 む ち ゃ は し な い て de 、
+cf d8 dd a2 93 73 a4 91 81 6c 8a 7c 85 72 83 de a4
+I  '  M  20 S  E  T  T  L  I  N  G  20 D  O  W  N
+
+こ こ て de は た ら き な か de ら ま つ こ と に し た の 。
+7a 7a 83 de 8a 80 97 77 85 76 de 97 8f 82 7a 84 86 7c 80 89 a1 
+20 A  N  D  02 W  O  R  K  I  N  G  20 H  E  R  E .
 
 --- ???
 

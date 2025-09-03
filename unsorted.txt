@@ -317,6 +317,15 @@ Locket
 db b9 af c4 cd df dd c0 de dd c4
 L  O  C  K  E  T  20 20 20 20 20
 
+ひみつのか
+ひみつのかぎ
+Secret Key
+Vam(pire) Key
+
+ひ み つ の か ぎde
+8b 90 82 89 76 77 de
+V  A  M  .  K  E  Y
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
