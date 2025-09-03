@@ -853,7 +853,7 @@ St.Mace
 bd c1 b0 d9 d2 b2 bd
 S  T  .  M  A  C  E
 
---- Spells
+--- Mage's spells
 
 ファイヤー
 Fire
@@ -861,6 +861,51 @@ Fire
 フ ァ イ ヤ ー
 cc a7 b2 d4 b0
 F  I  R  E  20
+
+イリュージョン
+Illusion
+
+イ リ ュ ー シ de ョ ン
+b2 d8 ad b0 bc de ae dd
+I  L  L  U  S  I  O  N
+
+ホット
+Hot
+
+ce af c4
+H  O  T
+
+ナパームテ
+Napalm
+
+ナ パdf ー ム
+c5 ca df b0 d1
+B  L  A  Z  E
+
+テレポーション
+Teleport
+
+テ レ ホ df ー シ ョ ン
+c3 da ce df b0 bc ae dd
+T  E  L  E  P  O  R  T
+
+--- Amazon's spells
+
+サモンドラゴンR
+Summon Dragon R
+Sum.Dragon
+
+サ モ ン ト de ラ コ de ン R
+bb d3 dd c4 de d7 ba de dd 52
+S  U  M  .  D  R  A  G  O  N
+
+ヒール
+Heal
+HP^
+
+ヒ ー ル
+cb b0 d9
+H  P  ^
 
 --- Chests
 
