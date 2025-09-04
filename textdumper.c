@@ -108,6 +108,8 @@ main(int argc, char **argv)
 	charset[0xa1] = "。";
 	charset[0xa2] = "「";
 	charset[0xa4] = "、";
+	charset[0xa5] = "・";
+	charset[0xa6] = "ヲ";
 	charset[0xa7] = "ァ";
 	charset[0xa8] = "ィ";
 	charset[0xab] = "ォ";
