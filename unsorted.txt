@@ -807,12 +807,36 @@ SP Boots
 76 72 7f 78 cc de b0 c2
 S  P     B  O  O  T  S
 
+かぜのブーツ
+Wind Boots
+WndBoots
+WND Boot
+
+マリンのハート
+Marin's Heart
+
+マ リ ン の ハ ー ト
+cf d8 dd 89 ca b0 c4
+M  A  R  I  N  <  3
+
+か せ de の フ de ー ツ
+76 7e de 89 cc de b0 c2
+W  N  D  20 B  O  O  T
+
 ロングボウ
 Longbow
 
-ロ ン ク de ホ de ウ
+ロ ン ク de ホ ウ
 db dd b8 de ce de b3
 L  O  N  G  B  O  W
+
+くびかざり
+
+Necklace
+
+く びかざり
+78 8b de 76 7b de 98
+N  E  C  K  L  A  C 
 
 アマゾンアーマー
 Amazon Armour
@@ -821,6 +845,22 @@ Amazonian
 ア マ ゾ de ン ア ー マ ー
 b1 cf bf de dd b1 b0 cf b0
 A  M  A  Z  O  N  I  A  N
+
+スターアーマー
+Star Armour
+StarArm
+
+ス タ ー ア ー マ ー
+bd c0 b0 b1 b0 cf b0
+S  T  A  R  A  R  M
+
+スターラスター
+Star Luster
+StarLus
+
+ス タ ー ラ ス タ ー
+bd c0 b0 d7 bd c0 b0
+S  T  A  R  L  U  S
 
 マージのローブ
 Mage's Robe
@@ -832,11 +872,25 @@ M  A  G  E  20 R  O  B  E
 
 こんとんのつえ
 Chaos Staff
-C. Staff
+ChaosSt
 
 こ ん と ん の つ え
 7a 9d 84 9d 89 82 74
-C  .  S  T  A  F  F
+C  H  A  O  S  S  T
+
+ちょうわのつえ
+Harmony Staff
+
+ち ょ う わ の つ え
+81 6e 73 9c 89 82 74
+H  A  R  M  O  N  Y
+
+まことのつえ
+Truth Staff
+
+ま こ と の つ え
+8f 7a 84 89 82 74
+T  R  U  T  H  .
 
 はやぶさのゆみや
 Falcon Bow
@@ -845,6 +899,14 @@ FalconBow
 は や ふ de さ の ゆ み や
 8a 94 8c de 7b 89 95 90 94
 F  A  L  C  O  N  B  O  W
+
+トーネイドボウ
+Tornado Bow
+Storm Bow
+
+ト ー ネ イ ト de ホ de ウ
+c4 b0 c8 b2 c4 de ce de b3
+S  T  O  R  M  20 B  O  W
 
 ウィズのローブ
 Wiz Robe
