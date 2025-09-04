@@ -1030,11 +1030,13 @@ C  O  L  D  2
 
 サモンドラゴンR
 Summon Dragon R
-Sum.Dragon
+Call Dragon
+Call Dragn
+Call Drag R
 
 サ モ ン ト de ラ コ de ン R
 bb d3 dd c4 de d7 ba de dd 52
-S  U  M  .  D  R  A  G  O  N
+C  A  L  L  D  R  A  G  20 R
 
 ヒール
 Heal
@@ -1043,6 +1045,57 @@ HP^
 ヒ ー ル
 cb b0 d9
 H  P  ^
+
+アンチマジック
+Anti-Magic
+Antimagi
+
+ア ン チ マ シ de ッ ク
+b1 dd c1 cf bc de af b8
+A  N  T  I  M  A  G  I
+
+パワーシールド
+Power Shield
+PowShield
+
+ハ de ワ ー シ ー ル ト de
+ca df dc b0 bc b0 d9 c4 de
+P  O  W  S  H  I  E  L  D
+
+サモンドラゴンK
+
+サ モ ン ト de ラ コ de ン K
+C  A  L  L  D  R  A  G  20 K
+bb d3 dd c4 de d7 ba de dd 4b
+
+ハイヒール
+Higher Heal
+HP^^
+
+ハ イ ヒ ー ル
+H  P  ^  ^  20
+ca b2 cb b0 d9
+
+サモンドラゴンG
+Summon Dragon G
+
+サ モ ン ト de ラ コ de ン G
+bb d3 dd c4 de d7 ba de dd 47
+C  A  L  L  D  R  A  G  20 G
+
+サモンドラゴンF
+Summon Dragon F
+
+サ モ ン ト de ラ コ de ン F
+bb d3 dd c4 de d7 ba de dd
+C  A  L  L  D  R  A  G  20 F
+
+サモンドラゴンD
+Summon Dragon D
+
+サ モ ン ト de ラ コ de ン D
+bb d3 dd c4 de d7 ba de dd
+C  A  L  L  D  R  A  G  20 D
 
 --- Chests
 
