@@ -2728,6 +2728,108 @@ D  O  N  '  T  20 T  H  I  N  K  20 Y  O  U  20 C  A  N  20 R  E  S
 7e 87 7a 84 83 de 7d 85 21 eb 71 89 76 80 76 de eb 78 de 8c 6f 21 0f
 T  20 E  A  S  Y  20 N  O  W  .  .  .  20 U  G  H  .  .  .
 
+--- attempting to go thru the id card door
+
+*「ピー!
+コウジョウヘハ・カンケイシャシカ・ハイレマセン。
+IDかーどヲ・サシコンデクダサイ。
+
+Beep! Access denied.
+Please insert ID Card.
+
+*  「 ヒ df ー !
+2a a2 cb df b0 21 02
+B  E  E  P  !  20 A
+
+コ ウ シ de ョ ウ ヘ ハ ・ カ ン ケ イ シ ャ シ カ ・ ハ イ レ マ セ ン 。
+ba b3 bc de ae b3 cd ca a5 b6 dd b9 b2 bc ac bc b6 a5 ca b2 da cf be dd a1 02
+C  C  E  S  S  20 D  E  N  I  E  D  .  02 05 P  L  E  A  S  E  20 I  N  S  E
+
+I  D  か ー と de ヲ ・ サ シ コ ン テ de ク タ de サ イ 。
+49 44 76 b0 84 de a6 a5 bb bc ba dd c3 de b8 c0 de bb b2 a1
+R  T  20 I  D  20 C  A  R  D  .
+
+*「ピー!
+チカコウジョウヘノ・ニュウシツヲ・キョカシマス
+
+Beep!
+You may enter (the undeground facility).
+
+2a a2 cb df b0 21 02
+B  E  E  P  !  20 Y
+
+c1 b6 ba b3 bc de ae b3 cd c9 a5 c6 ad b3 bc c2 a6 a5 b7 ae b6 bc cf bd 0f
+O  U  20 M  A  Y  20 E  N  T  E  R  20 T  H  E  02 A  R  E  A  .
+
+--- people in the facility
+
+*「ひゃー、たすかりました。
+ワシは、とんでもないやつらに
+てつやあぶらをうってしまいました。
+[...]
+やつらは、このこうじょうで、しんりゃくのための
+おそろしいへいきをつくっているのです!
+
+Wow, I'm saved.
+I got into business with
+monsters...
+They're making terrible
+weapons here.
+
+*  「 ひ ゃ ー 、 た す か り ま し た 。
+2a a2 8b 6c b0 a4 80 7d 76 98 8f 7c 80 a1 02
+W  O  W  ,  20 I  '  M  20 S  A  V  E  D  .
+
+ワ シ は 、 と ん て de も な い や つ ら に
+dc bc 8a a4 84 9d 83 de 93 85 72 94 82 97 86 02
+02 I  20 G  O  T  20 I  N  T  O  20 B  U  S  I
+
+て つ や あ ふ de ら を う っ て し ま い ま し た 。
+83 82 94 71 8c de 97 66 73 6f 83 7c 8f 72 8f 7c 80 a1 02 05
+N  E  S  S  20 W  I  T  H  02 M  O  N  S  T  E  R  S  .  . 
+
+や つ ら は 、 こ の こ う し de ょ う て de 、 し ん り ゃ く の た め の
+94 82 97 8a a4 7a 89 7a 73 7c de 6e 73 83 de a4 7c 9d 98 6c 78 89 80 92 89 02
+.  02 05 T  H  E  Y  '  R  E  20 M  A  K  I  N  G  20 T  E  R  R  I  B  L  E
+
+お そ ろ し い へ い き を つ く っ て い る の て de す !
+75 7f 9b 7c 72 8d 72 77 66 82 78 6f 83 72 99 89 83 de 7d 21 0f
+02 W  E  A  P  O  N  S  20 H  E  R  E  !
+
+*「なに、マリンにたのまれてきたのですか。
+いや、かたじけない。
+ワシがマリンのちちです。
+
+My Marin sent you?
+I'm her father.
+Thank you.
+
+*  「 な に 、 マ リ ン に た の ま れ て き た の て de す か 。
+2a a2 85 86 a4 cf d8 dd 86 80 89 8f 9a 83 77 80 89 83 de 7d 76 a1 02
+M  Y  20 M  A  R  I  N  20 S  E  N  T  20 Y  O  U  ?  02 I  '  M  20
+
+い や 、 か た し de け な い 。
+72 94 a4 76 80 7c de 79 85 72 a1
+H  E  R  20 F  A  T  H  E  R  .
+
+dc bc 76 de cf d8 dd 89 81 81 83 de 7d a1 0f
+20 T  H  A  N  K  20 Y  O  U  .
+
+*「あー、つらいな...
+Ah, it hurts...
+
+*  「 あ ー 、 つ ら い な ...
+2a a2 71 b0 a4 82 97 72 85 eb 0f
+I  T  20 H  U  R  T  S  .  .  0f
+
+*「はやく、いえにかえりてえよう...
+
+I want to go home...
+I wanna go home..
+
+2a a2 8a 94 78 a4 72 74 86 76 74 98 83 74 96 73 eb 0f
+I  20 W  A  N  N  A  20 G  O  20 H  O  M  E  .  .
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて

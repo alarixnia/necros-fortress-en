@@ -709,10 +709,10 @@ X ran away.
 2a R  A  N  20 A  W  A  Y  .  
 
 *をたおした!
-X beaten!
+X beat!
 
 2a 66 80 75 7c 80 21 02
-2a B  E  A  T  E  N  02
+2a    B  E  A  T  !
 
 *は、しんでしまった!
 X is dead!
