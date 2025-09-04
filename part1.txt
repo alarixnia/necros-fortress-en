@@ -2938,6 +2938,37 @@ cf af bb c2 8c df 9b 78 de 97 91 ca c2 c4 de b3 21 02
 bc dd c6 ad b3 bc ac a6 22 bc ae b3 b7 ae 22 be d6 21 0f
 A  S  E  20 T  H  E  20 I  N  T  R  U  D  E  R  S  !  
 
+*「ピー!
+センリョクブンセキノケッカ、"8?ウシャ"ト
+カクニン!
+ぷろぐらむヘンコウ!
+ワタシジシンガ"ショウキョ"スル!
+
+Beep!
+Power analysis confirmed at "8".
+Program altered.
+Continuing erasure.
+
+*  「 ヒ df ー !
+2a a2 cb df b0 21 02
+B  E  E  P  !  02 P
+
+セ ン リ ョ ク フ de ン セ キ ノ ケ ッ カ 、 "  8  ユ ウ シ ャ "  ト
+be dd d8 ae b8 cc de dd be b7 c9 b9 af b6 a4 22 38 d5 b3 bc ac 22 c4 02
+O  W  E  R  20 A  N  A  L  Y  S  I  S  20 C  O  N  F  I  R  M  E  D  02
+
+カ ク ニ ン !
+b6 b8 c6 dd 21 02 05
+A  T  20 "  8  "  .
+
+ふ df ろ く de ら む ヘ ン コ ウ !
+8c df 9b 78 de 97 91 cd dd ba b3 21 02
+20 P  R  O  G  R  A  M  20 A  L  T  E
+
+ワ タ シ シ de シ ン カ de "  シ ョ ウ キ ョ "  ス ル !
+dc c0 bc bc de bc dd b6 de 22 bc ae b3 b7 ae 22 bd d9 21 0f
+R  E  D  .  02 C  O  N  T  I  N  U  I  N  G  .  .  .  !
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
