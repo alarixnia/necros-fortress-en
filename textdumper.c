@@ -149,10 +149,12 @@ main(int argc, char **argv)
 	charset[0xcd] = "ヘ";
 	charset[0xce] = "ホ";
 	charset[0xcf] = "マ";
+	charset[0xd0] = "ミ";
 	charset[0xd1] = "ム";
 	charset[0xd2] = "メ";
 	charset[0xd3] = "モ";
 	charset[0xd4] = "ヤ";
+	charset[0xd5] = "ヤ";
 	charset[0xd6] = "ヨ";
 	charset[0xd7] = "ラ";
 	charset[0xd8] = "リ";
