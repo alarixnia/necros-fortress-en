@@ -2969,6 +2969,33 @@ A  T  20 "  8  "  .
 dc c0 bc bc de bc dd b6 de 22 bc ae b3 b7 ae 22 bd d9 21 0f
 R  E  D  .  02 C  O  N  T  I  N  U  I  N  G  .  .  .  !
 
+*「ビー!
+ヨキセヌシンニュウシャノタメ...サクセンハ...シッパイ...
+[...]
+...シカシ...ワレワレスベテガ、ヤブレタワケ...デハ...ナイ
+...テキノ...センリョクでーたヲ...テンソウスル...
+
+Beep!
+Strategy failure...
+However... all is not lost...
+Transmitting enemy's data...
+
+*  「 ヒ de ー !
+2a a2 cb de b0 21 02
+B  E  E  P  !  02 S
+
+ヨ キ セ ヌ シ ン ニ ュ ウ シ ャ ノ タ メ... サ ク セ ン ハ... シ ッ ハ df イ ...
+d6 b7 be c7 bc dd c6 ad b3 bc ac c9 c0 d2 eb bb b8 be dd ca eb bc af ca df b2 eb 02 05
+T  R  A  T  E  G  Y  20 F  A  I  L  U  R  E  .  .  .  05 02 B  U  T  20 A  L  L  20 I
+
+...シ カ シ... ワ レ ワ レ ス ヘ de テ カ de 、 ヤ フ de レ タ ワ ケ... テ de ハ... ナ イ
+eb bc b6 bc eb dc da dc da bd cd de c3 b6 de a4 d4 cc de da c0 dc b9 eb c3 de ca eb c5 b2
+S  20 N  O  T  20 L  O  S  T  .  .  .  05 02 T  R  A  N  S  M  I  T  T  I  N  G  20 E  N
+
+...テ キ ノ... セ ン リ ョ ク て de ー た ヲ... テ ン ソ ウ ス ル...
+eb c3 b7 c9 eb be dd d8 ae b8 83 de b0 80 a6 eb c3 dd bf b3 bd d9 eb 0f
+E  M  Y  '  S  20 D  A  T  A  .  .  .
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
