@@ -2728,6 +2728,34 @@ D  O  N  '  T  20 T  H  I  N  K  20 Y  O  U  20 C  A  N  20 R  E  S
 7e 87 7a 84 83 de 7d 85 21 eb 71 89 76 80 76 de eb 78 de 8c 6f 21 0f
 T  20 E  A  S  Y  20 N  O  W  .  .  .  20 U  G  H  .  .  .
 
+--- prisoners in vampire keep
+
+*「おお、8ゆうしゃのかたですか?
+わたしはリオアウのむらからさらわれたものです。
+[...]
+ちからのあるものは、さらにこのちかに
+つれていかれました。
+
+I was abducted from Rioau.
+The strong were taken
+further into the keep.
+
+*  「 お お 、 8  ゆ う し ゃ の か た て de す か ?
+2a a2 75 75 a4 38 95 73 7c 6c 89 76 80 83 de 7d 76 3f 02
+I  20 W  A  S  20 A  B  D  U  C  T  E  D  20 F  R  O  M
+
+わ た し は リ オ ア ウ の む ら か ら さ ら わ れ た も の て de す 。
+9c 80 7c 8a d8 b5 b1 b3 89 91 97 76 97 7b 97 9c 9a 80 93 89 83 de 7d a1 05 02
+20 R  I  O  A  U  .  02 05 T  H  E  20 S  T  R  O  N  G  20 W  E  R  E  20 T
+
+ち か ら の あ る も の は 、 さ ら に こ の ち か に
+81 76 97 89 71 99 93 89 8a a4 7b 97 86 7a 89 81 76 86 02
+A  K  E  N  20 F  U  R  T  H  E  R  20 I  N  T  O  20 T
+
+つ れ て い か れ ま し た 。
+82 9a 83 72 76 9a 8f 7c 80 a1 0f
+H  E  20 K  E  E  P  .
+
 --- attempting to go thru the id card door
 
 *「ピー!
