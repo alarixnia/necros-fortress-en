@@ -2858,6 +2858,56 @@ I wanna go home..
 2a a2 8a 94 78 a4 72 74 86 76 74 98 83 74 96 73 eb 0f
 I  20 W  A  N  N  A  20 G  O  20 H  O  M  E  .  .
 
+--- amazon in facility
+
+AMAZON「うちのいちぞくのコだわ!
+[...]
+*「ああ、おねえさま。
+やはりきてくださったのね。
+[...]
+AMAZON「めそめそしないの!
+あんた、とらわれているあいだに、オトコのまえで
+ないたりしなかったでしょうね?
+[...]
+*「もちろんです!...
+グスン
+AMAZON「よしよし、もうだいじょうぶよ。
+
+Sister!
+Oh, AMAZON. You came!
+[she sniffles]
+I promise I stayed strong
+in front of these men
+while in captivity.
+
+10 「 う ち の い ち そ de く の コ た de わ !
+10 a2 73 81 89 72 81 7f de 78 89 ba 80 de 9c 21 02 05
+S  I  S  T  E  R  !  02 05 O  H  ,  20 A  M  A  Z  O
+
+*  「 あ あ 、 お ね え さ ま 。 や は り き て く た de さ っ た の ね 。
+2a a2 71 71 a4 75 88 74 7b 8f a1 94 8a 98 77 83 78 80 de 7b 6f 80 89 88 a1 02 05
+N  .  20 Y  O  U  20 C  A  M  E  !  02 05 [  S  H  E  20 S  N  I  F  F  L  E  S
+
+10 「 め そ め そ し な い の !
+10 a2 92 7f 92 7f 7c 85 72 89 21 02
+]  02 05 I  20 P  R  O  M  I  S  E
+
+あ ん た 、 と ら わ れ て い る あ い た de に 、 オ ト コ の ま え て de
+71 9d 80 a4 84 97 9c 9a 83 72 99 71 72 80 de 86 a4 b5 c4 ba 89 8f 74 83 de 02
+20 I  20 S  T  A  Y  E  D  20 S  T  R  O  N  G  20 I  N  20 F  R  O  N  T  20
+
+な い た り し な か っ た て de し ょ う ね ?
+85 72 80 98 7c 85 76 6f 80 83 de 7c 6e 73 88 3f 02 05
+20 O  F  20 T  H  E  S  E  20 M  E  N  02 W  H  I  L 
+
+*  「 も ち ろ ん て de す !  ...ク de ス ン
+2a a2 93 81 9b 9d 83 de 7d 21 eb b8 de bd dd 02
+E  20 I  N  20 CA  P  T  I  V  I  T  Y .  02 05
+
+10 「 よ し よ し 、 も う た de い し de ょ う ふ de よ 。
+10 a2 96 7c 96 7c a4 93 73 80 de 72 7c de 6e 73 8c de 96 a1 0f
+[  T  H  E  Y  20 E  M  B  R  A  C  E  .  ]
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
