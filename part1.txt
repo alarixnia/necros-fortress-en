@@ -2908,6 +2908,36 @@ E  20 I  N  20 CA  P  T  I  V  I  T  Y .  02 05
 10 a2 96 7c 96 7c a4 93 73 80 de 72 7c de 6e 73 8c de 96 a1 0f
 [  T  H  E  Y  20 E  M  B  R  A  C  E  .  ]
 
+--- vampire facility, approaching bosses
+
+*「ワタシハめかろす。ねくろす7ニンシュウノヒトリ、
+ヤミノレンキンジュツシノめかろすダ!
+マッサツぷろぐらむハツドウ!
+シンニュウシャヲ"ショウキョ"セヨ!
+
+I am Mecharos, the Dark
+Alchemist of the Necros 7.
+(Activate the annihilation program!
+Erase the intruders!)
+Activate and erase the
+intruders!
+
+*  「 ワ タ シ ハ め か ろ す 。 ね く ろ す 7  ニ ン シ ュ ウ ノ ヒ ト リ 、
+2a a2 dc c0 bc ca 92 76 9b 7d a1 88 78 9b 7d 37 c6 dd bc ad b3 c9 cb c4 d8 a4 02
+I  20 A  M  20 M  E  C  H  A  R  O  S  ,  20 T  H  E  20 D  A  R  K  02 A  L  C
+
+ヤ ミ ノ レ ン キ ン シ de ュ ツ シ ノ め か ろ す タ de !
+d4 d0 c9 da dd b7 dd bc de ad c2 bc c9 92 76 9b 7d c0 de 21 02 05
+H  E  M  I  S  T  20 O  F  20 T  H  E  20 N  E  C  R  O  S  20 7
+
+マ ッ サ ツ ふ df ろ く de ら む ハ ツ ト de ウ !
+cf af bb c2 8c df 9b 78 de 97 91 ca c2 c4 de b3 21 02
+.  02 05 A  C  T  I  V  A  T  E  20 A  N  D  20 E  R
+
+シ ン ニ ュ ウ シ ャ ヲ "  シ ョ ウ キ ョ "  セ ヨ !
+bc dd c6 ad b3 bc ac a6 22 bc ae b3 b7 ae 22 be d6 21 0f
+A  S  E  20 T  H  E  20 I  N  T  R  U  D  E  R  S  !  
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
