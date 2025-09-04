@@ -326,6 +326,13 @@ Vam(pire) Key
 8b 90 82 89 76 77 de
 V  A  M  .  K  E  Y
 
+IDカード
+ID Card
+
+I  D  カ ー ド de
+49 44 b6 b0 c4 de
+I  D  C  A  R  D
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -888,6 +895,74 @@ Teleport
 テ レ ホ df ー シ ョ ン
 c3 da ce df b0 bc ae dd
 T  E  L  E  P  O  R  T
+
+ブリザード
+Blizzard
+
+フ de リ サ de ー ト de
+cc de d8 bb de b0 c4 de
+B  L  I  Z  Z  A  R  D
+
+ストップ
+Stop
+
+ス ト ッ プ
+bd c4 af cc df
+S  T  O  P  20
+
+
+アイスバレット
+Ice Bullet
+Ice Bllt.
+
+ア イ ス ハ de レ ッ ト
+b1 b2 bd ca de da af c4
+I  C  E  20 B  L  L  T
+
+クール
+Cold
+Cld
+
+ク ー ル
+b8 b0 d9
+C  L  D
+
+ゴッドブリザード
+God Blizzard
+
+コ de ッ ト de フ de リ サ de ー ド
+ba de af c4 de cc de d8 bb de b0 c4 de
+G  O  D  20 B  L  I  Z  Z  A  R  D  20
+
+ナパームストーム
+NapalmStorm
+FireStorm
+
+ナ ハ df ー ム ス ト ー ム
+c5 ca df b0 d1 bd c4 b0 d1
+F  I  R  E  S  T  O  R  M
+
+ハイホット
+High Hot
+
+ハ イ ホ ッ ト
+ca b2 ce af c4
+H  O  T  20 2
+
+リターン
+Return
+Exit
+
+リ タ ー ン
+d8 c0 b0 dd
+E  X  I  T
+
+ハイクール
+Cold 2
+
+ハ イ ク ー ル
+ca b2 b8 b0 d9
+C  O  L  D  2
 
 --- Amazon's spells
 
