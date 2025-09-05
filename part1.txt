@@ -2996,6 +2996,89 @@ S  20 N  O  T  20 L  O  S  T  .  .  .  05 02 T  R  A  N  S  M  I  T  T  I  N  G 
 eb c3 b7 c9 eb be dd d8 ae b8 83 de b0 80 a6 eb c3 dd bf b3 bd d9 eb 0f
 E  M  Y  '  S  20 D  A  T  A  .  .  .
 
+--- dialogue after defeating mecharos
+
+KNIGHT「おお、MERCENARY、AMAZON、それに
+MAGEどの!
+[...]
+バンパイヤはくしゃくのやぼうをくじいてくれた
+そうですな!
+おてつだいできなくて、もうしわけない!
+
+It seems you've thwarted (the ambitions of)
+the vamprie count!
+I'm sorry I couldn't help.
+
+14 「 お お 、 16 、 10 、 そ れ に
+14 a2 75 75 a4 16 a4 10 a4 7f 9a 86 02
+I  T  20 S  E  E  M  S  20 Y  O  U  '
+
+17 と de の !
+17 84 de 89 21 02 05
+V  E  20 T  H  W  A  
+
+ハ de ン ハ df イ ヤ は く し ゃ く の や ほ de う を く し de い て く れ た
+ca de dd ca df b2 d4 8a 78 7c 6c 78 89 94 8e de 73 66 78 7c de 72 83 78 9a 80 02
+R  T  E  D  02 T  H  E  20 V  A  M  P  I  R  E  20 C  O  U  N  T  20 !  02 05 I
+
+そ う て de す な !
+7f 73 83 de 7d 85 21 02
+'  M  20 S  O  R  R  Y
+
+お て つ た de い て de き な く て 、 も う し わ け な い !
+75 83 82 80 de 72 83 de 77 85 78 83 a4 93 73 7c 9c 79 85 72 21 02 05
+20 I  20 C  O  U  L  D  N  '  T  20 H  E  L  P  !
+
+マリン「あなた、ほんとうはつよかったのね!
+おとうさんをすくってくれて、ありがとう!
+
+You were strong (after all)!
+Thanks for saving dad!
+
+マ リ ン 「 あ な た 、 ほ ん と う は つ よ か っ た の ね !
+cf d8 dd a2 71 85 80 a4 8e 9d 84 73 8a 82 96 76 6f 80 89 88 21 02
+Y  O  U  20 W  E  R  E  20 S  T  R  O  N  G  !  02 T  H  A  N  K
+
+お と う さ ん を す く っ て く れ て 、 あ り か de と う !
+75 84 73 7b 9d 66 7d 78 6f 83 78 9a 83 a4 71 98 76 de 84 73 21 02 05
+S  20 F  O  R  20 S  A  V  I  N  G  20 D  A  D  !
+
+*「8ゆうしゃ、ばんざーい!
+Hooray (for) the 8 (heroes)!
+
+2a a2 38 95 73 7c 6c a4 8a de 9d 7b de b0 72 21 0f
+H  O  O  R  A  Y  ,  20 T  H  E  20  8  !
+
+MAGE「しかし、メカロスのいったことばが
+きにかかるのう。
+ネクロスの7にんのでしが
+うごきだしたのか?
+
+But I'm curious about Mechros's last
+words...
+Have Necros's allies
+begun to make a move...?
+
+17 a2 7c 76 7c a4 d2 b6 db bd 89 72 6f 80 7a 84 8a de 76 de 02
+B  U  T  20 I  '  M  20 C  U  R  I  O  U  S  20 A  B  O  U  T
+
+77 86 76 76 99 89 73 a1 c8 b8 db bd 89 37 86 9d 89 83 de 7c 76 de 02
+20 M  E  C  H  A  R  O  S  '  S  20 L  A  S  T  20 W  O  R  D  S  .
+
+73 7a de 77 80 de 7c 80 89 76 3f 02
+.  .  .  02 05 H  A  V  E  20 N  E
+
+02 05 14 a2 9d 3f 20
+C  R  O  S  '  S  20
+
+17 84 de 89 a4 85 86 76 72 9c 9a 8f 7c 80 76 3f 02 05
+7  20 A  L  L  I  E  S  02 B  E  G  U  N  20 T  O  20
+
+17 a2 72 94 a4 7a 6f 81 89 7a 84 7c de 6c 83 eb cc ab af cc ab 02 05
+M  A  K  E  20 A  20 M  O  V  E  .  .  .  ?
+
+4e 49 47 48 54 20 56 49 53 49 54 20 0f
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
@@ -3013,3 +3096,5 @@ S  A  M  U  R  A  I  20 B  E  T  R  A  Y  E  D  20 M  E
 
 80 89 91 a4 9c 7c 93 82 9a 83 72 6f 83 78 9a 21 04
 J  O  I  N  20 Y  O  U  .
+
+
