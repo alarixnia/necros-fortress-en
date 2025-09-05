@@ -3079,6 +3079,120 @@ M  A  K  E  20 A  20 M  O  V  E  .  .  .  ?
 
 4e 49 47 48 54 20 56 49 53 49 54 20 0f
 
+--- castle cutscene
+
+ここは、タンキリエおうこくのちゅうおうにいちするタ
+ンキリエじょう。
+
+This is Tankirie Castle, located in the heart of the kingdom.
+
+Tankirie Castle,
+The Land's Heart
+
+こ こ は 、 タ ン キ リ エ お う こ く の ち ゅ う お う に い ち す る タ
+7a 7a 8a a4 c0 dd b7 d8 b4 75 73 7a 78 89 81 6d 73 75 73 86 72 81 7d 99 02
+T  A  N  K  I  R  I  E  20 C  A  S  T  L  E  ,  02 T  H  E  20 L  A  N  D
+
+タ ン キ リ エ し de ょ う 。
+c0 dd b7 d8 b4 7c de 6e 73 a1 02
+'  S  20 H  E  A  R  T  .  20 02
+
+ロイ「KNIGHTのまちより、つかいでまいりました。
+タンキリエおう「わしが、タンキリエおうじゃ。
+じつは、たいへんなしらせがある。
+
+なんと、8ゆうしゃのひとりSAMURAIが、
+おうこくをうらぎり、ネクロスのざんとうに
+てをかしているらしいのじゃ!
+
+このけん、KNIGHTにちょうさをめいずる。
+もしほんとうなら、SAMURAIをうつのも
+やむをえん...
+
+ほかのゆうしゃにも、みなタンキリエのしろに
+あつまるよう、つうたつするがよい。
+
+Send word to Knight's
+Town. I have terrible
+news.
+
+One of the 8 heroes,
+Samurai, has betrayed us (the Kingdom)!
+
+Sir Knight must
+investigate (this matter) - if it's
+true, Samurai must be
+taken down.
+
+The other heroes must
+gather at the White Tower.
+
+ロ イ 「 14 の ま ち よ り 、 つ か い て de ま い り ま し た 。
+db b2 a2 14 89 8f 81 96 98 a4 82 76 72 83 de 8f 72 98 8f 7c 80 a1 02 05
+S  E  N  D  20 W  O  R  D  20 T  O  20 K  N  I  G  H  T  '  S  02 T  O
+
+タ ン キ リ エ お う 「 わ し か de 、 タ ン キ リ エ お う し de ゃ 。
+c0 dd b7 d8 b4 75 73 a2 9c 7c 76 de a4 c0 dd b7 d8 b4 75 73 7c de 6c a1 02
+W  N  .  20 I  20 H  A  V  E  20 T  E  R  R  I  B  L  E  02 N  E  W  S  .
+
+し de つ は 、 た い へ ん な し ら せ か de あ る 。
+7c de 82 8a a4 80 72 8d 9d 85 7c 97 7e 76 de 71 99 a1 02 05
+02 05 O  N  E  20 O  F  20 T  H  E  20 8  H  E  R  O  E  S
+
+な ん と 、 8  ゆ う し ゃ の ひ と り 12 か de 、
+85 9d 84 a4 38 95 73 7c 6c 89 8b 84 98 12 76 de a4 02
+,  02 S  A  M  U  R  A  I  ,  20 H  A  S  20 B  E  T
+
+お う こ く を う ら き de り 、 ネ ク ロ ス の さ de ん と う に
+75 73 7a 78 66 73 97 77 de 98 a4 c8 b8 db bd 89 7b de 9d 84 73 86 02
+R  A  Y  E  D  20 U  S  !  05 02 S  I  R  20 K  N  I  G  H  T  20 M
+
+て を か し て い る ら し い の し de ゃ !
+83 66 76 7c 83 72 99 97 7c 72 89 7c de 6c 21 02 05
+U  S  T  02 I  N  V  E  S  T  I  G  A  T  E  20 -
+
+こ の け ん 、 14 に ち ょ う さ を め い す de る 。
+7a 89 79 9d a4 14 86 81 6e 73 7b 66 92 72 7d de 99 a1 02
+20 I  F  20 I  T  '  S  02 T  R  U  E  ,  S  A  M  U  R  
+
+も し ほ ん と う な ら 、 12 を う つ の も 02 や む を え ん...
+93 7c 8e 9d 84 73 85 97 a4 12 66 73 82 89 93 02 94 91 66 74 9d eb 02 05
+A  I  20 M  U  S  T  20 B  E  02 T  A  K  E  N  20 D  O  W  N  .  02 05
+
+ほ か の ゆ う し ゃ に も 、 み な タ ン キ リ エ の し ろ に
+8e 76 89 95 73 7c 6c 86 93 a4 90 85 c0 dd b7 d8 b4 89 7c 9b 86 02 71 82 8f 99
+T  H  E  20 O  T  H  E  R  20 H  E  R  O  E  S  20 M  U  S  T  02 G  A  T  H
+
+96 73 a4 82 73 80 82 7d 99 76 de 96 72 a1 02 05 db b2 a2 8a 8a ec 6f 0f
+E  R  20 A  T  20 T  H  E  20 W  H  I  T  E  20 T  O  W  E  R  .  20
+
+--- back at knight's town
+
+ロイ「ほんとうです。
+なんでも、ショーグンとかいう
+おとことともに、ネクロスのざんとうにてをかして
+いるとか...
+
+Samurai's helping Necros's allies
+with a man named Shogun?
+
+KNIGHT「わかった...
+しかし、SAMURAIは、ともにたたかったなかまだ。
+きしだんをくりだしたくはない。
+
+But he was a comrade who fought with us...
+
+たのみがある。
+このことは、わたしがひとりで
+なんとかしたい。きしだんや、まちのものには、どうか
+だまっておいてくれ...
+
+I have an idea.
+This is something I can handle alone.
+Please keep it quiet...
+
+[ story 2 begins]
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
