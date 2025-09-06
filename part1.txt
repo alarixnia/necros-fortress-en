@@ -3045,9 +3045,10 @@ S  20 F  O  R  20 S  A  V  I  N  G  20 D  A  D  !
 
 *「8ゆうしゃ、ばんざーい!
 Hooray (for) the 8 (heroes)!
+Yay for the 8!
 
 2a a2 38 95 73 7c 6c a4 8a de 9d 7b de b0 72 21 0f
-H  O  O  R  A  Y  ,  20 T  H  E  20  8  !
+Y  A  Y  20 F  O  R  20 T  H  E  20  8  !
 
 MAGE「しかし、メカロスのいったことばが
 きにかかるのう。
@@ -3168,19 +3169,24 @@ E  R  20 A  T  20 T  H  E  20 W  H  I  T  E  20 T  O  W  E  R  .  20
 
 --- back at knight's town
 
+KNIGHT「な、なんと! あのSAMURAIが!?
+しんじられん!
+
 ロイ「ほんとうです。
 なんでも、ショーグンとかいう
 おとことともに、ネクロスのざんとうにてをかして
 いるとか...
 
-Samurai's helping Necros's allies
-with a man named Shogun?
+Samurai's helping Necros'
+allies with a man called
+Shogun?
 
 KNIGHT「わかった...
 しかし、SAMURAIは、ともにたたかったなかまだ。
 きしだんをくりだしたくはない。
 
-But he was a comrade who fought with us...
+But he was a comrade who
+fought with us...
 
 たのみがある。
 このことは、わたしがひとりで
@@ -3188,27 +3194,52 @@ But he was a comrade who fought with us...
 だまっておいてくれ...
 
 I have an idea.
-This is something I can handle alone.
-Please keep it quiet...
+This is something I can
+handle alone.  Please keep
+it quiet. Tell no-one...
 
 [ story 2 begins]
 
---- ???
+14 「 な 、 な ん と !  20 あ の 12 か de !  ?
+14 a2 85 a4 85 9d 84 21 20 71 89 12 76 de 21 3f 02
+S  A  M  U  R  A  I  '  S  20 H  E  L  P  I  N  G
 
-「わしには、SAMURAIがうらぎったなんて
-しんじられん。
-たのむ、わしもつれていってくれ!
+し ん し de ら れ ん !
+7c 9d 7c de 97 9a 9d 21 02 05
+N  E  C  R  O  S  '  02 A  L
 
-(I can't believe) SAMURAI betrayed me!
-Let me join you!
+ロ イ 「 ほ ん と う て de す  。な ん て de も 、 シ ョ ー ク de ン と か い う
+db b2 a2 8e 9d 84 73 83 de 7d a1 85 9d 83 de 93 a4 bc ae b0 b8 de dd 84 76 72 73 02
+L  I  E  S  20 W  I  T  H  20 A  20 M  A  N  20 N  A  M  E  D  02 S  H  O  G  U  N
 
-a2 9c 7c 86 8a a4 12 76 de 73 97 77 de 6f 80 85 9d 83 02
-S  A  M  U  R  A  I  20 B  E  T  R  A  Y  E  D  20 M  E
+お と こ と と も に 、 ネ ク ロ ス の さ de ん と う に て を か し て
+75 84 7a 84 84 93 86 a4 c8 b8 db bd 89 7b de 9d 84 73 86 83 66 76 7c 83 02
+?  02 05 B  U  T  20 H  E  20 W  A  S  20 A  20 C  O  M  R  A  D  E  20 W
 
-7c 9d 7c de 97 9a 9d a1 02
-!  02 L  E  T  20 M  E  20
+い る と か ...
+72 99 84 76 eb 02 05
+H  O  02 F  O  U  G
 
-80 89 91 a4 9c 7c 93 82 9a 83 72 6f 83 78 9a 21 04
-J  O  I  N  20 Y  O  U  .
+14 「 わ か っ た...
+14 a2 9c 76 6f 80 eb 02
+H  T  20 W  I  T  H  20
 
+し か し 、 12 はk 、と も に た た か っ た な か ま た de 。
+7c 76 7c a4 12 8a a4 84 93 86 80 80 76 6f 80 85 76 8f 80 de a1 02
+U  S  .  .  .  02 05 I  20 H  A  V  E  20 A  N  20 I  D  E  A  .
 
+き し た de ん を く り た de し た く は な い 。
+77 7c 80 de 9d 66 78 98 80 de 7c 80 78 8a 85 72 a1 02 05
+20 T  H  I  S  20 I  S  20 S  O  M  E  T  H  I  N  G  20
+
+た の み か de あ る 。 こ の こ と は 、 わ た し か de ひ と り でde
+80 89 90 76 de 71 99 a1 7a 89 7a 84 8a a4 9c 80 7c 76 de 8b 84 98 83 de 02
+I  20 C  A  N  02 H  A  N  D  L  E  20 A  L  O  N  E  .  02 05 P  L  E  A
+
+な ん と か し た い 。 き し た de ん や 、 ま ち の も の に は 、 と de う か
+85 9d 84 76 7c 80 72 a1 77 7c 80 de 9d 94 a4 8f 81 89 93 89 86 8a a4 84 de 73 76 02
+S  E  20 K  E  E  P  02 I  T  20 Q  U  I  E  T  .  20 T  E  L  L  20 N  O  -  O  N
+
+た de ま っ て お い て く れ...
+80 de 8f 6f 83 75 72 83 78 9a eb 0f
+E  .  .  .
