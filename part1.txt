@@ -567,6 +567,16 @@ our inn.
 や ど de や に は い る ん じ de ゃ ぞ de き
 94 84 de 94 86 8a 72 99 9d 7c de 6c 7f de 21 0f
 
+--- cat
+
+*「にゃーにゃー
+
+Nya nya.
+
+*  「 に ゃ ー に ゃ ー
+2a a2 86 6c b0 86 6c b0 0f
+N  Y  A  20 N  Y  A  .
+
 --- other old man in village
 
 *「たびにでるときは、なるべくたくさん
