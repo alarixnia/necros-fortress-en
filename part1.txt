@@ -588,12 +588,25 @@ medicines.
 *「よいしょ、よいしょ!
 ああ、まいにちみずくみがたいへん!
 
-*"Come on, come on!
-Oh, it's so hard to get up every day!
-It's so hard to get up every day.
+*Heave-ho, heave-ho!
+Oh dear, fetching water every day is such a bother!
+Every day, hauling up water...!
 
 あ あ 、 ま い に ち み ず de く み が de た い へ ん !
 71 71 a4 8f 72 86 81 90 7d de 78 90 76 de 80 72 8d 9d 21
+
+After getting the cross hidden in the well:
+
+*「たいへん!
+いどのみずがかれているわ!
+Oh dear, the well dried up!
+Oh dear, the well is dry!
+
+2a a2 80 72 8d 9d 21 02
+O  H  20 D  E  A  R  ,
+
+72 84 de 89 90 7d de 76 de 76 9a 83 72 99 9c 21 0f
+20 T  H  E  20 W  E  L  L  '  S  20 D  R  Y  !
 
 --- maid in house north of inn
 
@@ -814,6 +827,31 @@ U  S  E  20 I  T  20 T  O  20 O  P  E  N  20 T  H  E  02 C  O  U  N  T  '  S  20
 や か た に は い れ る は す de て de す 。
 94 76 80 86 8a 72 9a 99 8a 7d de 83 de 7d a1 0f
 O  R  E  S  T  20 M  A  N  S  I  O  N  .
+
+*「おねがいです。はくしゃくをたおしてください。
+
+Please, defeat the count.
+
+2a a2 75 88 76 de 72 83 de 7d a1 8a 78 7c 6c 78 66 80 75 7c 83 78 80 de 7b 72 a1 0f
+P  L  E  A  S  E  ,  20 D  E  F  E  A  T  20 T  H  E  20 C  O  U  N  T.
+
+After curing Sylvia:
+
+*「おおゆうしゃさま、なんともおれいの
+しようもありません。
+
+Dear hero, how can I possibly
+thank you?
+
+I can't thank you enough.
+
+*  「 お お ゆ う し ゃ さ ま 、 な ん と も お れ い の
+2a a2 75 75 95 73 7c 6c 7b 8f a4 85 9d 84 93 75 9a 72 89 02
+I  20 C  A  N  '  T  20 T  H  A  N  K  20 Y  O  U  20 E  N
+
+し よ う も あ り ま せ ん 。
+7c 96 73 93 71 98 8f 7e 9d a1 0f
+O  U  G  H  . 
 
 --- blue haired girl (Marin)
 
@@ -2642,6 +2680,14 @@ a choice.)
 10 は 、 う む を い わ さ す de な か ま に く わ わ っ た !
 10 8a a4 73 91 66 72 9c 7b 7d de 85 76 8f 86 78 9c 9c 6f 80 21 02
 A  M  A  Z  O  N  20 Q  U  I  C  K  L  Y  20 J  O  I  N  S  !
+
+--- curing sylvia
+
+*「... あ、あら? ここは?
+... Where am I?
+
+2a a2 eb 71 a4 71 97 3f 20 7a 7a 8a 3f 0f
+.  .  W  H  E  R  E  20 A  M  20 I  ?
 
 --- mysterious woman in forest
 

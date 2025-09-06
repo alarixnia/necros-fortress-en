@@ -326,6 +326,13 @@ Vam(pire) Key
 8b 90 82 89 76 77 de
 V  A  M  .  K  E  Y
 
+じゅうじか
+Cross
+
+じ de ゅ う じ de か
+7c de 6d 73 7c de 76 
+C  R  O  S  S  20 20
+
 IDカード
 ID Card
 
