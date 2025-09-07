@@ -66,6 +66,72 @@ A  R  E  20 Y  O  U  20 G  O  I  N  G  20 T  O  20 F  I
 84 de 73 76 a4 7a de 8c de 7c de 83 de 21 0f
 G  H  T  02 S  A  M  U  R  A  I  .  .  ?
 
+--- knight's town village rumours
+
+*「まのもりをこえたところに、リオという
+うつくしいむらがあるんですよ。
+
+Beyond the forest lies
+Rio village.
+
+* 「  ま の も り を こ え た と こ ろ に 、 リ オ と い う
+2a a2 8f 89 93 98 66 7a 74 80 84 7a 9b 86 a4 d8 b5 84 72 73 02
+B  E  Y  O  N  D  20 T  H  E  20 F  O  R  E  S  T  20 L  I  E
+
+う つ く し い む ら か de あ る ん て de す よ 。
+73 82 78 7c 72 91 97 76 de 71 99 9d 83 de 7d 96 a1 0f
+S  02 R  I  O  20 V  I  L  L  A  G  E  .
+
+*「ゆうしゃのオノをしっていますか?
+DWARFがつかえば、いわをもくだくといわれて
+います。
+
+(Do you know the Hero's Axe?)
+A dwarf can cut (through) solid
+rock with a Hero's Axe.
+
+*  「 ゆ う し ゃ の オ ノ を し っ て い ま す か ?
+2a a2 95 73 7c 6c 89 b5 c9 66 7c 6f 83 72 8f 7d 76 3f 02
+A  20 D  W  A  R  F  20 C  A  N  20 C  U  T  20 S  O  L
+
+13 か de つ か え ばde 、 い わ を も く た de く と い わ れ て 02 い ま す 。
+13 76 de 82 76 74 8a de a4 72 9c 66 93 78 80 de 78 84 72 9c 9a 83 02 72 8f 7d a1 0f
+I  D  02 R  O  C  K  20 W  I  T  H  20 A  20 H  E  R  O  '  S  20 A  X  E  .
+
+*「リオのむらでは、ものすごいオノを
+うっているらしいですよ。
+
+(I hear) a great axe is for sale
+in Rio.
+
+*  「 リ オ の む ら て de は 、 も の す こ de い オ ノ を
+2a a2 d8 b5 89 91 97 83 de 8a a4 93 89 7d 7a de 72 b5 c9 66 02
+A  20 G  R  E  A  T  20 A  X  E  20 I  S  20 F  O  R  20 S  A
+
+う っ て い る ら し い て de す よ 。
+73 6f 83 72 99 97 7c 72 83 de 7d 96 a1 0f
+L  E  20 I  N  20 R  I  O  .
+
+*「リオのむらのみなみに、シドというむらが
+あります。
+どちらも、とてもうつくしい
+むらですわ。
+
+To the south of Rio is (the village) Cid.
+Both are beautiful.
+
+*  「 リ オ の む ら の み な み に 、 シ ト de と い う む ら が
+2a a2 d8 b5 89 91 97 89 90 85 90 86 a4 bc c4 de 84 72 73 91 97 76 de 02
+T  O  20 T  H  E  20 S  O  U  T  H  20 O  F  20 R  I  O  20 I  S  02 C
+
+あ り ま す 。 と de ち ら も 、 と て も う つ く し い
+71 98 8f 7d a1 84 de 81 97 93 a4 84 83 93 73 82 78 7c 72 02
+I  D  .  20 B  O  T  H  20 A  R  E  20 B  E  A  U  T  I  F
+
+む ら て de す わ 。
+91 97 83 de 7d 9c a1 0f
+U  L  .
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
