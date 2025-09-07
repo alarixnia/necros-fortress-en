@@ -8,6 +8,64 @@ Betrayal...?
 73 97 77 de 98 89 20 cc de d9 b0 bd 02
 B  E  T  R  A  Y  A  L  .  .  .  ?
 
+--- knights around castle
+
+*「じつは、せんじつ、SAMURAIさまが
+おもいつめたかおで、たずねてきたのです。
+[...]
+KNIGHTさまに、ごそうだんごとが
+あったらしいのですが...
+
+Last month, Samurai
+seemed troubled.
+He wanted to discuss
+something...
+
+*  「 し de つ は 、 せ ん し de つ 、 12 さ ま がde
+2a a2 7c de 82 8a a4 7e 9d 7c de 82 a4 12 7b 8f 76 de 02
+L  A  S  T  20 M  O  N  T  H  ,  20 S  A  M  U  R  A  I
+
+お も い つ め た か  おて de 、 た す de ね て き た の て de す 。
+75 93 72 82 92 80 76 75 83 de a4 80 7d de 88 83 77 80 89 83 de 7d a1 02 05
+02 S  E  E  M  E  D  20 T  R  O  U  B  L  E  D  .  .  .  02 05 H  E  20 W
+
+14 さ ま に 、 こ de そ う た de ん こ de と か de
+14 7b 8f 86 a4 7a de 7f 73 80 de 9d 7a de 84 76 de 02
+A  N  T  E  D  20 T  O  20 D  I  S  C  U  S  S  02 S  
+
+あ っ た ら し い の て de す か de...
+71 6f 80 97 7c 72 89 83 de 7d 76 de eb 0f
+O  M  E  T  H  I  N  G  .  .  .  20 20
+
+*「いま、まのもりは、かいぶつだらけて
+とてもきけんですよ。
+
+It's very dangerous in
+the forest (right now).
+
+*  「 い ま 、 ま の も り は 、 か い ふ de つ た de ら け て de
+2a a2 72 8f a4 8f 89 93 98 8a a4 76 72 8c de 82 80 de 97 79 83 de 02
+I  T  '  S  20 V  E  R  Y  20 D  A  N  G  E  R  O  U  S  20 I  N  02
+
+と て も き け ん て de す よ 。
+84 83 93 77 79 9d 83 de 7d 96 a1 0f
+T  H  E  20 F  O  R  E  S  T  .
+
+*「SAMURAIをたおしにいかれるのですか?
+どうか、ごぶじで!
+
+Are you going to fight
+Samurai?
+(Please be careful!)
+
+*  「 12 を た お し に い か れ る の て de す か ?
+2a a2 12 66 80 75 7c 86 72 76 9a 99 89 83 de 7d 76 3f 02
+A  R  E  20 Y  O  U  20 G  O  I  N  G  20 T  O  20 F  I
+
+と de う か 、 こ de ふ de し de て de !
+84 de 73 76 a4 7a de 8c de 7c de 83 de 21 0f
+G  H  T  02 S  A  M  U  R  A  I  .  .  ?
+
 --- ???
 
 「わしには、SAMURAIがうらぎったなんて
