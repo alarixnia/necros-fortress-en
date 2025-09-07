@@ -82,6 +82,20 @@ B  E  Y  O  N  D  20 T  H  E  20 F  O  R  E  S  T  20 L  I  E
 73 82 78 7c 72 91 97 76 de 71 99 9d 83 de 7d 96 a1 0f
 S  02 R  I  O  20 V  I  L  L  A  G  E  .
 
+*「まのもりには、
+かいぶつのきちがあるらしい。
+
+Something lurks in the forest.
+Evil lives in the forest.
+
+* 「  ま の も り に は 、
+2a a2 8f 89 93 98 86 8a a4 02
+E  V  I  L  20 L  I  V  E  S
+
+か い ふ de つ の き ち か de あ る ら し い 。
+76 72 8c de 82 89 77 81 76 de 71 99 97 7c 72 a1 0f
+20 I  N  20 T  H  E  20 F  O  R  E  S  T  .
+
 *「ゆうしゃのオノをしっていますか?
 DWARFがつかえば、いわをもくだくといわれて
 います。
@@ -131,6 +145,22 @@ I  D  .  20 B  O  T  H  20 A  R  E  20 B  E  A  U  T  I  F
 む ら て de す わ 。
 91 97 83 de 7d 9c a1 0f
 U  L  .
+
+--- knight sleeping at inn
+
+*「お... おれは、みたんだ。まのもりのはずれに、
+でっかいかいぶつのとりでが...
+
+... I saw it. At the edge of the forest.
+Something huge...
+
+*  「 お... お れ は 、 み た ん た de 。 ま の も り の は す de れ に 、
+2a a2 75 eb 75 9a 8a a4 90 80 9d 80 de a1 8f 89 93 98 89 8a 7d de 9a 86 a4 02
+.  .  .  I  20 S  A  W  20 I  T  .  20 A  T  20 T  H  E  20 E  D  G  E  20 O
+
+て de っ か い か い ふ de つ の と り て de か de ...
+83 de 6f 76 72 76 72 8c de 82 89 84 98 83 de 76 de eb 0f
+F  20 T  H  E  20 F  O  R  E  S  T  .  .  . 
 
 --- ???
 
