@@ -929,6 +929,83 @@ St.Mace
 bd c1 b0 d9 d2 b2 bd
 S  T  .  M  A  C  E
 
+ナイトのけん
+Knight's Sword
+KSword
+
+ほのおのけん
+FSword
+
+ほ の お の け ん
+8e 89 75 89 79 9d
+F  S  W  O  R  D
+
+ナ イ ト の け ん
+c5 b2 c4 89 79 9d
+K  S  W  O  R  D
+
+ナイトのよろい
+Knight's Armour
+KnArmor
+
+ナ イ ト の よ ろ い
+c5 b2 c4 89 96 9b 72
+K  N  A  R  M  O  R
+
+しろがねのよろい
+Silk Armour
+SilkArmor
+
+し ろ か de ね の よ ろ い
+7c 9b 76 de 88 89 96 9b 72
+S  I  L  K  A  R  M  O  R
+
+ぎんよくのよろい
+Silver Armour
+SilverArm
+
+き de ん よ く の よ ろ い
+77 de 9d 96 78 89 96 9b 72
+S  I  L  V  E  R  A  R  M
+
+オリハルのよろい
+Orcish Armour
+OrcArmor
+
+オ リ ハ ル の よ ろ い
+b5 d8 ca d9 89 96 9b 72
+O  R  C  A  R  M  O  R
+
+くさりかたびら
+Chain Mail
+
+く さ り か た ひ de ら
+78 7b 98 76 80 8b de 97
+C  H  A  I  N  M  A  I
+
+ドワーフかたびら
+Dwarven Hat
+
+ト de ワ ー フ か た ひ de ら
+c4 de dc b0 cc 76 80 8b de 97
+D  W  A  R  F  20 H  A  T  de
+
+ティンカーメール
+Tinkermail
+TinkMail
+
+テ ィ ン カ ー メ ー ル
+c3 a8 dd b6 b0 d2 b0 d9
+T  I  N  K  M  A  I  L
+
+トールのかたびら
+Thor's Armour
+Thor Mail
+
+ト ー ル の か た ひ de ら
+c4 b0 d9 89 76 80 8b de 97
+T  H  O  R  20 M  A  I  L
+
 --- Mage's spells
 
 ファイヤー
