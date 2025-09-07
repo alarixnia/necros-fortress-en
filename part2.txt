@@ -162,7 +162,7 @@ Something huge...
 83 de 6f 76 72 76 72 8c de 82 89 84 98 83 de 76 de eb 0f
 F  20 T  H  E  20 F  O  R  E  S  T  .  .  . 
 
---- ???
+--- cutscene with dwarf
 
 「わしには、SAMURAIがうらぎったなんて
 しんじられん。
@@ -180,3 +180,32 @@ S  A  M  U  R  A  I  20 B  E  T  R  A  Y  E  D  20 M  E
 80 89 91 a4 9c 7c 93 82 9a 83 72 6f 83 78 9a 21 04
 J  O  I  N  20 Y  O  U  .
 
+--- mage's dialogue in castle
+
+MAGE「ひがしのほうに、おおきなもりがある。
+そこがまのもりじゃ。
+
+To the east is the Demon
+Forest.
+
+17 「 ひ か de し の ほ う に 、 お お き な も り か de あ る 。
+17 a2 8b 76 de 7c 89 8e 73 86 a4 75 75 77 85 93 98 76 de 71 99 a1 02
+T  O  20 T  H  E  20 E  A  S  T  20 I  S  20 T  H  E  20 D  E  M  O
+
+そ こ か de ま の も り し de ゃ 。
+N  02 F  O  R  E  S  T  .
+7f 7a 76 de 8f 89 93 98 7c de 6c a1 0f
+
+--- amazon's dialogue in castle
+
+AMAZON「SAMURAIは、まのもりにいるらしいわ。
+きをつけていってくることね。
+
+Samurai's in the Demon Forest.
+Take care.
+
+10 a2 12 8a a4 8f 89 93 98 86 72 99 97 7c 72 9c a1 02
+C  A  R  E  F  U  L  ,  20 S  A  M  U  R  A  I  '  S
+
+77 66 82 79 83 72 6f 83 78 99 7a 84 88 a1 0f
+20 I  N  20 T  H  E  20 F  O  R  E  S  T  .
