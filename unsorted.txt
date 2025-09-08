@@ -425,8 +425,31 @@ SPELL
 02 20 7c de 6d 93 9d
 S  P  E  L  L  02 20
 
+つのぶえ
+SONGS
+
+93 02 20 つ の ふ de え
+93 02 20 82 89 8c de 74 00 3f 2d 92 02 00
+93 02 20 S  O  N  G  S
+
+ けんしdeゅつ
+Martial Arts
+ARTS
+
+93 02 20 79 9d 7c de 6d 82
+93 02 20 け ん し de ゅ つ
+93 02 20 M  .  A  R  T  S 
+
+ ツホdeつき
+Pressure
+POWER
+
+93 02 20 ツ ホ de つ き
+93 02 20 c2 ce de 82 77 00 3f
+93 P  O  W  E  R  02 20
+
 うんたdeめし
-LUCKY
+LUCK?
 
 う ん た de め し
 73 9d 80 de 92 7c
@@ -937,6 +960,13 @@ St.Mace
 bd c1 b0 d9 d2 b2 bd
 S  T  .  M  A  C  E
 
+ドワーフハンマー
+Dwarf Hammer
+
+ト de ワ ー フ ハ ン マ ー
+c4 de dc b0 cc ca dd cf b0
+D  .  H  A  M  M  M  E  R
+
 ナイトのけん
 Knight's Sword
 KSword
@@ -1188,6 +1218,15 @@ Summon Dragon D
 サ モ ン ト de ラ コ de ン D
 bb d3 dd c4 de d7 ba de dd
 C  A  L  L  D  R  A  G  20 D
+
+--- Dwarf's spells
+
+れつだんのつぼ
+Sever Pot
+
+れ つ た de ん の つ ぼ
+9a 82 80 de 9d 89 82 8e de
+S  E  V  E  R  20 P  O  T
 
 --- Chests
 
