@@ -409,3 +409,252 @@ A  T  20 T  H  E  20 G  R  E  A  T  20 T  R  E  E  20 T  O  20 T  H  E
 は や く い っ て お あ け de な さ い...
 8a 94 78 72 6f 83 75 71 79 de 85 7b 72 eb 0f
 20 I  S  20 W  A  I  T  I  N  G  .  .  .
+
+--- rio villagers
+
+*「またあんたか!
+いいかげん、このむらからでていってくれないか。
+
+You again!
+Please get out of Rio.
+
+*  「 ま た あ ん た か !
+2a a2 8f 80 71 9d 80 76 21 02
+Y  O  U  20 A  G  A  I  N  ?
+
+い い か け de ん 、 こ の む ら か ら て de て い っ て く れ な い か 。
+72 72 76 79 de 9d a4 7a 89 91 97 76 97 83 de 83 72 6f 83 78 9a 85 72 76 a1 0f
+!  02 P  L  E  A  S  E  20 G  E  T  20 O  U  T  20 O  F  20 R  I  O  .
+
+*「なんみんセンター?
+そういえば、シドのむらにはそんなのがあったなあ。
+
+That parcel?
+It's for the Cid refuge (refugee centre).
+
+*  「 な ん み ん セ ン タ ー ?
+2a a2 85 9d 90 9d be dd c0 b0 3f 02
+T  H  A  T  20 P  A  R  C  E  L  ?
+
+そ う い え は de 、 シ ト de の む ら に は そ ん な の があ っ た な あ 。
+7f 73 72 74 8a de a4 bc c4 de 89 91 97 86 8a 7f 9d 85 89 76 de 71 6f 80 85 71 a1 0f
+02 I  T  '  S  20 F  O  R  20 T  H  E  20 C  I  D  20 R  E  F  U  G  E  .
+
+*「シドのむらかい?
+まのもりをみなみへぬけて、かいぶつのとりでを
+こえたところだぜ。
+
+Cid? It's due south, (through Demon Forest,) past the
+monsters' lair.
+
+*  「 シ ト de の む ら か い ?
+2a a2 bc c4 de 89 91 97 76 72 3f 02
+C  I  D  ?  02 I  T  '  S  20 D  U
+
+ま の も り を み な み へ ぬ け て 、 か い ふ de つ の と り て de を
+8f 89 93 98 66 90 85 90 8d 87 79 83 a4 76 72 8c de 82 89 84 98 83 de 66 02
+E  20 S  O  U  T  H  ,  20 P  A  S  T  20 T  H  E  02 M  O  N  S  T  E  R
+
+こ え た と こ ろ た de せ de 。
+7a 74 80 84 7a 9b 80 de 7e de a1 0f
+S  '  20 L  A  I  R  .
+
+*「ここは、リオのむらです。
+
+This is Rio village.
+
+*「よう、KNIGHT!
+またいっしょにのもうぜ!
+
+Hey, Knight! Let's drink together again!
+
+*  「 よ う 、 14 !
+2a a2 96 73 a4 14 21 02
+H  E  Y  !  20 L  E  T
+
+ま た い っ し ょ に の も う せ de !
+8f 80 72 6f 7c 6e 86 89 93 73 7e de 21 0f
+'  S  20 D  R  I  N  K  !
+
+*「ここはどこかって?
+なにいってる。
+リオのむらにきまっているだろ!
+
+What are you saying (talking about)? This is Rio!
+
+*  「 こ こ は と de こ か っ て ?
+2a a2 7a 7a 8a 84 de 7a 76 6f 83 3f 02
+W  H  A  T  20 A  R  E  20 Y  O  U  20
+
+な に い っ て る 。 リ オ の む ら に き ま っ て い る た de ろ !
+85 86 72 6f 83 99 a1 d8 b5 89 91 97 86 77 8f 6f 83 72 99 80 de 9b 21 0f
+S  A  Y  I  N  G  ? 20 T  H  I  S  20 I  S  20 R  I  O  !
+
+*「うわっ、KNIGHTじゃないか!
+かってにはいってこないでくれ。
+
+(Blimey, Sir Knight!)
+Don't just barge in!
+
+*  「 う わ っ 、 14 し de ゃ な い か !
+2a a2 73 9c 6f a4 14 7c de 6c 85 72 76 21 02
+D  O  N  '  T  20 J  U  S  T  20 B  A  R  G
+
+か っ て に は い っ て こ な い て de く れ 。
+76 6f 83 86 8a 72 6f 83 7a 85 72 83 de 78 9a a1 0f
+E  20 I  N  20 T  O  20 M  Y  20 H  O  M  E  !
+
+*「シドのむらにいきたい?
+あそこは、ショーグンにおそわれて、むちゃくちゃに
+なっているぞ。
+
+(Heading to Cid?)
+I heard it was ransacked by Shogun's forces.
+I heard Cid was ransacked by Shogun's forces.
+
+*  「 シ ト de の む ら に い き た い ?
+2a a2 bc c4 de 89 91 97 86 72 77 80 72 3f 02
+I  20 H  E  A  R  D  20 C  I  D  20 W  A  S 
+
+あ そ こ は 、 シ ョ ー ク de ン に お そ わ れ て 、 む ち ゃ く ち ゃ に
+71 7f 7a 8a a4 bc ae b0 b8 de dd 86 75 7f 9c 9a 83 a4 91 81 6c 78 81 6c 86 02
+20 R  A  N  S  A  C  K  E  D  20 B  Y  20 S  H  O  G  U  N  '  S  20 F  O  R
+
+な っ て い る そ de 。
+85 6f 83 72 99 7f de a1 0f
+C  E  S  .
+
+*「いらっしゃ...
+なんだ、KNIGHTか。
+
+Welcome...
+Oh hi, Knight.
+
+*  「 い ら っ し ゃ...
+2a a2 72 97 6f 7c 6c eb 02
+O  H  ,  20 H  I  20 K  N
+
+な ん た de 、 14 か 。
+85 9d 80 de a4 14 76 a1 0f
+I  G  H  T  .  .  .  20
+
+*「KNIGHTさん! 
+あなたもゆうしゃのはしくれなら、
+かいぶつたちをなんとかしたらどうです?
+
+Knight!
+If you're a hero, why don't you do
+something about the monsters?
+
+2a a2 14 7b 9d 21 20 02
+W  H  Y  20 D  O  N  '
+
+71 85 80 93 95 73 7c 6c 89 8a 7c 78 9a 85 97 a4 02
+T  20 Y  O  U  20 D  O  20 S  O  M  E  T  H  I  N
+
+76 72 8c de 82 80 81 66 85 9d 84 76 7c 80 97 84 de 73 83 de 7d 3f 0f
+G  20 A  B  O  U  T  20 T  H  E  20 M  O  N  S  T  E  R  S  ?
+
+*「シドのむらが、かいぶつにおそわれたってさ。
+ここもいずれは...
+
+I heard monsters attacked Cid...
+(Sooner or later, monsters will attack Rio too...)
+
+*  「 シ ト de の む ら か de 、 か い ふ de つ に お そ わ れ た っ て さ 。
+2a a2 bc c4 de 89 91 97 76 de a4 76 72 8c de 82 86 75 7f 9c 9a 80 6f 83 7b a1 02
+I  20 H  E  A  R  D  20 M  O  N  S  T  E  R  S  20 A  T  T  A  C  K  E  D  20 C
+
+こ こ も い す de れ は...
+7a 7a 93 72 7d de 9a 8a eb 0f
+I  D  .  .  . 
+
+*「チョンマゲに、かためのおとこ?
+そういえば、かいぶつにめいれいしていたのは、
+そんなひとだったわ。
+
+A stern man with a topknot?
+He was giving orders to the monsters.
+
+A stern man with a topknot was ordering the
+monsters.
+
+*  「 チ ョ ン マ ケ de に 、 か た め の お と こ ?
+2a a2 c1 ae dd cf b9 de 86 a4 76 80 92 89 75 84 7a 3f 02
+A  20 S  T  E  R  N  20 M  A  N  20 W  I  T  H  20 A  20
+
+そ う い え は de 、 か い ふ de つ に め い れ い し て い た の は 、
+7f 73 72 74 8a de a4 76 72 8c de 82 86 92 72 9a 72 7c 83 72 80 89 8a a4 02
+T  O  P  K  N  O  T  20 W  A  S  20 O  R  D  E  R  I  N  G  20 T  H  E  20
+
+そ ん な ひ と た de っ た わ 。
+7f 9d 85 8b 84 80 de 6f 80 9c a1 0f
+M  O  N  S  T  E  R  S  .  .  .
+
+*「のんだくれのKNIGHTが、なんのようだ?
+What do you want, drunk knight?
+The drunk knight again?
+Another drunk knight?
+
+2a a2 89 9d 80 de 78 9a 89 14 76 de a4 85 9d 89 96 73 80 de 3f 0f
+A  N  O  T  H  E  R  20 D  R  U  N  K  20 K  N  I  G  H  T  ?
+
+--- genkai intro
+
+ゲンカイ「わしのなは、ゲンカイ。
+むかし、SAMURAIとショーグンにけんをおしえた
+ししょうじゃ。
+[...]
+SAMURAIとショーグンは、きょうだいでし。
+...そして、しんゆうじゃった。たがいのためなら
+じぶんのいのちもなげだすほどのな。
+[...]
+しかし、ふたりともあくじをはたらくような
+ヤツらではけっしてない。
+[...]
+うらで、いとをひいているもののけはいがする...
+
+My name is Genkai.
+
+Long ago, I taught Shogun and Samurai.
+They were like brothers,
+sworn to protect each
+other, but never evil.
+
+I sense something manipulating them both...
+
+ケ de ン カ イ 「 わ し の な は 、 ケ de ン カ イ 。
+b9 de dd b6 b2 a2 9c 7c 89 85 8a a4 b9 de dd b6 b2 a1 02
+M  Y  20 N  A  M  E  20 I  S  20 G  E  N  K  A  I  .  02
+
+む か し 、 12 と シ ョ ー ク de ン に け ん を お し え た
+91 76 7c a4 12 84 bc ae b0 b8 de dd 86 79 9d 66 75 7c 74 80 02
+L  O  N  G  20 A  G  O  ,  20 I  20 T  A  U  G  H  T  20 S  H
+
+し し ょ う し de ゃ 。
+7c 7c 6e 73 7c de 6c a1 02 05
+O  G  U  N  20 A  N  D  20 S
+
+12 と シ ョ ー ク de ン は 、 き ょ う た de い て de し 。
+12 84 bc ae b0 b8 de dd 8a a4 77 6e 73 80 de 72 83 de 7c a1 02
+A  M  U  R  A  I  .  02 05 T  H  E  Y  20 W  E  R  E  20 L  I
+
+...そ し て 、 し ん ゆ う し de ゃ っ た 。 た か de い の た め な ら
+eb 7f 7c 83 a4 7c 9d 95 73 7c de 6c 6f 80 a1 80 76 de 72 89 80 92 85 97 02
+K  E  20 B  R  O  T  H  E  R  S  ,  02 S  W  O  R  N  20 T  O  20 P  R  O
+
+し de ふ de ん の い の ち も な け de た de す ほ と de の な 。
+7c de 8c de 9d 89 72 89 81 93 85 79 de 80 de 7d 8e 84 de 89 85 a1 02 05
+T  E  C  T  20 E  A  C  H  02 O  T  H  E  R  ,  20 B  U  T  20 N  E  V
+
+し か し 、 ふ た り と も あ く し de を は た ら く よ う な
+7c 76 7c a4 8c 80 98 84 93 71 78 7c de 66 8a 80 97 78 96 73 85 02
+E  R  20 E  V  I  L  .  02 05 I  20 S  E  N  S  E  20 S  O  M  E
+
+ヤ ツ ら て de は け っ し て な い 。
+d4 c2 97 83 de 8a 79 6f 7c 83 85 72 a1 02
+T  H  I  N  G  20 M  A  N  I  P  U  L  A  
+
+う ら て de 、 い と を ひ い て い る も の の け は い か de す る...
+73 97 83 de a4 72 84 66 8b 72 83 72 99 93 89 89 79 8a 72 76 de 7d 99 eb 0f
+T  I  N  G  20 T  H  E  M  20 B  O  T  H  .  .  .
