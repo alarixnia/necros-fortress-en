@@ -302,6 +302,14 @@ ROPE
 
 db b0 cc df
 
+しょうにんのにもつ
+Merchant's Belongings
+CidParcel
+
+し ょ う に ん の に も つ
+7c 6e 73 86 9d 89 86 93 82
+C  I  D  P  A  R  C  E  L
+
 マージのてがみ
 MAGE'S LETTER
 MAGE NOTE

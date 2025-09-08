@@ -71,16 +71,16 @@ G  H  T  02 S  A  M  U  R  A  I  .  .  ?
 *「まのもりをこえたところに、リオという
 うつくしいむらがあるんですよ。
 
-Beyond the forest lies
+Beyond Demon Forest lies
 Rio village.
 
 * 「  ま の も り を こ え た と こ ろ に 、 リ オ と い う
 2a a2 8f 89 93 98 66 7a 74 80 84 7a 9b 86 a4 d8 b5 84 72 73 02
-B  E  Y  O  N  D  20 T  H  E  20 F  O  R  E  S  T  20 L  I  E
+B  E  Y  O  N  D  20 D  E  M  O  N  20 F  O  R  E  S  T  20 L
 
 う つ く し い む ら か de あ る ん て de す よ 。
 73 82 78 7c 72 91 97 76 de 71 99 9d 83 de 7d 96 a1 0f
-S  02 R  I  O  20 V  I  L  L  A  G  E  .
+I  E  S  02 R  I  O  20 V  I  L  L  A  G  E  .
 
 *「まのもりには、
 かいぶつのきちがあるらしい。
@@ -151,8 +151,9 @@ U  L  .
 *「お... おれは、みたんだ。まのもりのはずれに、
 でっかいかいぶつのとりでが...
 
-... I saw it. At the edge of the forest.
-Something huge...
+... I saw it. At the edge of Demon
+Forest...
+(Something huge...)
 
 *  「 お... お れ は 、 み た ん た de 。 ま の も り の は す de れ に 、
 2a a2 75 eb 75 9a 8a a4 90 80 9d 80 de a1 8f 89 93 98 89 8a 7d de 9a 86 a4 02
@@ -160,7 +161,7 @@ Something huge...
 
 て de っ か い か い ふ de つ の と り て de か de ...
 83 de 6f 76 72 76 72 8c de 82 89 84 98 83 de 76 de eb 0f
-F  20 T  H  E  20 F  O  R  E  S  T  .  .  . 
+F  20 D  E  M  O  N  02 F  O  R  E  S  T  .  .  . 
 
 --- cutscene with dwarf
 
@@ -335,3 +336,37 @@ F  E  C  K  !  20 20 20
 
 a2 94 9a 94 9a a4 71 72 82 86 93 7a 8f 6f 80 93 89 80 de 85 a1 04
 T  H  I  S  20 L  A  D  '  S  20 A  20 B  I  T  20 D  I  M  .
+
+--- talking to berserker after cutscene
+
+バーサーカー「フンガー。
+
+Ah, hell.
+
+ハ de ー サ ー カ ー 「 フ ン カ de ー 。
+ca de b0 bb b0 b6 b0 a2 cc dd b6 de b0 a1 0f
+A  H  ,  20 H  E  L  L  .  .  .  20 20 20 0f
+
+--- mercenary chatter in inn
+
+MERCENARY「まのもりのきたにはでっかい
+いずみがあって、そこには、すごいびじんの
+せいれいがいるそうだぜ。
+みてみたいもんだな。
+
+They say there's a spring
+with beautiful spirits
+north of the (Demon) Forest!
+(I'd love to see that!)
+
+16 「 ま の も り の き た に は て de っ か い
+16 a2 8f 89 93 98 89 77 80 86 8a 83 de 6f 76 72 02
+T  H  E  Y  20 S  A  Y  20 T  H  E  R  E  '  S  20
+
+い す de み か de あ っ て 、 そ こ に は 、 す こ de い ひ de し de ん の
+72 7d de 90 76 de 71 6f 83 a4 7f 7a 86 8a a4 7d 7a de 72 8b de 7c de 9d 89 02
+A  20 S  P  R  I  N  G  20 W  I  T  H  20 B  E  A  U  T  I  F  U  L  20 S  P
+
+せ い れ い か de い る そ う た de せ de 。み て み た い も ん た de な 。
+7e 72 9a 72 76 de 72 99 7f 73 80 de 7e de a1 90 83 90 80 72 93 9d 80 de 85 a1 0f
+I  R  I  T  S  20 N  O  R  T  H  20 O  F  20 T  H  E  20 F  O  R  E  S  T  !
