@@ -819,6 +819,22 @@ Red Oak
 da af c4 de b5 b0 b8
 R  E  D  20 O  A  K
 
+フットラ
+Footra
+Foot
+
+フ ッ ト ラ
+cc af c4 d7
+F  O  O  T
+
+ハンドラ
+Handler
+Handy
+
+ハ ン ト de ラ
+ca dd c4 de d7
+H  A  N  D  Y
+
 --- Armour & Weapons
 
 こdeまかしのつえ
