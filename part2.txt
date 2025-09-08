@@ -370,3 +370,42 @@ A  20 S  P  R  I  N  G  20 W  I  T  H  20 B  E  A  U  T  I  F  U  L  20 S  P
 せ い れ い か de い る そ う た de せ de 。み て み た い も ん た de な 。
 7e 72 9a 72 76 de 72 99 7f 73 80 de 7e de a1 90 83 90 80 72 93 9d 80 de 85 a1 0f
 I  R  I  T  S  20 N  O  R  T  H  20 O  F  20 T  H  E  20 F  O  R  E  S  T  !
+
+--- dryad in demon forest
+
+ドライアド「...
+わたしは、きのせいれいドライアド。
+
+あなたたちのことは、ELFさんからきいています...
+
+I am (dryad,) the spirit of the
+forest.  Elf told me of
+you...
+
+みなみにあるたいぼくのねもとで、ELFさんが
+まっていますよ。
+
+はやくいっておあげなさい...
+
+At the (base of the) great tree to the
+south, Elf is waiting...
+
+ト de ラ イ ア ト de 「... わ た し は 、 き の せ い れ い ト de ラ イ ア ト de 。
+c4 de d7 b2 b1 c4 de a2 eb 9c 80 7c 8a a4 77 89 7e 72 9a 72 c4 de d7 b2 b1 c4 de a1 02
+I  20 A  M  20 T  H  E  20 S  P  I  R  I  T  20 O  F  20 T  H  E  02 F  O  R  E  S  T
+
+あ な た た ち の こ と は 、 11 さ ん か ら き い て い ま す...
+71 85 80 80 81 89 7a 84 8a a4 11 7b 9d 76 97 77 72 83 72 8f 7d eb 02 05
+.  20 11 20 T  O  L  D  20 M  E  20 O  F  02 Y  O  U  .  .  .  02 05 
+
+み な み に あ る た い ほ de く の ね も と て de 、 11 さ ん か de
+90 85 90 86 71 99 80 72 8e de 78 89 88 93 84 83 de a4 11 7b 9d 76 de 02
+A  T  20 T  H  E  20 G  R  E  A  T  20 T  R  E  E  20 T  O  20 T  H  E
+
+ま っ て い ま す よ 。
+8f 6f 83 72 8f 7d 96 a1 02
+02 S  O  U  T  H  ,  20 11
+
+は や く い っ て お あ け de な さ い...
+8a 94 78 72 6f 83 75 71 79 de 85 7b 72 eb 0f
+20 I  S  20 W  A  I  T  I  N  G  .  .  .
