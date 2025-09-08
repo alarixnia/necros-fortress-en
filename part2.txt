@@ -209,3 +209,77 @@ C  A  R  E  F  U  L  ,  20 S  A  M  U  R  A  I  '  S
 
 77 66 82 79 83 72 6f 83 78 99 7a 84 88 a1 0f
 20 I  N  20 T  H  E  20 F  O  R  E  S  T  .
+
+--- talking to shopkeeper
+
+あ、そうだ! KNIGHTさま、
+おねがいがあります。
+
+このにもつを、シドのむらの
+なんみんセンターまでとどけてくれませんか?
+
+Oh, yes! Sir Knight,
+would you kindly deliver
+this parcel to Cid (Village)?
+
+KNIGHT「シドのむら?
+
+Cid Village?
+
+*「まのもりをこえたところにある、
+とてもうつくしいむらです。
+[...]
+わたしでは、とてもまのもりをこえられないので、
+とどけられずにこまっていたんです。
+
+It's a beautiful village
+beyond the Demon Forest,
+but I can't cross the
+forest by myself.
+
+*「ありがとうございます。
+どうかよろしく、おねがいします。
+Thank you very much,
+Sir Knight!
+
+あ 、 そ う た de !  20 14 さ ま 、
+71 a4 7f 73 80 de 21 20 14 7b 8f a4 02
+O  H  ,  20 Y  E  S  !  20 S  I  R  20
+
+お ね か de い か de あ り ま す 。
+75 88 76 de 72 76 de 71 98 8f 7d a1 02 05
+K  N  I  G  H  T  ,  02 W  O  U  L  D  20
+
+こ の に も つ を 、 シ ト de の む ら の
+7a 89 86 93 82 66 a4 bc c4 de 89 91 97 89 02
+Y  O  U  20 K  I  N  D  L  Y  20 D  E  L  I
+
+な ん み ん セ ン タ ー ま て de と と de け て く れ ま せ ん か ?
+85 9d 90 9d be dd c0 b0 8f 83 de 84 84 de 79 83 78 9a 8f 7e 9d 76 3f 02 05
+V  E  R  02 T  H  I  S  02 P  A  R  C  E  L  20 T  O  20 C  I  D  ?  02 05
+
+14 「 シ ト de の む ら ?
+14 a2 bc c4 de 89 91 97 3f 02 05
+I  T  '  S  20 A  20 B  E  A  U
+
+*  「 ま の も り を こ え た と こ ろ に あ る 、
+2a a2 8f 89 93 98 66 7a 74 80 84 7a 9b 86 71 99 a4 02 
+T  I  F  U  L  20 V  I  L  L  A  G  E  20 B  E  Y  O
+
+と て も う つ く し い む ら て de す 。
+84 83 93 73 82 78 7c 72 91 97 83 de 7d a1 02 05
+N  D  20 T  H  E  20 D  E  M  O  N  20 F  O  R
+
+わ た し て de は 、 と て も ま の も り を こ え ら れ な い の て de 、
+9c 80 7c 83 de 8a a4 84 83 93 8f 89 93 98 66 7a 74 97 9a 85 72 89 83 de a4 02
+E  S  T  ,  20 B  U  T  20 I  20 C  A  N  '  T  20 C  R  O  S  S  20 T  H  E
+
+と と de け ら れ す de に こ ま っ て い た ん て de す 。
+84 84 de 79 97 9a 7d de 86 7a 8f 6f 83 72 80 9d 83 de 7d a1 02
+20 F  O  R  E  S  T  20 B  Y  20 M  Y  S  E  L  F  .
+
+2a a2 71 98 76 de 84 73 7a de 7b de 72 8f 7d a1 02
+T  H  A  N  K  20 Y  O  U  20 V  E  R  Y  20 M  U
+
+84 de 73 76 96 9b 7c 78 a4 75 88 76 de 72 7c 8f 7d a1 0f
+C  H  ,  02 S  I  R  20 K  N  I  G  H  T  !
