@@ -1089,6 +1089,30 @@ GrnCloak
 90 84 de 98 89 cf dd c4
 G  R  N  C  L  O  A  K
 
+くらやみマント
+Dark Cloak
+DarkClo
+
+く ら や み マ ン ト
+78 97 94 90 cf dd c4
+D  A  R  K  C  L  O
+
+マージのマント
+Magic Cloak
+MagCloak
+
+マ ー シ de の マ ン ト
+cf b0 bc de 89 cf dd c4
+M  A  G  C  L  O  A  K
+
+ウィズマント
+Wisdom Cloak
+WiseClo
+
+ウ ィ ス de マ ン ト
+b3 a8 bd de cf dd c4
+W  I  S  E  C  L  O
+
 --- Mage's spells
 
 ファイヤー
