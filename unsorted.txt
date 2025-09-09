@@ -348,6 +348,14 @@ I  D  カ ー ド de
 49 44 b6 b0 c4 de
 I  D  C  A  R  D
 
+ゆうしゃのオノ
+Hero's Axe
+Hero Ax
+
+ゆ う し ゃ の オ ノ
+95 73 7c 6c 89 b5 c9
+H  E  R  O  20 A  X
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -653,6 +661,28 @@ Critical!
 8a a4 77 98 76 76 6f 80 21 02
 20 C  R  I  T  20 H  I  T
 
+*の、でんげきこうげき!
+Uses electric shock!
+Uses shock!
+
+*  の 、 て de ん け de き こ う け de き !
+2a 89 a4 83 de 9d 79 de 77 7a 73 79 de 77 21 02
+2a 20 U  S  E  S  20 S  H  O  C  K  !  20 20
+
+*「ぐわっ!
+Gah!
+
+*  「 く de わ っ !
+2a a2 78 de 9c 6f 21 02 04
+G  A  H  H  !  20 20
+
+*は、どくガスをはいた!
+Uses poison gas!
+
+*  は 、 と de く カ de ス を は い た !
+2a 8a a4 84 de 78 b6 de bd 66 8a 72 80 21 02 04
+2a 20 U  S  E  S  20 P  S  N  20 G  A  S
+
 うえからきりかかる!
 Upper strike!
 Up strike!
@@ -661,12 +691,28 @@ Up strike!
 73 74 76 97 77 98 76 76 99 21 02 04
 U  P  20 S  T  R  I  K  E  !
 
+*は、どくのつめでおそいかかる!
+Uses poison claws!
+Uses claws!
+
+*  は 、 と de く の つ め て de お そ い か か る !
+2a 8a a4 84 de 78 89 82 92 83 de 75 7f 72 76 76 99 21 02 04
+2a 20 U  S  E  S  20 C  L  A  W  S  !  20 20 20 20 20
+
 *は、なくdeりかかった!
 Strikes!
 
 *  は 、 な く de り か か っ た !
 2a 8a a4 85 78 de 98 76 76 6f 80 21 02
 2a 20 S  T  R  I  K  E  S  !
+
+サンダーアタック!
+Thunder attack!
+Thunder!
+
+サ ン タ de ー ア タ ッ ク !
+bb dd c0 de b0 b1 c0 af b8 21 02 04
+T  H  U  N  D  E  R  !  20 20
 
 は、むかっていったす
 Advancing!
@@ -841,6 +887,21 @@ Harpy
 ハ ー ヒ df ー
 ca b0 cb df b0
 H  A  R  P  Y
+
+リザード
+Lizard
+
+
+リ サ de ー ト de
+d8 bb de b0 c4 de
+L  I  Z  A  R  D
+
+ニンジャ
+Ninja
+
+ニ ン シ de ャ
+c6 dd bc de ac
+N  I  N  J  A
 
 --- Armour & Weapons
 
