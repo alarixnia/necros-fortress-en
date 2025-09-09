@@ -704,3 +704,73 @@ W  E  20 M  I  G  H  T  20 F  I  N  D  20 O  U  T  20 M  O  R  E  20
 そ こ に い け は de 、 な に か わ か る か も し れ ま せ ん 。
 7f 7a 86 72 79 8a de a4 85 86 76 9c 76 99 76 93 7c 9a 8f 7e 9d a1 04
 A  T  20 T  H  E  I  R  20 B  A  S  E  20 A  H  E  A  D  .
+
+--- thief outside monster lair
+
+シーフ「よお、MERCENARYのおなかまかい?
+へへっ、ここにすげえたからがあるときいて
+やってきたんだが、こうかいぶつだらけじゃあ、
+しのびこむこともできねえや。
+
+Heh, are you Mercenary's
+pals?
+I hear there's loot here,
+but (with those guys around, there's)
+no way to sneak about.
+
+bc b0 cc a2 96 75 a4 16 89 75 85 76 8f 76 72 3f 02 05
+H  E  H  ,  20 A  R  E  20 Y  O  U  20 20 M  E  R  C
+
+8d 8d 6f a4 7a 7a 86 7d 79 de 74 80 76 97 76 de 71 99 84 77 72 83 02
+E  N  A  R  Y  '  S  20 P  A  L  S  ?  02 05 I  20 H  E  A  R  20 T
+
+94 6f 83 77 80 9d 80 de 76 de a4 7a 73 76 72 8c de 82 80 de 97 79 7c de 6c 71 a4 02
+H  E  R  E  '  S  20 L  O  O  T  20 H  E  R  E  ,  20 B  U  T  20 N  O  20 W  A  Y
+
+7c 89 8b de 7a 91 7a 84 93 83 de 77 88 74 94 a1 0f
+20 T  O  20 S  N  E  A  K  20 A  B  O  U  T  .
+
+--- guards outside cid
+
+*「なんだ、おまえは!
+[...]
+ここは、ショーグンさまのへいしと
+しょうにんしか、とおることはできん。
+さっさとたちされ!
+
+Stay back!
+Only (the Shogun's) soldiers
+and merchants beyond this point!
+
+*  「 な ん た de 、 お ま え は !
+2a a2 85 9d 80 de a4 75 8f 74 8a 21 02 05
+S  T  A  Y  20 B  A  C  K  !  02 05 O  N
+
+こ こ は 、 シ ョ ー ク de ン さ ま の へ い し と
+7a 7a 8a a4 bc ae b0 b8 de dd 7b 8f 89 8d 72 7c 84 02
+L  Y  20 M  E  R  C  H  A  N  T  S  20 &  20 S  O
+
+し ょ う に ん し か 、 と お る こ と は て de き ん 。
+7c 6e 73 86 9d 7c 76 a4 84 75 99 7a 84 8a 83 de 77 9d a1 02
+L  D  I  E  R  S  20 B  E  Y  O  N  D  20 T  H  I  S  20 P
+
+さ っ さ と た ち さ れ !
+7b 6f 7b 84 80 81 7b 9a 21 0f
+O  I  N  T  !
+
+*「しょうにんだと? ばかもん!
+そんなかっこうのしょうにんが、いるものか。
+へたなウソはやめておけ。
+
+A merchant?
+You're dressed strangely
+for a merchant.
+
+2a a2 7c 6e 73 86 9d 80 de 84 3f 20 8a de 76 93 9d 21 02
+A  20 M  E  R  C  H  A  N  T  ?  02 05 Y  O  U  '  R  E 
+
+7f 9d 85 76 6f 7a 73 89 7c 6e 73 86 9d 76 de a4 72 99 93 89 76 a1 02
+20 D  R  E  S  S  E  D  20 S  T  R  A  N  G  E  L  Y  02 F  O  R  20
+
+8d 80 85 b3 bf 8a 94 92 83 75 79 a1 0f
+20 A  20 M  E  R  C  H  A  N  T  .
