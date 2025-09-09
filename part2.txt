@@ -658,3 +658,49 @@ T  H  I  N  G  20 M  A  N  I  P  U  L  A
 う ら て de 、 い と を ひ い て い る も の の け は い か de す る...
 73 97 83 de a4 72 84 66 8b 72 83 72 99 93 89 89 79 8a 72 76 de 7d 99 eb 0f
 T  I  N  G  20 T  H  E  M  20 B  O  T  H  .  .  .
+
+--- cutscene with elf
+
+separate bit:
+
+SAMURAIですが、ショーグンとよばれるおとこの
+へいしになったそうです。
+
+Samurai has become one of Shogun's soldiers.
+Samurai's joined forces with Shogun.
+
+12 て de す か de 、 シ ョ ー ク de ン と よ は de れ る お と こ の
+12 83 de 7d 76 de a4 bc ae b0 b8 de dd 84 96 8a de 9a 99 75 84 7a 89 02
+S  A  M  U  R  A  I  '  S  20 J  O  I  N  E  D  20 F  O  R  C  E  S  20
+
+へ い し に な っ た そ う て de す 。
+8d 72 7c 86 85 6f 80 7f 73 83 de 7d a1 02 41
+W  I  T  H  20 S  H  O  G  U  N  .
+
+separate bit:
+
+「やあ、まってましたよ。
+
+Ah, I waited for you.
+You're here!
+
+「 や あ 、 ま っ て ま し た よ 。
+a2 94 71 a4 8f 6f 83 8f 7c 80 96 a1 04
+Y  O  U  '  R  E  20 H  E  R  E  !
+
+「このさきに、かいぶつのきちがあります。
+そこにいけば、なにかわかるかもしれません。
+
+Ahead is the monsters' base.
+We might find out more there.
+
+We might find out more at
+(the monsters') base ahead.
+
+「 こ の さ き に 、 か い ふ de つ の き ち か de あ り ま す 。
+a2 7a 89 7b 77 86 a4 76 72 8c de 82 89 77 81 76 de 71 98 8f 7d a1 02 
+W  E  20 M  I  G  H  T  20 F  I  N  D  20 O  U  T  20 M  O  R  E  20
+
+そ こ に い け は de 、 な に か わ か る か も し れ ま せ ん 。
+7f 7a 86 72 79 8a de a4 85 86 76 9c 76 99 76 93 7c 9a 8f 7e 9d a1 04
+A  T  20 T  H  E  I  R  20 B  A  S  E  20 A  H  E  A  D  .
