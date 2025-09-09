@@ -1060,6 +1060,28 @@ Thor Mail
 c4 b0 d9 89 76 80 8b de 97
 T  H  O  R  20 M  A  I  L
 
+ダガー
+Dagger
+
+タ de カ de ー
+c0 de b6 de b0
+D  A  G  G  R
+
+エルブンダガー
+Elf Dagger
+
+エ ル フ de ン タ de カ de ー
+b4 d9 cc de dd c0 de b6 de b0
+E  L  F  20 D  A  G  G  E  R
+
+みどりのマント
+Green Cloak
+GrnCloak
+
+み と de り の マ ン ト
+90 84 de 98 89 cf dd c4
+G  R  N  C  L  O  A  K
+
 --- Mage's spells
 
 ファイヤー
@@ -1238,11 +1260,88 @@ C  A  L  L  D  R  A  G  20 D
 --- Dwarf's spells
 
 れつだんのつぼ
-Sever Pot
+Sever Jar
 
 れ つ た de ん の つ ぼ
 9a 82 80 de 9d 89 82 8e de
-S  E  V  E  R  20 P  O  T
+S  E  V  E  R  20 J  A  R
+
+かなしばりのつぼ
+Bind(er) Jar
+
+か な し は de り の つ ほ
+76 85 7c 8a de 98 89 82 8e de
+B  I  N  D  E  R  20 J  A  R
+
+げんむのつぼ
+Illusion Jar
+
+け de ん む の つ ほ de
+79 de 9d 91 89 82 8e de
+I  L  L  U  S  I  O  N
+
+ひゃくれつのつぼ
+100 Splinter Jar
+100 Cuts
+
+ひ ゃ く れ つ の つ ぼ
+8b 6c 78 9a 82 89 82 8e de
+1  0  0  20 C  U  T  S
+
+モリモリのつぼ
+Power Jar
+Powr Jar
+
+モ リ モ リ の つ ぼ de
+d3 d8 d3 d8 89 82 8e de
+P  O  W  R  20 J  A  R
+
+きよめのつぼ
+Purity Jar
+PureJar
+
+き よ め の つ ほ de
+77 96 92 89 82 8e de
+P  U  R  E  J  A  R
+
+せんれつのつぼ
+Jar of 1000 Tears
+Tear Jar
+
+せ ん れ つ の つ ぼde
+7e 9d 9a 82 89 82 8e de
+T  E  A  R  20 J  A  R
+
+めざめのつぼ
+Awaken Jar
+AwakeJar
+
+め さ de め の つ ほ de
+92 7b de 92 89 82 8e de
+A  W  A  K  E  J  A  R
+
+ばくさつのつぼ
+Explosion Jar
+Fire Jar
+
+は de く さ つ の つ ぼ
+8a de 78 7b 82 89 82 8e de
+F  I  R  E  20 J  A  R
+
+ムキムキのつぼ
+Muscle Jar
+Pow(er) Jar ^
+
+ム キ ム キ の つ ぼ
+d1 b7 d1 b7 89 82 8e de
+P  O  W  20 J  A  R  ^
+
+ひっさつのつぼ
+Secret Jar
+
+ひ っ さ つ の つ ぼ
+8b 6f 7b 82 89 82 8e de
+S  E  C  R  E  T  20 20
 
 --- Chests
 
