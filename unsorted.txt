@@ -430,15 +430,15 @@ SONGS
 
 93 02 20 つ の ふ de え
 93 02 20 82 89 8c de 74 00 3f 2d 92 02 00
-93 02 20 S  O  N  G  S
+93 S  O  N  G  S  02 20
 
  けんしdeゅつ
 Martial Arts
 ARTS
 
-93 02 20 79 9d 7c de 6d 82
 93 02 20 け ん し de ゅ つ
-93 02 20 M  .  A  R  T  S 
+93 02 20 79 9d 7c de 6d 82
+93 M  .  A  R  T  S  02 20
 
  ツホdeつき
 Pressure
@@ -834,6 +834,13 @@ Handy
 ハ ン ト de ラ
 ca dd c4 de d7
 H  A  N  D  Y
+
+ハーピー
+Harpy
+
+ハ ー ヒ df ー
+ca b0 cb df b0
+H  A  R  P  Y
 
 --- Armour & Weapons
 
