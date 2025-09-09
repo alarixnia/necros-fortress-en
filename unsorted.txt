@@ -552,7 +552,7 @@ Foe approaching! (Coming!)
 
 は 、 む か っ て き た !
 8a a4 91 76 6f 83 77 80 21 02
-C  O  M  I  N  G  !
+20 C  O  M  I  N  G  !
 
 *「いくぞ!
 Let's go!
@@ -643,7 +643,7 @@ Dive attack!
 
 タ de イ ヒ de ン ク de ア タ ッ ク !
 c0 de b2 cb de dd b8 de b1 c0 af b8 21
-20 D  I  V  E  20 A  T  T  A  C  K  !
+D  I  V  E  20 A  T  T  A  C  K  !
 
 は、きりかかった!
 Critical hit!
