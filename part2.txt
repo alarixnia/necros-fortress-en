@@ -775,6 +775,66 @@ A  20 M  E  R  C  H  A  N  T  ?  02 05 Y  O  U  '  R  E
 8d 80 85 b3 bf 8a 94 92 83 75 79 a1 0f
 20 A  20 M  E  R  C  H  A  N  T  .
 
+after equipping clothes:
+
+*「しょうにんだと? ならば、にもつをみせてみろ。
+なんだ、なにももっていないじゃないか!
+へたなウソはやめておけ。
+
+A merchant?
+Don't lie to me!
+You've got no wares at all!
+
+*  「 し ょ う に ん た de と ?  20 な ら は de 、 に も つ を み せ て み ろ 。
+2a a2 7c 6e 73 86 9d 80 de 84 3f 20 85 97 8a de a4 86 93 82 66 90 7e 83 90 9b a1 02 05
+A  20 M  E  R  C  H  A  N  T  ?  02 05 D  O  N  '  T  20 L  I  E  20 T  O  20 M  E  !
+
+な ん た de 、 な に も も っ て い な い し de ゃ な い か !
+85 9d 80 de a4 85 86 93 93 6f 83 72 85 72 7c de 6c 85 72 76 21 02
+02 Y  O  U  '  V  E  20 G  O  T  20 N  O  20 W  A  R  E  S  20 A
+
+へ た な ウ ソ は や め て お け 。
+8d 80 85 b3 bf 8a 94 92 83 75 79 a1 0f
+T  20 A  L  L  !
+
+*「しょうにんだと?
+[...]
+ふむ、そのにもつをシドのむらにとどけるわけか...
+よし、いいだろう。
+
+A merchant?
+Hmm, so you're delivering to Cid.
+Very well, you may pass.
+
+A merchant?
+Hmm. Very well, you may pass to Cid.
+
+*  「 し ょ う に ん た de と ?
+2a a2 7c 6e 73 86 9d 80 de 84 3f 02 05
+A  20 M  E  R  C  H  A  N  T  ?  02 05
+
+ふ む 、 そ の に も つ を シ ト de の む ら に と と de け る わ け か...
+8c 91 a4 7f 89 86 93 82 66 bc c4 de 89 91 97 86 84 84 de 79 99 9c 79 76 eb 02
+H  M  M  .  20 V  E  R  Y  20 W  E  L  L  ,  20 Y  O  U  20 M  A  Y  20 P  A
+
+よ し 、 い い た de ろ う 。
+96 7c a4 72 72 80 de 9b 73 a1 0f
+S  S  20 T  O  20 C  I  D  .
+
+*「シドのむらへいくだと?
+ずいぶん、ものずきなしょうにんだな。
+
+Off to Cid again?
+You're an odd merchant.
+
+*  「 シ ト de の む ら へ い く た de と ?
+2a a2 bc c4 de 89 91 97 8d 72 78 80 de 84 3f 02
+O  F  F  20 T  O  20 C  I  D  20 A  G  A  I  N
+
+す de い ふ de ん 、 も の す de き な し ょ う に ん た de な 。
+7d de 72 8c de 9d a4 93 89 7d de 77 85 7c 6e 73 86 9d 80 de 85 a1 0f
+?  02 Y  O  U  '  R  E  20 A  N  20 O  D  D  20 O  N  E  .
+
 --- monster in lair
 
 *「きさまらは、8ゆうしゃ!
@@ -815,3 +875,116 @@ T  20 S  O  U  T  H  20 T  O  20 T  H  E  20 F  O  R  T  .
 な せ de な ら 、 こ こ て de し ぬ の た de か ら な 。
 85 7e de 85 97 a4 7a 7a 83 de 7c 87 89 80 de 76 97 85 a1 0f
 02 Y  O  U  '  L  L  20 D  I  E  20 H  E  R  E  .  .  .
+
+--- attempting to use the clothes near guards
+
+appears twice in the binary:
+
+ここではつかえない!
+Not here!
+
+こ こ て de は つ か え な い !
+7a 7a 83 de 8a 82 76 74 85 72 21 0f
+N  O  T  20 H  E  R  E  !  20 20
+
+--- ghoulies in fort
+
+*「なんだ、しょうにんか。
+なにもいらねえよ。
+あっちへいきな。
+
+Oh, a merchant.
+(I need nothing.)
+Away with you.
+
+2a a2 85 9d 80 de a4 7c 6e 73 86 9d 76 a1 02
+O  H  ,  20 A  20 M  E  R  C  H  A  N  T  .
+
+85 86 93 72 97 88 74 96 a1 71 6f 81 8d 72 77 85 a1 0f
+02 A  W  A  Y  20 W  I  T  H  20 Y  O  U  .
+
+*「シドのむらなら、とりでのうらだ。
+
+If you're looking for Cid, it's behind the fort.
+Cid is to the south.
+
+*  「 シ ト de の む ら な ら 、 と り て de の う ら た de 。
+2a a2 bc c4 de 89 91 97 85 97 a4 84 98 83 de 89 73 97 80 de a1 0f
+C  I  D  20 I  S  20 T  O  20 T  H  E  20 S  O  U  T  H  .
+
+*「おれたちは、これからリオのむらまで、KNIGHTを
+やっつけにいくのさ。どうだ、おどろいたか!
+
+Well, we're off to Rio to take down Sir Knight!
+
+*  「 お れ た ち は 、 こ れ か ら リ オ の む ら ま て de 、 14 を
+2a a2 75 9a 80 81 8a a4 7a 9a 76 97 d8 b5 89 91 97 8f 83 de a4 14 66 02
+W  E  L  L  ,  20 W  E  '  R  E  20 O  F  F  20 T  O  20 R  I  O  20 T
+
+や っ つ け に い く の さ 。 と de う た de 、 お と de ろ い た か !
+94 6f 82 79 86 72 78 89 7b a1 84 de 73 80 de a4 75 84 de 9b 72 80 76 21 0f
+O  20 T  A  K  E  20 D  O  W  N  20 S  I  R  20 K  N  I  G  H  T  !
+
+*「ここは、へいしいがいは、たちいりきんしだ。
+Inside is off-limits.
+
+*  「 こ こ は 、 へ い し い か de い は 、 た ち い り き ん し た de 。
+2a a2 7a 7a 8a a4 8d 72 7c 72 76 de 72 8a a4 80 81 72 98 77 9d 7c 80 de a1 0f
+I  N  S  I  D  E  20 I  S  20 O  F  F  -  L  I  M  I  T  S  .
+
+*「なに? どうすれば、へいしになれるか?
+ま、てがらをたてるのが、いちばんだな。
+
+What? How to become a
+soldier?
+(It's all) reputation.
+
+2a a2 85 86 3f 20 84 de 73 7d 9a 8a de a4 8d 72 7c 86 85 9a 99 76 3f 02
+W  H  A  T  ?  20 H  O  W  20 T  O  20 B  E  C  O  M  E  20 A  02 S  O
+
+8f a4 83 76 de 97 66 80 83 99 89 76 de a4 72 81 8a de 9d 80 de 85 a1 0f
+L  D  I  E  R  ?  20 R  E  P  U  T  A  T  I  O  N  .
+
+*「へいしになりたい? なら、リオのむらにいる
+KNIGHTでも、やっつけてくるんだな。
+ハッハッ!
+
+You want to become a soldier?
+Take down Sir Knight in Rio, haha!
+
+You want to join us? Hah!
+Kill Sir Knight!
+
+2a a2 8d 72 7c 86 85 98 80 72 3f 20 85 97 a4 d8 b5 89 91 97 86 72 99 02
+Y  O  U  20 W  A  N  T  20 T  O  20 J  O  I  N  20 U  S  ?  02 H  A  H
+
+14 83 de 93 a4 94 6f 82 79 83 78 99 9d 80 de 85 a1 ca af ca af 21 0f
+!  20 K  I  L  L  20 S  I  R  20 K  N  I  G  H  T  !
+
+*「SAMURAIだと?
+あいつは、ほんじんへいったぞ。
+[...]
+しかし、なぜそんなことをきく?
+おまえ、ほんとにしょうにんなのか?
+
+Samurai? He went to the main
+headquarters.
+[...]
+But why? Are you really a merchant...?
+
+Samurai? He went to our
+HQ.
+But why? Who are you
+really...?
+
+2a a2 12 80 de 84 3f 02
+S  A  M  U  R  A  I  ?
+
+71 72 82 8a a4 8e 9d 7c de 9d 8d 72 6f 80 7f de a1 02 05
+20 H  E  20 W  E  N  T  20 T  O  20 O  U  R  20 H  Q  .
+
+7c 76 7c a4 85 7e de 7f 9d 85 7a 84 66 77 78 3f 02
+02 05 B  U  T  20 W  H  Y  ?  20 W  H  O  20 A  R
+
+75 8f 74 a4 8e 9d 84 86 7c 6e 73 86 9d 85 89 76 3f 0f
+E  20 Y  O  U  20 R  E  A  L  L  Y  .  .  .  ?
