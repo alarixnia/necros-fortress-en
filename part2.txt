@@ -1133,3 +1133,34 @@ A  R  E  20 Y  O  U  20 I  N  J  U  R  E  D  ?  02 I  T  '
 
 7f 8f 82 85 84 7a 83 de 7d 76 de a4 94 7d 9d 83 de 72 6f 83 78 80 de 7b 72 a1
 S  20 A  20 M  E  S  S  ,  20 B  U  T  20 P  L  E  A  S  E  02 R  E  S  T  .
+
+--- thief under the well
+
+シーフ「なんだ?
+おまえたちも、うそつきじいさんにだまされたのか?
+
+[It's thief!]
+You lot believed that old man too?
+
+bc b0 cc a2 85 9d 80 de 3f 02
+Y  O  U  20 L  O  T  20 B  E
+
+75 8f 74 80 81 93 a4 73 7f 82 77 7c de 72 7b 9d 86 80 de 8f 7b 9a 80 89 76 3f 0f
+L  I  E  V  E  D  20 T  H  A  T  20 O  L  D  20 M  A  N  20 T  O  O  ?
+
+--- looking at the secret door in the well
+
+DWARF「ゆうしゃのオノがあれば、
+このくらいのかべはこわせるのじゃが。
+
+Dwarf could smash through it
+with the hero's axe!
+
+Dwarf could get through
+with the hero axe!
+
+13 a2 95 73 7c 6c 89 b5 c9 76 de 71 9a 8a de a4 02
+13 20 C  O  U  L  D  20 G  E  T  20 T  H  R  O  U
+
+7a 89 78 97 72 89 76 8d de 8a 7a 9c 7e 99 89 7c de 6c 76 de a1 0f
+G  H  20 W  I  T  H  20 T  H  E  20 H  E  R  O  20 A  X  E  !
