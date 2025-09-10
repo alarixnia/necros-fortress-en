@@ -356,6 +356,14 @@ Hero Ax
 95 73 7c 6c 89 b5 c9
 H  E  R  O  20 A  X
 
+しょうにんのふく
+Merchant's Clothes
+Clothes
+
+し ょ う に ん の ふ く
+7c 6e 73 86 9d 89 8c 78
+C  L  O  T  H  E  S
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -1051,6 +1059,30 @@ Dwarf Hammer
 c4 de dc b0 cc ca dd cf b0
 D  .  H  A  M  M  M  E  R
 
+オニロスかなぼう
+Demon Slayer Club
+DemonClub
+
+いかづちハンマー
+Thunder Hammer
+ElecHammr
+
+ヘパイトスのつち
+Hephaestus Hammer
+God Hammer
+
+ヘ ハ df イ ト ス の つ ち
+cd ca df b2 c4 bd 89 82 81
+G  O  D  H  A  M  M  E  R
+
+い か つ de ち ハ ン マ ー
+72 76 82 de 81 ca dd cf b0
+E  L  E  C  H  A  M  M  R
+
+オ ニ ロ ス か な ほ de う
+b5 c6 db bd 76 85 8e de 73 72 76 82 de 81 ca
+D  E  M  O  N  C  L  U  B
+
 ナイトのけん
 Knight's Sword
 KSword
@@ -1140,7 +1172,7 @@ Elf Dagger
 
 エ ル フ de ン タ de カ de ー
 b4 d9 cc de dd c0 de b6 de b0
-E  L  F  20 D  A  G  G  E  R
+E  L  F  D  A  G  G  E  R  de
 
 みどりのマント
 Green Cloak
