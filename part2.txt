@@ -988,3 +988,80 @@ S  A  M  U  R  A  I  ?
 
 75 8f 74 a4 8e 9d 84 86 7c 6e 73 86 9d 85 89 76 3f 0f
 E  20 Y  O  U  20 R  E  A  L  L  Y  .  .  .  ?
+
+--- cid villagers
+
+*「ここは、シドのむらです。
+
+This is Cid.
+
+*  「 こ こ は 、 シ ト de の む ら て de す 。
+2a a2 7a 7a 8a a4 bc c4 de 89 91 97 83 de 7d a1 0f
+T  H  I  S  20 I  S  20 C  I  D  .
+
+*「かいぶつたちが、せめこんできたんだ。
+おかげでむらは、こんなになってしまった...
+
+Monsters attacked, because of them
+the village is like this...
+
+Monsters attacked, and
+now Cid is like this...
+
+*  「 か い ふ de つ た ち か de 、 せ め こ ん て de き た ん た de 。
+2a a2 76 72 8c de 82 80 81 76 de a4 7e 92 7a 9d 83 de 77 80 9d 80 de a1 02
+M  O  N  S  T  E  R  S  20 A  T  T  A  C  K  E  D  ,  20 A  N  D  02 N  O
+
+お か け de て de む ら は 、 こ ん な に な っ て し ま っ た...
+75 76 79 de 83 de 91 97 8a a4 7a 9d 85 86 85 6f 83 7c 8f 6f 80 eb 0f
+W  20 C  I  D  20 I  S  20 L  I  K  E  20 T  H  I  S  .  .  .
+
+*「え~ん、え~ん、おかあさ~ん!
+
+Wah, wah, mummy!
+
+*  「 え ~  ん 、 え ~  ん 、 お か あ さ ~  ん !
+2a a2 74 ec 9d a4 74 ec 9d a4 75 76 71 7b ec 9d 21 0f
+W  A  H  ,  20 W  A  H  ,  20 M  U  M  M  Y  !
+
+*「うそつきじいさんに、きをつけなよ。
+Watch out for the lying old man.
+The old man's a liar
+The old man tells lies.
+The old man lies.
+
+*  「 う そ つ き し de い さ ん に 、 き を つ け な よ 。
+2a a2 73 7f 82 77 7c de 72 7b 9d 86 a4 77 66 82 79 85 96 a1 0f
+T  H  E  R  E  '  S  20 A  N  20 O  L  D  20 L  I  A  R  .
+
+*「このむらのひがしには、
+おそろしいかいぶつたちのほんじんがある...
+
+To the east there's a monster
+stronghold.
+
+There's a monster
+stronghold east.
+
+2a a2 7a 89 91 97 89 8b 76 de 7c 86 8a a4 02
+T  H  E  R  E  '  S  20 A  20 M  O  N  S  T
+
+75 7f 9b 7c 72 76 72 8c de 82 80 81 89 8e 9d 7c de 9d 76 de 71 99 eb 0f
+E  R  02 S  T  R  O  N  G  H  O  L  D  20 E  E  A  S  T  .
+
+*「わたしがおそわれたとき、
+チョンマゲあたまのひとが、かばってくれたの。
+
+I was attacked, but a man
+with a topknot rescued me.
+
+I was attacked, but
+Samurai rescued me...
+
+*  「 わ た し か de お そ わ れ た と き 、
+2a a2 9c 80 7c 76 de 75 7f 9c 9a 80 84 77 a4 02
+I  20 W  A  S  20 A  T  T  A  C  K  E  D  ,  20
+
+チ ョ ン マ ケ de あ た ま の ひ と か de 、 か は de っ て く れ た の 。
+c1 ae dd cf b9 de 71 80 8f 89 8b 84 76 de a4 76 8a de 6f 83 78 9a 80 89 a1 0f
+B  U  T  02 S  A  M  U  R  A  I  20 R  E  S  C  U  E  D  20 M  E  .  .  .
