@@ -926,11 +926,14 @@ W  E  L  L  ,  20 W  E  '  R  E  20 O  F  F  20 T  O  20 R  I  O  20 T
 O  20 T  A  K  E  20 D  O  W  N  20 S  I  R  20 K  N  I  G  H  T  !
 
 *「ここは、へいしいがいは、たちいりきんしだ。
-Inside is off-limits.
+Past here is off-limits.
+
+(actually gets used for more than just this case,
+so don't change to "inside is off-limits")
 
 *  「 こ こ は 、 へ い し い か de い は 、 た ち い り き ん し た de 。
 2a a2 7a 7a 8a a4 8d 72 7c 72 76 de 72 8a a4 80 81 72 98 77 9d 7c 80 de a1 0f
-I  N  S  I  D  E  20 I  S  20 O  F  F  -  L  I  M  I  T  S  .
+P  A  S  T  20 H  E  R  E  20 I  S  20 O  F  F  -  L  I  M  I  T  S  .
 
 *「なに? どうすれば、へいしになれるか?
 ま、てがらをたてるのが、いちばんだな。
@@ -1049,6 +1052,35 @@ T  H  E  R  E  '  S  20 A  20 M  O  N  S  T
 75 7f 9b 7c 72 76 72 8c de 82 80 81 89 8e 9d 7c de 9d 76 de 71 99 eb 0f
 E  R  02 S  T  R  O  N  G  H  O  L  D  20 E  E  A  S  T  .
 
+*「ひっひっひ。
+このむらのはずれに、いどがあるじゃろう?
+[...]
+あのしたにはどうくつがあって、ほんじんへ
+つうじているらしいぞ。
+
+Heh heh heh.
+At the edge of the village, there's a well,
+right?
+[...]
+Well, the tunnels below lead to the main HQ.
+
+Heh heh.
+At the edge of Cid,
+there's a well.
+Its tunnels go to the HQ.
+
+2a a2 8b 6f 8b 6f 8b a1 02
+H  E  H  20 H  E  H  .  02
+
+7a 89 91 97 89 8a 7d de 9a 86 a4 72 84 de 76 de 71 99 7c de 6c 9b 73 3f 02 05
+A  T  20 T  H  E  20 E  D  G  E  20 O  F  20 C  I  D  ,  02 T  H  E  R  E  '
+
+71 89 7c 80 86 8a 84 de 73 78 82 76 de 71 6f 83 a4 8e 9d 7c de 9d 8d 02
+S  20 A  20 W  E  L  L  .  02 05 I  T  S  20 T  U  N  N  E  L  S  20 G
+
+82 73 7c de 83 72 99 97 7c 72 7f de a1 0f
+O  20 T  O  20 T  H  E  20 H  Q  .
+
 *「わたしがおそわれたとき、
 チョンマゲあたまのひとが、かばってくれたの。
 
@@ -1065,3 +1097,39 @@ I  20 W  A  S  20 A  T  T  A  C  K  E  D  ,  20
 チ ョ ン マ ケ de あ た ま の ひ と か de 、 か は de っ て く れ た の 。
 c1 ae dd cf b9 de 71 80 8f 89 8b 84 76 de a4 76 8a de 6f 83 78 9a 80 89 a1 0f
 B  U  T  02 S  A  M  U  R  A  I  20 R  E  S  C  U  E  D  20 M  E  .  .  .
+
+*「おお!
+よくぞ、にもつをとどけてくださいました。
+これで、たくさんのひとがたすかります。
+
+Oh!
+Thank you for delivering the supplies.
+This will help many people.
+
+Oh! Thank you.
+The supplies will help
+many people.
+
+2a a2 75 75 21 02
+O  H  !  20 T  H
+
+96 78 7f de a4 86 93 82 66 84 84 de 79 83 78 80 de 7b 72 8f 7c 80 a1 02
+A  N  K  20 Y  O  U  .  02 T  H  E  20 S  U  P  P  L  I  E  S  20 W  I
+
+7a 9a 83 de a4 80 78 7b 9d 89 8b 84 76 de 80 7d 76 98 8f 7d a1 0f
+L  L  20 H  E  L  P  02 M  A  N  Y  20 P  E  O  P  L  E  .
+
+--- nurse at cid refuge
+
+*「ケガをなさっておいでですか?
+そまつなとこですが、やすんでいってください。
+
+Are you injured?
+It's a mess, but please
+rest (here).
+
+2a a2 b9 b6 de 66 85 7b 6f 83 75 72 83 de 83 de 7d 76 3f 02
+A  R  E  20 Y  O  U  20 I  N  J  U  R  E  D  ?  02 I  T  '
+
+7f 8f 82 85 84 7a 83 de 7d 76 de a4 94 7d 9d 83 de 72 6f 83 78 80 de 7b 72 a1
+S  20 A  20 M  E  S  S  ,  20 B  U  T  20 P  L  E  A  S  E  02 R  E  S  T  .
