@@ -1272,3 +1272,89 @@ O  N  C  E  20 C  I  D  20 W  A  S  20 B  E  A  U  T  I  F  U  L  ,  02
 こ と や ら...
 7a 84 94 97 eb 0f
 .  .
+
+--- fake knight
+
+にせKNIGHT「なんだあ、おまえは!
+わたしは、ゆうめいなKNIGHTさまだぞ。
+
+ひっく!
+
+I'm the famous Sir Knight,
+(who the hell are you?)
+
+Hic!
+
+I'm Sir Knight, you
+peasants! Hiccup!
+
+に せ 14 「 な ん た de あ 、 お ま え は !
+86 7e 14 a2 85 9d 80 de 71 a4 75 8f 74 8a 21 02
+I  '  M  20 S  I  R  20 K  N  I  G  H  T  ,  02
+
+わ た し は 、 ゆ う め い な 14 さ ま た de そ de 。
+9c 80 7c 8a a4 95 73 92 72 85 14 7b 8f 80 de 7f de a1 02
+I  R  20 K  N  I  G  H  T  !  ,  20 P  E  A  S  A  N  T
+Y  O  U  02 P  E  A  S  A  N  T  S  !  20 *  H  I  C  C  U
+
+ひ っ く !
+8b 6f 78 21 02 05
+U  P  !  *
+
+Appears several times in the script:
+
+たたかいますか?
+Shall we fight?
+Engarde?
+
+た た か い ま す か ?
+80 80 76 72 8f 7d 76 3f
+E  N  G  A  R  D  E  ?
+
+「やめておけ。
+おまえらに、かちめはない。
+
+You stand no chance.
+
+「 や め て お け 。
+a2 94 92 83 75 79 a1 02
+Y  O  U  20 S  T  A  N
+
+お ま え ら に 、 か ち め は な l い。
+75 8f 74 97 86 a4 76 81 92 8a 85 72 a1 02 05
+D  20 N  O  20 C  H  A  N  C  E  .
+
+「わるいことはいわん、やめておけ。
+
+You'd better stop.
+You better stop.
+
+「 わ る い こ と は い わ ん 、 や め て お け 。
+a2 9c 99 72 7a 84 8a 72 9c 9d a4 94 92 83 75 79 a1 02 05
+Y  O  U  20 B  E  T  T  E  R  20 S  T  O  P  .
+
+「ほんきでやるのか?
+か、かんがえなおさんか?
+
+Are you reconsidering?
+
+「 ほ ん き て de や る の か ?
+a2 8e 9d 77 83 de 94 99 89 76 3f 02
+A  R  E  20 Y  O  U  20 R  E  C  O
+
+か 、 か ん か de え な お さ ん か ?
+76 a4 76 9d 76 de 74 85 75 7b 9d 76 3f 02 05
+N  S  I  D  E  R  I  N  G  ?
+
+にせKNIGHT「ひゃああ!
+お、おたすけえ!
+
+Aaah! Help me!
+
+に せ 14 「 ひ ゃ あ あ !
+86 7e 14 a2 8b 6c 71 71 21 02
+A  A  A  H  !  02 H  E  L  P
+
+お 、 お た す け え !
+75 a4 75 80 7d 79 74 21 0f
+20 M  E  !  
