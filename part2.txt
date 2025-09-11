@@ -1495,3 +1495,31 @@ E  N  T  E  R  .  02 I  20 B  E  G  20 Y  O
 
 84 de 73 76 a4 d8 ad b3 66 80 72 7c de 7c 83 77 83 78 9a a1 0f
 U  ,  20 S  L  A  Y  20 T  H  E  20 B  E  A  S  T  .
+
+*「おお! それは、リュウのつめではないか。
+よくやった。
+ひきかえに、やくそくどおり
+ほのおのけんをわたそう。
+
+Oh! You have the dragon's claw.
+In return, the flame sword,
+as promised.
+As promised, your sword.
+
+2a a2 75 75 21 20 7f 9a 8a a4 d8 ad b3 89 82 92 83 de 8a 85 72 76 a1 02
+O  H  !  20 Y  O  U  20 H  A  V  E  20 T  H  E  20 D  R  A  G  O  N  '
+
+96 78 94 6f 80 a1 8b 77 76 74 86 a4 94 78 7f 78 84 de 75 98 02
+S  20 C  L  A  W  .  02 A  S  20 P  R  O  M  I  S  E  D  ,  20
+
+8e 89 75 89 79 9d 66 9c 80 7f 73 a1 05 02
+Y  O  U  R  20 S  W  O  R  D  .
+
+*「おお、さきほどはごくろう。
+
+Thank you for your work earlier.
+Thank you again.
+
+*  「 お お 、 さ き ほ と de は こ de く ろ う 。
+2a a2 75 75 a4 7b 77 8e 84 de 8a 7a de 78 9b 73 a1 0f
+T  H  A  N  K  20 Y  O  U  20 A  G  A  I  N  .
