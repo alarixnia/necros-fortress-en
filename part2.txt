@@ -1358,3 +1358,59 @@ A  A  A  H  !  02 H  E  L  P
 お 、 お た す け え !
 75 a4 75 80 7d 79 74 21 0f
 20 M  E  !  
+
+--- after making fake knight run away
+
+*「わしのなは、ニロス。
+あのKNIGHTをたおすとは、たいしたものだ。
+どうだ、ショーグンぐんのへいしにならんか?
+
+I am Niros.
+You defeated Sir Knight,
+why not join Shogun('s forces)?
+
+*  「 わ し の な は 、 ニ ロ ス 。
+2a a2 9c 7c 89 85 8a a4 c6 db bd a1 02
+I  20 A  M  20 N  I  R  O  S  .  02 Y
+
+あ の 14 を た お す と は 、 た い し た も の た de 。
+71 89 14 66 80 75 7d 84 8a a4 80 72 7c 80 93 89 80 de a1 02
+O  U  20 D  E  F  E  A  T  E  D  20 S  I  R  20 K  N  I  G
+
+と de う た de 、 シ ョ ー ク de ン く de ん の へ い し に な ら ん か ?
+84 de 73 80 de a4 bc ae b0 b8 de dd 78 de 9d 89 8d 72 7c 86 85 97 9d 76 3f 02
+H  T  ,  02 W  H  Y  20 N  O  T  20 J  O  I  N  20 S  H  O  G  U  N  ?
+
+へいしになれば、すきほうだいの
+くらしができるぞ!
+
+If you become a soldier, you'll
+live as you please!
+
+I promise freedom and
+glory!
+
+へ い し に な れ は de 、 す き ほ う た de い の
+8d 72 7c 86 85 9a 8a de a4 7d 77 8e 73 80 de 72 89 02
+I  20 P  R  O  M  I  S  E  20 F  R  E  E  D  O  M  20
+
+く ら し か de て de き る そ de !
+78 97 7c 76 de 83 de 77 99 7f de 21 02
+A  N  D  02 G  L  O  R  Y  !
+
+ふふふ、そうでなくてはな!
+では、しるしに、このいんろうをあたえよう!
+
+Haha, just as it should be!
+Take this inro (badge)!
+
+Haha, that's right!
+Take this badge!
+
+ふ ふ ふ 、 そ う て de な く て は な !
+8c 8c 8c a4 7f 73 83 de 85 78 83 8a 85 21 02
+H  A  H  A  ,  20 T  H  A  T  '  S  20 R  I
+
+て de は 、 し る し に 、 こ の い ん ろ う を あ た え よ う !
+83 de 8a a4 7c 99 7c 86 a4 7a 89 72 9d 9b 73 66 71 80 74 96 73 21 0f
+G  H  T  !  20 T  A  K  E  20 T  H  I  S  20 B  A  D  G  E  !

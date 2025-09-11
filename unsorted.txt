@@ -364,6 +364,12 @@ Clothes
 7c 6e 73 86 9d 89 8c 78
 C  L  O  T  H  E  S
 
+いんろう
+Inro (Badge)
+
+い ん ろ う
+72 9d 9b 73
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
