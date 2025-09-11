@@ -1164,3 +1164,111 @@ with the hero axe!
 
 7a 89 78 97 72 89 76 8d de 8a 7a 9c 7e 99 89 7c de 6c 76 de a1 0f
 G  H  20 W  I  T  H  20 T  H  E  20 H  E  R  O  20 A  X  E  !
+
+--- rio after the fake knight arrives (disguise worn)
+
+*「ここは、リオのむらです。
+
+This is Rio.
+Welcome to Rio.
+
+*  「 こ こ は 、 リ オ の む ら て de す 。
+2a a2 7a 7a 8a a4 d8 b5 89 91 97 83 de 7d a1 0f
+W  E  L  C  O  M  E  20 T  O  20 R  I  O  .
+
+*「もうすぐここも、シドのむらのように
+なってしまうわ...
+
+Soon it'll be like Cid
+here...
+
+*  「 も う す く de こ こ も 、 シ ト de の む ら の よ う に
+2a a2 93 73 7d 78 de 7a 7a 93 a4 bc c4 de 89 91 97 89 96 73 86 02
+S  O  O  N  20 I  T  '  L  L  20 B  E  20 L  I  K  E  20 C  I  D
+
+な っ て し ま う わ...
+85 6f 83 7c 8f 73 9c eb 0f
+02 H  E  R  E  .  .  .
+
+*「だれです、あなた?
+かってにはいらないてください!
+
+Who are you?
+Don't barge in!
+
+Who are you?
+You should knock!
+
+*  「 た de れ て de す 、 あ な た ?
+2a a2 80 de 9a 83 de 7d a4 71 85 80 3f 02
+W  H  O  20 A  R  E  20 Y  O  U  ?  02 Y
+
+か っ て に は い ら な い て く た de さ い !
+76 6f 83 86 8a 72 97 85 72 83 78 80 de 7b 72 21 0f
+O  U  20 S  H  O  U  L  D  20 K  N  O  C  K  !
+
+*「だれか、かいぶつをやっつけてくれんかなあ。
+
+Someone should kill that monster.
+I wish that monster was dead.
+The monsters should die.
+
+*  「 た de れ か 、 か い ふ de つ を や っ つ け て く
+2a a2 80 de 9a 76 a4 76 72 8c de 82 66 94 6f 82 79 83 78
+T  H  E  20 M  O  N  S  T  E  R  S  20 S  H  O  U  L  D
+
+れ ん か な あ 。
+9a 9d 76 85 71 a1 0f
+20 D  I  E  .
+
+*「ショーグンは、へいたいをぼしゅうしている。
+The Shogun is recruiting (soldiers).
+
+*  「 シ ョ ー ク de ン は 、 へ い た い を ほ de し ゅ う し ている。
+2a a2 bc ae b0 b8 de dd 8a a4 8d 72 80 72 66 8e de 7c 6d 73 7c 83 72 99 a1 0f
+T  H  E  20 S  H  O  G  U  N  20 I  S  20 R  E  C  R  U  I  T  I  N  G  .
+
+*「さいきんのKNIGHTは、どうもおかしいなあ。
+
+Knight seems strange lately.
+Knight is odd lately.
+
+*  「 さ い き ん の 14 は 、 と de う も お か し い な あ 。
+2a a2 7b 72 77 9d 89 14 8a a4 84 de 73 93 75 76 7c 72 85 71 a1 0f
+K  N  I  G  H  T  20 I  S  20 O  D  D  20 L  A  T  E  L  Y  .
+
+*「シドのむらをこえたところに、
+かいぶつのほんじんがあるそうだ。
+
+Beyond cid village, there's
+the monsters' headquarters.
+
+Beyond Cid is the
+monsters' HQ.
+
+*  「 シ ト de の む ら を こ え た と こ ろ に 、
+2a a2 bc c4 de 89 91 97 66 7a 74 80 84 7a 9b 86 a4 02
+B  E  Y  O  N  D  20 C  I  D  20 I  S  20 T  H  E  20
+
+か い ふ de つ の ほ ん し de ん か de あ る そ う た de 。
+76 72 8c de 82 89 8e 9d 7c de 9d 76 de 71 99 7f 73 80 de a1 0f
+M  O  N  S  T  E  R  S  '  20 H  Q  .
+
+*「シドのむらは、このリオのむらとおなじく
+うつくしいところだったが、どうなっている
+ことやら...
+
+Once Cid was beautiful (like Rio), but I wonder
+about now...
+
+*  「 シ ト de の む ら は 、 こ の リ オ の む ら と お な し de く
+2a a2 bc c4 de 89 91 97 8a a4 7a 89 d8 b5 89 91 97 84 75 85 7c de 78 02
+O  N  C  E  20 C  I  D  20 W  A  S  20 B  E  A  U  T  I  F  U  L  ,  02
+
+う つ く し い と こ ろ た de っ た か de 、 と de う な っ て い る
+73 82 78 7c 72 84 7a 9b 80 de 6f 80 76 de a4 84 de 73 85 6f 83 72 99 02
+20 B  U  T  20 I  20 W  O  N  D  E  R  20 A  B  O  U  T  20 N  O  W  .
+
+こ と や ら...
+7a 84 94 97 eb 0f
+.  .
