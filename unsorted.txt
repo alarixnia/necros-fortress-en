@@ -370,6 +370,14 @@ Inro (Badge)
 い ん ろ う
 72 9d 9b 73
 
+りゅうのツメ
+Dragon's Claw
+D.Claw
+
+り ゅ う の ツ メ
+98 6d 73 89 c2 d2 3f
+D  .  C  L  A  W
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -909,6 +917,13 @@ Lizard
 リ サ de ー ト de
 d8 bb de b0 c4 de
 L  I  Z  A  R  D
+
+ドラゴン
+Dragon
+
+ト de ラ コ de ン
+c4 de d7 ba de dd
+D  R  A  G  O  N
 
 ニンジャ
 Ninja
@@ -1464,7 +1479,7 @@ Pow(er) Jar ^
 
 ム キ ム キ の つ ぼ
 d1 b7 d1 b7 89 82 8e de
-P  O  W  20 J  A  R  ^
+P  O  W  R  20 J  A  R
 
 ひっさつのつぼ
 Secret Jar
@@ -1472,6 +1487,40 @@ Secret Jar
 ひ っ さ つ の つ ぼ
 8b 6f 7b 82 89 82 8e de
 S  E  C  R  E  T  20 20
+
+--- Elf's spells
+
+キュア
+Cure
+Cur
+
+キ ュ ア
+b7 ad b1
+C  U  R
+
+ショック
+Shock
+Shok
+
+シ ョ ッ ク
+bc ae af b8
+S  H  O  K
+
+ダイヒール
+DaiHeal
+X.Heal
+
+タ de イ ヒ ー ル
+c0 de b2 cb b0 d9
+X  .  H  E  A  L
+
+ミナヒール
+Heal All
+Heal*
+
+ミ ナ ヒ ー ル
+d0 c5 cb b0 d9
+H  E  A  L  *
 
 --- Chests
 
