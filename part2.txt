@@ -1523,3 +1523,90 @@ Thank you again.
 *  「 お お 、 さ き ほ と de は こ de く ろ う 。
 2a a2 75 75 a4 7b 77 8e 84 de 8a 7a de 78 9b 73 a1 0f
 T  H  A  N  K  20 Y  O  U  20 A  G  A  I  N  .
+
+--- ghoulies outside their HQ
+
+*「へっへっへっ!
+もうすぐ、オニロスさまがてんかをとるぜ。
+[...]
+おっと、くちをすべらしちまった...
+
+(Haha!) Soon Lord Oniros will rule the world.
+
+(Oops,) I said too much...
+
+2a a2 8d 6f 8d 6f 8d 6f 21 02
+S  O  O  N  20 O  N  I  R  O
+
+93 73 7d 78 de a4 b5 c6 db bd 7b 8f 76 de 83 9d 76 66 84 99 7e de a1 02 05
+S  20 W  I  L  L  20 R  U  L  E  20 T  H  E  20 W  O  R  L  D  !  02 05 I
+
+75 6f 84 a4 78 81 66 7d 8d de 97 7c 81 8f 6f 80 eb 0f
+20 S  A  I  D  20 T  O  O  20 M  U  C  H  .  .  .
+
+--- guards outside ghoulie HQ
+
+*「SAMURAIさまは、とうにはいっていきましたよ。
+
+Samurai has already gone inside.
+Samurai went inside.
+
+*  「 12 さ ま は 、 と う に は い っ て い き ま し た よ 。
+2a a2 12 7b 8f 8a a4 84 73 86 8a 72 6f 83 72 77 8f 7c 80 96 a1 0f
+S  A  M  U  R  A  I  20 W  E  N  T  20 I  N  S  I  D  E  .
+
+--- ghoulie HQ bar
+
+*「ショーグンさまは、むかしは
+あんなにおそろしいひとではなかったのに...
+
+The shogun wasn't always
+a bad man...
+
+*  「 シ ョ ー ク de ン さ ま は 、 む か し は
+2a a2 bc ae b0 b8 de dd 7b 8f 8a a4 91 76 7c 8a 02
+T  H  E  20 S  H  O  G  U  N  20 W  A  S  N  '  T
+
+あ ん な に お そ ろ し い ひ と て de は な か っ た の に...
+71 9d 85 86 75 7f 9b 7c 72 8b 84 83 de 8a 85 76 6f 80 89 86 eb 0f
+20 A  L  W  A  Y  S  02 A  20 B  A  D  20 M  A  N  .  .  .
+
+*「ショーグンさまは、
+SAMURAIのいのちのおんじんなんだそうだ。
+
+It's said that Shogun
+saved Samurai's life.
+
+They say Shogun saved
+Samurai.
+
+* 「  シ ョ ー ク de ン さ ま は 、
+2a a2 bc ae b0 b8 de dd 7b 8f 8a a4 02
+T  H  E  Y  20 S  A  Y  20 S  H  O  G
+
+12 の い の ち の お ん し de ん な ん た de そ う た de 。
+12 89 72 89 81 89 75 9d 7c de 9d 85 9d 80 de 7f 73 80 de a1 0f
+U  N  20 S  A  V  E  D  02 S  A  M  U  R  A  I  .
+
+*「ニロス? きいたことありませんね。
+
+Niros? Never heard of him.
+Niros? Who's that?
+
+*  「 ニ ロ ス ?  20 き い た こ と あ り ま せ ん ね 。
+2a a2 c6 db bd 3f 20 77 72 80 7a 84 71 98 8f 7e 9d 88 a1 0f
+N  I  R  O  S  ?  20 W  H  O  '  S  20 T  H  A  T  ?
+
+*「てめえ! ショーグンさまに、さからうのか!
+*「うるせえ! おれのボスは、オニロスさまだ!
+
+You dare defy the Shogun?
+I answer only to (Lord) Oniros!
+
+*  「 て め え !  20 シ ョ ー ク de ン さ ま に 、 さ か ら う の か !
+2a a2 83 92 74 21 20 bc ae b0 b8 de dd 7b 8f 86 a4 7b 76 97 73 89 76 21 02
+Y  O  U  20 D  A  R  E  20 D  E  F  Y  20 T  H  E  20 S  H  O  G  U  N  ?
+
+*  「 う る せ え !  20 お れ の ホ de ス は 、 オ ニ ロ ス さ ま た de !
+2a a2 73 99 7e 74 21 20 75 9a 89 ce de bd 8a a4 b5 c6 db bd 7b 8f 80 de 21 0f
+02 I  20 A  N  S  W  E  R  20 O  N  L  Y  20 T  O  20 O  N  I  R  O  S  !
