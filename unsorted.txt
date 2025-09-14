@@ -983,6 +983,13 @@ Samurai
 bb d1 d7 b2
 S  A  M  U
 
+ショーグン
+Shogun
+
+シ ョ ー ク de ン
+bc ae b0 b8 de dd
+S  H  O  G  U  N
+
 --- Armour & Weapons
 
 こdeまかしのつえ
