@@ -1610,3 +1610,54 @@ Y  O  U  20 D  A  R  E  20 D  E  F  Y  20 T  H  E  20 S  H  O  G  U  N  ?
 *  「 う る せ え !  20 お れ の ホ de ス は 、 オ ニ ロ ス さ ま た de !
 2a a2 73 99 7e 74 21 20 75 9a 89 ce de bd 8a a4 b5 c6 db bd 7b 8f 80 de 21 0f
 02 I  20 A  N  S  W  E  R  20 O  N  L  Y  20 T  O  20 O  N  I  R  O  S  !
+
+--- samurai cutscene
+
+「SAMURAI! やっとみつけたぞ。
+ショーグンはどこだ!
+
+At last(, Samurai)!
+Where's the Shogun?
+
+「 12 !  20 や っ と み つ け た そ de 。
+a2 12 21 20 94 6f 84 90 82 79 80 7f de a1 02
+A  T  20 L  A  S  T  !  02 W  H  E  R  E  '
+
+シ ョ ー ク de ン は と de こ た de !
+bc ae b0 b8 de dd 8a 84 de 7a 80 de 21 04
+S  20 T  H  E  20 S  H  O  G  U  N  ?
+
+「KNIGHT、なぜいまごろになって...
+ショーグンは、このおくだ。
+
+Knight, why now...?
+He's out back.
+
+「 14 、 な せ de い ま こ de ろ に な っ て...
+a2 14 a4 85 7e de 72 8f 7a de 9b 86 85 6f 83 eb 02
+K  N  I  G  H  T  ,  20 W  H  Y  20 N  O  W  ?  02
+
+シ ョ ー ク de ン は 、 こ の お く た de 。
+bc ae b0 b8 de dd 8a a4 7a 89 75 78 80 de a1 04 
+H  E  '  S  20 O  U  T  20 B  A  C  K  .
+
+しかし...
+ここは、とおさん!
+
+But...
+Here's daddy!
+Eat this!
+
+7c 76 7c eb 02
+B  U  T  eb 02
+
+7a 7a 8a a4 84 75 7b 9d 21 04
+E  A  T  20 T  H  I  S  !
+
+SAMURAI! めをさませ!
+
+Samurai! Wake up!
+
+   12 !  20 め を さ ま せ !
+a2 12 21 20 92 66 7b 8f 7e 21 04
+W  A  K  E  20 U  P  20 12 !

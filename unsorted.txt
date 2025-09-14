@@ -976,6 +976,13 @@ Golem
 c4 de b8 de b0
 G  O  L  E  M
 
+サムライ
+Samurai
+
+サ ム ラ イ
+bb d1 d7 b2
+S  A  M  U
+
 --- Armour & Weapons
 
 こdeまかしのつえ
