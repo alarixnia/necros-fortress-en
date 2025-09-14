@@ -610,6 +610,22 @@ Foe is dancing! (Dancing!)
 た ち は 、 タ
 80 81 8a a4 c0
 
+
+*は、しゅりけんをなげた!
+Threw shuriken!
+Threw star!
+
+*  は 、 し ゅ り け ん を な け de た !
+2a 8a a4 7c 6d 98 79 9d 66 85 79 de 80 21 02 04
+2a 20 T  H  R  E  W  20 S  T  A  R  !
+
+*は、かえんをはいた!
+Spatt fire!
+
+*  は 、 か え ん を は い た !
+2a 8a a4 76 74 9d 66 8a 72 80 21 02 04
+2a 20 S  P  A  T  20 F  I  R  E
+
 *のファイヤーアタック!
 Used fire attack!
 
@@ -650,6 +666,13 @@ Ouch ouch!
 
 *  「 あ た た た た た た っ !
 2a a2 71 80 80 80 80 80 80 6f 21
+
+*は、とつげきした!
+uses rage!
+
+*  は 、 と つ け de き し た !
+2a 8a a4 84 82 79 de 77 7c 80 21 02 04
+2a 20 U  S  E  S  20 R  A  G  E
 
 Mercenary's attack message:
 は、ゆみをはなった!
@@ -736,9 +759,23 @@ Thunder!
 bb dd c0 de b0 b1 c0 af b8 21 02 04
 T  H  U  N  D  E  R  !  20 20
 
+*の、じょうくうからのこうげき!
+Used air attack!
+
+*  の 、 し de ょ う く う か ら の こ う け de き !
+2a 89 a4 7c de 6e 73 78 73 76 97 89 7a 73 79 de 77 21 02 04
+2a 20 U  S  E  D  20 A  I  R  20 A  T  T  A  C  K  !
+
 は、むかっていったす
 Advancing!
 Charges!
+
+「フンガー!
+Feck!
+
+「 フ ン カ de ー !
+a2 cc dd b6 de b0 21 02 04
+F  E  C  K  !
 
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
@@ -812,7 +849,7 @@ X ran away.
 
 *  は 、 に け de た de し た 。
 2a 8a a4 86 79 de 80 de 7c 80 a1
-2a R  A  N  20 A  W  A  Y  .  
+2a 20 R  A  N  20 A  W  A  Y  .  
 
 *をたおした!
 X beat!
@@ -931,6 +968,13 @@ Ninja
 ニ ン シ de ャ
 c6 dd bc de ac
 N  I  N  J  A
+
+ドグー
+Golem
+
+ト de ク de ー
+c4 de b8 de b0
+G  O  L  E  M
 
 --- Armour & Weapons
 
@@ -1086,7 +1130,7 @@ DemonClub
 
 いかづちハンマー
 Thunder Hammer
-ElecHammr
+Ele Hammr
 
 ヘパイトスのつち
 Hephaestus Hammer
