@@ -1889,6 +1889,71 @@ H  O  W  20 D  A  R  E  20 Y  O  U  20 E  S  C  A  P  E  ?  !  02 05 I  '  L
 7a 7c 6c 78 85 a1 9c 7c 90 7d de 76 97 a4 7a 9b 7c 83 78 9a 99 21 0f
 L  20 K  I  L  L  20 Y  O  U  20 M  Y  S  E  L  F  !
 
+--- after defeating oniros
+
+オニロスをたおしたパーティーは、SAMURAIをつれて
+とうをだっしゅつした。
+
+The party that defeated Oniros took Samurai
+and ran for the tower.
+
+And so, we took Samurai and ran...
+
+b5 c6 db bd 66 80 75 7c 80 ca df b0 c3 a8 b0 8a a4 12 66 82 9a 83 02
+A  N  D  20 S  O  ,  20 W  E  20 T  O  O  K  20 S  A  M  U  R  A  I
+
+84 73 66 80 de 6f 7c 6d 82 7c 80 a1 0f
+02 A  N  D  20 R  A  N  .  .  .
+
+--- samurai cutscene
+
+「せっしゃは、いったいなにを...?
+ショーグンをたすけようとして、
+おおくのひとをくるしめてしまった...
+
+What have I done?
+(While trying to save Shogun,)
+I hurt so many people for Shogun...
+
+「わすれろ、SAMURAI。
+すべてはすんだことだ。
+
+Forget it(, Samurai).
+It's over.
+
+「それではせっしゃのきがすまぬ。
+かくなるうえは、ハラをきっておわびもうしあげる!
+
+To retain my honour,
+I must commit Seppuku!
+
+「わーっ、まて! はやまるな!
+
+Whoa, hold on! Don't rush!
+Hold on! Don't!
+
+「 せ っ し ゃ は 、 い っ た い な に を... ?
+a2 7e 6f 7c 6c 8a a4 72 6f 80 72 85 86 66 eb 3f 02
+W  H  A  T  20 H  A  V  E  20 I  20 D  O  N  E  ?
+
+bc ae b0 b8 de dd 66 80 7d 79 96 73 84 7c 83 a4 02
+02 I  20 H  U  R  T  20 S  O  20 M  A  N  Y  20 P
+
+75 75 78 89 8b 84 66 78 99 7c 92 83 7c 8f 6f 80 eb 04
+E  O  P  L  E  20 F  O  R  20 S  H  O  G  U  N  eb 04
+
+a2 9c 7d 9a 9b a4 12 a1 02 7d 8d de 83 8a 7d 9d 80 de 7a 84 80 de a1 04
+F  O  R  G  E  T  20 I  T  .  20 I  T  '  S  20 O  V  E  R  .  20 20 04
+
+a2 7f 9a 83 de 8a 7e 6f 7c 6c 89 77 76 de 7d 8f 87 a1 02
+T  O  20 R  E  T  A  I  N  20 M  Y  20 H  O  N  O  U  R
+
+76 78 85 99 73 74 8a a4 ca d7 66 77 6f 83 75 9c 8b de 93 73 7c 71 79 de 99 21 04
+,  02 I  20 M  U  S  T  20 C  O  M  M  I  T  20 S  E  P  P  U  K  U  !
+
+a2 9c b0 6f a4 8f 83 21 20 8a 94 8f 99 85 21 04
+H  O  L  D  20 O  N  !  20 D  O  N  '  T  !
+
 --- king after defeating oniros
 
 タンキリエおう「そういうわけじゃったか。
@@ -1967,36 +2032,36 @@ O  E  S  20 A  T  20 O  N  C  E  .  02 05 S  A  M
 
 う た か de っ た り し て 、 わ る か っ た の う 。
 73 80 76 de 6f 80 98 7c 83 a4 9c 99 76 6f 80 89 73 a1 02
-U  R  A  I  ,  20 T  O  O  .  .  .  02 05 W  H  A  T  20
+U  R  A  I  ,  20 T  O  O  .  .  .  02 W  H  A  T  20 O
 
 ...ん ?  20 12 は と de う し た ?
 eb 9d 3f 20 12 8a 84 de 73 7c 80 3f 02 05
-O  F  20 H  I  M  ?  02 05 S  U  F  F  E
+F  20 H  I  M  ?  02 05 S  U  F  F  E  R
 
 13 「 12 は ...そ の ー 、 ケ カ de を し ま し て な...
 13 a2 12 8a eb 7f 89 b0 a4 b9 b6 de 66 7c 8f 7c 83 85 eb 02
-R  I  N  G  ,  20 E  H  ?  02 E  L  F  20 I  S  20 T  A  K
+I  N  G  ,  20 E  H  ?  20 E  L  F  20 I  S  02 T  A  K  I
 
 11 か de か ん ひ de ょ う し て お り ま す 。
 11 76 de 76 9d 8b de 6e 73 7c 83 75 98 8f 7d a1 02 05
-I  N  G  20 C  A  R  E  20 O  F  20 H  I  M  ?  20 G
+N  G  20 C  A  R  E  20 O  F  20 H  I  M  ?  20 G  O
 
 タンキリエおう「とにかく、でんれいをだそう。
 c0 dd b7 d8 b4 75 73 a2 84 86 76 78 a4 83 de 9d 9a 72 66 80 de 7f 73 a1 02
-O  O  D  .  02 05 I  N  20 A  N  Y  20 C  A  S  E  ,  20 G  E  T  20 T  H
+O  D  .  02 05 I  N  20 A  N  Y  20 C  A  S  E  ,  20 G  E  T  20 T  H  E
 
 7  に ん の て de し に た い こ う す る た め 、
 37 86 9d 89 83 de 7c 86 80 72 7a 73 7d 99 80 92 a4 02
-E  20 W  O  R  D  20 O  U  T  :  20 W  E  '  L  L  20
+20 W  O  R  D  20 O  U  T  :  20 W  E  '  L  L  20 G
 
 8  ゆ う し ゃ を よ ふ de の し de ゃ !
 38 95 73 7c 6c 66 96 8c de 89 7c de 6c 21 02 05
-G  A  T  H  E  R  20 T  H  E  20 8  02 H  E  R
+A  T  H  E  R  20 T  H  E  20 8  02 H  E  R  O
 
 こ う し て つ い に 、 8  ゆ う し ゃ は ふ た た ひ de
 7a 73 7c 83 82 72 86 a4 38 95 73 7c 6c 8a 8c 80 80 8b de 02
-O  E  S  20 T  O  20 D  E  F  E  A  T  20 T  H  E  20 7  02
+E  S  20 T  O  20 D  E  F  E  A  T  20 T  H  E  20 7  02 D
 
 し ゅ う け つ す る こ と と な っ た !
 7c 6d 73 79 82 7d 99 7a 84 84 85 6f 80 21 0f
-20 D  I  S  C  I  P  L  E  S  !
+D  I  S  C  I  P  L  E  S  !
