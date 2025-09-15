@@ -277,6 +277,13 @@ damn it!
 i will prevail!
 some day, my 7 companions...
 
+BERSERKERのとつげき!
+Berserker charges!
+Berserker strike
+
+15 89 84 82 79 de 77 21 04
+15 20 S  T  R  I  K  E
+
 --- post-battle cutscene
 
 00021310

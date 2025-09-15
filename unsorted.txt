@@ -591,6 +591,13 @@ Come on!
 *  「 い く そ de !
 2a a2 72 78 7f de 21
 
+*のかたなにいなずまがおちる!
+* got struck by thunder!
+* was struck!
+
+2a 89 76 80 85 86 72 85 7d de 8f 76 de 75 81 99 21 02 04
+2a 20 W  A  S  20 S  T  R  U  C  K  !
+
 *の、こうけdeき!
 Attacks!
 
@@ -790,6 +797,13 @@ Feck!
 「 フ ン カ de ー !
 a2 cc dd b6 de b0 21 02 04
 F  E  C  K  !
+
+*のバカぢからなぐり!
+* used drunken punch!
+* used bash!
+
+2a 89 ca de b6 81 de 76 97 85 78 de 98 21 02 04
+2a 20 U  S  E  D  20 B  A  S  H  !
 
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
