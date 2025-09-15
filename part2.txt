@@ -2087,7 +2087,8 @@ Samurai is too ashamed to show his face.
 MAGEどの、なんとかならんか?
 
 Can't we do something (about this)?
-What can we do about it?
+what can
+we do about it?
 
 MAGE「かんがえがある...
 まあ、みていなさい。
@@ -2111,7 +2112,7 @@ D  O  I  N  G  20 W  H  I  L  E  20 W  E  20 W  A  I  T
 A  M  E  D  20 T  O  20 S  H  O  W  20 H  I  S  20 F  A
 
 83 de 86 78 72 89 7c de 6c 9b 73 eb 02 05
-C  E  .  20 W  H  A  T  20 C  A  N  20 W
+C  E  ,  20 W  H  A  T  20 C  A  N  02 W
 
 c0 dd b7 d8 b4 75 73 a2 7f 9a 8a 7a 8f 6f 80 21 02
 E  20 D  O  20 A  B  O  U  T  20 I  T  ?  02 05 Y
@@ -2121,3 +2122,69 @@ O  U  '  V  E  20 A  N  20 I  D  E  A  ,  20 M
 
 17 a2 76 9d 76 de 74 76 de 71 99 eb 8f 71 a4 90 83 72 85 7b 72 a1 0f
 A  G  E  ?  02 W  E  L  L  ,  20 W  E  '  L  L  20 S  E  E  .  .
+
+--- samurai and elf setting up part 3
+
+SAMURAI「このたびは、ずいぶんめいわくを
+かけたでござるなあ。
+
+
+This time, I've caused you a lot of trouble.
+
+ELF「きにすることないよ。
+ところで、おうさまからおよびがかかっている
+らしいけど...
+
+Don't worry.
+The king has sent for you...
+
+SAMURAI「うーむ。
+あのことがあるから、
+おうのまえには、でにくいでござるよ。
+
+Hmm, because of that matter,
+it's difficult to appear before the king.
+
+ELF「せいれいさまに、そうだんしてみようか?
+とにかく、たびのしたくをしよう。
+
+Shall we consult the spirit?
+Let's get ready for the journey.
+
+single-person version:
+[[[
+Samurai, the king sent for you.
+
+I know it's hard to face
+him because of the trouble...
+
+Shall we consult the spirit?
+Let's prepare for our journey.
+]]]
+
+12 a2 7a 89 80 8b de 8a a4 7d de 72 8c de 9d 92 72 9c 78 66 02
+S  A  M  U  R  A  I  ,  20 T  H  E  20 K  I  N  G  20 S  E  N
+
+76 79 80 83 de 7a de 7b de 99 85 71 a1 02 05
+T  20 F  O  R  20 Y  O  U  .  02 05 I  20 K
+
+11 a2 77 86 7d 99 7a 84 85 72 96 a1 02
+N  O  W  20 I  T  '  S  20 H  A  R  D
+
+84 7a 9b 83 de a4 75 73 7b 8f 76 97 75 96 8b de 76 de 76 76 6f 83 72 99 02
+20 T  O  20 A  P  P  E  A  R  20 B  E  F  O  R  E  20 H  I  M  20 B  E  C
+
+97 7c 72 79 84 de eb 02 05
+A  U  S  E  20 O  F  20 T
+
+12 a2 73 b0 91 a1 71 89 7a 84 76 de 71 99 76 97 a4 02
+H  E  20 T  R  O  U  B  L  E  .  .  .  02 05 S  H  A
+
+75 73 89 8f 74 86 8a a4 83 de 86 78 72 83 de 7a de 7b de 99 96 a1 02 05
+L  L  20 W  E  20 C  O  N  S  U  L  T  20 T  H  E  02 S  P  I  R  I  T
+
+11 a2 7e 72 9a 72 7b 8f 86 a4 7f 73 80 de 9d 7c 83 90 96 73 76 3f 02
+?  20 L  E  T  '  S  20 P  R  E  P  A  R  E  20 F  O  R  20 O  U  R
+
+84 86 76 78 a4 80 8b de 89 7c 80 78 66 7c 96 73 a1 0f
+20 J  O  U  R  N  E  Y  .  .  .
