@@ -1888,3 +1888,115 @@ H  O  W  20 D  A  R  E  20 Y  O  U  20 E  S  C  A  P  E  ?  !  02 05 I  '  L
 こ し ゃ く な 。 わ し み す de か ら 、 こ ろ し て く れ る !
 7a 7c 6c 78 85 a1 9c 7c 90 7d de 76 97 a4 7a 9b 7c 83 78 9a 99 21 0f
 L  20 K  I  L  L  20 Y  O  U  20 M  Y  S  E  L  F  !
+
+--- king after defeating oniros
+
+タンキリエおう「そういうわけじゃったか。
+ネクロスのざんとうは、7にんのでしたちのてで、
+きょうりょくになりつつあるらしい。
+かくなるうえは、8ゆうしゃに、ふたたびあつまって
+もらわねばならん。
+
+So that's how it is...
+
+The remnants of Necros'
+forces are gaining
+strength under 7 leaders.
+
+We must gather the 8
+heroes at once.
+
+KNIGHT「SAMURAIも、ですか?
+タンキリエおう「おお、もちろん!
+うたがったりして、わるかったのう。
+...
+ん? SAMURAIはどうした?
+
+Samurai, too...
+What of him?
+
+DWARF「SAMURAIは...
+そのー、ケガをしましてな...
+ELFがかんびょうしております。
+
+Suffering, eh? Elf is taking
+care of him? Good.
+
+タンキリエおう「とにかく、でんれいをだそう。
+7にんのでしにたいこうするため、
+8ゆうしゃをよぶのじゃ!
+
+In any case, get the word
+out: we'll gather the 8
+heroes to defeat the 7
+disciples!
+
+こうしてついに、8ゆうしゃはふたたび
+しゅうけつすることとなった!
+
+(... And so, the 8 heroes
+will join together once more!)
+
+タ ン キ リ エ お う 「 そ う い う わ け し de ゃ っ た か 。
+c0 dd b7 d8 b4 75 73 a2 7f 73 72 73 9c 79 7c de 6c 6f 80 76 a1 02
+S  O  20 T  H  A  T  '  S  20 H  O  W  20 I  T  20 I  S  .  .  .
+
+ネ ク ロ ス の さ de ん と う は 、 7  に ん の でし de た ち の て て de 、
+c8 b8 db bd 89 7b de 9d 84 73 8a a4 37 86 9d 89 83 de 7c 80 81 89 83 83 de a4 02
+02 05 T  H  E  20 R  E  M  N  A  N  T  S  20 O  F  20 N  E  C  R  O  S  '  02 F
+
+き ょ う り ょ く に な り つ つ あ る ら し い 。
+77 6e 73 98 6e 78 86 85 98 82 82 71 99 97 7c 72 a1 02 05
+O  R  C  E  S  20 A  R  E  20 G  A  I  N  I  N  G  20 S
+
+か く な る う え は 、 8  ゆ う し ゃ に 、 ふ た た ひ de あ つ ま っ て
+76 78 85 99 73 74 8a a4 38 95 73 7c 6c 86 a4 8c 80 80 8b de 71 82 8f 6f 83 02
+T  R  E  N  G  T  H  20 U  N  D  E  R  20 7  20 L  E  A  D  E  R  S  .  02
+
+も ら わ ね は de な ら ん 。
+93 97 9c 88 8a de 85 97 9d a1 02 05
+W  E  20 M  U  S  T  20 G  A  T  H
+
+14 「 12 も 、 て de す か ?
+14 a2 12 93 a4 83 de 7d 76 3f 02 05
+E  R  20 T  H  E  02 8  20 H  E  R
+
+タ ン キ リ エ お う 「 お お 、 も ち ろ ん !
+c0 dd b7 d8 b4 75 73 a2 75 75 a4 93 81 9b 9d 21 02
+O  E  S  20 A  T  20 O  N  C  E  .  02 05 S  A  M
+
+う た か de っ た り し て 、 わ る か っ た の う 。
+73 80 76 de 6f 80 98 7c 83 a4 9c 99 76 6f 80 89 73 a1 02
+U  R  A  I  ,  20 T  O  O  .  .  .  02 05 W  H  A  T  20
+
+...ん ?  20 12 は と de う し た ?
+eb 9d 3f 20 12 8a 84 de 73 7c 80 3f 02 05
+O  F  20 H  I  M  ?  02 05 S  U  F  F  E
+
+13 「 12 は ...そ の ー 、 ケ カ de を し ま し て な...
+13 a2 12 8a eb 7f 89 b0 a4 b9 b6 de 66 7c 8f 7c 83 85 eb 02
+R  I  N  G  ,  20 E  H  ?  02 E  L  F  20 I  S  20 T  A  K
+
+11 か de か ん ひ de ょ う し て お り ま す 。
+11 76 de 76 9d 8b de 6e 73 7c 83 75 98 8f 7d a1 02 05
+I  N  G  20 C  A  R  E  20 O  F  20 H  I  M  ?  20 G
+
+タンキリエおう「とにかく、でんれいをだそう。
+c0 dd b7 d8 b4 75 73 a2 84 86 76 78 a4 83 de 9d 9a 72 66 80 de 7f 73 a1 02
+O  O  D  .  02 05 I  N  20 A  N  Y  20 C  A  S  E  ,  20 G  E  T  20 T  H
+
+7  に ん の て de し に た い こ う す る た め 、
+37 86 9d 89 83 de 7c 86 80 72 7a 73 7d 99 80 92 a4 02
+E  20 W  O  R  D  20 O  U  T  :  20 W  E  '  L  L  20
+
+8  ゆ う し ゃ を よ ふ de の し de ゃ !
+38 95 73 7c 6c 66 96 8c de 89 7c de 6c 21 02 05
+G  A  T  H  E  R  20 T  H  E  20 8  02 H  E  R
+
+こ う し て つ い に 、 8  ゆ う し ゃ は ふ た た ひ de
+7a 73 7c 83 82 72 86 a4 38 95 73 7c 6c 8a 8c 80 80 8b de 02
+O  E  S  20 T  O  20 D  E  F  E  A  T  20 T  H  E  20 7  02
+
+し ゅ う け つ す る こ と と な っ た !
+7c 6d 73 79 82 7d 99 7a 84 84 85 6f 80 21 0f
+20 D  I  S  C  I  P  L  E  S  !
