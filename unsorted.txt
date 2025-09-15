@@ -1817,3 +1817,134 @@ joined
 を な か ま に く わ え た !
 66 85 76 8f 86 78 9c 74 80 21
 20 J  O  I  N  E  D  !  20 20
+
+--- shop messages
+
+どなたがごらんになるかニャ?
+For which of mew?
+
+84 de 85 80 76 de 7a de 97 9d 86 85 99 76 c6 ac 3f 02
+F  O  R  20 W  H  I  C  H  20 O  F  20 M  E  W  ?
+
+どなたがごらんになるアルか?
+Who's looking eh?
+
+84 de 85 80 76 de 7a de 97 9d 86 85 99 b1 d9 76 3f 02
+W  H  O  '  S  20 L  O  O  K  I  N  G  20 E  H  ?
+
+どれをおもとめかニャ?
+What do you need, meow?
+Pick one nya
+
+84 de 9a 66 75 93 84 92 76 c6 ac 3f 20
+P  I  C  K  20 O  N  E  20 N  Y  A
+
+チョコレートは、それいじょうもてませんよ。
+Chocolate's delicious.
+
+チ ョ コ レ ー ト は 、 そ れ い し de ょ う も て ま せ ん よ 。
+c1 ae ba da b0 c4 8a a4 7f 9a 72 7c de 6e 73 93 83 8f 7e 9d 96 a1 02
+C  H  O  C  O  L  A  T  E  '  S  20 D  E  L  I  C  I  O  U  S  .
+
+チョコレートは、それいじょうもてないニャ。
+Chocolate is meowthwatering.
+Choco? Meowthwatering!
+
+チ ョ コ レ ー ト は 、 そ れ い し de ょ う も て な い ニ ャ 。
+c1 ae ba da b0 c4 8a a4 7f 9a 72 7c de 6e 73 93 83 85 72 c6 ac a1 02
+C  H  O  C  O  ?  20 M  E  O  W  T  H  W  A  T  E  R  I  N  G  !
+
+チョコレートは、それいじょうもてないアルよ。
+Chocolate's lovely, I says.
+Choco's lovely, I says.
+
+チ ョ コ レ ー ト は 、 そ れ い し de ょ う も て な い ア ル よ 。
+c1 ae ba da b0 c4 8a a4 7f 9a 72 7c de 6e 73 93 83 85 72 b1 d9 96 a1 02
+C  H  O  C  O  '  S  20 L  O  V  E  L  Y  20 I  20 S  A  Y  S  .
+
+どれをおもとめのコトか?
+What're you after?
+What'cha need
+
+84 de 9a 66 75 93 84 92 89 ba c4 76 3f 02
+W  H  A  T  '  C  H  A  20 N  E  E  D
+
+Gになります。よろしいですか?
+G. Is that alright?
+GOLD. Is that OK?
+
+G  に な り ま す 。 02 よ ろ し い て de す か ?
+47 86 85 98 8f 7d a1 02 96 9b 7c 72 83 de 7d 76 3f 02
+G  O  L  D  .  02 I  S  20 T  H  A  T  20 O  K  ?
+
+Gになります。よろしいかニャ?
+G. Is that alright, meow?
+GOLD. OK, meow?
+
+G  に な り ま す 。 02 よ ろ し い か ニ ャ  ?
+47 86 85 98 8f 7d a1 02 96 9b 7c 72 76 c6 ac 3f 02
+G  O  L  D  .  20 O  K  ,  20 M  E  O  W  ?
+
+Gのコトね。よろしアルか?
+G, approx. OK?
+
+G  の コ ト ね 。 よ ろ し ア ル か ?
+47 89 ba c4 88 a1 96 9b 7c b1 d9 76 3f 02
+G  20 A  P  P  R  O  X  .  20 O  K  ?
+
+ほかには、おもとめになりますか?
+Anything else?
+
+8e 76 86 8a a4 75 93 84 92 86 85 98 8f 7d 76 3f 02
+A  N  Y  T  H  I  N  G  20 E  L  S  E  ?
+
+ほかには、おもとめかニャ?
+Anything else, meow?
+More, meow?
+
+8e 76 86 8a a4 75 93 84 92 76 c6 ac 3f 02
+M  O  R  E  ,  20 M  E  O  W  ?
+
+ほかには、おもとめになるアルか?
+I wonder, you need more?
+Need any more?
+
+8e 76 86 8a a4 75 93 84 92 86 85 99 b1 d9 76 3f 
+N  E  E  D  20 A  N  Y  20 M  O  R  E  ?
+
+また、おこしくださいニャア!
+Come again, meow!
+Come again nya!
+
+ま た 、 お こ し く た de さ い ニ ャ ア !
+8f 80 a4 75 7a 7c 78 80 de 7b 72 c6 ac b1 21
+C  O  M  E  20 A  G  A  I  N  20 N  Y  A  !
+
+またおこしになるヨロシ。
+Do come again.
+Come again.
+
+ま た お こ し に な る ヨ ロ シ 。
+8f 80 75 7a 7c 86 85 99 d6 db bc a1
+C  O  M  E  20 A  G  A  I  N  .
+
+おきゃくさま、おかねがたりないようですが...
+(Customer,) you don't have enough (money).
+
+75 77 6c 78 7b 8f a4 75 76 88 76 de 80 98 85 72 96 73 83 de 7d 76 de eb 02
+Y  O  U  20 D  O  N  '  T  20 H  A  V  E  20 E  N  O  U  G  H  .  .  .  02
+
+おきゃくさん、おかねがたりないニャア!
+(Customer,) you're broke meow!
+Not enoug meowny!
+
+お き ゃ く さ ん 、 お か ね か de た り な い ニ ャ ア !
+75 77 6c 78 7b 9d a4 75 76 88 76 de 80 98 85 72 c6 ac b1 21 02
+N  O  T  20 E  N  O  U  G  H  20 M  E  O  W  N  Y  !
+
+おきゃくさん、おかねがたりないアルよ。
+You need more gold.
+
+お き ゃ く さ ん 、 お か ね か de た り な い ア ル よ 。
+75 77 6c 78 7b 9d a4 75 76 88 76 de 80 98 85 72 b1 d9 96 a1 02
+Y  O  U  20 N  E  E  D  20 M  O  R  E  20 G  O  L  D  .
