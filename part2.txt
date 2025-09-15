@@ -1826,3 +1826,49 @@ W  E  '  V  E  20 F  A  L  L  E  N  .  .  .  02
 
 8f 9d 8f 84 9c 85 86 8a 8f 6f 83 7c 8f 6f 80 a1 0f
 T  H  E  R  E  '  S  20 L  I  G  H  T  .  .  .
+
+--- fairy in dungeon
+
+*「みずのそこを、おさがしなさい。
+ちかからだっしゅつできますよ。
+[...]
+かいふくさせてあげます。
+がんばってください!
+
+I'll heal you.
+
+Search the bottom of the water, you'll find a way out.
+You'll find a way out through the water at the bottom.
+You'll find a way out through water at the bottom.
+You can escape through
+the water at the bottom.
+
+(Try your best / Good luck!)
+
+*  「 み す de の そ こ を 、 お さ か de し な さ い 。
+2a a2 90 7d de 89 7f 7a 66 a4 75 7b 76 de 7c 85 7b 72 a1 02
+I  '  L  L  20 H  E  A  L  20 Y  O  U  .  02 05 Y  O  U  20
+
+ち か か ら た de っ し ゅ つ て de き ま す よ 。
+81 76 76 97 80 de 6f 7c 6d 82 83 de 77 8f 7d 96 a1 05 02
+C  A  N  20 E  S  C  A  P  E  20 T  H  R  O  U  G  H  02
+
+か い ふ く さ せ て あ け de ま す 。
+76 72 8c 78 7b 7e 83 71 79 de 8f 7d a1 02
+T  H  E  20 W  A  T  E  R  20 A  T  20 T
+
+か de ん は de っ て く た de さ い !
+76 de 9d 8a de 6f 83 78 80 de 7b 72 21 0f
+H  E  20 B  O  T  T  O  M  !
+
+--- samurai after oniros cutscene
+
+SAMURAI「しばらく、ひとりにしておいてくれんか。
+
+Can you leave me alone for a while?
+Leave me be for now.
+I need time alone.
+
+12 「 し は de ら く 、 ひ と り に し て お い て く れ ん か。
+12 a2 7c 8a de 97 78 a4 8b 84 98 86 7c 83 75 72 83 78 9a 9d 76 a1 0f
+I  20 N  E  E  D  20 T  I  M  E  20 A  L  O  N  E  .
