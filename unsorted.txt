@@ -667,6 +667,13 @@ Ouch ouch!
 *  「 あ た た た た た た っ !
 2a a2 71 80 80 80 80 80 80 6f 21
 
+*の、かえんのじん!
+used fire spirit!
+uses fire
+
+2a 89 a4 76 74 9d 89 7c de 9d 21 02 04
+2a 20 U  S  E  S  20 F  I  R  E
+
 *は、とつげきした!
 uses rage!
 
@@ -765,6 +772,13 @@ Used air attack!
 *  の 、 し de ょ う く う か ら の こ う け de き !
 2a 89 a4 7c de 6e 73 78 73 76 97 89 7a 73 79 de 77 21 02 04
 2a 20 U  S  E  D  20 A  I  R  20 A  T  T  A  C  K  !
+
+*のジャンプこうげき!
+Used jump attack!
+
+*  の シ de ャ ン フ df こ う け de き !
+2a 89 bc de ac dd cc df 7a 73 79 de 77 21 02 04
+2a 20 U  S  E  D  20 J  U  M  P  !  
 
 は、むかっていったす
 Advancing!
@@ -968,6 +982,18 @@ Ninja
 ニ ン シ de ャ
 c6 dd bc de ac
 N  I  N  J  A
+
+アカニンジャ
+Red Ninja
+
+R  E  D  20  N  I  N
+b1 b6 c6 dd bc de ac
+
+カゲニンジャ
+Shadow Ninja
+
+S  H  A  D  O  W  20 N
+b6 b9 de c6 dd bc de ac
 
 ドグー
 Golem
