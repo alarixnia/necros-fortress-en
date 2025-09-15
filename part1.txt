@@ -67,6 +67,7 @@ then 8 heroes rose up
 ---- knight intro cutscene
 
 77 7c 20 14 04
+14 G  H  T
 
 ---- magician intro cutscene
 
@@ -81,8 +82,8 @@ then 8 heroes rose up
 
 あし サムライ
 
-8f 8e 73 82 76 72 20 17 04
-S  A  M  U  R  A  I  .
+8f 8e 73 82 76 72 20
+12 R  A  I  .
 
 ---- amazon intro cutscene
 
@@ -119,9 +120,7 @@ DWARF
 
 ば    ん じ    ん
 8a de 9d 7c de 9d
-
-BERSERKER
-VIKING
+15 K  E  R  20 20
 
 ---- mercenary intro cutscene
 
@@ -178,6 +177,21 @@ Necros used fire spell
 ネ ク ロ ス は フ ァ イ ヤ ー の じde ゅ も ん を と な え た !
 c8 b8 db bd 8a cc a7 b2 d4 b0 89 7c de 6d 93 9d 66 84 85 74 80 21 04
 N  E  C  R  O  S  20 U  S  E  D  20 F  I  R  E  20 S  P  E  L  L
+
+DWARFは20のダメージ!
+Dwarf damaged (for 20)!
+
+13 は 2  0  の タ de メ ー シ de !
+13 8a 32 30 89 c0 de d2 b0 bc de 21 04
+13 20 D  A  M  A  G  E  D  !
+
+AMAZONのこうげき!
+Amazon booms!
+Amazon hits!
+
+10 の こ う け de き !
+10 89 7a 73 79 de 77 21 04
+10 20 H  I  T  S  !
 
 ネクロスはてdeんけdeきをはっしゃした!
 Necros used lightning!
@@ -600,7 +614,8 @@ medicines.
 
 *Heave-ho, heave-ho!
 Oh dear, fetching water every day is such a bother!
-Every day, hauling up water...!
+Every day, hauling up
+water...!
 
 あ あ 、 ま い に ち み ず de く み が de た い へ ん !
 71 71 a4 8f 72 86 81 90 7d de 78 90 76 de 80 72 8d 9d 21
