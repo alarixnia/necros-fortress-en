@@ -1956,3 +1956,36 @@ You need more gold.
 お き ゃ く さ ん 、 お か ね か de た り な い ア ル よ 。
 75 77 6c 78 7b 9d a4 75 76 88 76 de 80 98 85 72 b1 d9 96 a1 02
 Y  O  U  20 N  E  E  D  20 M  O  R  E  20 G  O  L  D  .
+
+ありがとうございました。
+Thank you very much.
+Thank you.
+
+あ り か de と う こ de さ de い ま し た 。
+71 98 76 de 84 73 7a de 7b de 72 8f 7c 80 a1
+T  H  A  N  K  20 Y  O  U  .  20 20 20 20 20
+
+--- staying at the inn
+
+よろしいですか?
+Is that OK?
+Alright?
+
+96 9b 7c 72 83 de 7d 76 3f 02
+よ ろ し い て de す か ?
+A  L  R  I  G  H  T  ?
+
+どうぞ、ごゆっくりおやすみください。
+Please, rest well.
+
+と de う そ de 、 こ de ゆ っ く り お や す み く た de さ い 。
+84 de 73 7f de a4 7a de 95 6f 78 98 75 94 7d 90 78 80 de 7b 72 a1 02
+P  L  E  A  S  E  ,  20 R  E  S  T  20 W  E  L  L  .
+
+おとまりは、
+Staying 
+Fee's
+
+お と ま り は 、 ?? ?? ?? ?? ?? ?? G  て de す 。
+75 84 8f 98 8a a4 00 41 90 64 41 93 47 83 de 7d a1 02
+F  E  E  '  S  20 ?? ?? ?? ?? ?? ?? G  20 N  O  W
