@@ -2065,3 +2065,59 @@ E  S  20 T  O  20 D  E  F  E  A  T  20 T  H  E  20 7  02 D
 し ゅ う け つ す る こ と と な っ た !
 7c 6d 73 79 82 7d 99 7a 84 84 85 6f 80 21 0f
 D  I  S  C  I  P  L  E  S  !
+
+--- king, setting up part 3
+
+タンキリエおう「うーむ。
+8ゆうしゃは、まだ
+あつまらんか? こうしているあいだにも、
+7にんぐみは、なにをしておるか...
+
+(Hmm.) The (8) heroes still aren't
+here?  What are the 7 doing
+while we wait?
+
+MAGE「SAMURAIは、りちぎなヤツじゃからのう。
+あのじけんをきにして、おうのまえに
+でにくいのじゃろう...
+
+Samurai is too ashamed to show his face.
+
+タンキリエおう「それはこまった!
+MAGEどの、なんとかならんか?
+
+Can't we do something (about this)?
+What can we do about it?
+
+MAGE「かんがえがある...
+まあ、みていなさい。
+
+You have an idea, Mage?
+Well, we'll see...
+
+c0 dd b7 d8 b4 75 73 a2 73 b0 91 a1 38 95 73 7c 6c 8a a4 8f 80 de 02
+T  H  E  20 H  E  R  O  E  S  20 S  T  I  L  L  20 A  R  E  N  '  T
+
+71 82 8f 97 9d 76 3f 20 7a 73 7c 83 72 99 71 72 80 de 86 93 a4 02
+02 H  E  R  E  ?  20 W  H  A  T  20 A  R  E  20 T  H  E  20 7  20
+
+37 86 9d 78 de 90 8a a4 85 86 66 7c 83 75 99 76 eb 02 05
+D  O  I  N  G  20 W  H  I  L  E  20 W  E  20 W  A  I  T 
+
+17 a2 12 8a a4 98 81 77 de 85 d4 c2 7c de 6c 76 97 89 73 a1 02
+?  02 05 S  A  M  U  R  A  I  20 I  S  20 T  O  O  20 A  S  H
+
+71 89 7c de 79 9d 66 77 86 7c 83 a4 75 73 89 8f 74 86 02
+A  M  E  D  20 T  O  20 S  H  O  W  20 H  I  S  20 F  A
+
+83 de 86 78 72 89 7c de 6c 9b 73 eb 02 05
+C  E  .  20 W  H  A  T  20 C  A  N  20 W
+
+c0 dd b7 d8 b4 75 73 a2 7f 9a 8a 7a 8f 6f 80 21 02
+E  20 D  O  20 A  B  O  U  T  20 I  T  ?  02 05 Y
+
+17 84 de 89 a4 85 9d 84 76 85 97 9d 76 3f 02 05
+O  U  '  V  E  20 A  N  20 I  D  E  A  ,  20 M
+
+17 a2 76 9d 76 de 74 76 de 71 99 eb 8f 71 a4 90 83 72 85 7b 72 a1 0f
+A  G  E  ?  02 W  E  L  L  ,  20 W  E  '  L  L  20 S  E  E  .  .
