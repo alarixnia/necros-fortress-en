@@ -1872,3 +1872,19 @@ I need time alone.
 12 「 し は de ら く 、 ひ と り に し て お い て く れ ん か。
 12 a2 7c 8a de 97 78 a4 8b 84 98 86 7c 83 75 72 83 78 9a 9d 76 a1 0f
 I  20 N  E  E  D  20 T  I  M  E  20 A  L  O  N  E  .
+
+--- oniros after escaping
+
+オニロス「なに! あのめいろをぬけだしたのか!
+こしゃくな。わしみずから、ころしてくれる!
+
+How dare you escape!
+I'll kill you myself!
+
+オ ニ ロ ス 「 な に !  20 あ の め い ろ を ぬ け た de し た の か !
+b5 c6 db bd a2 85 86 21 20 71 89 92 72 9b 66 87 79 80 de 7c 80 89 76 21 02 05
+H  O  W  20 D  A  R  E  20 Y  O  U  20 E  S  C  A  P  E  ?  !  02 05 I  '  L
+
+こ し ゃ く な 。 わ し み す de か ら 、 こ ろ し て く れ る !
+7a 7c 6c 78 85 a1 9c 7c 90 7d de 76 97 a4 7a 9b 7c 83 78 9a 99 21 0f
+L  20 K  I  L  L  20 Y  O  U  20 M  Y  S  E  L  F  !

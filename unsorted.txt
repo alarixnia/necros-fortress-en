@@ -869,7 +869,7 @@ X ran away.
 X beat!
 
 2a 66 80 75 7c 80 21 02
-2a    B  E  A  T  !
+2a    B  E  A  T  !  02
 
 *は、しんでしまった!
 X is dead!
@@ -1015,6 +1015,22 @@ Shogun
 シ ョ ー ク de ン
 bc ae b0 b8 de dd
 S  H  O  G  U  N
+
+シールダー
+Shielder
+Shield
+
+シ ー ル ダ de ー
+bc b0 d9 c0 de b0
+S  H  I  E  L  D
+
+オニロス
+Oniros
+Oniro
+
+オ ニ ロ ス
+b5 c6 db bd
+O  N  I  R
 
 --- Armour & Weapons
 
