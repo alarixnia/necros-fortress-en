@@ -1,0 +1,7 @@
+--- intro screen
+
+きえた  BERSERKER
+Lost Berserker
+
+77 74 80 20 15
+L  O  S  T  15
