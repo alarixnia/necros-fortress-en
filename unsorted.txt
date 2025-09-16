@@ -303,6 +303,14 @@ Magic Cloth (MAGCLOTH)
 8f 8e 73 89 8c 9b 7c 77
 M  A  G  C  L  O  T  H
 
+おうごんのリンゴ
+Golden Apple
+Gold Apple
+
+お う こ de ん の リ ン コ de
+75 73 7a de 9d 89 d8 dd ba de
+G  O  L  D  20 A  P  P  L  E
+
 -- misc. items
 
 ローフdf
@@ -476,7 +484,7 @@ ARTS
 
 93 02 20 け ん し de ゅ つ
 93 02 20 79 9d 7c de 6d 82
-93 M  .  A  R  T  S  02 20
+93 A  R  T  S  de 20 02 20
 
  ツホdeつき
 Pressure

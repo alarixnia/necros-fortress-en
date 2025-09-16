@@ -457,4 +457,33 @@ c8 ba a2 71 98 76 de 84 73 a1 02
 R  I  C  K  S  20 S  H  O  R  T  20 O
 
 90 7d de 73 90 89 91 97 8d 91 76 6f 80 96 a1 0f
-F  20 A  20 B  U  N  G  A  L  O  W  .
+F  20 A  02 B  U  N  G  A  L  O  W  .
+
+--- fairy in forest
+
+*「ゆうしゃさん、きいて。
+[...]
+さいきんこのさきのもりに、
+かいぶつがではじめたの。
+へいわなもりのはずなのに...
+
+Listen, hero.
+Monsters appeared
+in the forest ahead.
+But it should be peaceful...
+
+Listen, hero.
+Monsters have disturbed
+the peace ahead...
+
+2a a2 95 73 7c 6c 7b 9d a4 77 72 83 a1 02 05
+L  I  S  T  E  N  ,  20 H  E  R  O  .  02 05
+
+7b 72 77 9d 7a 89 7b 77 89 93 98 86 a4 02
+M  O  N  S  T  E  R  S  20 H  A  V  E  20
+
+76 72 8c de 82 76 de 83 de 8a 7c de 92 80 89 a1 02
+D  I  S  T  U  R  B  E  D  20 T  H  E  20 P  E  A
+
+8d 72 9c 85 93 98 89 8a 7d de 85 89 86 eb 0f
+C  E  20 A  H  E  A  D  .  .  . 
