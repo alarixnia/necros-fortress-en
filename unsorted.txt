@@ -1349,6 +1349,39 @@ WiseClo
 b3 a8 bd de cf dd c4
 W  I  S  E  C  L  O
 
+ぬののキモノ
+Cloth Kimono
+Kimono
+
+ぬ の の キ モ ノ
+87 89 89 b7 d3 c9
+K  I  M  O  N  O
+
+ショーグンよろい
+Shogun Armor
+ShogunArm
+
+シ ョ ー ク de ン よ ろ い
+bc ae b0 b8 de dd 96 9b 72
+S  H  O  G  U  N  A  R  M
+
+ハニワのよろい
+Haniwa Armor
+Clay Armor
+
+ハ ニ ワ の よ ろ い
+ca c6 dc 89 96 9b 72
+C  L  A  Y  A  R  M
+
+なないろのよろい
+Seven-Color Armor
+Rainbow Armor
+ColorArm
+
+な な い ろ の よ ろ い
+85 85 72 9b 89 96 9b 72
+C  O  L  O  R  A  R  M
+
 --- Mage's spells
 
 ファイヤー
@@ -1643,6 +1676,70 @@ Heal*
 ミ ナ ヒ ー ル
 d0 c5 cb b0 d9
 H  E  A  L  *
+
+--- Samurai's spells
+
+じゅうもんじギリ
+Crosscut
+
+し de ゅ う も ん し de キ de リ
+7c de 6d 73 93 9d 7c de b7 de d8
+C  R  O  S  S  20 C  U  T  20 20
+
+ふぶきのたち
+Blizzard Sword
+Ice Cut
+
+8c 8c de 77 89 80 81
+I  C  E  20 C  U  T
+
+えんげつギリ
+Full Moon Cut
+Moon Cut
+
+え ん け de つ キ de リ
+74 9d 79 de 82 b7 de d8
+M  O  O  N  20 C  U  T
+
+ほのおのまい
+Fire Cut
+Fi. Cut
+
+ほ の お の ま い
+8e 89 75 89 8f 72
+F  I  20 C  U  T
+
+ぶんしんさっぽう
+Clone Cut
+
+ふ de ん し ん さ っ ほ df う
+8c de 9d 7c 9d 7b 6f 8e df 73
+C  L  O  N  E  20 C  U  T  S
+
+ゆきやまおろし
+Chilling Cut
+Chill Cut
+ChilCut
+
+ゆ き や ま お ろ し
+95 77 94 8f 75 9b 7c
+C  H  I  L  C  U  T
+
+しゃくねつギリ
+Scorch Cut
+Blaze Cut
+
+し ゃ く ね つ キ de リ
+7c 6c 78 88 82 b7 de d8
+B  L  A  Z  E  C  U  T
+
+いなずまがえし
+Lightning Cut
+Elec. Cut
+
+い な す de ま か de え し
+72 85 7d de 8f 76 de 74 7c
+E  L  E  C  .  20 C  U  T
 
 --- Chests
 
