@@ -5,3 +5,114 @@ Lost Berserker
 
 77 74 80 20 15
 L  O  S  T  15
+
+--- spirit tree
+
+ELF「せいれいさま、そうだんがあるのですが...
+[...]
+せいれい「わかっています。もりのこELFよ。
+あなたのゆうじんのSAMURAIのことですね...
+[...]
+じつは、あなたのなかまのBERSERKERが
+ゆくえふめいになって、タンキリエではさわいでいる
+ようですよ。
+[...]
+ELF「えっ、BERSERKERが?
+[...]
+せいれい「ふたりでかれをつれかえれば、
+SAMURAIもてがらをたてられるでしょう。
+[...]
+ELF「そうか! せいれいさま、ありがとう!
+[...]
+せいれい「れいにはおよびません。
+かれをさがしだすことは、もりのためでもあるの
+ですから...
+
+[The tree spirit begins to speak.]
+
+Elf, I understand you're
+worried about Samurai...
+
+But there's chaos in
+Tankirie.
+Your comrade Berserker
+has gone missing.
+
+If you both bring him
+back, Samurai's honour
+will be restored.
+
+Find him, for (the sake of) the forest...
+
+11 「 せ い れ い さ ま 、 そ う た de ん か de あ る の て de す か de ...
+11 a2 7e 72 9a 72 7b 8f a4 7f 73 80 de 9d 76 de 71 99 89 83 de 7d 76 de eb 02 05
+[  T  H  E  20 T  R  E  E  20 S  P  I  R  I  T  20 B  E  G  I  N  S  20 T  O  20
+
+せ い れ い 「 わ か っ て い ま す 。 も り の こ 11 よ 。
+7e 72 9a 72 a2 9c 76 6f 83 72 8f 7d a1 93 98 89 7a 11 96 a1 02
+S  P  E  A  K  .  ]  02 05 11 ,  20 I  20 U  N  D  E  R  S  T
+
+71 85 80 89 95 73 7c de 9d 89 12 89 7a 84 83 de 7d 88 eb 02 05
+A  N  D  20 Y  O  U  '  R  E  20 W  O  R  R  I  E  D  20 A  B
+
+7c de 82 8a a4 71 85 80 89 85 76 8f 89 15 76 de 02
+O  U  T  20 S  A  M  U  R  A  I  .  .  .  02 05 B
+
+95 78 74 8c 92 72 86 85 6f 83 a4 c0 dd b7 d8 b4 83 de 8a 7b 9c 72 83 de 72 99 02
+U  T  20 T  H  E  R  E  '  S  20 C  H  A  O  S  20 I  N  20 T  A  N  K  I  R  I
+
+96 73 83 de 7d 96 a1 02 05
+E  .  20 Y  O  U  R  20 C
+
+11 a2 74 6f a4 15 76 de 3f 02 05
+O  M  R  A  D  E  20 B  E  R  S
+
+7e 72 9a 72 a2 8c 80 98 83 de 76 9a 66 82 9a 76 74 9a 8a de a4 02
+E  R  K  E  R  20 H  A  S  20 G  O  N  E  20 M  I  S  S  I  N  G
+
+12 93 83 76 de 97 66 80 83 97 9a 99 83 de 7c 6e 73 a1 02 05
+.  02 05 I  F  20 Y  O  U  20 B  O  T  H  20 B  R  I  N  G
+
+11 a2 7f 73 76 21 20 7e 72 9a 72 7b 8f a4 71 98 76 de 84 73 21 02 05
+20 H  I  M  20 B  A  C  K  ,  20 S  A  M  U  R  A  I  '  S  20 H  O
+
+7e 72 9a 72 a2 9a 72 86 8a 75 96 8b de 8f 7e 9d a1 02
+N  O  U  R  20 W  I  L  L  20 B  E  20 R  E  S  T  O
+
+76 9a 66 7b 76 de 7c 80 de 7d 7a 84 8a a4 93 98 89 80 92 83 de 93 71 99 89 02
+R  E  D  .  02 05 F  I  N  D  20 H  I  M  ,  20 F  O  R  20 T  H  E  20 F  O
+
+83 de 7d 76 97 eb
+R  E  S  T  .
+
+--- samurai's response to tree speaking
+
+SAMURAI「??...  ELFどの。
+いまのは、なんだったのでござるか?
+
+Uh... Elf,
+what just happened?
+
+[Samurai seems a bit
+confused..]
+
+12 a2 3f 3f eb 11 84 de 89 a1 02 72 8f 89 8a a4 85 9d 80 de 6f 80 89 83 de 7a de 7b 
+[  S  A  M  U  R  A  I  20 S  E  E  M  S  20 A  20 B  I  T  20 C  O  N  F  U  S  E
+
+de 99 76 3f 0f
+D  .  .  ]
+
+--- going back to spirit tree 
+
+せいれい「BERSERKERを、はやくおさがしなさい。
+それは、もりのものたちのためにもなります。
+
+Find Berserker quickly to save the forest.
+
+せ い れ い 「 15 を 、 は や く お さ か de し な さ い 。
+7e 72 9a 72 a2 15 66 a4 8a 94 78 75 7b 76 de 7c 85 7b 72 a1 02
+F  I  N  D  20 B  E  R  S  E  R  K  E  R  20 Q  U  I  C  K  L
+
+そ れ は 、 も り の も の た ち の た め に もl な り ま す 。
+7f 9a 8a a4 93 98 89 93 89 80 81 89 80 92 86 93 85 98 8f 7d a1 0f
+Y  20 T  O  20 S  A  V  E  20 T  H  E  20 F  O  R  E  S  T .

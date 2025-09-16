@@ -5,7 +5,7 @@ NL 0x02 (newline)
    0x0f (end of dialogue, wait for input)
 * 0x2a
 0x10 (name of amazon ASSUMED)
-0x11 (name of elf ASSUMED)
+0x11 (name of elf)
 サムライ 0x12 (name of samurai)
 0x13 (name of dwarf ASSUMED)
 ナイト 0x14 (name of knight)
