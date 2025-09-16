@@ -487,3 +487,41 @@ D  I  S  T  U  R  B  E  D  20 T  H  E  20 P  E  A
 
 8d 72 9c 85 93 98 89 8a 7d de 85 89 86 eb 0f
 C  E  20 A  H  E  A  D  .  .  . 
+
+--- suspicious blue cat outside church
+
+*「ワシは、ただのネコぢゃ! にゃあ!
+
+Meow! I'm just a cat!
+
+* 「  ワ シ は 、 た た de の ネ コ ち de ゃ !  20 に ゃ あ !
+2a a2 dc bc 8a a4 80 80 de 89 c8 ba 81 de 6c 21 20 86 6c 71 21 0f
+M  E  O  W  !  20 I  '  M  20 J  U  S  T  20 A  20 C  A  T  !
+
+--- priest next to church altar
+
+*「わたしは、ここのしんぷです。
+[...]
+みずうみをはさんだ2つのむらは、いままで
+ずっとなかがよかったのに、さいきんきゅうに
+なかがわるくなってしまって...
+
+I'm the priest here.
+[...]
+
+The lake's 2 villages
+were on good terms,
+but things (suddenly) changed (recently).
+
+* 「 わ た し は  、 こ こ の し ん ふ df て de す 。
+2a a2 9c 80 7c 8a a4 7a 7a 89 7c 9d 8c df 83 de 7d a1 02 05
+I  '  M  20 T  H  E  20 P  R  I  E  S  T  20 H  E  R  E  .
+
+90 7d de 73 90 66 8a 7b 9d 80 de 32 82 89 91 97 8a a4 72 8f 8f 83 de 02
+02 05 T  H  E  20 L  A  K  E  '  S  20 2  20 V  I  L  L  A  G  E  S  20
+
+7d de 6f 84 85 76 76 de 96 76 6f 80 89 86 a4 7b 72 77 9d 77 6d 73 86 02
+W  E  R  E  20 O  N  20 G  O  O  D  20 T  E  R  M  S  ,  20 B  U  T  20
+
+85 76 76 de 9c 99 78 85 6f 83 7c 8f 6f 83 eb 0f
+T  H  I  N  G  S  20 C  H  A  N  G  E  D  .
