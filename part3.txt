@@ -525,3 +525,54 @@ W  E  R  E  20 O  N  20 G  O  O  D  20 T  E  R  M  S  ,  20 B  U  T  20
 
 85 76 76 de 9c 99 78 85 6f 83 7c 8f 6f 83 eb 0f
 T  H  I  N  G  S  20 C  H  A  N  G  E  D  .
+
+--- boy outside tower
+
+*「あれが、うらないしマジョロスさまのとうだよ。
+This is the fortune teller Majoros' tower.
+This is the seer's tower.
+
+*  「 あ れ か de 、 う ら な い し マ シ de ョ ロ ス さ ま の と う た de よ 。
+2a a2 71 9a 76 de a4 73 97 85 72 7c cf bc de ae db bd 7b 8f 89 84 73 80 de 96 a1 0f
+T  H  I  S  20 I  S  20 T  H  E  20 S  E  E  R  '  S  20 T  O  W  E  R  .
+
+--- west village chatter
+
+*「ヒガシのむらのヤツらはけしからん!
+このまえはたけをあらしたのも、
+きっとあいつらだ!
+
+I hate (those) East Village (wastrels)!
+(I bet) they ruined our crops!
+
+2a a2 cb b6 de bc 89 91 97 89 d4 c2 97 8a 79 7c 76 97 9d 21 02
+I  20 H  A  T  E  20 T  H  E  20 E  A  S  T  20 V  I  L  L  A
+
+7a 89 8f 74 8a 80 79 66 71 97 7c 80 89 93 a4 02
+G  E  !  02 T  H  E  Y  20 R  U  I  N  E  D  20
+
+77 6f 84 71 72 82 97 80 de 21 0f
+O  U  R  20 C  R  O  P  S  !
+
+*「うらないしさまのおかげで、ヒガシのむらの
+あくじも、みんなわかったぞ!
+
+Thanks to the seer, we know
+East Village's nefarious plans!
+
+We know East Village's
+plans! Thanks Seer!
+
+2a a2 73 97 85 72 7c 7b 8f 89 75 76 79 de 83 de a4 cb b6 de bc 89 91 97 89 02
+W  E  20 K  N  O  W  20 E  A  S  T  20 V  I  L  L  A  G  E  '  S  20 P  L  A
+
+71 78 7c de 93 a4 90 9d 85 9c 76 6f 80 7f de 21 02 0f
+N  S  !  20 T  H  A  N  K  S  20 S  E  E  R  !
+
+*「なんだキサマら! むこうのむらのまわしものか!
+
+Who the hell are you? (Spies from the next village?)
+
+*  「 な ん た de キ サ マ ら !  20 む こ う の む ら の ま わ し も の か !
+2a a2 85 9d 80 de b7 bb cf 97 21 20 91 7a 73 89 91 97 89 8f 9c 7c 93 89 76 21 0f
+W  H  O  20 T  H  E  20 H  E  L  L  20 A  R  E  20 Y  O  U  ?  !  20 20 20 20
