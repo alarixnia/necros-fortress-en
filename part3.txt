@@ -116,3 +116,43 @@ F  I  N  D  20 B  E  R  S  E  R  K  E  R  20 Q  U  I  C  K  L
 そ れ は 、 も り の も の た ち の た め に もl な り ま す 。
 7f 9a 8a a4 93 98 89 93 89 80 81 89 80 92 86 93 85 98 8f 7d a1 0f
 Y  20 T  O  20 S  A  V  E  20 T  H  E  20 F  O  R  E  S  T .
+
+--- village cat chatter
+
+*「やあELFさん。
+アイテムやをはじめたんです。
+これで、ニンゲンのまちまでいかなくても、
+たびのじゅんびができますよ!
+
+(Meowning, Elf!)
+I've made an (item) shop so
+you don't need to go to a
+human town to prepare
+(for your journey)!
+
+2a a2 94 71 11 7b 9d a1 b1 b2 c3 d1 94 66 8a 7c de 92 80 9d 83 de 7d a1 02 7a 9a 83
+I  '  V  E  20 M  A  D  E  20 A  20 S  H  O  P  20 S  O  20 Y  O  U  02 D  O  N  '
+
+de a4 c6 dd b9 de dd 89 8f 81 8f 83 de 72 76 85 78 83 93 a4 02 80 8b de 89 7c de 6d
+T  20 N  E  E  D  20 T  O  20 G  O  20 T  O  20 A  02 H  U  M  A  N  20 T  O  W  N
+
+9d 8b de 76 de 83 de 77 8f 7d 96 21 0f
+20 T  O  20 P  R  E  P  A  R  E  !
+
+*「やあ、ELFさん。
+やどやをはじめたんです。
+しかし、きゃくがあのしじんしかいなくてね。
+たすけるとおもって、とまってくださいよ!
+
+We've just opened, but the
+only guest is the bard.
+Maybe you can help!
+
+2a a2 94 71 a4 11 7b 9d a1 94 84 de 94 66 8a 7c de 92 80 9d 83 de 7d a1 02
+W  E  '  V  E  20 J  U  S  T  20 O  P  E  N  E  D  ,  20 B  U  T  20 T  H
+
+7c 76 7c a4 77 6c 78 76 de 71 89 7c 7c de 9d 7c 76 72 85 78 83 88 a1 02
+E  20 O  N  L  Y  20 G  U  E  S  T  20 I  S  20 T  H  E  20 B  A  R  D
+
+80 7d 79 99 84 75 93 6f 83 a4 84 8f 6f 83 78 80 de 7b 72 96 21 0f
+.  02 M  A  Y  B  E  20 Y  O  U  20 C  A  N  20 H  E  L  P  !

@@ -1968,10 +1968,10 @@ W  H  O  '  S  20 L  O  O  K  I  N  G  20 E  H  ?
 
 どれをおもとめかニャ?
 What do you need, meow?
-Pick one nya
+Pick, meow!
 
 84 de 9a 66 75 93 84 92 76 c6 ac 3f 20
-P  I  C  K  20 O  N  E  20 N  Y  A
+P  I  C  K  ,  20 M  E  O  W  !  20 20
 
 チョコレートは、それいじょうもてませんよ。
 Chocolate's delicious.
@@ -2017,7 +2017,7 @@ GOLD. OK, meow?
 
 G  に な り ま す 。 02 よ ろ し い か ニ ャ  ?
 47 86 85 98 8f 7d a1 02 96 9b 7c 72 76 c6 ac 3f 02
-G  O  L  D  .  20 O  K  ,  20 M  E  O  W  ?
+G  O  L  D  .  02 O  K  ,  20 M  E  O  W  ?
 
 Gのコトね。よろしアルか?
 G, approx. OK?
