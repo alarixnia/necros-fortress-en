@@ -270,6 +270,14 @@ H  E  20 R  E  A  L  L  Y  20 M  E  A  N  S  20 I  T  !
 8a 78 7c de 6e 73 85 11 7b 9d 83 de 7d 88 21 70 84 92 99 9d 83 de 7c 6e 3f 02
 I  20 C  A  N  '  T  20 L  O  O  K  !  20 S  T  O  P  20 H  I  M  ?
 
+--- samurai suicide
+
+SAMURAIは、ハラをきってしんでしまいました!
+Samurai died by committing seppuku!
+
+12 8a a4 ca d7 66 77 6f 83 7c 9d 83 de 7c 8f 72 8f 7c 80 21 0f
+12 R  A  I  20 D  I  E  D  20 B  Y  20 S  E  P  P  U  K  U
+
 --- samurai no suicide
 
 SAMURAI「いわれてみれば、せっしゃがハラを
