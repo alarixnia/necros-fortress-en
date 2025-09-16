@@ -157,7 +157,7 @@ E  20 O  N  L  Y  20 G  U  E  S  T  20 I  S  20 T  H  E  20 B  A  R  D
 80 7d 79 99 84 75 93 6f 83 a4 84 8f 6f 83 78 80 de 7b 72 96 21 0f
 .  02 M  A  Y  B  E  20 Y  O  U  20 C  A  N  20 H  E  L  P  !
 
---- cats guarding tree
+--- cats next to trees with problems
 
 ネコ「えーん、えーん、いたいよう!
 ELF「どうしたんだい、ネコさん。
@@ -169,6 +169,75 @@ What's the matter kitty?
 はねとばしていったんだよう!
 
 A strange man charged into us!
+
+ネ コ 「 え ー ん 、 え ー ん 、 い た い よ う !
+c8 ba a2 74 b0 9d a4 74 b0 9d a4 72 80 72 96 73 21 05 02
+W  A  H  ,  20 W  A  H  !  20 I  T  20 H  U  R  T  S  !
+
+11 「 と de う し た ん た de い 、 ネ コ さ ん 。
+11 a2 84 de 73 7c 80 9d 80 de 72 a4 c8 ba 7b 9d a1 02 05
+02 A  20 S  T  R  A  N  G  E  20 B  E  A  R  D  Y  20 M
+
+ネ コ 「 へ ん な お と こ か de 、 ほ de く た ち を
+c8 ba a2 8d 9d 85 75 84 7a 76 de a4 8e de 78 80 81 66 02
+A  N  20 W  I  T  H  20 A  20 H  E  L  M  E  T  20 C  H
+
+は ね と は de し て い っ た ん た de よ う !
+8a 88 84 8a de 7c 83 72 6f 80 9d 80 de 96 73 21
+A  R  G  E  D  20 I  N  T  O  20 U  S  !  20 20
+
+ネコ「えーん、えーん、おなかがすいたよう!
+[...]
+ELF「どうしたんだい、ネコさん。
+[...]
+ネコ「へんなおとこが、ぼくたちのたべものを
+みんなたべちゃったよう!
+
+single-person version: [[[
+Wah, wah, I'm so hungry!
+A rude beardy man came and
+ate all our food!
+]]]
+
+c8 ba a2 74 b0 9d a4 74 b0 9d a4 75 85 76 76 de 7d 72 80 96 73 21 05 02
+W  A  H  ,  20 W  A  H  ,  20 I  '  M  20 S  O  20 H  U  N  G  R  Y  !
+
+11 a2 84 de 73 7c 80 9d 80 de 72 a4 c8 ba 7b 9d a1 02 05
+02 A  20 R  U  D  E  20 B  E  A  R  D  Y  20 M  A  N  20
+
+c8 ba a2 8d 9d 85 75 84 7a 76 de a4 8e de 78 80 81 89 80 8d de 93 89 66 02
+C  A  M  E  20 A  N  D  20 A  T  E  20 A  L  L  20 O  F  20 O  U  R  20 F
+
+90 9d 85 80 8d de 81 6c 6f 80 96 73 21
+O  O  D  S  E  S  !  
+
+ネコ「えーん、えーん、おうちがないよう!
+[...]
+ELF「どうしたんだい、ネコさん。
+[...]
+ネコ「へんなおとこが、きをたおしながら
+はしってきて、おうちをこわしちゃったんだよう!
+
+single-person version: [[[
+Wah, wah! We've lost our
+home! An angry man came
+headbutting trees and
+knocked it down!
+]]]
+
+c8 ba a2 74 b0 9d a4 74 b0 9d a4 75 73 81 76 de 85 72 96 73 21 05 02
+W  A  H  ,  20 W  A  H  !  W  E  '  V  E  20 L  O  S  T  20 O  U  R
+
+11 a2 84 de 73 7c 80 9d 80 de 72 a4 c8 ba 7b 9d a1 02 05
+02 H  O  M  E  !  02 A  N  20 A  N  G  R  Y  20 M  A  N
+
+c8 ba a2 8d 9d 85 75 84 7a 76 de a4 77 66 80 75 7c 85 76 de 97 02
+20 C  A  M  E  02 H  E  A  D  B  U  T  T  I  N  G  20 T  R  E  E
+
+8a 7c 6f 83 77 83 a4 75 73 81 66 7a 9c 7c 81 6c 6f 80 9d 80 de 96 73 21 02 05
+S  ,  20 A  N  D  02 K  N  O  C  K  E  D  20 I  T  20 D  O  W  N  !
+
+--- samurai seppuku attempt
 
 ELF「ひどいなあ。
 どんなおとこだい?
@@ -190,10 +259,6 @@ SAMURAIが、ハラをきるそうです。とめますか?
 Shall we stop Samurai?
 
 single-person version: [[[
-Wah wah, it hurts!
-A strange beardy man
-with a helmet charged into us!
-
 [Hmm, sounds like
 Berserker!]
 
@@ -205,24 +270,6 @@ your own?
 [Stop him?]
 
 ]]]
-
-ネ コ 「 え ー ん 、 え ー ん 、 い た い よ う !
-c8 ba a2 74 b0 9d a4 74 b0 9d a4 72 80 72 96 73 21 05 02
-W  A  H  ,  20 W  A  H  !  20 I  T  20 H  U  R  T  S  !
-
-11 「 と de う し た ん た de い 、 ネ コ さ ん 。
-11 a2 84 de 73 7c 80 9d 80 de 72 a4 c8 ba 7b 9d a1 02 05
-02 A  20 S  T  R  A  N  G  E  20 B  E  A  R  D  Y  20 M
-
-ネ コ 「 へ ん な お と こ か de 、 ほ de く た ち を
-c8 ba a2 8d 9d 85 75 84 7a 76 de a4 8e de 78 80 81 66 02
-A  N  20 W  I  T  H  20 A  20 H  E  L  M  E  T  20 C  H
-
-は ね と は de し て い っ た ん た de よ う !
-8a 88 84 8a de 7c 83 72 6f 80 9d 80 de 96 73 21
-A  R  G  E  D  20 I  N  T  O  20 U  S  !  20 20
-
-[elsewhere in binary]
 
 11 「 ひ と de い な あ 。 と de ん な お と こ た de い ?
 11 a2 8b 84 de 72 85 71 a1 84 de 9d 85 75 84 7a 80 de 72 3f 02
@@ -251,8 +298,6 @@ U  R  20 C  O  M  R  A  D  E  '  S  20 S  I  N  S  20 A  R  E  02 Y
 12 か de 、 ハ ラ を き る そ う て de す 。 と め ま す か ?
 12 76 de a4 ca d7 66 77 99 7f 73 83 de 7d a1 84 92 8f 7d 76 3f 02
 O  U  R  20 O  W  N  ?  02 05 [  S  T  O  P  20 H  I  M  ?  ]
-
---- samurai seppuku response
 
 ほんとうにやりそうですよ。とめますか?
 [He seems to mean it. Stop him?]
@@ -321,3 +366,54 @@ A  T  20 M  A  N  02 C  O  M  P
 
 7f 89 75 84 7a 8a a4 8b 76 de 7c 86 72 6f 80 96 21 0f
 L  E  T  E  L  Y  20 F  L  I  P  P  E  D  !
+
+--- more stopping him from dying
+
+SAMURAI「いわれてみれば、せっしゃがハラを
+きっても、ハラがふくらむわけではない。
+ちと、はやまったでござるな。はっはっは
+
+[...]
+ELF「せいれいさまにあいにおいき。
+たべものをくれるよ。
+
+single-person version: [[[
+Samurai! Even if you cut
+your own belly, it won't
+make theirs fuller.
+
+(Go to the tree spirit,
+it will feed you.)
+Feed from the spirit.
+]]]
+
+12 a2 72 9c 9a 83 90 9a 8a de a4 7e 6f 7c 6c 76 de ca d7 66 02
+S  A  M  U  R  A  I  !  20 E  V  E  N  20 I  F  20 Y  O  U  20
+
+77 6f 83 93 a4 ca d7 76 de 8c 78 97 91 9c 79 83 de 8a 85 72 a1 02
+C  U  T  02 Y  O  U  R  20 O  W  N  20 B  E  L  L  Y  ,  20 I  T
+
+81 84 a4 8a 94 8f 6f 80 83 de 7a de 7b de 99 85 a1 8a 6f 8a 6f 8a 02 05
+W  O  N  '  T  02 M  A  K  E  20 T  H  E  I  R  S  20 F  U  L  L  E  R
+
+11 a2 7e 72 9a 72 7b 8f 86 71 72 86 75 72 77 a1 02 80 8d de 93 89 66 78 9a 99 96 a1
+.  02 05 F  E  E  D  20 F  R  O  M  20 T  H  E  20 S  P  I  R  I  T  .
+
+ネコ「ありがとう。
+そのおとこは、たべながら
+シロシロって、つぶやいていたよ。
+
+... Thank you.
+That man is full of himself.
+
+ネ コ 「 あ り か de と う 。
+c8 ba a2 71 98 76 de 84 73 a1 02
+.  .  .  20 T  H  A  N  K  20 Y
+
+そ の お と こ は 、 た へ de な か de ら
+7f 89 75 84 7a 8a a4 80 8d de 85 76 de 97 02
+O  U  .  20 T  H  A  T  20 M  A  N  20 I  S
+
+シ ロ シ ロ っ て 、 つ ふ de や い て い た よ 。
+bc db bc db 6f 83 a4 82 8c de 94 72 83 72 80 96 a1 0f
+20 F  U  L  L  20 O  F  20 H  I  M  S  E  L  F  .
