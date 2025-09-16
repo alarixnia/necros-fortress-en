@@ -2091,6 +2091,24 @@ Thank you.
 71 98 76 de 84 73 7a de 7b de 72 8f 7c 80 a1
 T  H  A  N  K  20 Y  O  U  .  20 20 20 20 20
 
+すでにおもちです。
+You have it already.
+Already bought.
+Already got
+
+す て de に お も ち て de す 。
+7d 83 de 86 75 93 81 83 de 7d a1 02 05
+A  L  R  E  A  D  Y  20 G  O  T  .  02
+
+は、すでにおもちのようですが。
+It seems you've already got one.
+You've already got one.
+You've got one.
+
+は 、 す て de に お も ち の よ う て de す か de 。
+8a a4 7d 83 de 86 75 93 81 89 96 73 83 de 7d 76 de a1 0f
+Y  O  U  '  V  E  20 G  O  T  20 O  N  E  .
+
 --- staying at the inn
 
 よろしいですか?
