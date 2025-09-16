@@ -1317,6 +1317,35 @@ Elf Dagger
 b4 d9 cc de dd c0 de b6 de b0
 E  L  F  D  A  G  G  E  R  de
 
+サムライかたな
+Katana
+
+サ ム ラ イ か た な
+bb d1 d7 b2 76 80 85
+K  A  T  A  N  A  20
+
+ショーグンかたな
+Shogun Katana
+LordBlade
+
+シ ョ ー ク de ン か た な
+bc ae b0 b8 de dd 76 80 85
+L  O  R  D  B  L  A  D  E
+
+ようとうムラサメ
+Demon Blade
+
+よ う と う ム ラ サ メ
+96 73 84 73 d1 d7 bb d2
+D  E  M  O  N  B  L  A 
+
+めいとうマサムネ
+God Blade
+
+め い と う マ サ ム ネ
+92 72 84 73 cf bb d1 c8
+G  O  D  B  L  A  D  E
+
 みどりのマント
 Green Cloak
 GrnCloak
