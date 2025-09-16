@@ -60,6 +60,7 @@ main(int argc, char **argv)
 	charset[0x6d] = "ゅ";
 	charset[0x6e] = "ょ";
 	charset[0x6f] = "っ";
+	charset[0x70] = " ";
 	charset[0x71] = "あ";
 	charset[0x72] = "い";
 	charset[0x73] = "う";
@@ -192,9 +193,6 @@ main(int argc, char **argv)
 			printf("%s", charset[ch]);
 		} else {
 			printf("?");
-		}
-		if (ch == 0xa1 || ch == 0xeb) {
-			printf("\n");
 		}
 	}
 	printf("\n");

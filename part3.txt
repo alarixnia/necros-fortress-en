@@ -156,3 +156,160 @@ E  20 O  N  L  Y  20 G  U  E  S  T  20 I  S  20 T  H  E  20 B  A  R  D
 
 80 7d 79 99 84 75 93 6f 83 a4 84 8f 6f 83 78 80 de 7b 72 96 21 0f
 .  02 M  A  Y  B  E  20 Y  O  U  20 C  A  N  20 H  E  L  P  !
+
+--- cats guarding tree
+
+ネコ「えーん、えーん、いたいよう!
+ELF「どうしたんだい、ネコさん。
+
+Wah wah, it hurts!
+What's the matter kitty?
+
+ネコ「へんなおとこが、ぼくたちを
+はねとばしていったんだよう!
+
+A strange man charged into us!
+
+ELF「ひどいなあ。
+どんなおとこだい?
+ふんふん.....えっ!
+どうも、BERSERKERのしわざらしいよ。
+
+What sort of fellow?
+Hmm, hmm. Ah!
+Seems it's Berserker's doing.
+
+SAMURAI「な、なんと!......ムムム、
+なかまのつみは、わがつみ。
+せっしゃが、ハラをきってわびましょう!
+
+My comrade's sins are my own!
+I shall commit seppuku to atone!
+
+SAMURAIが、ハラをきるそうです。とめますか?
+Shall we stop Samurai?
+
+single-person version: [[[
+Wah wah, it hurts!
+A strange beardy man
+with a helmet charged into us!
+
+[Hmm, sounds like
+Berserker!]
+
+Samurai, what are you
+doing with that sword?
+Your comrade's sins are
+your own?
+
+[Stop him?]
+
+]]]
+
+ネ コ 「 え ー ん 、 え ー ん 、 い た い よ う !
+c8 ba a2 74 b0 9d a4 74 b0 9d a4 72 80 72 96 73 21 05 02
+W  A  H  ,  20 W  A  H  !  20 I  T  20 H  U  R  T  S  !
+
+11 「 と de う し た ん た de い 、 ネ コ さ ん 。
+11 a2 84 de 73 7c 80 9d 80 de 72 a4 c8 ba 7b 9d a1 02 05
+02 A  20 S  T  R  A  N  G  E  20 B  E  A  R  D  Y  20 M
+
+ネ コ 「 へ ん な お と こ か de 、 ほ de く た ち を
+c8 ba a2 8d 9d 85 75 84 7a 76 de a4 8e de 78 80 81 66 02
+A  N  20 W  I  T  H  20 A  20 H  E  L  M  E  T  20 C  H
+
+は ね と は de し て い っ た ん た de よ う !
+8a 88 84 8a de 7c 83 72 6f 80 9d 80 de 96 73 21
+A  R  G  E  D  20 I  N  T  O  20 U  S  !  20 20
+
+[elsewhere in binary]
+
+11 「 ひ と de い な あ 。 と de ん な お と こ た de い ?
+11 a2 8b 84 de 72 85 71 a1 84 de 9d 85 75 84 7a 80 de 72 3f 02
+[  H  M  M  .  20 S  O  U  N  D  S  20 L  I  K  E  20 B  E  R
+
+ふ ん ふ ん ..... え っ !
+8c 9d 8c 9d eb eb 74 6f 21 02
+S  E  R  K  E  R  !  ]  02 05
+
+と de う も 、 15 の し わ さ de ら し い よ 。
+84 de 73 93 a4 15 89 7c 9c 7b de 97 7c 72 96 a1 02 05
+S  A  M  U  R  A  I  ?  20 W  H  A  T  20 A  R  E  20
+
+12 「 な 、 な ん と !  ......ム ム ム 、
+12 a2 85 a4 85 9d 84 21 eb eb d1 d1 d1 a4 02
+20 Y  O  U  02 D  O  I  N  G  20 W  I  T  H
+
+な か ま の つ み は 、 わ か de つ み 。
+85 76 8f 89 82 90 8a a4 9c 76 de 82 90 a1 02
+20 T  H  A  T  20 S  W  O  R  D  ?  02 Y  O
+
+せ っ し ゃ か de 、 ハ ラ を き っ て わ ひ de ま し ょ う !
+7e 6f 7c 6c 76 de a4 ca d7 66 77 6f 83 9c 8b de 8f 7c 6e 73 21 02 05
+U  R  20 C  O  M  R  A  D  E  '  S  20 S  I  N  S  20 A  R  E  02 Y
+
+12 か de 、 ハ ラ を き る そ う て de す 。 と め ま す か ?
+12 76 de a4 ca d7 66 77 99 7f 73 83 de 7d a1 84 92 8f 7d 76 3f 02
+O  U  R  20 O  W  N  ?  02 05 [  S  T  O  P  20 H  I  M  ?  ]
+
+--- samurai seppuku response
+
+ほんとうにやりそうですよ。とめますか?
+[He seems to mean it. Stop him?]
+[He really means it!]
+
+ほ ん と う に や り そ う て de す よ 。 と め ま す か ?
+8e 9d 84 73 86 94 98 7f 73 83 de 7d 96 a1 84 92 8f 7d 76 3f 02
+H  E  20 R  E  A  L  L  Y  20 M  E  A  N  S  20 I  T  !
+
+はくじょうなELFさんですね! とめるんでしょ?
+[Are you heartless, Elf?! (Stop him?)]
+[I can't look! Stop him?]
+
+は く し de ょ う な 11 さ ん て de す ね !     と め る ん て de し ょ ?
+8a 78 7c de 6e 73 85 11 7b 9d 83 de 7d 88 21 70 84 92 99 9d 83 de 7c 6e 3f 02
+I  20 C  A  N  '  T  20 L  O  O  K  !  20 S  T  O  P  20 H  I  M  ?
+
+--- samurai no suicide
+
+SAMURAI「いわれてみれば、せっしゃがハラを
+きっても、ケガがなおるわけではない。
+ちと、はやまったでござるな。はっはっは
+[...]
+ELF「せいれいさまにあいにおいき。
+ケガをなおしてくれるよ。
+[...]
+ネコ「ありがとう。
+そのおとこは、ひがしにいったよ!
+
+single-person version: [[[
+Listen, Samurai.
+Suicide won't resolve your guilt.
+But maybe the tree spirit can.
+
+[...]
+
+...Thank you. That man
+completely flipped!
+]]]
+
+12 a2 72 9c 9a 83 90 9a 8a de a4 7e 6f 7c 6c 76 de ca d7 66 02
+L  I  S  T  E  N  ,  20 S  A  M  U  R  A  I  .  02 S  U  I  C
+
+77 6f 83 93 a4 b9 b6 de 76 de 85 75 99 9c 79 83 de 8a 85 72 a1 02
+I  D  E  20 W  O  N  '  T  20 R  E  S  O  L  V  E  20 Y  O  U  R
+
+81 84 a4 8a 94 8f 6f 80 83 de 7a de 7b de 99 85 a1 8a 6f 8a 6f 8a 02 05
+20 G  U  I  L  T  .  20 B  U  T  20 M  A  Y  B  E  20 T  H  E  20 T  R
+
+11 a2 7e 72 9a 72 7b 8f 86 71 72 86 75 72 77 a1 02
+E  E  20 S  P  I  R  I  T  20 C  A  N  .  02 05 .
+
+b9 b6 de 66 85 75 7c 83 78 9a 99 96 a1 02 05
+.  .  T  H  A  N  K  20 Y  O  U  .  20 T  H
+
+c8 ba a2 71 98 76 de 84 73 a1 02
+A  T  20 M  A  N  02 C  O  M  P
+
+7f 89 75 84 7a 8a a4 8b 76 de 7c 86 72 6f 80 96 21 0f
+L  E  T  E  L  Y  20 F  L  I  P  P  E  D  !
