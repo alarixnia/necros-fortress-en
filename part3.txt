@@ -571,8 +571,158 @@ N  S  !  20 T  H  A  N  K  S  20 S  E  E  R  !
 
 *「なんだキサマら! むこうのむらのまわしものか!
 
-Who the hell are you? (Spies from the next village?)
+Who (the hell) are you?! A spy (from the next village)!?
 
 *  「 な ん た de キ サ マ ら !  20 む こ う の む ら の ま わ し も の か !
 2a a2 85 9d 80 de b7 bb cf 97 21 20 91 7a 73 89 91 97 89 8f 9c 7c 93 89 76 21 0f
 W  H  O  20 T  H  E  20 H  E  L  L  20 A  R  E  20 Y  O  U  ?  !  20 20 20 20
+W  H  O  20 A  R  E  20 Y  O  U  ?  !  20 A  20 S  P  Y  ?  !
+
+--- east village chatter
+
+*「うらないしさまによると、
+サカナのアミをやぶいたのも
+ニシのむらのヤツらだそうだ!
+
+The seer said (that) West Village
+tore our fish nets!
+
+2a a2 73 97 85 72 7c 7b 8f 86 96 99 84 a4 02
+T  H  E  20 S  E  E  R  20 S  A  I  D  20 W
+
+bb b6 c5 89 b1 d0 66 94 8c de 72 80 89 93 02
+E  S  T  20 V  I  L  L  A  G  E  20 T  O  R
+
+c6 bc 89 91 97 89 d4 c2 97 80 de 7f 73 80 de 21 0f
+E  20 O  U  R  20 F  I  S  H  20 N  E  T  S  !
+
+*「うらないしさまのおかげで、ずいぶんべんりに
+なったものだ! あとは、ニシのむらのやつらが
+きえてくれれば、いうことはない!
+
+The seer's blessed us!
+Now if only the west
+village guys would vanish!
+
+2a a2 73 97 85 72 7c 7b 8f 89 75 76 79 de 83 de a4 7d de 72 8c de 9d 8d de 9d 98 86 02
+T  H  E  20 S  E  E  R  '  S  20 B  L  E  S  S  E  D  20 U  S  !  02 N  O  W  20 I  F
+
+85 6f 80 93 89 80 de 21 20 71 84 8a a4 c6 bc 89 91 97 89 94 82 97 76 de 02
+20 O  N  L  Y  20 T  H  E  20 W  E  S  T  02 V  I  L  L  A  G  E  20 G  U
+
+77 74 83 78 9a 9a 8a de a4 72 73 7a 84 8a 85 72 21 0f
+Y  S  20 W  O  U  L  D  20 V  A  N  I  S  H  !
+
+*「かえれ、かえれ!
+ウチは、うらないしさまの、ごひいきのみせなんだ!
+よそものにうるモノはない!
+
+Go away, go away!
+(This shop is blessed by the seer!)
+We have nothing for
+outsiders!
+
+2a a2 76 74 9a a4 76 74 9a 21 02
+G  O  20 A  W  A  Y  !  ,  G  O
+
+b3 c1 8a a4 73 97 85 72 7c 7b 8f 89 a4 7a de 8b 72 77 89 90 7e 85 9d 80 de 21 02
+20 A  W  A  Y  !  02 W  E  20 H  A  V  E  20 N  O  T  H  I  N  G  20 F  O  R  20
+
+96 7f 93 89 86 73 99 d3 c9 8a 85 72 21 0f
+02 O  U  T  S  I  D  E  R  S  !
+
+*「にゃあ。さいきんのごしゅじんは
+おこりっぽいから、はなしかけないのがいいわ。
+わたしが、こっそりうってあげる。
+
+Meow. The old man's been rather
+cross lately, so I'll sell you
+stuff on the sly.
+
+(Meow.) The old man's been quite
+surly (lately),
+(so) I'll sell you stuff on the sly.
+
+2a a2 86 6c 71 a1 7b 72 77 9d 89 7a de 7c 6d 7c de 9d 8a 02
+T  H  E  20 O  L  D  20 M  A  N  '  S  20 B  E  E  N  20 Q
+
+75 7a 98 6f 8e df 72 76 97 a4 8a 85 7c 76 79 85 72 89 76 de 72 72 9c a1 02
+U  I  T  E  02 S  U  R  L  Y  .  20 I  '  L  L  20 S  E  L  L  20 Y  O  U
+
+9c 80 7c 76 de a4 7a 6f 7f 98 73 6f 83 71 79 de 99 a1 0f
+20 S  T  U  F  F  20 O  N  20 T  H  E  20 S  L  Y  .
+
+*「やれやれ、まったくニンゲンは、
+あらそうのがすきだニャア。
+
+Oh dear, humans do love
+to quarrel.
+
+Oh meow, humans do love
+fighting.
+
+*  「 や れ や れ 、 ま っ た く ニ ン ケ de ン は 、
+2a a2 94 9a 94 9a a4 8f 6f 80 78 c6 dd b9 de dd 8a a4 02
+O  H  20 M  E  O  W  ,  20 H  U  M  A  N  S  20 D  O  20
+
+あ ら そ う の か de す き た de ニ ャ ア 。
+71 97 7f 73 89 76 de 7d 77 80 de c6 ac b1 a1 0f
+L  O  V  E  02 F  I  G  H  T  I  N  G  .
+
+*「ふたつのむらは、あらそってはならないのじゃ。
+そうでないと、みずうみのしろはかくされ、じゃあくな
+ものがすみついてしまうと、いいつたえにある...
+
+[...]
+うん? そういえばいぜん
+みょうなおとこに、おなじことをおしえたな。
+しつこく、しろのことをきくから...
+
+The 2 villages mustn't
+quarrel, for legends say (that)
+evil forces will take over the keep.
+
+... Hm, (come to think of it,)
+(I told the same to) an odd person
+(who) kept asking about the keep.
+
+2a a2 8c 80 82 89 91 97 8a a4 71 97 7f 6f 83 97 85 72 89 7c de 6c a1 02
+T  H  E  20 2  20 V  I  L  L  A  G  E  S  20 M  U  S  T  '  N  T  20 Q
+
+7f 73 83 de 85 72 84 a4 90 7d de 73 90 89 7c 9b 8a 76 78 7b 9a a4 7c de 6c 71 78 85 02
+U  A  R  R  E  L  ,  20 F  O  R  20 L  E  G  E  N  D  S  20 S  A  Y  20 E  V  I  L  20
+
+93 89 76 de 7d 90 82 72 83 7c 8f 73 84 a4 72 72 82 80 74 86 71 99 eb 02 05
+F  O  R  C  E  S  20 W  I  L  L  20 T  A  K  E  02 O  V  E  R  20 T  H  E
+
+73 9d 3f 20 7f 73 72 74 8a de 72 7e de 9d 02
+K  E  E  P  .  02 05 H  M  M  .  20 A  N  20
+
+90 6e 73 85 75 84 7a 86 a4 75 85 7c de 7a 84 66 75 7c 74 80 85 a1 02
+O  D  D  20 P  E  R  S  O  N  20 K  E  P  T  02 A  S  K  I  N  G  20
+
+7c 82 7a 78 a4 7c 9b 89 7a 84 66 77 78 76 97 eb 0f
+A  B  O  U  T  20 T  H  E  20 K  E  E  P  .  .  0f
+
+*「あーあ、ニシのむらにあそびにもいけないや!
+
+Aw, I can't even play in west village!
+Aw, I can't visit west!
+
+2a a2 71 b0 71 a4 c6 bc 89 91 97 86 71 7f 8b de 86 93 72 79 85 72 94 21 0f
+A  W  ,  20 I  20 C  A  N  '  T  20 V  I  S  I  T  20 W  E  S  T  !
+
+*「ああ、なんできがつかないんだろうニャア!
+うらないしがあやしいにきまっているのにニャア!
+
+The seer is suspicious!
+They don't have the whiskers to tell!
+
+The seer is suspicious!
+I feel it in my whiskers!
+
+2a a2 71 71 a4 85 9d 83 de 77 76 de 82 76 85 72 9d 80 de 9b 73 c6 ac b1 21 02
+T  H  E  20 S  E  E  R  20 I  S  20 S  U  S  P  I  C  I  O  U  S  !  20 I  20
+
+73 97 85 72 7c 76 de 71 94 7c 72 86 77 8f 6f 83 72 99 89 86 c6 ac b1 21 0f
+F  E  E  L  20 I  T  20 I  N  20 M  Y  20 W  H  I  S  K  E  R  S  !
