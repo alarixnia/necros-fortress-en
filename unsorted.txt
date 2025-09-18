@@ -322,6 +322,14 @@ db b0 cc df
 Merchant's Belongings
 CidParcel
 
+うらぐちのカギ
+Back Door Key
+Back Key
+
+う ら く de ち の カ キ de
+73 97 78 de 81 89 b6 b7 de
+B  A  C  K  20 K  E  Y  20
+
 し ょ う に ん の に も つ
 7c 6e 73 86 9d 89 86 93 82
 C  I  D  P  A  R  C  E  L

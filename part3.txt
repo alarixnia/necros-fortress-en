@@ -974,3 +974,80 @@ L  L  A  G  E  02 C  H  I  E  F  '  S  20 S  O  N  .  02 05 T  H  E  Y  '  R  E
 
 dc b9 a1 76 9c 72 7f 73 86 88 74 a1 86 6c b0 a1 0f
 20 T  O  R  N  20 A  P  A  R  T  .  .  .
+
+--- majoros
+
+マジョロス「なんじゃ、おまえは!
+わらわは、よそものにようはない!
+かえれ、かえれ!
+
+The great Majoros has no use
+for strangers! (Begone!)
+
+cf bc de ae db bd a2 85 9d 7c de 6c a4 75 8f 74 8a 21 02 9c 97 9c 8a a4 96
+T  H  E  20 G  R  E  A  T  20 M  A  J  O  R  O  S  20 H  A  S  20 N  O  20
+
+7f 93 89 86 96 73 8a 85 72 21 02 76 74 9a a4 76 74 9a 21 0f
+U  S  E  20 F  O  R  20 S  T  R  A  N  G  E  R  S  !
+
+--- after majoros
+
+*「おいかえされた?
+ヒガシのむらのしょうにんは、よく
+うらぐちからでいりしてたけどね。
+
+(Turned away?)
+
+The east village merchant
+often uses the back door.
+
+The east village merchant
+goes in (through) the back door.
+
+2a a2 75 72 76 74 7b 9a 80 3f 02
+T  H  E  20 E  A  S  T  20 V  I
+
+cb b6 de bc 89 91 97 89 7c 6e 73 86 9d 8a a4 96 78 02
+L  L  A  G  E  20 M  E  R  C  H  A  N  T  20 G  O  E
+
+73 97 78 de 81 76 97 83 de 72 98 7c 83 80 79 84 de 88 a1 0f
+S  20 I  N  20 T  H  E  20 B  A  C  K  20 D  O  O  R  .
+
+*「にゃあ? うらないしのとうにはいるほうほう?
+[...]
+そうね。このみせは、まいにちあそこに、
+しなものをとどけているわ。
+[...]
+そこのイスのしたに、ごしゅじんは、いつもカギを
+かくしてるの。
+もしかしたら、とうのうらぐちのカギかもね。
+
+Meow? How to enter the
+seer's tower?
+
+Well, this shop delivers
+there daily.
+Well, we deliver there
+daily.
+
+The shopkeeper is hiding
+a key under that chair...
+(Perhaps it's for the back entrance.)
+
+2a a2 86 6c 71 3f 20 73 97 85 72 7c 89 84 73 86 8a 72 99 8e 73 8e 73 3f 02 05
+M  E  O  W  ?  20 H  O  W  20 T  O  20 E  N  T  E  R  20 T  H  E  02 S  E  E
+
+7f 73 88 a1 7a 89 90 7e 8a a4 8f 72 86 81 71 7f 7a 86 a4 02
+R  '  S  20 T  O  W  E  R  ?  02 05 W  E  L  L  ,  20 W  E
+
+7c 85 93 89 66 84 84 de 79 83 72 99 9c a1 02 05
+20 D  E  L  I  V  E  R  20 T  H  E  R  E  02 D
+
+7f 7a 89 b2 bd 89 7c 80 86 a4 7a de 7c 6d 7c de 9d 8a a4 72 82 93 b6 b7 de 66 02
+A  I  L  Y  .  02 05 T  H  E  20 S  H  O  P  K  E  E  P  E  R  20 I  S  20 H  I
+
+76 78 7c 83 99 89 a1 02
+D  I  N  G  02 A  20 K
+
+93 7c 76 7c 80 97 a4 84 73 89 73 97 78 de 81 89 b6 b7 de 76 93 88 a1 0f
+E  Y  20 U  N  D  E  R  20 T  H  A  T  20 C  H  A  I  R  .  .  . 
