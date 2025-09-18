@@ -932,11 +932,14 @@ villages have to quarrel!
 I don't know why our
 villages must quarrel!
 
+I'm longing to see Dan!
+Why must they argue?
+
 b1 dd bc de aa d7 a2 71 71 a4 c0 de dd 21 20 71 72 80 72 9c 21 02
-I  20 D  O  N  '  T  20 K  N  O  W  20 W  H  Y  20 O  U  R  20 V
+I  '  M  20 L  O  N  G  I  N  G  20 T  O  20 S  E  E  20 D  A  N
 
 85 7e de 32 82 89 91 97 8a a4 71 97 7f 6f 83 72 99 89 76 7c 97 21 0f
-I  L  L  A  G  E  S  20 M  U  S  T  20 Q  U  A  R  R  E  L  !
+!  20 W  H  Y  20 M  U  S  T  20 T  H  E  Y  20 A  R  G  U  E  !
 
 --- angela's cat
 
