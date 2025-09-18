@@ -578,6 +578,41 @@ Who (the hell) are you?! A spy (from the next village)!?
 W  H  O  20 T  H  E  20 H  E  L  L  20 A  R  E  20 Y  O  U  ?  !  20 20 20 20
 W  H  O  20 A  R  E  20 Y  O  U  ?  !  20 A  20 S  P  Y  ?  !
 
+*「へんなおとこ?
+[...]
+そういえば、おおきなオトコが、フンガー
+とかいいながら、みずうみにはいっていったニャア
+
+Meow...?
+A big strange man went
+into the lake grunting.
+
+2a a2 8d 9d 85 75 84 7a 3f 02 05
+M  E  O  W  .  .  .  ?  02 05 A
+
+7f 73 72 74 8a de a4 75 75 77 85 b5 c4 ba 76 de a4 cc dd b6 de b0 02
+20 B  I  G  20 S  T  R  A  N  G  E  20 M  A  N  20 W  E  N  T  20 I
+
+84 76 72 72 85 76 de 97 a4 90 7d de 73 90 86 8a 72 6f 83 72 6f 80 c6 ac b1 0f
+N  T  O  20 T  H  E  20 L  A  K  E  20 G  R  U  N  T  I  N  G  .
+
+--- west village trying to stay at inn
+
+*「なんだい、おまえ!
+ウチは、あやしいヤツはとめないよ!
+
+We don't let shady characters
+stay here!
+
+We don't let shady folks
+stay!
+
+2a a2 85 9d 80 de 72 a4 75 8f 74 21 02
+W  E  20 D  O  N  '  T  20 L  E  T  20
+
+b3 c1 8a a4 71 94 7c 72 d4 c2 8a 84 92 85 72 96 21 0f
+S  H  A  D  Y  20 F  O  L  K  S  02 S  T  A  Y  !
+
 --- west village dan
 
 ダン「やどやにとめてもらえなかったのかい?
@@ -592,18 +627,24 @@ everyone's (become very) agitated...
 
 Well. You're welcome to stay (here).
 
+I'm Dan.
+I'm sorry everyone's so
+agitated lately.
+You're welcome to rest
+here.
+
 タ de ン 「 や と de や に と め て も ら え な か っ た の か い ?
 c0 de dd a2 94 84 de 94 86 84 92 83 93 97 74 85 76 6f 80 89 76 72 3f 02
-C  O  U  L  D  N  '  T  20 F  I  N  D  20 L  O  D  G  I  N  G  ?  02 I
+I  '  M  20 D  A  N  .  02 I  ' M   20 S  O  R  R  Y  20 E  V  E  R  Y
 
 7f 9a 8a 93 73 7c 9c 79 85 72 88 74 a1 7b 72 77 9d 90 9d 85 a4 02
-'  M  20 S  O  R  R  Y  .  20 L  A  T  E  L  Y  20 E  V  E  R  Y
+E  V  E  R  Y  O  N  E  '  S  20 S  O  20 A  I  T  A  T  E  D  20
 
 75 7a 98 6f 8e df 78 85 6f 83 7c 8f 6f 83 eb 02 05
-O  N  E  '  S  20 A  G  I  T  A  T  E  D  .  02 05
+L  A  T  E  L  Y  .  02 Y  O  U  '  R  E  20 W  E
 
 7f 73 80 de a1 96 76 6f 80 97 7a 7a 86 84 8f 6f 83 76 8f 9c 85 72 96 a1
-Y  O  U  '  R  E  20 W  E  L  C  O  M  E  20 T  O  20 S  T  A  Y  .
+L  C  O  M  E  20 T  O  20 R  E  S  T  20 H  E  R  E  .
 
 --- west village dan's cat
 
