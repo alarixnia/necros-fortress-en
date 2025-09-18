@@ -726,3 +726,88 @@ T  H  E  20 S  E  E  R  20 I  S  20 S  U  S  P  I  C  I  O  U  S  !  20 I  20
 
 73 97 85 72 7c 76 de 71 94 7c 72 86 77 8f 6f 83 72 99 89 86 c6 ac b1 21 0f
 F  E  E  L  20 I  T  20 I  N  20 M  Y  20 W  H  I  S  K  E  R  S  !
+
+アンジェラ「ああ、ダン! あいたいわ!
+なぜ2つのむらは、あらそっているのかしら!
+
+--- angela's dad
+
+*「ワシは、このむらのそんちょうだ。
+むらびとがぶれいなくちをきいたことは、
+おわびしよう。
+[...]
+しかし、むらのあらそいは、ワシらのもんだいだ。
+くちをはさんでほしくないな!
+
+I'm the (village) chief.
+I'm sorry for my citizens'
+rudeness, but the conflict
+is our own.
+
+Please don't interfere!
+
+Don't pry!
+
+2a a2 dc bc 8a a4 7a 89 91 97 89 7f 9d 81 6e 73 80 de a1 02
+I  '  M  20 T  H  E  20 C  H  I  E  F  .  02 I  '  M  20 S
+
+91 97 8b de 84 76 de 8c de 9a 72 85 78 81 66 77 72 80 7a 84 8a a4 02
+O  R  R  Y  20 F  O  R  20 M  Y  20 C  I  T  I  Z  E  N  S  '  02 R
+
+75 9c 8b de 7c 96 73 a1 02 05
+U  D  E  N  E  S  S  ,  20 B
+
+7c 76 7c a4 91 97 89 71 97 7f 72 8a a4 dc bc 97 89 93 9d 80 de 72 80 de a1 02
+U  T  20 T  H  E  20 C  O  N  F  L  I  C  T  02 I  S  20 O  U  R  20 O  W  N
+
+78 81 66 8a 7b 9d 83 de 8e 7c 78 85 72 85 21 0f
+.  02 05 D  O  N  '  T  20 P  R  Y  !
+
+--- angela
+
+Angela: Oh, I've been longing to see him!)
+I don't know why the 2
+villages have to quarrel!
+
+I don't know why our
+villages must quarrel!
+
+b1 dd bc de aa d7 a2 71 71 a4 c0 de dd 21 20 71 72 80 72 9c 21 02
+I  20 D  O  N  '  T  20 K  N  O  W  20 W  H  Y  20 O  U  R  20 V
+
+85 7e de 32 82 89 91 97 8a a4 71 97 7f 6f 83 72 99 89 76 7c 97 21 0f
+I  L  L  A  G  E  S  20 M  U  S  T  20 Q  U  A  R  R  E  L  !
+
+--- angela's cat
+
+*「にゃー。アンジェラさんは
+そんちょうのむすめなんだけど、ニシのむらの
+そんちょうのむすこと、あいしあっているの。
+[...]
+でも、むらどうしのケンカで、ひきさかれちゃった
+ワケ。かわいそうにねえ。にゃー。
+
+Meow. Angela is the
+chief's daughter, but she
+loves the west village
+chief's son.
+
+(They were torn apart by the villages
+quarrelling.) Poor thing.
+
+They're torn apart...
+
+2a a2 86 6c b0 a1 b1 dd bc de aa d7 7b 9d 8a 02
+M  E  O  W  .  20 A  N  G  E  L  A  20 I  S  20
+
+7f 9d 81 6e 73 89 91 7d 92 85 9d 80 de 79 84 de a4 c6 bc 89 91 97 89 02
+T  H  E  02 C  H  I  E  F  '  S  20 D  A  U  G  H  T  E  R  ,  20 B  U
+
+7f 9d 81 6e 73 89 91 7d 7a 84 a4 71 72 7c 71 6f 83 72 99 89 a1 02 05
+T  20 S  H  E  02 L  O  V  E  S  20 T  H  E  20 W  E  S  T  20 V  I
+
+83 de 93 a4 91 97 84 de 73 7c 89 b9 dd b6 83 de a4 8b 77 7b 76 9a 81 6c 6f 80 02
+L  L  A  G  E  02 C  H  I  E  F  '  S  20 S  O  N  .  02 05 T  H  E  Y  '  R  E
+
+dc b9 a1 76 9c 72 7f 73 86 88 74 a1 86 6c b0 a1 0f
+20 T  O  R  N  20 A  P  A  R  T  .  .  .
