@@ -1282,6 +1282,28 @@ b5 d8 ca d9 89 96 9b 72
 O  R  C  A  R  M  O  R
 
 くさりかたびら
+Chainmail
+
+く さ り か た ひ de ら
+78 7b 98 76 80 8b de 97
+C  H  A  I  N  M  A  I
+
+スパイクメール
+Spike Mail
+SpikeMai
+
+ス ハ df イ ク メ ー ル
+bd ca df b2 b8 d2 b0 d9
+S  P  I  K  E  M  A  I
+
+バイキングメール
+Viking Mail
+
+ハ de イ キ ン ク de メ ー ル
+ca de b2 b7 dd b8 de d2 b0 d9
+V  I  K  I  N  G  M  A  I  L
+
+くさりかたびら
 Chain Mail
 
 く さ り か た ひ de ら
