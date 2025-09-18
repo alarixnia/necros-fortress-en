@@ -578,6 +578,73 @@ Who (the hell) are you?! A spy (from the next village)!?
 W  H  O  20 T  H  E  20 H  E  L  L  20 A  R  E  20 Y  O  U  ?  !  20 20 20 20
 W  H  O  20 A  R  E  20 Y  O  U  ?  !  20 A  20 S  P  Y  ?  !
 
+--- west village dan
+
+ダン「やどやにとめてもらえなかったのかい?
+それはもうしわけないねえ。さいきんみんな、
+おこりっぽくなってしまって...
+[...]
+そうだ。よかったらここにとまってかまわないよ。
+
+(You) couldn't find lodging?
+I'm sorry. Lately,
+everyone's (become very) agitated...
+
+Well. You're welcome to stay (here).
+
+タ de ン 「 や と de や に と め て も ら え な か っ た の か い ?
+c0 de dd a2 94 84 de 94 86 84 92 83 93 97 74 85 76 6f 80 89 76 72 3f 02
+C  O  U  L  D  N  '  T  20 F  I  N  D  20 L  O  D  G  I  N  G  ?  02 I
+
+7f 9a 8a 93 73 7c 9c 79 85 72 88 74 a1 7b 72 77 9d 90 9d 85 a4 02
+'  M  20 S  O  R  R  Y  .  20 L  A  T  E  L  Y  20 E  V  E  R  Y
+
+75 7a 98 6f 8e df 78 85 6f 83 7c 8f 6f 83 eb 02 05
+O  N  E  '  S  20 A  G  I  T  A  T  E  D  .  02 05
+
+7f 73 80 de a1 96 76 6f 80 97 7a 7a 86 84 8f 6f 83 76 8f 9c 85 72 96 a1
+Y  O  U  '  R  E  20 W  E  L  C  O  M  E  20 T  O  20 S  T  A  Y  .
+
+--- west village dan's cat
+
+*「ELFさんELFさん、きいてください。
+わたしのしゅじんは、ダンさんといって、
+そんちょうのむすこです。
+[...]
+ヒガシのむらの、アンジェラというむすめさんと
+あいしあっているのですが、2つのむらのなかが
+わるくなって、あうこともできません。
+ELFさんのちからで、なんとかなりませんか?
+
+Elf, elf, please listen.
+
+(My master) Dan's the chief's son.
+He loves Angela from East Village.
+But since relations (between the 2
+villages) soured, they can't meet.
+Can you (use your powers to) do something?
+
+2a a2 11 7b 9d 11 7b 9d a4 77 72 83 78 80 de 7b 72 a1 02
+11 ,  20 11 ,  20 P  L  E  A  S  E  20 L  I  S  T  E  N
+
+9c 80 7c 89 7c 6d 7c de 9d 8a a4 c0 de dd 7b 9d 84 72 6f 83 a4 02
+.  02 D  A  N  '  S  20 T  H  E  20 C  H  I  E  F  '  S  20 S  O
+
+7f 9d 81 6e 73 89 91 7d 7a 83 de 7d a1 02 05
+N  .  02 H  E  20 L  O  V  E  S  20 A  N  G
+
+cb b6 de bc 89 91 97 89 a4 b1 dd bc de aa d7 84 72 73 91 7d 92 7b 9d 84 02
+E  L  A  ,  20 F  R  O  M  20 E  A  S  T  02 V  I  L  L  A  G  E  .  02 05
+
+71 72 7c 71 6f 83 72 99 89 83 de 7d 76 de a4 32 82 89 91 97 89 85 76 76 de 02
+B  U  T  20 S  I  N  C  E  20 R  E  L  A  T  I  O  N  S  02 S  O  U  R  E  D
+
+9c 99 78 85 6f 83 a4 71 73 7a 84 93 83 de 77 8f 7e 9d a1 02
+,  20 T  H  E  Y  20 C  A  N  '  T  20 M  E  E  T  .  02 C  A
+
+11 7b 9d 89 81 76 97 83 de a4 85 9d 84 76 85 98 8f 7e 9d 76 3f 0f
+A  N  20 Y  O  U  20 D  O  20 S  O  M  E  T  H  I  N  G  ?
+
 --- east village chatter
 
 *「うらないしさまによると、
@@ -793,7 +860,7 @@ loves the west village
 chief's son.
 
 (They were torn apart by the villages
-quarrelling.) Poor thing.
+quarrelling. Poor thing.)
 
 They're torn apart...
 
