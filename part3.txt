@@ -596,6 +596,58 @@ M  E  O  W  .  .  .  ?  02 05 A
 84 76 72 72 85 76 de 97 a4 90 7d de 73 90 86 8a 72 6f 83 72 6f 80 c6 ac b1 0f
 N  T  O  20 T  H  E  20 L  A  K  E  20 G  R  U  N  T  I  N  G  .
 
+*「きをわるくしないでね、たびびとさん。
+それにしても、なんでみんな
+おこりっぽくなっちゃったのかしら...
+
+Please don't be offended.
+Still, I wonder why everyone is so
+quick to anger...
+
+I'm sorry. I wonder why
+everyone is so quick to
+anger...
+
+2a a2 77 66 9c 99 78 7c 85 72 83 de 88 a4 80 8b de 8b de 84 7b 9d a1 20
+I  '  M  20 S  O  R  R  Y  .  20 I  20 W  O  N  D  E  R  20 W  H  Y  20
+
+7f 9a 86 7c 83 93 a4 85 9d 83 de 90 9d 85 02 75 7a 98 6f 8e df 78 85 6f 81 6c 6f 80 89 76 7c 97 eb 0f
+E  V  E  R  Y  O  N  E  20 I  S  20 S  O  20 Q  U  I  C  K  20 T  O  20 A  N  G  E  R  .  .  .
+
+*「にゃーん。
+うらないしというニンゲンがきてから、このむらの
+ニンゲンは、みんなおかしくなったのよね。
+
+Meow. Ever since the seer came,
+the humans have been acting strangely.
+
+Meow.
+Ever since the seer came,
+the humans are crazy.
+
+2a a2 86 6c b0 9d a1 02
+M  E  O  W  .  02 E  V
+
+73 97 85 72 7c 84 72 73 c6 dd b9 de dd 76 de 77 83 76 97 a4 7a 89 91 97 89 02
+E  R  20 S  I  N  C  E  20 T  H  E  20 S  E  E  R  20 C  A  M  E  ,  20 T  H
+
+c6 dd b9 de dd 8a a4 90 9d 85 75 76 7c 78 85 6f 80 89 96 88 a1 0f
+E  20 H  U  M  A  N  S  20 A  R  E  20 C  R  A  Z  Y  .
+
+--- west village merchant
+
+*「へっへっへ。アッシは、たびのしょうにんでさあ。
+きょうりょくなぶきをおわけしますぜ!
+
+(Hehe,) I'm a wandering merchant.
+Check out my bargains!
+
+2a a2 8d 6f 8d 6f 8d a1 b1 af bc 8a a4 80 8b de 89 7c 6e 73 86 9d 83 de 7b 71 a1 02
+I  '  M  20 A  20 W  A  N  D  E  R  I  N  G  20 M  E  R  C  H  A  N  T  .  20 C  H
+
+77 6e 73 98 6e 78 85 8c de 77 66 75 9c 79 7c 8f 7d 7e de 21 02 05
+E  C  K  20 O  U  T  20 M  Y  20 B  A  R  G  A  I  N  S  !
+
 --- west village trying to stay at inn
 
 *「なんだい、おまえ!
