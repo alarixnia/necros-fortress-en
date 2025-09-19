@@ -1051,3 +1051,31 @@ D  I  N  G  02 A  20 K
 
 93 7c 76 7c 80 97 a4 84 73 89 73 97 78 de 81 89 b6 b7 de 76 93 88 a1 0f
 E  Y  20 U  N  D  E  R  20 T  H  A  T  20 C  H  A  I  R  .  .  . 
+
+--- under-lake cavern
+
+appears twice in binary:
+
+ここは、みずうみのちゅうおうぶのようだ。
+This seems to be the lake's centre.
+It's the lake's centre.
+
+こ こ は 、 み す de う み の ち ゅ う お う ふ de の よ う た de 。
+7a 7a 8a a4 90 7d de 73 90 89 81 6d 73 75 73 8c de 89 96 73 80 de a1
+I  T  '  S  20 T  H  E  20 L  A  K  E  '  S  20 C  E  N  T  R  E  .
+
+これはいったい、なんだろう?
+What on earth is this?
+What is this?
+
+こ れ はいったい、なんだろう?
+7a 9a 8a 72 6f 80 72 a4 85 9d 80 de 9b 73 3f 02
+W  H  A  T  20 I  S  20 T  H  I  S  ?
+
+ピラミッドのちょうじょうのようにみえる。
+Looks like the peak of a pyramid.
+It's a pyramid's peak.
+
+ヒ df ラ ミ ッ ト de の ち ょ う し de ょ う の よ う に み え る 。
+cb df d7 d0 af c4 de 89 81 6e 73 7c de 6e 73 89 96 73 86 90 74 99 a1 0f
+I  T  '  S  20 A  20 P  Y  R  A  M  I  D  '  S  20 P  E  A  K  .
