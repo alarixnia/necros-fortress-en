@@ -829,6 +829,14 @@ F  E  C  K  !
 2a 89 ca de b6 81 de 76 97 85 78 de 98 21 02 04
 2a 20 U  S  E  D  20 B  A  S  H  !
 
+*はジャンプでかわした!
+Dodged it with a jump!
+Dodged it!
+
+*  は シ de ャ ン フ df て de か わ し た !
+2a 8a bc de ac dd cc df 83 de 76 9c 7c 80 21 02
+2a 20 D  O  D  G  E  D  20 I  T  !
+
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
 20 C  H  A  R  G  E  S  !  20
@@ -923,6 +931,14 @@ Sudden attack.
 72 77 85 98 75 7f 72 76 76 6f 83 77 80 a1 04
 S  U  D  D  E  N  20 A  T  T  A  C  K  .
 
+*は、どくがぬけた。
+'s poison worn off.
+Not poisoned
+
+*  は 、 と de く か de ぬ け た 。
+2a 8a a4 84 de 78 76 de 87 79 80 a1 02 04
+N  O  T  20 P  O  I  S  O  N  E  D
+
 --- Monster names
 
 サーヘdeルタイカdeー
@@ -933,6 +949,13 @@ Sabretooth
 サ ー ヘ de ル タ イ カ de ー
 bb b0 cd de d9 c0 b2 b6 de b0
 S  A  B  R  E  T  O  O  T  H
+
+ゾンボーグ
+Zombie
+
+ソ de ン ホ de ー グ
+bf de dd ce de b0 b8 de
+Z  O  M  B  I  E  20 20
 
 オーク
 Oak
@@ -992,6 +1015,13 @@ Handy
 ca dd c4 de d7
 H  A  N  D  Y
 
+ダークリザード
+Dark Lizard
+
+タ de ー ク リ サ de ー ト de
+c0 de b0 b8 d8 bb de b0 c4 de
+D  A  R  K 
+
 ハーピー
 Harpy
 
@@ -1001,7 +1031,6 @@ H  A  R  P  Y
 
 リザード
 Lizard
-
 
 リ サ de ー ト de
 d8 bb de b0 c4 de
@@ -1069,6 +1098,14 @@ Oniro
 オ ニ ロ ス
 b5 c6 db bd
 O  N  I  R
+
+アオアップラ
+Blue Appla
+BluAppl
+
+ア オ ア ッ プ df ラ
+b1 b5 b1 af cc df d7
+B  L  U  A  P  P  L
 
 --- Armour & Weapons
 
