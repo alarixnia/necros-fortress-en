@@ -797,6 +797,14 @@ Thunder!
 bb dd c0 de b0 b1 c0 af b8 21 02 04
 T  H  U  N  D  E  R  !  20 20
 
+*は、けんをぬいた!
+Used sword!
+Slashes!
+
+*  は 、 け ん を ぬ い た !
+2a 8a a4 79 9d 66 87 72 80 21 02
+2a 20 S  L  A  S  H  E  S  !
+
 *の、じょうくうからのこうげき!
 Used air attack!
 
@@ -1006,6 +1014,13 @@ Foot
 フ ッ ト ラ
 cc af c4 d7
 F  O  O  T
+
+マジョロス
+Majoros
+
+マ シ de ョ ロ ス
+cf bc de ae db bd
+M  A  J  O  R  O
 
 ハンドラ
 Handler

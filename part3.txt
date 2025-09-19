@@ -1079,3 +1079,39 @@ It's a pyramid's peak.
 ヒ df ラ ミ ッ ト de の ち ょ う し de ょ う の よ う に み え る 。
 cb df d7 d0 af c4 de 89 81 6e 73 7c de 6e 73 89 96 73 86 90 74 99 a1 0f
 I  T  '  S  20 A  20 P  Y  R  A  M  I  D  '  S  20 P  E  A  K  .
+
+--- majoros after breaking in
+
+マジョロス「レディのしんしつにはいるとは、ぶれいな!
+せいばいしてくれる!
+
+Snooping in a lady's quarters?
+You'll be punished!
+
+How dare you snoop in a
+lady's quarters!
+
+cf bc de ae db bd a2 da c3 de a8 89 7c 9d 7c 82 86 8a 72 99 84 8a a4 8c de 9a 72 85 21 02
+H  O  W  20 D  A  R  E  20 Y  O  U  20 S  N  O  O  P  20 I  N  20 A  20 L  A  D  Y  '  S
+
+7e 72 8a de 72 7c 83 78 9a 99 21 0f
+20 Q  U  A  R  T  E  R  S  !
+
+after defeating her:
+
+マジョロス「むむむ、ゆだんしたわ!
+このとうのうえでまっているぞ。
+できるものなら、あがってこい!
+
+(Hmph,) I underestimated you!
+Meet me (again) at the top of
+this tower!
+
+cf bc de ae db bd a2 91 91 91 a4 95 80 de 9d 7c 80 9c 21 02
+I  20 U  N  D  E  R  E  S  T  I  M  A  T  E  D  20 Y  O  U
+
+7a 89 84 73 89 73 74 83 de 8f 6f 83 72 99 7f de a1 02
+! 02 M  E  E  T  20 M  E  20 A  T  20 T  H  E  20 T
+
+83 de 77 99 93 89 85 97 a4 71 76 de 6f 83 7a 72 21 0f
+O  P  20 O  F  20 T  H  I  S 20 T  O  W  E  R  !
