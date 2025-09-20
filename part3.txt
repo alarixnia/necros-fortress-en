@@ -1461,3 +1461,151 @@ D  A  N  20 S  T  I  L  L  20 L  O  V  E  S  20 M  E  20 A  F  T
 
 76 9c 72 76 de 6f 83 78 9a 99 83 de 7c 6e 73 a1 0f
 E  R  20 H  E  '  S  20 M  A  R  R  I  E  D  .
+
+--- wedding
+
+*「ほんとうなら、2つのそんちょうけが
+むすばれたときのしきたりで、2つのむらの
+たからをあわせるのですが...
+どこへいったか、みつからないのです。
+
+(According to custom,)
+When 2 chiefs marry,
+the 2 villages treasures
+are combined.  But they're
+lost...
+
+2a a2 8e 9d 84 73 85 97 a4 32 82 89 7f 9d 81 6e 73 79 76 de 02 91 7d 8a de 9a 80 84
+W  H  E  N  20 2  20 C  H  I  E  F  S  20 M  A  R  R  R  Y  ,  20 T  H  E  20 2  20
+
+77 89 7c 77 80 98 83 de a4 32 82 89 91 97 89 02 80 76 97 66 71 9c 7e
+V  I  L  L  A  G  E  S  20 T  R  E  A  S  U  R  E  S  20 A  R  E  20
+
+99 89 83 de 7d 76 de eb 02 84 de 7a 8d 72 6f 80 76 a4 90 82 76 97 85
+C  O  M  B  I  N  E  D  .  20 B  U  T  20 T  H  E  Y  '  R  E  20 L
+
+72 89 83 de 7d a1 0f
+O  S  T  .  .  .
+
+アンジェラ「ああ、ダンとけっこんできるなんて、
+しあわせいっぱいよ!
+ダン「これもあなたたちのおかげです。
+[...]
+えっ? なんでしっているか?
+ははは...うちのネコが、そういってたんですよ!
+
+Angela: Oh, I'm so happy to marry Dan!
+
+Dan: This is all thanks to you.
+[...]
+Huh? How did I know?
+My cat told me, hehe!
+
+Oh, we're so happy to get married!
+This is all thanks to you.
+[...]
+Oh? How do we know?
+Our cat told us(, hehe)!
+
+b1 dd bc de aa d7 a2 71 71 a4 c0 de dd 84 79 6f 7a 9d 83 de 77 99 85 9d 83 a4 02
+O  H  ,  20 W  E  '  R  E  20 S  O  20 H  A  P  P  Y  20 T  O  20 G  E  T  20 M
+
+7c 71 9c 7e 72 6f 8a df 72 96 21 02
+A  R  R  R  I  E  D  !  02 T  H  I
+
+c0 de dd a2 7a 9a 93 71 85 80 80 81 89 75 76 79 de 83 de 7d a1 02 05 74 6f 3f 20
+S  20 I  S  20 A  L  L  20 T  H  A  N  K  S  20 T  O  20 Y  O  U  .  02 05 O  H
+
+85 9d 83 de 7c 6f 83 72 99 76 3f 02 8a 8a 8a eb 73 81 89 c8 ba 76 de
+?  20 H  O  W  20 D  O  20 W  E  20 K  N  O  W  ?  02 O  U  R  20 C
+
+a4 7f 73 72 6f 83 80 9d 83 de 7d 96 21 0f
+A  T  20 T  O  L  D  20 U  S  !
+
+*「おおっ! これこそ、2つのむらのたから!
+いまこそしきたりにしたがい、
+これらをあわせましょう!
+[...]
+いいつたえには、これらがはめあわされるとき、
+みずうみのこだいのしろがふっかつすると
+あります。
+[...]
+ほんとかどうかは、やってみてのおたのしみ!
+では......
+
+(At last!) The treasures of the
+2 villages! (Now, let's
+follow tradition and unite them!)
+
+Legend says when they're united,
+the lake's (ancient) castle is restored.
+
+You'll have to find out if it's true
+(yourself! Well then...)
+
+2a a2 75 75 6f 21 20 7a 9a 7a 7f a4 32 82 89 91 97 89 80 76 97 21 02
+T  H  E  20 T  R  E  A  S  U  R  E  S  20 O  F  20 T  H  E  20 2  20
+
+72 8f 7a 7f 7c 77 80 98 86 7c 80 76 de 72 a4 02
+V  I  L  L  A  G  E  S  !  02 05 L  E  G  E  N
+
+7a 9a 97 66 71 9c 7e 8f 7c 6e 73 21 02 05
+D  20 S  A  Y  S  20 W  H  E  N  20 T  H
+
+72 72 82 80 74 86 8a a4 7a 9a 97 76 de 8a 92 71 9c 7b 9a 99 84 77 a4 02
+E  Y  '  R  E  20 U  N  I  T  E  D  20 T  H  E  20 L  A  K  E  '  S  20
+
+90 7d de 73 90 89 7a 80 de 72 89 7c 9b 76 de 8c 6f 76 82 7d 99 84 02
+C  A  S  T  L  E  20 I  S  20 R  E  S  T  O  R  E  D  .  02 05 Y  O
+
+71 98 8f 7d a1 02 05
+U  '  L  L  20 H  A
+
+8e 9d 84 76 84 de 73 76 8a a4 94 6f 83 90 83 89 75 80 89 7c 90 21 02
+V  E  20 T  O  20 F  I  N  D  20 O  U  T  20 I  F  20 I  T  '  S  20
+
+83 de 8a eb eb 0f
+T  R  U  E  !
+
+*「なんでわれわれは、あらそっていたのかな。
+...ま、きにしないことにしよう。
+
+Why did we even argue?
+Oh, never mind...
+
+2a a2 85 9d 83 de 9c 9a 9c 9a 8a a4 71 97 7f 6f 83 72 80 89 76 85 a1 02
+W  H  Y  20 D  I  D  20 W  E  20 E  V  E  N  20 A  R  G  U  E  ?  20 O
+
+eb 8f a4 77 86 7c 85 72 7a 84 86 7c 96 73 a1 0f
+H  ,  20 N  E  V  E  R  20 M  I  N  D  .  .
+
+*「2つのむらをあげてのけっこんしきなど
+なんねんぶりやら...めでたい、めでたい!
+
+A wedding to unite the 2 villages!
+It's been years since we had one!
+(How wonderful, how wonderful!)
+
+A wedding to unite us all!
+It's been years!
+
+2a a2 32 82 89 91 97 66 71 79 de 83 89 79 6f 7a 9d 7c 77 85 84 de 02
+A  20 W  E  D  D  I  N  G  20 T  O  20 U  N  I  T  E  20 U  S  20 A
+
+85 9d 88 9d 8c de 98 94 97 eb 92 83 de 80 72 a4 92 83 de 80 72 21 0f
+L  L  !  02 I  T  '  S  20 B  E  E  N  20 Y  E  A  R  S  ! 
+
+*「ダンとアンジェラは、
+えにかいたようにおにあいだねえ!
+
+Dan and Angela are a
+perfect match!
+
+Dan & Angela - a perfect
+match!
+
+2a a2 c0 de dd 84 b1 dd bc de aa d7 8a a4 02
+D  A  N  20 &  20 A  N  G  E  L  A  20 -  20
+
+74 86 76 72 80 96 73 86 75 86 71 72 80 de 88 74 21 0f
+A  20 P  E  R  F  E  C  T  20 M  A  T  C  H  !
