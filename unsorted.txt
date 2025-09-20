@@ -524,6 +524,14 @@ FLEE
 86 79 de 99
 F  L  E  E
 
+うごけない!
+Can't move!
+Stunned!
+
+93 20 20 う こ de け な い !
+93 20 20 73 7a de 79 85 72 21 0f
+93 20 20 S  T  U  N  N  E  D
+
 at 3CD5B 
 
 こうけdeき
@@ -752,6 +760,14 @@ Critical!
 8a a4 77 98 76 76 6f 80 21 02
 20 C  R  I  T  20 H  I  T
 
+ひっさつ,
+Special move, 
+Used
+
+ひ っ さ つ ,
+8b 6f 7b 82 a4
+U  S  E  D  20
+
 *の、でんげきこうげき!
 Uses electric shock!
 Uses shock!
@@ -946,6 +962,35 @@ Sudden attack.
 い き な り お そ い か か っ て き た 。
 72 77 85 98 75 7f 72 76 76 6f 83 77 80 a1 04
 S  U  D  D  E  N  20 A  T  T  A  C  K  .
+
+*は、?をとなえた!
+X cast Y spell!
+
+2a 8a a4 23 66 84 85 74 80 21 02
+2a 20 C  A  S  T  20 23 !  20 02
+
+*のHPが?ポイントかいふくした。
+X's HP restored.
+X got Y HP restored.
+
+*  の H  P  か de ?  ホ df イ ン ト か い ふ く し た 。
+2a 89 48 50 76 de 25 ce df b2 dd c4 76 72 8c 78 7c 80 a1 02
+2a 20 G  O  T  20 25 20 H  P  20 R  E  S  T  O  R  E  D
+
+*は、かいふくした。
+X was cured.
+X cured.
+
+*  は 、 か い ふ く し た 。
+2a 8a a4 76 72 8c 78 7c 80 a1 02
+2a 20 C  U  R  E  D  .
+
+*には、きかなかった!
+X unaffected!
+X is immune
+
+2a 86 8a a4 77 76 85 76 6f 80 21 02
+2a 20 I  S  20 I  M  M  U  N  E 
 
 *は、どくがぬけた。
 's poison worn off.
@@ -1421,6 +1466,15 @@ Elf Dagger
 b4 d9 cc de dd c0 de b6 de b0
 E  L  F  D  A  G  G  E  R  de
 
+かぜのナイフ
+Wind Knife
+Air Dagger
+Air Dagr
+
+か せ de の ナ イ フ
+76 7e de 89 c5 b2 cc
+A  I  R  D  A  G  R
+
 サムライかたな
 Katana
 
@@ -1559,12 +1613,11 @@ cc de d8 bb de b0 c4 de
 B  L  I  Z  Z  A  R  D
 
 ストップ
-Stop
+Stun
 
 ス ト ッ プ
 bd c4 af cc df
-S  T  O  P  20
-
+S  T  U  N  20
 
 アイスバレット
 Ice Bullet
