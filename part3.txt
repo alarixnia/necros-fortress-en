@@ -1115,3 +1115,278 @@ I  20 U  N  D  E  R  E  S  T  I  M  A  T  E  D  20 Y  O  U
 
 83 de 77 99 93 89 85 97 a4 71 76 de 6f 83 7a 72 21 0f
 O  P  20 O  F  20 T  H  I  S 20 T  O  W  E  R  !
+
+--- suspicious blue cat in majoros' tower
+
+*「にゃあ! ワシは、じつは
+MAGEのぶんしんなのぢゃ!
+おどろいたか!
+[...]
+よいことをおしえよう。
+マジョロスは、ベッドのしたに
+モノをかくすクセがある。
+[...]
+なぜしっているかって?
+じつは、MAGEとマジョロスは、
+きょうだいだったのぢゃ!
+[...]
+マジョロスは、いまくるしんでおる。
+いそいでいくのぢゃ!
+はやく、マジョロスをすくってやってくれ!
+
+Meow! I'm actually Mage's
+familiar!  Surprised?
+
+Here's a small tip:
+Majoros (likes to hide) hides
+stuff under her bed.
+
+How'd I know?  Mage and
+Majoros are (actually) siblings!
+
+Majoros is suffering (right now),
+(quickly,) go and save her!
+
+2a a2 86 6c 71 21 20 dc bc 8a a4 7c de 82 8a 02
+M  E  O  W  !  20 I  ' M   20 A  C  T  U  A  L
+
+17 89 8c de 9d 7c 9d 85 89 81 de 6c 21 02
+L  Y  20 17 '  s  20 F  A  M  I  L  I  A
+
+75 84 de 9b 72 80 76 21 02 05
+R  !  20 S  U  R  P  R  I  S 
+
+96 72 7a 84 66 75 7c 74 96 73 a1 02
+E  D  ?  02 05 H  E  R  E  '  S  20
+
+cf bc de ae db bd 8a a4 cd de af c4 de 89 7c 80 86 02
+A  20 S  M  A  L  L  20 T  I  P  :  02 M  A  J  O  R
+
+d3 c9 66 76 78 7d b8 be 76 de 71 99 a1 02 05
+O  S  20 H  I  D  E  S  20 S  T  U  F  F  20
+
+85 7e de 7c 6f 83 72 99 76 6f 83 3f 02
+U  N  D  E  R  20 H  E  R  20 B  E  D
+
+7c de 82 8a a4 17 84 cf bc de ae db bd 8a a4 02
+.  02 05 H  O  W  '  D  20 I  20 K  N  O  W  ?
+
+77 6e 73 80 de 72 80 de 6f 80 89 81 de 6c 21 02 05
+20 17 20 A  N  D  20 M  A  J  O  R  O  S  20 A  R
+
+cf bc de ae db bd 8a a4 72 8f 78 99 7c 9d 83 de 75 99 a1 02
+E  20 S  I  B  L  I  N  G  S  !  02 05 M  A  J  O  R  O  S
+
+72 7f 72 83 de 72 78 89 81 de 6c 21 02
+20 I  S  20 S  U  F  F  E  R  I  N  G
+
+8a 94 78 a4 cf bc de ae db bd 66 7d 78 6f 83 94 6f 83 78 9a 21 0f
+,  20 G  O  20 A  N  D  20 S  A  V  E  20 H  E  R  !
+
+--- majoros cutscene
+
+「よくぞたどりついたな。
+てきとはいえ、あっぱれなヤツ。
+[...]
+「のう、おぬしら。
+みかたになるきはないか?
+[...]
+「なに?
+[...]
+「ネクロスさまは、じつは
+タンキリエおうのおとうとなのじゃ。
+[...]
+「...
+[...]
+「かいぶつがニンゲンをおそうように
+なったのも、もとはといえばニンゲンが
+りゆうもなくかりたてたため。
+[...]
+「ネクロスさまはかなしみ、かいぶつのための
+せかいをきずこうとしたのじゃ。
+ELFとやらならわかろう。
+かいぶつたちこそ、ひがいしゃではないか!
+[...]
+「わからぬか? ...やむをえん。
+[...]
+「だまれ! そのようなまよいごと、
+きくみみもたぬ!
+
+Well done for making it this far.
+You're a remarkable foe.
+
+Well done. You're great foes.
+-
+Now then. Would you consider
+joining us?
+
+Would you join us?
+-
+What?
+Huh?
+-
+Necros is the younger
+brother of the king.
+
+Necros was the king's
+brother.
+-
+...
+-
+The monsters began to attack
+because humans hunted them
+without cause.
+
+The monsters attacked
+due to humans hunting
+them down.
+-
+Lord Necros wanted a world
+for the monsters.
+As an elf, you should understand,
+monsters are the true victims.
+
+Necros wanted man and
+monster to live in peace.
+Surely you understand,
+Elf?
+-
+You don't understand? Very well.
+-
+Quiet! We won't be swayed by
+such foolishness!
+
+Quiet! Enough foolishness!
+
+a2 96 78 7f de 80 84 de 98 82 72 80 85 a1 02
+W  E  L  L  20 D  O  N  E  .  20 Y  O  U  '
+
+83 77 84 8a 72 74 a4 71 6f 8a df 9a 85 d4 c2 a1 04
+R  E  20 G  R  E  A  T  20 F  O  E  S  .
+
+-
+
+a2 89 73 a4 75 87 7c 97 a1 02
+W  O  U  L  D  20 Y  O  U  20
+
+90 76 80 86 85 99 77 8a 85 72 76 3f 04
+J  O  I  N  20 U  S  ?
+
+-
+
+a2 85 86 3f 04
+H  U  H  ?
+
+-
+
+a2 c8 b8 db bd 7b 8f 8a a4 7c de 82 8a 02
+N  E  C  R  O  S  20 W  A  S  20 T  H  E
+
+c0 dd b7 d8 b4 75 73 89 75 84 73 84 85 89 7c de 6c a1 04
+20 K  I  N  G  '  S  02 B  R  O  T  H  E  R  .
+
+-
+
+a2 76 72 8c de 82 76 de c6 dd b9 de dd 66 75 7f 73 96 73 86 02
+T  H  E  20 M  O  N  S  T  E  R  S  20 A  T  T  A  C  K  E  D
+
+85 6f 80 89 93 a4 93 84 8a 84 72 74 8a de c6 dd b9 de dd 76 de 02
+02 D  U  E  20 T  O  20 H  U  M  A  N  S  20 H  U  N  T  I  N  G
+
+98 95 73 93 85 78 76 98 80 83 80 80 92 a1 04
+02 T  H  E  M  20 D  O  W  N  .  .  .
+
+-
+
+a2 c8 b8 db bd 7b 8f 8a 76 85 7c 90 a4 76 72 8c de 82 89 80 92 89 02
+N  E  C  R  O  S  20 W  A  N  T  E  D  20 M  A  N  20 A  N  D  20 M
+
+7e 76 72 66 77 7d de 7a 73 84 7c 80 89 7c de 6c a1 02
+O  N  S  T  E  R  S  20 T  O  20 L  I  V  E  20 I  N
+
+11 84 94 97 85 97 9c 76 9b 73 a1 02
+20 P  E  A  C  E  .  02 S  U  R  E
+
+76 72 8c de 82 80 81 7a 7f a4 8b 76 de 72 7c 6c 83 de 8a 85 72 76 21 04
+L  Y  20 Y  O  U  20 U  N  D  E  R  S  T  A  N  D  ,  02 E  L  F  ?
+
+-
+
+a2 80 de 8f 9a 21 20
+Q  U  I  E  T  !  20
+
+7f 89 96 73 85 8f 96 72 7a de 84 a4 02
+E  N  O  U  G  H  20 F  O  O  L  I  S
+
+77 78 90 90 93 80 87 21 04
+H  N  E  S  S  !
+
+--- majoros cutscene after second battle
+
+「うぬ、まだいきているか!
+
+Huh, still alive!
+Still alive?!
+
+a2 73 87 a4 8f 80 de 72 77 83 72 99 76 21 04
+S  T  I  L  L  20 A  L  I  V  E  ?  !
+
+「まって、ようすがヘンだよ。
+
+Something's off here.
+Something's off.
+
+a2 8f 6f 83 a4 96 73 7d 76 de cd dd 80 de 96 a1 04
+S  O  M  E  T  H  I  N  G  '  S  20 O  F  F  .
+
+「うっ...ここで...やられるものか...
+うう......
+(break)
+うわああああああ!
+
+Ugh. I won't let you..
+Waaaaaaaah!
+
+a2 73 6f eb 7a 7a 83 de eb
+U  G  H  .  20 I  20 W  O
+
+94 97 9a 99 93 89 76 eb 02 73 73 eb eb 02
+N  '  T  20 L  E  T  20 Y  O  U  .  .
+
+73 9c 71 71 71 71 71 71 21 04
+W  A  A  A  A  A  A  H  !  04
+
+「うう...わたしは、ジョロス。MAGEのあねです...
+じゃあくなたましいに、からだをのっとられ、
+マジョロスとなっていました...
+
+Ugh. I'm Joros, Mage's
+sister. An evil spirit
+took over my body,
+(and I became Majoros).
+
+a2 73 73 eb 9c 80 7c 8a a4 bc de ae db bd a1 17 89 71 88 83 de 7d eb 02
+U  G  H  .  20 I  '  M  20 J  O  R  O  S  ,  20 17 '  S  20 S  I  S  T
+
+7c de 6c 71 78 85 80 8f 7c 72 86 a4 76 97 80 de 66 89 6f 84 97 9a a4 02
+E  R  .  20 A  N  20 E  V  I  L  20 S  P  I  R  I  T  20 T  O  O  K  20
+
+cf bc de ae db bd 84 85 6f 83 72 8f 7c 80 eb 02 04
+O  V  E  R  20 M  Y  20 B  O  D  Y  .  20 20 20 04
+
+あ、たいへんだわ!
+なんということをしてしまったのかしら!
+いそいで、2つのむらをなかなおりさせなければ!
+
+Oh no! What have I done?
+I'll reconcile the 2
+villages!
+
+71 a4 80 72 8d 9d 80 de 9c 21 02
+02 O  H  20 N  O  !  20 W  H  A  T
+
+85 9d 84 72 73 7a 84 66 7c 83 7c 8f 6f 80 89 76 7c 97 21 02
+T  20 H  A  V  E  20 I  20 D  O  N  E  ?  02 I  '  L  L  20
+
+72 7f 72 83 de a4 32 82 89 91 97 66 85 76 85 75 98 7b 7e 85 79 9a 8a de 21 04
+R  E  C  O  N  C  I  L  E  20 T  H  E  20 2  02 V  I  L  L  A  G  E  S  !
