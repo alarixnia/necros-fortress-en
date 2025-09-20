@@ -474,6 +474,13 @@ Let's sing a (memory) song.
 7b 72 76 72 89 73 80 66 77 76 7e 83 71 79 de 8f 7c 6e 73 a1
 l  e  t  '  s  20 s  i  n  g  20 a  20 s  o  n  g  .
 
+このうたをMEMORY ゚メモリにきろくしますか?
+Shall we save it to memory?
+Let's save it to memory?
+
+7a 89 73 80 66 4d 45 4d 4f 52 59 20 df d2 d3 d8 86 77 9b 78 7c 8f 7d 76 3f
+L  E  T  '  S  20 S  A  V  E  20 I  T  20 T  O  20 M  E  M  O  R  Y  ?
+
 --- battle menu
 
 TODO kind of need a better way to have a zero-with filler

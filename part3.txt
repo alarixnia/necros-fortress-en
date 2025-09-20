@@ -1390,3 +1390,74 @@ T  20 H  A  V  E  20 I  20 D  O  N  E  ?  02 I  '  L  L  20
 
 72 7f 72 83 de a4 32 82 89 91 97 66 85 76 85 75 98 7b 7e 85 79 9a 8a de 21 04
 R  E  C  O  N  C  I  L  E  20 T  H  E  20 2  02 V  I  L  L  A  G  E  S  !
+
+--- east village after defeating majoros
+
+*「ニンゲンたちは、なかなおりして
+きょうかいへいったニャ。
+まったくニンゲンは、きまぐれだニャア!
+
+The humans made up and went to the temple.
+(They're so fickle, meow!)
+
+Meow. The humans made up
+and went to the temple.
+
+2a a2 c6 dd b9 de dd 80 81 8a a4 85 76 85 75 98 7c 83 02
+M  E  O  W  .  20 T  H  E  20 H  U  M  A  N  S  20 M  A
+
+77 6e 73 76 72 8d 72 6f 80 c6 ac a1 02
+D  E  20 U  P  20 A  N  D  20 W  E  N
+
+8f 6f 80 78 c6 dd b9 de dd 8a a4 77 8f 78 de 9a 80 de c6 ac b1 21 0f
+T  20 T  O  20 T  H  E  20 T  E  M  P  L  E  . 
+
+*「いやあ、このあいだは、どうもしつれい!
+I'm sorry for being rude!
+I was rude, I'm sorry!
+
+2a a2 72 94 71 a4 7a 89 71 72 80 de 8a a4 84 de 73 93 7c 82 9a 72 21 0f
+I  20 W  A  S  20 R  U  D  E  ,  20 I  '  M  20 S  O  R  R  Y  !
+
+*「にゃん!よかったわねえ!
+れいにはおよばないわ。わたしだって、おかげで
+ずいぶんおかねがたまったもの
+
+Meow! It's great!
+Thanks to you, I've saved
+up some gold too!
+
+2a a2 86 6c 9d 21 20 96 76 6f 80 9c 88 74 21 02 05
+M  E  O  W  !  20 I  T  '  S  20 G  R  E  A  T  !
+
+9a 72 86 8a 75 96 8a de 85 72 9c a1 9c 80 7c 80 de 6f 83 a4 75 76 79 de 83 de 02
+02 T  H  A  N  K  S  20 T  O  20 Y  O  U  20 ,  02 I  '  V  E  20 S  A  V  E  D
+
+7d de 72 8c de 9d 75 76 88 76 de 80 8f 6f 80 93 89 21 0f
+20 U  P  20 S  O  M  E  20 G  O  L  D  20 T  O  O  !
+
+--- west village after defeating majoros
+
+*「やあ。このあいだは、しつれいしましたね!
+
+(Hey,) sorry about that earlier!
+
+2a a2 94 71 a1 7a 89 71 72 80 de 8a a4 7c 82 9a 72 7c 8f 7c 80 88 21 02 05
+S  O  R  R  Y  20 A  B  O  U  T  20 E  A  R  L  I  E  R  !
+
+*「にゃん。ELFさん、ありがとう。
+ダンさんは、けっこんしてからも、わたしを
+かわいがってくれるでしょう。
+
+Thank you(, Mr. Elf).
+I hope Dan still loves me
+after he's married.
+
+2a a2 86 6c 9d a1 11 7b 9d a4 71 98 76 de 84 73 a1 02
+T  H  A  N  K  20 Y  O  U  .  02 I  20 H  O  P  E  20
+
+c0 de dd 7b 9d 8a a4 79 6f 7a 9d 7c 83 76 97 93 a4 9c 80 7c 66 02
+D  A  N  20 S  T  I  L  L  20 L  O  V  E  S  20 M  E  20 A  F  T
+
+76 9c 72 76 de 6f 83 78 9a 99 83 de 7c 6e 73 a1 0f
+E  R  20 H  E  '  S  20 M  A  R  R  I  E  D  .
