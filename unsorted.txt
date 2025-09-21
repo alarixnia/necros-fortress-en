@@ -342,6 +342,30 @@ B  A  C  K  20 K  E  Y  20
 32 76 72 89 b6 b7 de
 2  F  20 K  E  Y  20
 
+メモ
+Note
+??
+
+メ モ
+d2 d3
+?  ?
+
+ぎんのつるぎ
+Silver sword
+Si Sword
+
+き de ん の つ る き de
+77 de 9d 89 82 99 77 de
+S  I  20 S  W  O  R  D
+
+ぎんのさや
+Silver sheath
+Sheath
+
+き de ん の さ や
+77 de 9d 89 7b 94
+S  H  E  A  T  H
+
 マージのてがみ
 MAGE'S LETTER
 MAGE NOTE

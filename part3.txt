@@ -1533,14 +1533,17 @@ A  T  20 T  O  L  D  20 U  S  !
 ほんとかどうかは、やってみてのおたのしみ!
 では......
 
-(At last!) The treasures of the
-2 villages! (Now, let's
+(At last!)
+The treasures of the 2
+villages! (Now, let's
 follow tradition and unite them!)
 
-Legend says when they're united,
-the lake's (ancient) castle is restored.
+Legend says when they're
+united the lake's (ancient) castle
+is restored.
 
-You'll have to find out if it's true
+You'll have to find out
+if it's true
 (yourself! Well then...)
 
 2a a2 75 75 6f 21 20 7a 9a 7a 7f a4 32 82 89 91 97 89 80 76 97 21 02
@@ -1566,6 +1569,14 @@ V  E  20 T  O  20 F  I  N  D  20 O  U  T  20 I  F  20 I  T  '  S  20
 
 83 de 8a eb eb 0f
 T  R  U  E  !
+
+みずうみのほうで、みずがひいていくおとがした!
+
+I can hear water receding (near the lake)!
+
+み す de う み の ほ う て de 、 み す de か de ひ い て い く お と か de し た !
+90 7d de 73 90 89 8e 73 83 de a4 90 7d de 76 de 8b 72 83 72 78 75 84 76 de 7c 80 21 0f
+I  20 C  A  N  20 H  E  A  R  20 W  A  T  E  R  20 R  E  C  E  D  I  N  G  !
 
 *「なんでわれわれは、あらそっていたのかな。
 ...ま、きにしないことにしよう。
@@ -1609,3 +1620,117 @@ D  A  N  20 &  20 A  N  G  E  L  A  20 -  20
 
 74 86 76 72 80 96 73 86 75 86 71 72 80 de 88 74 21 0f
 A  20 P  E  R  F  E  C  T  20 M  A  T  C  H  !
+
+--- mysterious note
+
+2つのたからは キのねもと
+ニシのむらは キタのはじのニシから4ほんめ
+ヒガシのむらは ヒガシのはじのキタから4ほんめ
+
+(The treasures of the 2 villagestreasures lie in the trees)
+West: 4th tree from west,
+N(orth) edge
+East: 4th from north,
+E(ast) edge
+
+32 82 89 80 76 97 8a 20 b7 89 88 93 84 02
+W  E  S  T  :  20 4  T  H  20 T  R  E  E
+
+c6 bc 89 91 97 8a 20 b7 c0 89 8a 7c de 89 c6 bc 76 97 34 8e 9d 92 02
+20 F  R  O  M  20 W  E  S  T  ,  20 N  20 E  D  G  E  02 E  A  S  T
+
+cb b6 de bc 89 91 97 8a 20 cb b6 de bc 89 8a 7c de 89 b7 c0 76 97 34 8e 9d 92 0f
+:  20 4  T  H  20 F  R  O  M  20 N  O  R  T  H  ,  20 E  20 E  D  G  E  .
+
+---- Joros outside temple
+
+ジョロス「あのたからをかくすため、わたしは
+このさきのもりにかいぶつをすまわせ、
+2つのむらをあらそわせていたのです。
+
+To hide the treasure,
+I had monsters occupy the
+forest, and made the
+villagers feud.
+
+マジョロスのときにはなしたことは、
+ほんとうです。ネクロスさまは、いいおうじ
+でした。ニンゲンでないものにもやさしく...
+
+I didn't lie. Necros was
+once noble, and kind to
+non-humans...
+
+しかし、わたしとおなじく、じゃあくなこころに
+からだをのっとられて、あくまのようになって
+しまいました...
+
+(But) like me, he
+was possessed by an evil
+spirit...
+
+わたしは、しばらくひとりになります。
+MAGEによろしく...
+
+(I'll need time alone.)
+Send (my) regards to Mage...
+
+bc de ae db bd a2 71 89 80 76 97 66 76 78 7d 80 92 a4 9c 80 7c 8a 02
+T  O  20 H  I  D  E  20 T  H  E  20 T  R  E  A  S  U  R  E  ,  02 I
+
+7a 89 7b 77 89 93 98 86 76 72 8c de 82 66 7d 8f 9c 7e a4 02
+20 H  A  D  20 M  O  N  S  T  E  R  S  20 O  C  C  U  P  Y
+
+32 82 89 91 97 66 71 97 7f 9c 7e 83 72 80 89 83 de 7d a1 02 05 cf bc de ae db bd 89 84 77
+20 T  H  E  02 F  O  R  E  S  T  ,  20 A  N  D  20 M  A  D  E  20 T  H  E  02 V  I  L  L
+
+86 8a 85 7c 80 7a 84 8a a4 02
+A  G  E  R  S  20 F  E  U  D 
+
+8e 9d 84 73 83 de 7d a1 c8 b8 db bd 7b 8f 8a a4 72 72 75 73 7c de 02
+.  02 05 I  20 D  I  D  N  '  T  20 L  I  E  .  20 N  E  C  R  O  S
+
+83 de 7c 80 a1 c6 dd b9 de dd 83 de 85 72 93 89 86 93 94 7b 7c 78 eb 02 05
+20 W  A  S  02 O  N  C  E  20 N  O  B  L  E  ,  20 A  N  D  20 K  I  N  D
+
+7c 76 7c a4 9c 80 7c 84 75 85 7c de 78 a4 7c de 6c 71 78 85 7a 7a 9b 86 02
+20 T  O  20 N  O  N  -  H  U  M  A  N  S  .  .  .  02 L  I  K  E  20 M  E
+
+76 97 80 de 66 89 6f 84 97 9a 83 a4 71 78 8f 89 96 73 86 85 6f 83 02
+,  20 H  E  02 W  A  S  20 P  O  S  S  E  S  S  E  D  20 B  Y  20 A
+
+7c 8f 72 8f 7c 80 eb 02 05
+N  20 E  V  I  L  20 S  P
+
+9c 80 7c 8a a4 7c 8a de 97 78 8b 84 98 86 85 98 8f 7d a1 02
+I  R  I  T  .  02 05 S  E  N  D  20 M  Y  20 R  E  G  A  R
+
+17 86 96 9b 7c 78 eb 0f
+D  S  20 T  O  20 17 .
+
+--- priest again
+
+*「じつは、へんなおとこが、しろはどこだときくので、いいつたえのしろのことをおしえたんですが...
+ええ、いいつたえがほんとうなら、みずうみのまんなかにしゅつげんするはずです。
+
+Actually, a stranger asked
+me about the legendary
+castle. If it's real,
+it's in the middle of the lake.
+
+15 21 0f
+
+2a a2 7c de 82 8a a4 8d 9d 85 75 84 7a 76 de a4 7c 9b 8a 84 de 7a 80
+A  C  T  U  A  L  L  Y  ,  20 A  20 S  T  R  A  N  G  E  R  20 A  S
+
+de 84 77 78 89 83 de a4 72 72 82 80 74 89 7c 9b 89 7a 84 66 75 7c 74 80 9d 83
+K  E  D  20 M  E  20 A  B  O  U  T  20 T  H  E  20 L  E  G  E  N  D  A  R  Y
+
+de 7d 76 de eb 02
+20 C  A  S  T  L
+
+74 74 a4 72 72 82 80 74 76 de 8e 9d 84 73 85 97 a4 90 7d de 73 90 89 8f 9d 85
+E  .  02 I  F  20 I  T  '  S  20 R  E  A  L  ,  20 I  T  '  S  20 I  N  20 T
+
+76 86 7c 6d 82 79 de 9d 7d 99 8a 7d de 83 de 7d a1 0f 
+H  E  20 L  A  K  E  '  S  20 C  E  N  R  E  .
