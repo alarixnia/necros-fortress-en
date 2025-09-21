@@ -1127,6 +1127,21 @@ Dark Lizard
 c0 de b0 b8 d8 bb de b0 c4 de
 D  A  R  K 
 
+カーリー
+Curly
+Curl
+
+カ ー リ ー
+b6 b0 d8 b0
+C  U  R  L
+
+ブラックOAK
+Dark Oak
+
+フ de ラ ッ ク O  A  K
+cc de d7 af b8 4f 41 4b
+D  A  R  K  20 O  A  K
+
 ハーピー
 Harpy
 
@@ -1203,6 +1218,14 @@ Oniro
 オ ニ ロ ス
 b5 c6 db bd
 O  N  I  R
+
+ドラゴニット
+Dragonite
+Dragnite
+
+ト de ラ コ de ニ ッ ト
+c4 de d7 ba de c6 af c4
+D  R  A  G  N  I  T  E
 
 アオアップラ
 Blue Appla
@@ -2321,3 +2344,22 @@ Fee's
 お と ま り は 、 ?? ?? ?? ?? ?? ?? G  て de す 。
 75 84 8f 98 8a a4 00 41 90 64 41 93 47 83 de 7d a1 02
 F  E  E  '  S  20 ?? ?? ?? ?? ?? ?? G  20 N  O  W
+
+--- berserker battle options
+
+ ふつう
+Normal
+Atk
+
+20 8c 82 73 02
+
+ バカぢから
+Brute force
+
+ とつげき
+All-out
+Assault
+Rage
+
+20 8c 82 73 02 20 ca de b6 81 de 76 97 02 20 84 82 79 de 77 02 00
+20 A  T  K  20 20 02 20 B  R  U  T  E  02 20 R  A  G  E  20 02 00
