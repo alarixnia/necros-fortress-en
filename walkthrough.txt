@@ -1,0 +1,152 @@
+Walkthrough for Fortress of Necros
+==================================
+
+Part 1 - Night Visitor
+----------------------
+
+You start in a bar in Rioau village. There's a bard who can be used
+to save the game in the bottom right corner.
+
+When you try to leave the bar, you'll trigger an event. After the
+event, go to the village chief's house in the north west of the
+village. He'll give you 50G and a task. Use the gold to purchase
+some herbs at the medicine shop to the south and head to Fipona
+Forest to the south. A cutscene will ensue.
+
+When you arrive at Fipona, go to the east and exit south, but the
+enemies here are too strong for now. Save going south for later.
+
+Treasure chest: Sacred salt.
+
+Talk to the women in the westernmost back room of the roadside inn
+to trigger an event. After the event, go back to Rioau and fight
+a boss battle with a Sabretooth Tiger on the way back. After
+defeating it, talk to the roadside innkeeper to trigger an event
+and you'll now be able to go to Knight's Town.
+
+After triggering the event and talking to the man outside the
+roadside inn, a new overworld shortcut to Rioau without going
+through the forest will appear.
+
+Talk to the old man behind the Knight's Town inn (in the northwestern
+corner of the town square), then you'll be able to go to Mage's
+Shrine to the north when you exit the town.
+
+Talk to the Samurai in the innermost room of the Knight's Castle
+(far north of Knight's Town) to trigger a small cutscene.
+
+Once you've equipped yourself, travel to Mage's Shrine. Talk to
+the Thief inside the shrine to get a Rope.
+
+Treasure Chests
+1F: Herb, Chocolate, Mage's Letter 3F: 50G
+
+After obtaining the Mage's Letter from one of the treasure chests
+deep in the Mage's Shrine, go back to the roadside inn. Mage will
+be added to your party.
+
+After recruiting Mage, go back to Knight's Town and talk to Knight
+in the back of the castle to trigger a cutscene and a boss battle.
+After the boss battle with the Sabretooth Tiger is over, you'll
+obtain a Locket.
+
+At this point you can search the chest in the north-west part of
+the knight's castle grounds to get a new weapon for Mercenary.
+
+Head back to Rioau village.
+
+When you arrive in Rioau, go to the Chief's house, and "use" the
+locket on him. He'll let you follow him into his fireplace. Talk
+to him again and you'll recieve a Vampire Key, which you can use
+to access the Vampire base in the far south of Fipona Forest.
+
+You don't need to go into Rioau's well using the rope to clear the
+game, but it gives you a useful item. The cross can be used to heal
+Sylvia of vampirism and can deal heavy damage against Vampires.
+
+Make sure to equip yourself with healing items before proceeding.
+
+Cross the bridge to head south into deep Fipona Forest. Talk to
+the Amazon in the south-western part to add her to your party.
+
+Use the vampire key on a tree in the south east of the forest
+(there's an NPC right next to it) and the bridge to the vampire
+headquarters will open.
+
+When you enter the vampire HQ, you'll want to search chests on both
+sides to find new weapons. Another sabretooth tiger will be blocking
+a path on the first floor. After defeating it, head northwest, and
+then south once you go through the door.
+
+Treasure Chests
+1F: Steel Mace, Wiz Robe
+
+In the south-east, a boss battle against a vampire will take place.
+He will drop an ID card.
+
+With the ID card, return back to the staircase and head east this
+time. Use the ID card to proceed further into the facility.
+
+In the west part of the facility, there's a final boss battle
+against Mecharos. He can paralyze, so it's a good idea to carry
+sacred salts. Make sure to save and heal before proceeding.
+
+Part 2 - Betrayal Blues
+-----------------------
+
+Part 2 begins inside the Knight's Town castle. Near the starting
+area, you can find Dwarf. Talk to him and he'll join your party.
+After that, recieve a package from the weapons shop owner and head
+to the Demon Forest.
+
+In the south part of Knight's Town, you can find Berserker for a
+small funny cutscene, but he won't join your party.
+
+In the south part of Demon Forest, you can find the Elf and recruit
+him to your party.
+
+Head northeast through the Demon Forest to find Rio village, which
+has a weapon shop.
+
+Treasure chest: 100G
+
+Once you arrive in Rio, purchase some clothes in the weapons shop,
+and make sure you have a rope. Once you're back in the demon forest,
+head to the monster outpost in the south.
+
+There is a building to the north of the pass you can enter to obtain
+a Hero's Axe from a small boss battle, which you'll need to proceed
+further. The Hero's Axe can also be purchased in Rio, so it's not
+necessary to go here to clear the game.
+
+Before you can pass the guards to the south, you'll need to use
+the clothes to disguise yourself as a merchant. A NPC in the
+north-east part of the pass will tell you to kill Knight in Rio
+village to join the Shogun's forces.
+
+Travel south-east to Cid, deliver the parcel to the refuge and
+optionally sleep there (for free!) to heal. In the south of Cid is
+a well, the old man says it goes to the monsters' HQ but it really
+takes you back to Rio. Use it as a shortcut, using the Hero's Axe
+is necessary to clear the rocks.
+
+When you enter Rio's bar, there will now be a fake knight inside
+there. Talk to him and scare him away. After that, a shifty man
+will give you a badge identifying yourself as a member of Shogun's
+army. Go back through the well to Cid.
+
+Optionally, at this point you can travel back to the pass and enter
+the restricted area. There you'll be offered a boss battle against
+a Dragon in exchange for a powerful weapon for Knight.
+
+Since you have the badge, you can now pass east of Cid to the
+monsters' headquarters. Make sure to heal up and obtain supplies
+before entering the tower. Boss battles against Samurai, Shogun,
+and Oniros will ensue.
+
+Treasure Chests
+B1: Herb, 150G
+1F: Silver Armor
+
+Part 3: Missing Berserker
+-------------------------
