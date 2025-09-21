@@ -13,14 +13,15 @@ village. He'll give you 50G and a task. Use the gold to purchase
 some herbs at the medicine shop to the south and head to Fipona
 Forest to the south. A cutscene will ensue.
 
-When you arrive at Fipona, go to the east and exit south, but the
-enemies here are too strong for now. Save going south for later.
+When you arrive at Fipona, go to the east and exit. There's a
+bridge to the south, but the enemies here are too strong for now.
+Save going south for later.
 
 Treasure chest: Sacred salt.
 
 Talk to the women in the westernmost back room of the roadside inn
 to trigger an event. After the event, go back to Rioau and fight
-a boss battle with a Sabretooth Tiger on the way back. After
+a boss battle with a Sabretooth Tiger on the way. After
 defeating it, talk to the roadside innkeeper to trigger an event
 and you'll now be able to go to Knight's Town.
 
@@ -39,7 +40,8 @@ Once you've equipped yourself, travel to Mage's Shrine. Talk to
 the Thief inside the shrine to get a Rope.
 
 Treasure Chests
-1F: Herb, Chocolate, Mage's Letter 3F: 50G
+1F: Herb, Chocolate, Mage's Letter
+3F: 50G
 
 After obtaining the Mage's Letter from one of the treasure chests
 deep in the Mage's Shrine, go back to the roadside inn. Mage will
