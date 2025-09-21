@@ -655,6 +655,13 @@ Foe approaching! (Coming!)
 8a a4 91 76 6f 83 77 80 21 02
 20 C  O  M  I  N  G  !
 
+*「フガフガフガフガーッ!
+Grr grr grr grr!
+
+*  「 フ カ de フ カ de フ カ de フ カ de ー ッ !
+2a a2 cc b6 de cc b6 de cc b6 de cc b6 de b0 af 21
+G  R  R  20 G  R  R  20 G  R  R  20 G  R  R  !  20
+
 *「いくぞ!
 Let's go!
 Come on!
@@ -688,6 +695,20 @@ Foe is dancing! (Dancing!)
 た ち は 、 タ
 80 81 8a a4 c0
 
+でたーっ! 
+Here it comes!
+There!
+
+て de た ー っ ! 
+83 de 80 b0 6f 21 20 2a
+T  H  E  R  E  !
+
+ジェットストリームアタック!
+Jet stream attack!
+Used jet atk!
+
+bc de aa af c4 bd c4 d8 b0 d1 b1 c0 af b8 21 02 04
+20 U  S  E  D  20 J  E  T  20 A  T  K  !  20 02 04
 
 *は、しゅりけんをなげた!
 Threw shuriken!
@@ -744,6 +765,12 @@ Ouch ouch!
 
 *  「 あ た た た た た た っ !
 2a a2 71 80 80 80 80 80 80 6f 21
+
+*の、きゅうこうかこうげき!
+Used dive attack!
+
+2a 89 a4 77 6d 73 7a 73 76 7a 73 79 de 77 21 02 04
+2a 20 U  S  E  D  20 D  I  V  E  20 A  T  K
 
 *の、かえんのじん!
 used fire spirit!
@@ -859,6 +886,21 @@ Slashes!
 *  は 、 け ん を ぬ い た !
 2a 8a a4 79 9d 66 87 72 80 21 02
 2a 20 S  L  A  S  H  E  S  !
+
+*「フガッ!
+Says "fugah"!
+Ah feck
+
+2a a2 cc b6 de af 21 02
+A  H  20 F  E  C  K  02
+
+*は、ぶんしんしてよけた!
+Evaded it by duplicating!
+Evaded it!
+
+*  は 、 ふ de ん し ん し て よ け た !
+2a 8a a4 8c de 9d 7c 9d 7c 83 96 79 80 21 02 04
+2a 20 E  V  A  D  E  D  20 I  T  !
 
 *の、じょうくうからのこうげき!
 Used air attack!
@@ -1104,6 +1146,14 @@ Foot
 フ ッ ト ラ
 cc af c4 d7
 F  O  O  T
+
+シャドウ
+Shadow
+Shade
+
+シ ャ ト dw ウ
+bc ac c4 de b3
+S  H  A  D  E
 
 マジョロス
 Majoros
@@ -1421,6 +1471,21 @@ F  S  W  O  R  D
 ナ イ ト の け ん
 c5 b2 c4 89 79 9d
 K  S  W  O  R  D
+
+おの
+Axe
+
+お の
+75 89
+A  X
+
+りょうておの
+2-handed Axe
+2h Axe
+
+り ょ う て お の
+98 6e 73 83 75 89
+2  H  20 A  X  E
 
 ナイトのよろい
 Knight's Armour
