@@ -1734,3 +1734,87 @@ E  .  02 I  F  20 I  T  '  S  20 R  E  A  L  ,  20 I  T  '  S  20 I  N  20 T
 
 76 86 7c 6d 82 79 de 9d 7d 99 8a 7d de 83 de 7d a1 0f 
 H  E  20 L  A  K  E  '  S  20 C  E  N  R  E  .
+
+--- meeting berserker in the pyramid
+
+あっ! BERSERKER!
+Ah ! Berserker!
+
+71 6f 21 20 15 21 0f
+A  H  !  20 15 !  0f
+
+--- berserker cutscene
+
+「ずいぶんさがしたよ!
+なぜこんなところに?
+
+Blimey! Why are you here?
+
+a2 7d de 72 8c de 9d 7b 76 de 7c 80 96 21 02
+B  L  I  M  E  Y  !  02 W  H  Y  20 A  R  E
+
+85 7e de 7a 9d 85 84 7a 9b 86 3f 04
+20 Y  O  U  20 H  E  R  E  ?
+
+「フンガー! フガフガ!
+
+Fiddlesticks!
+
+a2 cc dd b6 de b0 21 20 cc b6 de cc b6 de 21 04
+F  I  D  D  L  E  S  T  I  C  K  S  !
+
+「しろにこいというからきた?
+タンキリエのしろじゃないの?
+ここは、みずうみのしろだよ。
+
+Still going to the castle?
+Isn't this Tankirie Castle?
+No, it's the Lake Castle.
+
+"The castle"?
+This isn't tankirie
+castle, man!
+
+a2 7c 9b 86 7a 72 84 72 73 76 97 77 80 3f 02
+"  T  H  E  20 C  A  S  T  L  E  "  ?  20 02
+
+c0 dd b7 d8 b4 89 7c 9b 7c de 6c 85 72 89 3f 02
+T  H  I  S  20 I  S  N  '  T  20 T  A  N  K  I
+
+7a 7a 8a a4 90 7d de 73 90 89 7c 9b 80 de 96 a1 02
+R  I  E 02 C  A  S  T  L  E  ,  20 M  A  N  !
+
+「まったく、BERSERKERどのは
+のんきでござるなあ。
+
+My god, you Berserkers
+are a load of drunks.
+
+You're quite the drunk.
+
+a2 8f 6f 80 78 a4 15 84 de 89 8a 02
+Y  O  U  '  R  E  20 Q  U  I  T  E
+
+89 9d 77 83 de 7a de 7b de 99 85 71 a1 04
+20 T  H  E  20 D  R  U  N  K  .
+
+まあ、なにはともあれ
+Well, anyway
+Anyway...
+
+ま あ 、 な に は と も あ れ
+8f 71 a4 85 86 8a 84 93 71 9a
+A  N  Y  W  A  Y  .  .  .  20
+
+--- looking at pyramid
+
+みずがひいて、ピラミッドがすがたをあらわしている!
+The water recedes,
+revealing a pyramid!
+
+It's an underwater
+pyramid!
+
+み す de か de ひ い て 、 ヒ df ラ ミ ッ ト de か de す か de た を あ ら わ し て い る !
+90 7d de 76 de 8b 72 83 a4 cb df d7 d0 af c4 de 76 de 7d 76 de 80 66 71 97 9c 7c 83 72 99 21 0f
+I  T  '  S  20 A  N  20 U  N  D  E  R  W  A  T  E  R  20 P  Y  R  A  M  I  D  !
