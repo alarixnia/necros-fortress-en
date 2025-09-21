@@ -112,7 +112,7 @@ has a weapon shop.
 
 Treasure chest: 100G
 
-Once you arrive in Rio, purchase some clothes in the weapons shop,
+Once you arrive in Rio, purchase the Clothes in the weapons shop,
 and make sure you have a rope. Once you're back in the demon forest,
 head to the monster outpost in the south.
 
@@ -122,18 +122,18 @@ further. The Hero's Axe can also be purchased in Rio, so it's not
 necessary to go here to clear the game.
 
 Before you can pass the guards to the south, you'll need to use
-the clothes to disguise yourself as a merchant. A NPC in the
+the Clothes to disguise yourself as a merchant. A NPC in the
 north-east part of the pass will tell you to kill Knight in Rio
 village to join the Shogun's forces.
 
 Travel south-east to Cid, deliver the parcel to the refuge and
 optionally sleep there (for free!) to heal. In the south of Cid is
 a well, the old man says it goes to the monsters' HQ but it really
-takes you back to Rio. Use it as a shortcut, using the Hero's Axe
+takes you back to Rio. Use it as a shortcut - using the Hero's Axe
 is necessary to clear the rocks.
 
-When you enter Rio's bar, there will now be a fake knight inside
-there. Talk to him and scare him away. After that, a shifty man
+When you enter the Rio bar, there will now be a fake Knight inside.
+Talk to him and scare him away. After that, a shifty man
 will give you a badge identifying yourself as a member of Shogun's
 army. Go back through the well to Cid.
 
