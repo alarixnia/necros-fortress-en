@@ -2159,3 +2159,44 @@ G  D  O  M  ,  20 W  H  I  C  H  20 G  O  V  E  R  N  S  20 T  H  E  20
 
 7c 97 8d de 86 72 6f 83 8e 7c 72 a1 02 05
 W  E  A  T  H  E  R  .
+
+--- Heroes commenting on king's quest
+
+KNIGHT「そのやくめ、わたくしめに!
+That duty falls to me!
+
+14 a2 7f 89 94 78 92 a4 9c 80 78 7c 92 86 21 02 05
+A  20 T  A  S  K  20 F  O  R  20 14 .  !
+
+AMAZON「たいへんなやくめね。
+あたしがいなくちゃムリよ!
+How terrible.
+It's hopeless without
+me!
+
+10 a2 80 72 8d 9d 85 94 78 92 88 a1 02 71 80 7c 76 de 72 85 78 81 6c d1 d8 96 21 02 05
+I  T  '  S  20 H  O  P  E  L  E  S  S  20 W  I  T  H  O  U  T  20 10 !
+
+MAGE「まほうつかいもいるじゃろう?
+フォッフォッフォ!
+There'll be a wizard too, right?
+Ho ho ho!
+
+17 a2 8f 8e 73 82 76 72 93 72 99 7c de 6c 9b 73 3f 02 cc ab af cc ab af cc ab 21 02 05
+Y  O  U  '  L  L  20 N  E  E  D  20 A  20 17 20 T  O  O  !  20 H  O  20 H  O  !
+
+タンキリエおう「おお、たのもしいぞ!
+では、KNIGHT、AMAZON、そしてMAGEどのに
+おねがいしよう!
+Oh, how reassuring!
+Let us call upon Knight, Amazon, and Mage!
+
+Oh, how reassuring!
+Great, we have our heroes!
+
+タ ン キ リ エ お う 「 お お 、 た の も し い そ de !
+c0 dd b7 d8 b4 75 73 a2 75 75 a4 80 89 93 7c 72 7f de 21 02
+O  H  ,  20 H  O  W  20 R  E  A  S  S  U  R  I  N  G  !  02
+
+83 de 8a a4 14 a4 10 a4 7f 7c 83 17 84 de 89 86 02 75 88 76 de 72 7c 96 73 21 0f
+G  R  E  A  T  ,  20 W  E  20 H  A  V  E  20 O  U  R  20 H  E  R  O  E  S  !
