@@ -1866,3 +1866,72 @@ B  U  T  20 N  O  W  20 Y  O  U  R  20 L  I  V  E  S
 
 75 8f 74 97 89 72 89 81 8a 85 72 21 02 7c 6d 7c 6d b0 21 04
 20 W  I  L  L  02 B  E  20 F  O  R  F  E  I  T  !
+
+--- creepy baddies intro
+
+*「ぐっふっふ。
+よくここまできた、ゆうしゃよ。
+
+Heh heh heh.
+(Well done for making it this far, hero.)
+You've come far(, heroes).
+
+2a a2 78 de 6f 8c 6f 8c a1 02 96 78 7a 7a 8f 83 de 77 80 a4 95 73 7c 6c 96 a1 0f
+H  E  H  20 H  E  H  .  20 Y  O  U  '  V  E  20 C  O  M  E  20 F  A  R  .
+
+--- baddies cutscene
+
+「ふふふ。わたしは、
+ネクロス7にんしゅうのかしら、ドクロス。
+
+(Muahaha.) I am Drocros,
+head of the (Necros) 7.
+
+a2 8c 8c 8c a1 9c 80 7c 8a a4 02
+I  20 A  M  20 D  R  O  C  R  O
+
+c8 b8 db bd 37 86 9d 7c 6d 73 89 76 7c 97 a4 c4 de b8 db bd a1 04
+S  ,  20 H  E  A  D  20 O  F  20 T  H  E  20 S  E  V  E  N  .
+
+いままでおまえらのたおしたのは、われわれのうちでも
+とくにちからのないれんちゅうよ。
+
+You have only defeated
+our weaker allies.
+
+72 8f 8f 83 de 75 8f 74 97 89 80 75 7c 80 89 8a a4 9c 9a 9c 9a 89 73 81 83 de 93 02
+Y  O  U  20 H  A  V  E  20 O  N  L  Y  20 D  E  F  E  A  T  E  D  02 O  U  R  20 W
+
+84 78 86 81 76 97 89 85 72 9a 9d 81 6d 73 96 a1 04
+E  A  K  E  R  20 A  L  L  I  E  S  .
+
+このさくせんも、ほんのこてしらべ。
+
+This was a trial run.
+This was a test.
+
+7a 89 7b 78 7e 9d 93 a4 8e 9d 89 7a 83 7c 97 8d de a1 04
+T  H  I  S  20 W  A  S  20 A  20 T  E  S  T  .
+
+ネクロスさまのふっかつは、ここでなくてもできる...
+フハハハハ!
+
+Necros' revival will
+happen (elsewhere)...
+Muahaha!
+
+c8 b8 db bd 7b 8f 89 8c 6f 76 82 8a a4 7a 7a 83 de 85 78 83 93 83 de 77 99 eb 02
+N  E  C  R  O  S  '  20 R  E  V  I  V  A  L  20 W  I  L  L  20 H  A  P  P  E  N
+
+cc ca ca ca ca 21 02 02
+.  .  .  !
+
+4にんのでしは、さっていった...
+The 4 disciples have departed...
+The foes left...
+They departed...
+
+4  に ん の て de し は 、 さ っ て い った...
+34 86 9d 89 83 de 7c 8a a4 7b 6f 83 72 6f 80 eb
+T  H  E  20 F  O  E  S  20 L  E  F  T  .  .  .
+T  H  E  Y  20 D  E  P  A  R  T  E  D  .  .  .
