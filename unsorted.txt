@@ -676,6 +676,12 @@ Come on!
 2a 89 76 80 85 86 72 85 7d de 8f 76 de 75 81 99 21 02 04
 2a 20 W  A  S  20 S  T  R  U  C  K  !
 
+*は、?をかなでた!
+X played Y!
+
+2a 8a a4 23 66 76 85 83 de 80 21 02 04
+2a 20 P  L  A  Y  E  D  20 23 !
+
 *の、こうけdeき!
 Attacks!
 
@@ -771,6 +777,19 @@ Used dive attack!
 
 2a 89 a4 77 6d 73 7a 73 76 7a 73 79 de 77 21 02 04
 2a 20 U  S  E  D  20 D  I  V  E  20 A  T  K
+
+*は、こおりのいきをはいた!
+Breathed ice!
+
+2a 8a a4 7a 75 98 89 72 77 66 8a 72 80 21 02 04
+2a 20 B  R  E  A  T  H  E  D  20 I  C  E
+
+*は、さんをはいた!
+Vomited!
+
+*  は 、 さ ん を は い た !
+2a 8a a4 7b 9d 66 8a 72 80 21 02 04
+2a 20 V  O  M  I  T  E  D  !
 
 *の、かえんのじん!
 used fire spirit!
@@ -1065,6 +1084,47 @@ X is immune
 2a 86 8a a4 77 76 85 76 6f 80 21 02
 2a 20 I  S  20 I  M  M  U  N  E 
 
+*は、ひかりのかべではねかえした!
+ひかりのかべが、こわれた!
+was protected by light!
+The barrier shattered!
+
+2a 8a a4 8b 76 98 89 76 8d de 83 de 8a 88 76 74 7c 80 21 02
+2a 20 W  A  S  20 P  R  O  T  E  C  T  E  D  !  20 20 20 02
+2a 20 W  A  S  20 S  A  V  E  D  20 B  Y  20 L  I  .  !  02
+
+8b 76 98 89 76 8d de 76 de a4 7a 9c 9a 80 21 02
+S  H  I  E  L  D  20 B  R  O  K  E  N  !  20
+
+*は、ねつのかべではねかえした!
+ねつのかべが、こわれた!
+was protected by heat!
+The barrier shattered!
+
+2a 8a a4 88 82 89 76 8d de 83 de 8a 88 76 74 7c 80 21 02
+2a 20 W  A  S  20 P  R  O  T  E  C  T  E  D  !  20 20 02
+
+88 82 89 76 8d de 76 de a4 7a 9c 9a 80 21 02
+S  H  I  E  L  D  20 B  R  O  K  E  N  !
+
+*は、こおりのかべではねかえした!
+こおりのかべが、こわれた!
+was protected by ice!
+The barrier shattered!
+
+2a 8a a4 7a 75 98 89 76 8d de 83 de 8a 88 76 74 7c 80 21 02
+2a 20 W  A  S  20 P  R  O  T  E  C  T  E  D  !  20 20 20 02
+
+7a 75 98 89 76 8d de 76 de a4 7a 9c 9a 80 21 02
+S  H  I  E  L  D  20 B  R  O  K  E  N  !  20 02
+
+*のMPが?ポイントかいふくした。
+'s MP restored by X.
+ GOT X MP RESTORED.
+
+2a 89 4d 50 76 de 25 ce df b2 dd c4 76 72 8c 78 7c 80 a1 02 04
+2a 20 G  O  T  20 25 M  P  20 R  E  S  T  O  R  E  D  .
+
 *は、どくがぬけた。
 's poison worn off.
 Not poisoned
@@ -1072,6 +1132,30 @@ Not poisoned
 *  は 、 と de く か de ぬ け た 。
 2a 8a a4 84 de 78 76 de 87 79 80 a1 02 04
 N  O  T  20 P  O  I  S  O  N  E  D
+
+*のまえに、バリアがはられた!
+
+'s shield erected!
+'s barrier up!
+
+*  の ま え に 、 ハ de リ ア か de は ら れ た !
+2a 89 8f 74 86 a4 ca de d8 b1 76 de 8a 97 9a 80 21 02
+2a '  s  20 B  A  R  R  I  E  R  20 U  P  !
+
+*のパワーが、アップした!
+バリアがはられた!
+
+'s power increased!
+Shield erected!
+
+'s power up!
+Barrier up!
+
+2a 89 ca df dc b0 76 de a4 b1 af cc df 7c 80 21 02
+'  s  20 P  O  W  E  R  20 U  P  !  02 B  A  R  R
+
+ca de d8 b1 76 de 8a 97 9a 80 21 02 04
+I  E  R  20 U  P  !
 
 --- Monster names
 
@@ -1164,11 +1248,11 @@ M  A  J  O  R  O
 
 ヘビロス
 Hebiros
-Hebro
+Hebi.
 
 ヘ ヒ de ロ ス
 cd cb de db bd
-H  E  B  R  O
+H  E  B  I  .
 
 ハンドラ
 Handler
@@ -1798,6 +1882,14 @@ Cold 2
 ハ イ ク ー ル
 ca b2 b8 b0 d9
 C  O  L  D  2
+
+アイスミサイル
+Ice Missile
+IceShot
+
+ア イ ス ミ サ イ ル
+b1 b2 bd d0 bb b2 d9
+I  C  E  S  H  O  T
 
 --- Amazon's spells
 
