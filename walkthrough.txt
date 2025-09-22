@@ -152,3 +152,81 @@ B1: Herb, 150G
 
 Part 3: Missing Berserker
 -------------------------
+
+Chapter 3 begins inside Elf's treehouse in the fairy village. Leave the
+house, and go to the northern tree to talk with the tree spirit. After
+receiving the task to redeem Samurai from the spirit, get some supplies from
+the cat merchants in their tree houses. Leave the village to the west.
+
+You can speak to the cats next to the trees in the forest to get some
+background information. Make sure you don't choose "no" to all the options,
+otherwise Samurai will die. Travel south to enter a more dangerous area of
+the forest.
+
+The exit from the dangerous area is in the south-east. There is various
+valuable loot here, including a golden apple for reviving your comrades.
+However, the primary purpose here is to gain experience points.
+
+Treasure Chests:
+Golden Apple, 150G
+
+When you exit the forest, your map will reveal two villages, a temple, and
+a tower surrounding a lake. Talking to the priest in the temple and the
+villagers will reveal that they're currently feuding, and a mysterious figure
+known as the seer is behind it.
+
+Most of the NPCs will refuse to give you any services, but there is a
+travelling merchant in the north-west of the western village, and a NPC
+called Dan will let you rest at his house. In the eastern village, a cat
+acts as a stand-in for the medicine shop's owner.
+
+Go to the tower, and you'll discover you can't go far inside, but the person
+outside will provide a hint that the east village merchant has a key to the
+back door.
+
+Go to the east village, and learn from the merchant's cat that he hides the
+key under his chair.
+
+Search the chair, and use the key to enter the seer's tower from the east.
+
+Inside the tower, talk to Majoros in the ground floor bedroom to begin a
+boss battle.
+
+After defeating Majoros, collect the key from the treasure chest next to
+her.
+
+A suspicious blue cat upstairs will provide a hint that Majoros hides things
+under her bed. Search the bed to find a suspicious note.
+
+Talk to Majoros at the top of the tower to begin battle again.
+
+Treasure Chests
+1F: Locked treasure chest (2 keys)
+2F: Magic Cloth, 150G
+3F: Demon Blade
+
+Exit the tower. The feud between the two villages is now over, and they've
+gathered at the temple to celebrate. Talk to the priest and you'll learn
+two artefacts are missing.
+
+The note from Majoros' bed contains clues about where they are. Read it and
+find the two trees on the edges of the two villages, search their roots.
+
+Talking to the priest again, he'll mention that uniting the two treasures
+reveals a hidden castle. This is the pyramid in Majoros' tower's basement
+(if you found it before).
+
+Get some supplies and go back to the tower, go through the northwest door
+from the main entrance and into the pool to reach the hidden castle.
+
+Berserker is standing outside the hidden castle, talk to him for a humourous
+cutscene and he'll join your party. At this point, you can optionally go
+back to the west village to get some better armour for him.
+
+Talk to Hebiros, who's blocking a path in the hidden castle, and a boss
+battle will start. He uses ice element attacks, so it's a good idea to use
+Elf's Hot spell. After the boss battle, go further and Chapter 3 will come
+to an end.
+
+Part 4: A Closed Way
+--------------------
