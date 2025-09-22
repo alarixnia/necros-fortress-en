@@ -1935,3 +1935,227 @@ They departed...
 34 86 9d 89 83 de 7c 8a a4 7b 6f 83 72 6f 80 eb
 T  H  E  20 F  O  E  S  20 L  E  F  T  .  .  .
 T  H  E  Y  20 D  E  P  A  R  T  E  D  .  .  .
+
+--- back to castle
+
+BERSERKERのおかげで、たまたまヘビロスのやぼうを
+ふせいでしまったELFとSAMURAIは、
+ドクロスのことばがきになりつつも、みんなのまつ
+タンキリエじょうへといそいだ。
+
+With the help of Berserker, Elf and Samurai
+had accidentally thwarted Hebiros' ambitions.
+Though concerned by Drocros' words, they
+hurried towards Tankirie Castle where
+everyone awaited them.
+
+Though the heroes had thwarted Hebiros,
+they were concerned by Drocros' words.
+They all hurried to Tankirie Castle.
+
+Though they'd thwarted Hebiros,
+the heroes were still concerned.
+They rushed to Tankirie Castle.
+
+Though Hebiros was gone,
+the heroes were worried.
+They rushed to Tankirie
+Castle.
+
+15 89 75 76 79 de 83 de a4 80 8f 80 8f cd cb de db bd 89 94 8e de 73 66 02
+T  H  O  U  G  H  20 H  E  B  I  R  O  S  20 W  A  S  20 G  O  N  E  ,  02
+
+8c 7e 72 83 de 7c 8f 6f 80 11 84 12 8a a4 02
+T  H  E  20 H  E  R  O  E  S  20 W  E  R  E
+
+c4 de b8 db bd 89 7a 84 8a de 76 de 77 86 85 98 82 82 93 a4 90 9d 85 89 8f 82 02
+20 W  O  R  R  I  E  D  .  02 T  H  E  Y  20 R  U  S  H  E  D  20 T  O  20 T  A
+
+c0 dd b7 d8 b4 7c de 6e 73 8d 84 72 7f 72 80 de a1 02
+N  K  I  R  I  E  02 C  A  S  T  L  E  .
+
+--- dialogue with king
+
+タンキリエおう「おお、ELFにBERSERKER、それに
+SAMURAI! よくぞきた!
+[...]
+とくに、SAMURAIとBERSERKER。
+ネクロスのでしたちのけいかくをうちくだいてくれた
+そうな!
+[...]
+SAMURAI「はあ、その...きょうしゅくでござる。
+BERSERKER「フンガー!
+[...]
+タンキリエおう「とにかく、これで8ゆうしゃが
+そろった。ふたたび、おうこくをすくうため
+ちからをかしてくれ!
+
+At last, the 8 heroes are fully assembled!
+
+I've heard you shattered
+Necros' plans!
+
+Once again, it's time to lend your strength to
+save the kingdom.
+
+c0 dd b7 d8 b4 75 73 a2 75 75 a4 11 86 15 a4 7f 9a 86 02
+A  T  20 L  A  S  T  ,  20 T  H  E  20 8  20 H  E  R  O
+
+12 21 20 96 78 7f de 77 80 21 02 05
+E  S  20 A  R  E  20 F  U  L  L  Y
+
+84 78 86 a4 12 84 15 a1 02
+A  S  S  E  M  B  L  E  D
+
+c8 b8 db bd 89 83 de 7c 80 81 89 79 72 76 78 66 73 81 78 80 de 72 83 78 9a 80 02
+!  02 05 I  '  V  E  20 H  E  A  R  D  20 Y  O  U  20 S  H  A  T  T  E  R  E  D
+
+7f 73 85 21 02 05
+02 N  E  C  R  O
+
+12 a2 8a 71 a4 7f 89 eb 77 6e 73 7c 6d 78 83 de 7a de 7b de 99 a1 02
+S  '  20 P  L  A  N  S  !  02 [  H  M  P   H .  ]  02 05 O  N  C  E
+
+15 a2 cc dd b6 de b0 21 02 05
+20 A  G  A  I  N  ,  20 Y  O
+
+c0 dd b7 d8 b4 75 73 a2 84 86 76 78 a4 7a 9a 83 de 38 95 73 7c 6c 76 de 02
+U  R  20 C  O  M  B  I  N  E  D  20 P  O  W  E  R  S  20 A  R  E  20 N  E
+
+7f 9b 6f 80 a1 8c 80 80 8b de a4 75 73 7a 78 66 7d 78 73 80 92 02
+E  D  E  D  20 T  O  20 S  A  V  E  20 T  H  E  20 K  I  N  G  D
+
+81 76 97 66 76 7c 83 78 9a 21 0f
+O  M  .  .  .
+
+MAGE「こんかいのおぬしは、えんのしたの
+ちからもちじゃったのう。
+[...]
+ELF「きにしてませんよ、MAGE。
+[...]
+MAGE「それから、ジョロスを
+すくってくれたことに、れいをいうぞ。
+...さて、ほんとうのたたかいは、これからじゃな...
+
+Thank you for saving
+Joros, Elf.
+This time you were the
+power behind the scenes.
+Now, the real fight is yet to come...
+
+17 a2 7a 9d 76 72 89 75 87 7c 8a a4 74 9d 89 7c 80 89 02
+T  H  A  N  K  20 Y  O  U  20 F  O  R  20 S  A  V  I  N
+
+81 76 97 93 81 7c de 6c 6f 80 89 73 a1 02 05
+G  20 J  O  R  O  S  ,  20 11 .  02 T  H  I
+
+11 a2 77 86 7c 83 8f 7e 9d 96 a4 17 a1 02 05
+S  20 T  I  M  E  20 Y  O  U  20 W  E  R  E
+
+17 a2 7f 9a 76 97 a4 bc de ae db bd 66 02
+20 T  H  E  02 P  O  W  E  R  20 B  E  H
+
+7d 78 6f 83 78 9a 80 7a 84 86 a4 9a 72 66 72 73 7f de a1 02
+I  N  D  20 T  H  E  20 S  C  E  N  E  S  .  02 N  O  W  20
+
+eb 7b 83 a4 8e 9d 84 73 89 80 80 76 72 8a a4 7a 9a 76 97 7c de 6c 85 eb 0f
+T  H  E  20 R  E   A  L  20 F  I  G  H  T  20 B  E  G  I  N  S  .  .  .
+
+--- knight's town trouble
+
+*「さいきん、なつだというのに、さむいなあ...
+[...]
+*「おい! ゆきだ!
+
+It's summer, but suddenly so cold...
+
+Hey! Snow!
+
+2a a2 7b 72 77 9d a4 85 82 80 de 84 72 73 89 86 a4 7b 91 72 85 71 eb 02 05
+I  T  '  S  20 S  U  M  M  E  R  ,  20 B  U  T  20 S  U  D  D  E  N  L  Y
+
+2a a2 75 72 21 20 95 77 80 de 21 0f
+20 S  O  20 C  O  L  D  .  .  .
+
+*「これは、ただごとではないぞ!
+
+This is unnatural!
+
+2a a2 7a 9a 8a a4 80 80 de 7a de 84 83 de 8a 85 72 7f de 21 0f
+T  H  I  S  20 I  S  20 U  N  N  A  T  U  R  A  L  !
+
+--- more kingy
+
+タンキリエおう「8ゆうしゃのしょくん。
+ついに、ネクロスぐんがうごきはじめたらしい。
+[...]
+いま、たいりくじゅうが、いじょうなさむさに
+おそわれている。
+[...]
+このままでは、いずれはここタンキリエも、ゆきに
+おおわれてしまうだろう。
+[...]
+これは、たいりくのきしょうをつかさどっている
+ブリザラードおうこくに、なにかがおこったに
+ちがいない。
+[...]
+うみのむこうのブリザラードおうこくまで
+しらべにいってほしい。
+
+(My 8 heroes,) it seems
+Necros' allies have begun
+to act.
+
+It seems Necros' allies
+are moving.
+
+The land is struck by
+unnatural cold.
+
+We are struck by an
+unnatural cold.
+
+If it continues, we'll
+be buried under thick snow.
+
+(Something must have
+happened in the Blizzard Kingdom, which
+governs the weather.)
+
+Please journey overseas
+and investigate the
+Blizzard Kingdom, which
+governs the weather.
+
+c0 dd b7 d8 b4 75 73 a2 38 95 73 7c 6c 89 7c 6e 78 9d a1 02
+I  T  20 S  E  E  M  S  20 N  E  C  R  O  S  '  20 A  L  L
+
+82 72 86 a4 c8 b8 db bd 78 de 9d 76 de 73 7a de 77 8a 7c de 92 80 97 7c 72 a1 02 05
+I  E  S  20 A  R  E  20 M  O  V  I  N  G  .  02 05 W  E  20 A  R  E  20 S  T  R  U
+
+72 8f a4 80 72 98 78 7c de 6d 73 76 de a4 72 7c de 6e 73 85 7b 91 7b 86 02
+C  K  20 B  Y  20 A  N  20 U  N  N  A  T  U  R  A  L  20 C  O  L  D  02 05
+
+75 7f 9c 9a 83 72 99 a1 02 05
+I  F  20 I  T  20 C  O  N  T
+
+7a 89 8f 8f 83 de 8a a4 72 7d de 9a 8a 7a 7a c0 dd b7 d8 b4 93 a4 95 77 86 02
+I  N  U  E  S  ,  20 W  E  '  L  L  20 B  E  20 B  U  R  I  E  E  D  20 U  N
+
+75 75 9c 9a 83 7c 8f 73 80 de 9b 73 a1 02 05
+D  E  R  R  20 T  H  I  C  K  20 S  N  O  W
+
+7a 9a 8a a4 80 72 98 78 89 77 7c 6e 73 66 82 76 7b 84 de 6f 83 72 99 02
+.  02 05 P  L  E  A  S  E  20 J  O  U  R  N  E  Y  20 O  V  E  R  S  E
+
+cc de d8 bb de d7 b0 c4 de 75 73 7a 78 86 a4 85 86 76 76 de 75 7a 6f 80 86 02
+A  S  02 A  N  D  20 I  N  V  E  S  T  I  G  A  T  E  20 T  H  E  20 B  L  I
+
+81 76 de 72 85 72 a1 02 05
+Z  Z  A  R  D  20 K  I  N
+
+73 90 89 91 7a 73 89 cc de d8 bb de d7 b0 c4 de 75 73 7a 78 8f 83 de 02
+G  D  O  M  ,  20 W  H  I  C  H  20 G  O  V  E  R  N  S  20 T  H  E  20
+
+7c 97 8d de 86 72 6f 83 8e 7c 72 a1 02 05
+W  E  A  T  H  E  R  .
