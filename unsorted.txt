@@ -1518,6 +1518,21 @@ St.Mace
 bd c1 b0 d9 d2 b2 bd
 S  T  .  M  A  C  E
 
+ミスリルメイス
+Mithril Mace
+
+ミ ス リ ル メ イ ス
+d0 bd d8 d9 d2 b2 bd
+M  I  T  H  20 M  A
+
+スターメイス
+Star Mace
+* Mace
+
+ス タ ー メ イ ス
+bd c0 b0 d2 b2 bd
+*  20 M  A  C  E
+
 ドワーフハンマー
 Dwarf Hammer
 
