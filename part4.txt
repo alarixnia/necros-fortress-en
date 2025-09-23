@@ -195,3 +195,111 @@ It's too cold to work.
 
 2a a2 7a 73 7b 91 78 83 8a a4 7c 7a de 84 93 83 de 77 8f 7e 9d a1 0f
 I  T  '  S  20 T  O  O  20 C  O  L  D  20 T  O  20 W  O  R  K  .
+
+--- forest dryad
+
+ドライアド「...このさむさで、
+いずみもこおってしまいました。
+...どうぶつたちも、みんなくるしんでいます。
+
+(In the bitter cold,)
+the springs have frozen
+over...  The animals also
+suffer...
+
+c4 de d7 b2 b1 c4 de a2 eb 7a 89 7b 91 7b 83 de a4 02
+T  H  E  20 S  P  R  I  N  G  S  20 A  R  E  20 F  R
+
+72 7d de 90 93 7a 75 6f 83 7c 8f 72 8f 7c 80 a1 02
+O  Z  E  N  20 O  V  E  R  .  .  .  02 T  H  E  20
+
+eb 84 de 73 8c de 82 80 81 93 a4 90 9d 85 78 99 7c 9d 83 de 72 8f 7d a1 0f
+A  N  I  M  A  L  S  20 A  L  S  O  20 S  U  F  F  E  R  .  .  .
+
+--- woodcutter in forest shack
+
+きこり「ゆきのせいで、いえがミシミシいってるなあ。
+
+The house is creaking under the snow's weight.
+The snow makes my roof creak.
+Snow makes my roof creak.
+
+77 7a 98 a2 95 77 89 7e 72 83 de a4 72 74 76 de d0 bc d0 bc 72 6f 83 99 85 71 a1 0f
+S  N  O  W  20 M  A  K  E  S  20 M  Y  20 R  O  O  F  20 C  R  E  A  K  .
+
+--- hope kingdom chatter
+
+*「こんにちは。ホープおうこくへようこそ。
+Hello. Welcome to Hope (Kingdom).
+
+2a a2 7a 9d 86 81 8a a1 ce b0 cc df 75 73 7a 78 8d 96 73 7a 7f a1 0f
+H  I  .  20  W  E  L  C  O  M  E  20 T  O  20 H  O  P  E  .
+
+*「うう...あくまのかいいきで...
+なにかにおそわれたんだ...
+あれはいったい...なんだったのか...
+I was attacked... by something...
+What the hell... was that thing...?
+
+Something attacked...
+from hell...  It hurts...
+
+2a a2 73 73 eb 71 78 8f 89 76 72 72 77 83 de eb 02
+S  O  M  E  T  H  I  N  G  20 A  T  T  A  C  K  E
+
+85 86 76 86 75 7f 9c 9a 80 9d 80 de eb 02
+D  .  .  .  02 F  R  O  M  20 H  E  L  L
+
+71 9a 8a 72 6f 80 72 eb 85 9d 80 de 6f 80 89 76 eb 0f
+.  .  .  20 I  T  20 H  U  R  T  S  .  .  .
+
+*「みなとは、みなみのほうにあります。
+The port is (to the) south.
+
+2a a2 90 85 84 8a a4 90 85 90 89 8e 73 86 71 98 8f 7d a1 0f
+T  H  E  20 P  O  R  T  20 I  S  20 S  O  U  T  H  .
+
+*「なに? ふねをだしてほしい?
+じょうだんじゃねえ、おれはごめんだ。
+What? You want a boat?
+You've gotta be kidding.
+
+What? Get a boat?
+You've gotta be joking.
+
+2a a2 85 86 3f 20 8c 88 66 80 de 7c 83 8e 7c 72 3f 02
+W  H  A  T  ?  20 G  E  T  20 A  20 B  O  A  T  ?  02
+
+7c de 6e 73 80 de 9d 7c de 6c 88 74 a4 75 9a 8a 7a de 92 9d 80 de a1 0f
+Y  O  U  '  V  E  20 G  O  T  T  A  20 B  E  20 J  O  K  I  N  G  .
+
+*「ブリザラードへは、あくまのかいいきを
+とおらなくちゃいけないんだ。
+To reach Blizzard, you have to pass the
+the haunted realm.
+
+Blizzard is beyond the
+haunted realm.
+
+2a a2 cc de d8 bb de d7 b0 c4 de 8d 8a a4 71 78 8f 89 76 72 72 77 66 02
+B  L  I  Z  Z  A  R  D  20 I  S  20 B  E  Y  O  N  D  20 T  H  E  02 H
+
+84 75 97 85 78 81 6c 72 79 85 72 9d 80 de a1 0f
+A  U  N  T  E  D  20 R  E  A  L  M  .
+
+*「ブリザラードへいきたい?
+だめだめ。いまどきふねをだそうなんて
+やつはいないよ。
+
+Go to Blizzard?
+No chance.
+Nobody's sailing now.
+
+2a a2 cc de d8 bb de d7 b0 c4 de 8d 72 77 80 72 3f 02
+G  O  20 T  O  20 B  L  I  Z  Z  A  R  D  ?  02 N  O
+
+80 de 92 80 de 92 a1 72 8f 84 de 77 8c 88 66 80 de 7f 73 85 9d 83 02
+20 C  H  A  N  C  E  .  02 N  O  B  O  D  Y  '  S  20 S  A  I  L  I
+
+94 82 8a 72 85 72 96 a1 0f
+N  G  20 N  O  W  .
