@@ -1058,17 +1058,11 @@ Beaten
 93 66 94 6f 82 79 80 21 02
 93 20 B  E  A  T  E  N
 
-dead bit before xp gained:
+もパーティは、
+Party... [found GP]
 
-も は 、
-93 8a a4
-93 -  20
-
-もEXPせいちょうした。
-EXP gained.
-
-93 45 58 50 7e 72 81 6e 73 7c 80 a1 02
-も E  X  P  20 G  A  I  N  E  D  .
+0f 93 ca df b0 c3 a8 8a a4 00
+0f 93 F  O  U  N  D  :  20 00
 
 もGOLDみつけた。
 GOLD found.
@@ -1076,7 +1070,26 @@ GP found.
 
 も G  O  L  D  み つ け た 。
 93 47 4f 4c 44 90 82 79 80 a1 02
-93 G  P  20 F  O  U  N  D  .
+93 20 G  O  L  D  .  20 20 20 02
+
+dead bit before xp gained:
+
+も は 、
+93 8a a4
+93 -  20
+
+メンバーは、
+Members: (gained XP...)
+
+93 メ ン ハ de ー は 、
+93 d2 dd ca de b0 8a a4 00
+93 P  A  R  T  Y  :  20
+
+もEXPせいちょうした。
+EXP gained.
+
+93 45 58 50 7e 72 81 6e 73 7c 80 a1 02
+も E  X  P  20 G  A  I  N  E  D  .
 
 *は、にげだした。
 X ran away.
