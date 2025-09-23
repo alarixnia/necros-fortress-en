@@ -7,3 +7,101 @@ Closed Way
 と さ de さ れ た 20 し ん ろ
 84 7b de 7b 9a 80 20 7c 9d 9b 02 04
 C  L  O  S  E  D  20 W  A  Y
+
+--- tankirie king
+
+タンキリエおう「まずは、ホープおうこくへ
+いくがよい。ホープおうなら、そうだんにのって
+くれるじゃろう。
+
+First go to the Hope
+Kingdom.  They'll surely
+advise you.
+
+c0 dd b7 d8 b4 75 73 a2 8f 7d de 8a a4 ce b0 cc df 75 73 7a 78 8d 02 72
+F  I  R  S  T  20 G  O  20 T  O  20 T  H  E  20 H  O  P  E  02 K  I  N
+
+78 76 de 96 72 a1 ce b0 cc df 75 73 85 97 a4 7f 73 80 de 9d 86 89 6f 83 02 78 9a
+G  D  O  M  .  20 T  H  E  Y  '  L  L  20 S  U  R  E  L  Y  02 A  D  V  I  S  E
+
+99 7c de 6c 9b 73 a1 0f
+20 Y  O  U  .
+
+--- castle chatter
+
+*「ホープおうは、タンキリエおうの
+しんゆうなのです。
+
+King Hope is our king's close friend.
+
+King Hope's our king's
+ally.
+
+*  「 ホ ー フ df お う は 、 タ ン キ リ エ お う の
+2a a2 ce b0 cc df 75 73 8a a4 c0 dd b7 d8 b4 75 73 89 02
+K  I  N  G  20 H  O  P  E  '  S  20 O  U  R  20 K  I  N
+
+し ん ゆ う な の て de す 。
+7c 9d 95 73 85 89 83 de 7d a1 0f
+G  '  S  20 A  L  L  Y  .
+
+*「ブリザラードは、タンキリエのはるか
+にしのうみにある、こおりのくにです。
+
+Blizzard is an icy land (far) to the west
+(of Tankirie) across the sea.
+
+Blizzard is an icy western land
+overseas.
+
+*  「 フ de リ サ de ラ ー ト de は 、 タ ン キ リ エ の は る か
+2a a2 cc de d8 bb de d7 b0 c4 de 8a a4 c0 dd b7 d8 b4 89 8a 99 76 02
+B  L  I  Z  Z  A  R  D  20 I  S  20 A  N  20 I  C  Y  20 W  E  S  T
+
+に し の う み に あ る 、 こ お り の く に て de す 。
+86 7c 89 73 90 86 71 99 a4 7a 75 98 89 78 86 83 de 7d a1 0f
+E  R  N  20 L  A  N  D  20 O  V  E  R  S  E  A  S  .
+
+*「うう、さむいさむい...
+このさむさは、いったいどうしたことですか?
+
+Ugh... shiver shiver...
+How can it be this cold?
+
+*Shivers*...
+How is itg this cold?
+
+2a a2 73 73 a4 7b 91 72 7b 91 72 eb 02
+*  S  H  I  V  E  R  S  *  .  .  .  02
+
+7a 89 7b 91 7b 8a a4 72 6f 80 72 84 de 73 7c 80 7a 84 83 de 7d 76 3f 0f
+H  O  W  20 I  S  20 I  T  20 T  H  I  S  20 C  O  L  D  ?
+
+*「みなさま、がんばってください。
+
+Everyone, do your utmost.
+Please do your utmost.
+Please do your best.
+
+2a a2 90 85 7b 8f a4 76 de 9d 8a de 6f 83 78 80 de 7b 72 a1 0f
+P  L  E  A  S  E  20 D  O  20 Y  O  U  R  20 B  E  S  T  .
+
+*「このなかのおとこは、なつにゆきをふらせる
+けんきゅうをしている。
+このさむさは、あいつのせいかな。
+
+The man in there is researching (how
+to make it) snow (in the summer).
+I wonder if the cold is down to him.
+
+He's researching snow in
+there.  Is this his doing?
+
+2a a2 7a 89 85 76 89 75 84 7a 8a a4 85 82 86 95 77 66 8c 97 7e 99 02
+H  E  '  S  20 R  E  S  E  A  R  C  H  I  N  G  20 S  N  O  W  20 I
+
+79 9d 77 6d 73 66 7c 83 72 99 a1 02
+N  02 T  H  E  R  E  .  02 I  S  20
+
+7a 89 7b 91 7b 8a a4 71 72 82 89 7e 72 76 85 a1 0f
+T  H  I  S  20 H  I  S  20 D  O  I  N  G  ?
