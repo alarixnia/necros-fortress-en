@@ -105,3 +105,93 @@ N  02 T  H  E  R  E  .  02 I  S  20
 
 7a 89 7b 91 7b 8a a4 71 72 82 89 7e 72 76 85 a1 0f
 T  H  I  S  20 H  I  S  20 D  O  I  N  G  ?
+
+--- researcher
+
+ボムはかせ「わしのなは、ボムはかせじゃ。
+[...]
+みよ! ついに、アイスばくだんがかんせいした。
+どんなものもこおらせてしまう、
+かっきてきだいはつめいじゃ!
+
+My name is Dr. Bomb.
+Behold! My ice bomb is complete
+It will freeze anything in its path),
+truly a revolutionary invention!
+
+My name is Dr. Bomb.
+Behold! My ice bomb will
+freeze anything. Truly
+revolutionary!
+
+ce de d1 8a 76 7e a2 9c 7c 89 85 8a a4 ce de d1 8a 76 7e 7c de 6c a1 02 05
+M  Y  20 N  A  M  E  20 I  S  20 D  R  .  20 B  O  M  B  .  02 05 B  E  H
+
+90 96 21 20 82 72 86 a4 b1 b2 bd 8a de 78 80 de 9d 76 de 76 9d 7e 72 7c 80 a1 02
+O  L  D  !  20 M  Y  20 I  C  E  20 B  O  M  B  20 W  I  L  L  20 F  R  E  E  Z
+
+84 de 9d 85 93 89 93 7a 75 97 7e 83 7c 8f 73 a4 02
+E  20 A  N  Y  T  H  I  N  G  .  02 T  R  U  L  Y
+
+76 6f 77 83 77 80 de 72 8a 82 92 72 7c de 6c 21 0f
+R  E  V  O  L  U  T  I  O  N  A  R  Y  !
+
+ボムはかせ「おい、かってにさわっちゃいかん!
+
+Hey, no touching that!
+
+ce de d1 8a 76 7e a2 75 72 a4 76 6f 83 86 7b 9c 6f 81 6c 72 76 9d 21 0f
+H  E  Y  ,  20 N  O  20 T  O  U  C  H  I  N  G  20 T  H  A  T  !
+
+--- town rumours
+
+*「さむさのせいで、おきゃくがすくないなあ。
+
+It's rather quiet in here today,
+maybe because of the weather.
+
+Cold's bad for business.
+
+2a a2 7b 91 7b 89 7e 72 83 de a4 75 77 6c 78 76 de 7d 78 85 72 85 71 a1 0f
+C  O  L  D  '  S  20 B  A  D  20 F  O  R  20 B  U  S  I  N  E  S  S  .
+
+*「ホープおうこくは、
+みなとまちで、さかえています。
+
+Hope (Kingdom) is a thriving port
+city.
+
+*  「 ホ ー フ df お う こ く は 、
+2a a2 ce b0 cc df 75 73 7a 78 8a a4 02
+H  O  P  E  20 I  S  20 A  20 T  H  R
+
+90 85 84 8f 81 83 de a4 7b 76 74 83 72 8f 7d a1 0f
+I  V  I  N  G  20 P  O  R  T  02 C  I  T  Y  .
+
+*「ホープおうは、
+たいへんつよいおかたですよ。
+
+King Hope's very powerful.
+
+2a a2 ce b0 cc df 75 73 8a a4 02 80 72 8d 9d 82 96 72 75 76 80 83 de 7d 96 a1 0f
+K  I  N  G  20 H  O  P  E  '  S  20 V  E  R  Y  20 P  O  W  E  R  F  U  L  .
+
+*「さむさのせいで、
+まのもりは、ゆきがつもっていました。
+
+(Due to the cold,)
+The forest is covered is
+snow.
+
+2a a2 7b 91 7b 89 7e 72 83 de a4 02
+T  H  E  20 F  O  R  E  S  T  20 I
+
+8f 89 93 98 8a a4 95 77 76 de 82 93 6f 83 72 8f 7c 80 a1 0f
+S  20 C  O  V  E  R  E  D  20 I  N  20 S  N  O  W  .
+
+*「こうさむくては、しごともできません。
+
+It's too cold to work.
+
+2a a2 7a 73 7b 91 78 83 8a a4 7c 7a de 84 93 83 de 77 8f 7e 9d a1 0f
+I  T  '  S  20 T  O  O  20 C  O  L  D  20 T  O  20 W  O  R  K  .
