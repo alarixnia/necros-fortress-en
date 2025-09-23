@@ -276,6 +276,22 @@ Choose an item.
 84 de 9a 66 75 93 84 92 86 85 98 8f 7d 76 3f 02
 C  H  O  O  S  E  20 A  N  20 I  T  E  M  .
 
+multiple times again:
+
+ですね。それは
+Costs
+
+て de す ね 。 そ れ は
+83 de 7d 88 a1 7f 9a 8a
+20 20 C  O  S  T  S  20
+
+Gになります。
+GOLD.
+
+G  に な り ま す 。
+47 86 85 98 8f 7d a1 02
+20 G  O  L  D  .
+
 -- Medicine Shop
 
 やくそう
@@ -2481,6 +2497,14 @@ Thank you.
 あ り か de と う こ de さ de い ま し た 。
 71 98 76 de 84 73 7a de 7b de 72 8f 7c 80 a1
 T  H  A  N  K  20 Y  O  U  .  20 20 20 20 20
+
+おきゃくさまには、そうびできません。
+We can't accomodate you.
+Sorry. It won't fit.
+
+お き ゃ く さ ま に は 、 そ う ひ de て de き ま せ ん 。
+75 77 6c 78 7b 8f 86 8a a4 7f 73 8b de 83 de 77 8f 7e 9d a1 02 05
+S  O  R  R  Y  .  20 I  T  20 W  O  N  '  T  20 F  I  T  .
 
 すでにおもちです。
 You have it already.
