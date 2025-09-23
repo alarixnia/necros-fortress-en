@@ -2506,6 +2506,13 @@ Sorry. It won't fit.
 75 77 6c 78 7b 8f 86 8a a4 7f 73 8b de 83 de 77 8f 7e 9d a1 02 05
 S  O  R  R  Y  .  20 I  T  20 W  O  N  '  T  20 F  I  T  .
 
+いまおもちのほうがよいものです。
+You've got a better one.
+
+い ま お も ち の ほ う か de よ い も の て de す 。
+72 8f 75 93 81 89 8e 73 76 de 96 72 93 89 83 de 7d a1 02 05
+Y  O  U  '  V  E  20 G  O  T  20 B  E  T  T  E  R  .
+
 すでにおもちです。
 You have it already.
 Already bought.
