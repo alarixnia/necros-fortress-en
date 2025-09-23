@@ -224,6 +224,40 @@ Follow me.
 のとかいたい。
 Ugh. My throat hurts.
 
+--- shrine
+
+ヘブライルしんでんへ、ようこそ。
+えらばれしものなら、ここでふっかつできる。
+
+ヘフdeライルしんてdeんへ、ようこそ。
+えらはdeれしものなら、ここてdeふっかつてdeきる。
+
+Welcome (to the shrine).
+If you're the chosen one, you can be
+revived here.
+
+The chosen one
+will revive here.
+
+ヘ ブ de ラ イ ル し ん で de ん へ 、 よ う こ そ 。
+cd cc de d7 b2 d9 7c 9d 83 de 9d 8d a4 96 73 7a 7f a1 02 05
+W  E  L  C  O  M  E  .  20 T  H  E  20 C  H  O  S  E  N  20
+
+え ら は de れ し も の な ら 、 こ こ て de ふ っ か つ て de き る 。
+74 97 8a de 9a 7c 93 89 85 97 a4 7a 7a 83 de 8c 6f 76 82 83 de 77 99 a1 02 05
+O  N  E  02 W  I  L  L  20 R  E  V  I  V  E  20 H  E  R  E  .
+
+そなたに、ヘブライルのごかごがあらんことを。
+?に、ヘフdeライルのこdeかこdeかde、あらんことを。
+
+Blessings upon thee.
+
+に 、 ヘ フ de ラ イ ル の こ de か こ de か de 、 あ ら ん こ と を 。
+86 a4 cd cc de d7 b2 d9 89 7a de 76 7a de 76 de a4 71 97 9d 7a 84 66 a1 0f
+B  L  E  S  S  I  N  G  S  20 U  P  O  N  20 T  H  E  E  .
+
+i'm not sure how the "you" (そなた) is encoded lol
+
 -- This sentence appears 3 times:
 
 おきゃくさま、おかねか de たりないようて de すか de 。
