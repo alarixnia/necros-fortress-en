@@ -392,3 +392,97 @@ H  E  20 R  E  A  L  20 O  N  E
 
 8b 74 74 ec a4 75 95 99 7c 78 80 de 7b ec 72 a1 0f
 !  20 H  A  V  E  20 M  E  R  C  Y  !
+
+--- outside bar
+
+*「まったく、あのバカむすこのマークときたら。
+みせのてつだいもしないで、さかばにいりびたり
+なのよ。
+
+My useless son Mark just
+hangs around the bar all
+day.
+
+2a a2 8f 6f 80 78 a4 71 89 ca de b6 91 7d 7a 89 cf b0 b8 84 77 80 97 a1 02
+M  Y  20 U  S  E  L  E  S  S  20 S  O  N  20 M  A  R  K  20 J  U  S  T  02
+
+90 7e 89 83 82 80 de 72 93 7c 85 72 83 de a4 7b 76 8a de 86 72 98 8b de 80 98 02
+H  A  N  G  S  20 A  R  O  U  N  D  20 T  H  E  20 B  A  R  20 A  L  L  02 D  A
+
+85 89 96 a1 0f
+Y  .
+
+--- old man in hope house
+
+*「せかいがあぶないだって?
+かんけいないね。ホープおうさえいれば、
+このくにはあんしんさ。
+
+The world's in danger?
+I don't care as long as King Hope
+is here.
+
+We'll be safe as long as
+King Hope's still here.
+
+2a a2 7e 76 72 76 de 71 8c de 85 72 80 de 6f 83 3f 02
+W  E  '  L  L  20 B  E  20 S  A  F  E  20 A  S  20 L
+
+76 9d 79 72 85 72 88 a1 ce b0 cc df 75 73 7b 74 72 9a 8a de a4 02
+O  N  G  20 A  S  20 K  I  N  G  20 H  O  P  E  '  S  20 S  T  I
+
+7a 89 78 86 8a 71 9d 7c 9d 7b a1 0f
+L  L  20 H  E  R  E  .
+
+--- knight in hope weapon shop
+
+*「レーザーじゅうをさがして、たびをしているのだが...
+[...]
+こだいアトランチスぶんめいのぶきで、
+いちげきでやまをもふきとばす
+ものすごいものだ。
+
+I'm questing for the
+laser gun...
+
+A truly fearsome lost
+weapon from an ancient
+land.
+
+2a a2 da b0 bb de b0 7c de 6d 73 66 7b 76 de 7c 83 a4 80 8b de 66 7c 83 72 99 89 80 de 76 de eb 02 05
+I  '  M  20 Q  U  E  S  T  I  N  G  20 F  O  R  20 T  H  E  02 L  A  S  E  R  20 G  U  N  .  .  .  02
+
+7a 80 de 72 b1 c4 d7 dd c1 bd 8c de 9d 92 72 89 8c de 77 83 de a4 02
+05 A  20 T  R  U  L  Y  20 F  E  A  R  S  O  M  E  20 L  O  S  T  02
+
+72 81 79 de 77 83 de 94 8f 66 93 8c 77 84 8a de 7d 02
+W  E  A  P  O  N  20 F  R  O  M  20 A  N  20 A  N  C
+
+93 89 7d 7a de 72 93 89 80 de a1 0f
+I  E  N  T  02 L  A  N  D  . 
+
+--- gold knight in hope house
+
+*「わたしは、ホープおうにつかえる、ハリソンと
+もうすものです。このくには、いかがですかな?
+[...]
+そう。このくにがへいわなのも、
+ホープおうのおちからです。
+
+My name is Harrison.
+I serve under King Hope.
+(How do you find this country?)
+Our peace is thanks to
+his power.
+
+2a a2 9c 80 7c 8a a4 ce b0 cc df 75 73 86 82 76 74 99 a4 ca d8 bf dd 84 02
+M  Y  20 N  A  M  E  20 I  S  20 H  A  R  R  I  S  O  N  .  02 I  20 S  E
+
+93 73 7d 93 89 83 de 7d a1 7a 89 78 86 8a a4 72 76 76 de 83 de 7d 76 85 3f 02 05
+R  V  E  20 U  N  D  E  R  20 K  I  N  G  20 H  O  P  E  .  02 05 O  U  R  20 P
+
+7f 73 a1 7a 89 78 86 76 de 8d 72 9c 85 89 93 a4 02
+E  A  C  E  20 I  S  20 T  H  A  N  K  S  20 T  O
+
+ce b0 cc df 75 73 89 75 81 76 97 83 de 7d a1 0f
+02 H  I  S  20 P  O  W  E  R  .
