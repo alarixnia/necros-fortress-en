@@ -486,3 +486,149 @@ E  A  C  E  20 I  S  20 T  H  A  N  K  S  20 T  O
 
 ce b0 cc df 75 73 89 75 81 76 97 83 de 7d a1 0f
 02 H  I  S  20 P  O  W  E  R  .
+
+--- hope castle
+
+*「ホープじょうへようこそ。
+おうが、2かいでおまちです。
+
+Welcome (to Hope).
+We're waiting (for you)
+upstairs.
+
+a2 a2 ce b0 cc df 7c de 6e 73 8d 96 73 7a 7f a1 02
+W  E  L  C  O  M  E  .  20 W  E  '  R  E  20 W  A
+
+75 73 76 de a4 32 76 72 83 de 75 8f 81 83 de 7d a1 0f
+I  T  I  N  G  02 U  P  S  T  A  I  R  S  .
+
+*「ねえねえ、ぼくとかくれんぼをしようよ。
+[...]
+じゃあ、そっちがオニだよ。わーいわーい!
+
+Let's play hide and seek!
+Try finding me first!
+
+2a a2 88 74 88 74 a4 8e de 78 84 76 78 9a 9d 8e de 66 7c 96 73 96 a1 02 05
+L  E  T  '  S  20 P  L  A  Y  20 H  I  D  E  20 A  N  D  20 S  E  E  K  !
+
+7c de 6c 71 a4 7f 6f 81 76 de b5 c6 80 de 96 a1 9c b0 72 9c b0 72 21 0f
+02 05 T  R  Y  20 F  I  N  D  I  N  G  20 M  E  20 F  I  R  S  T  !
+
+*「ようこそ、ゆうしゃどの。
+ここは、めいろのようになっております。
+[...]
+おうさまのへやは、
+ここから、にしにいってください。
+
+(Welcome, heroes.)
+This castle (place) is like
+a maze.
+
+The king's chamber is to
+the west.
+
+2a a2 96 73 7a 7f a4 95 73 7c 6c 84 de 89 a1 02 7a 7a 8a a4 92 72 9b 89
+T  H  I  S  20 C  A  S  T  L  E  20 I  S  20 L  I  K  E  02 A  20 M  A
+
+96 73 86 85 6f 83 75 98 8f 7d a1 02 05
+Z  E  .  02 05 T  H  E  20 K  I  N  G
+
+75 73 7b 8f 89 8d 94 8a a4 02
+'  S  20 C  H  A  M  B  E  R
+
+7a 7a 76 97 a4 86 7c 86 72 6f 83 78 80 de 7b 72 a1 0f
+20 I  S  20 T  O  02 T  H  E  20 W  E  S  T  .
+
+*「みちにまよわれましたか?
+ここは、てきをふせぐため
+めいろのようになっていますからなあ。
+
+Lost (your way)?
+The castle ("this place") was built
+to deter enemies.
+
+2a a2 90 81 86 8f 96 9c 9a 8f 7c 80 76 3f 02
+L  O  S  T  ?  20 T  H  E  20 C  A
+
+7a 7a 8a a4 83 77 66 8c 7e 78 de 80 92 02
+S  T  L  E  20 W  A  S  20 B  U  I  L  T 
+
+92 72 9b 89 96 73 86 85 6f 83 72 8f 7d 76 97 85 71 a1 0f
+02 T  O  20 D  E  T  E  R  20 E  N  E  M  I  E  S  . 
+
+*「みなみにおられるのは、おうひさまです。
+おうさまのへやへは、にしへどうぞ。
+
+The queen is south.
+The king is west.
+
+2a a2 90 85 90 86 75 97 9a 99 89 8a a4 75 73 8b 7b 8f 83 de 7d a1 02
+T  H  E  20 Q  U  E  E  N  20 I  S  20 S  O  U  T  H  .  02 T  H  E
+
+75 73 7b 8f 89 8d 94 8d 8a a4 86 7c 8d 84 de 73 7f de a1 0f
+20 K  I  N  G  20 I  S  20 W  E  S  T  .
+
+*「おうさまのへやへは、
+ここからきたへいきます。
+
+The king('s chamber) is to the north.
+
+2a a2 75 73 7b 8f 89 8d 94 8d 8a a4 02
+
+7a 7a 76 97 77 80 8d 72 77 8f 7d a1 0f
+
+*「おうさまのへやへは、
+ひがしへいってください。
+
+The king('s chamber) is to the east.
+
+2a a2 75 73 7b 8f 89 8d 94 8d 8a a4 02
+T  H  E  20 K  I  N  G  20 I  S  20 T
+
+8b 76 de 7c 8d 72 6f 83 78 80 de 7b 72 a1 0f
+O  20 T  H  E  20 E  A  S  T  .
+
+-- hope prisoner
+
+*「オレはここに10ねんもつかまっているが、
+いつもひとりぼっちで、さみしいなあ。
+[...]
+なにしろへいわすぎて、オレのほかは
+だれもろうやにぶちこまれないんだ。
+
+I've been stuck here for 10 years,
+it's so lonely.
+After all, it's so peaceful,
+there's no other prisoners.
+
+I've been alone here for
+10 years.
+It's so peaceful that
+there's no other prisoners.
+
+2a a2 b5 da 8a 7a 7a 86 31 30 88 9d 93 82 76 8f 6f 83 72 99 76 de a4 02
+I  '  V  E  20 B  E  E  N  20 A  L  O  N  E  20 H  E  R  E  20 F  O  R
+
+72 82 93 8b 84 98 8e de 6f 81 83 de a4 7b 90 7c 72 85 71 a1 02 05
+10 1  0  20 Y  E  A  R  S  .  02 05 I  T  '  S  20 S  O  20 P  E
+
+85 86 7c 9b 8d 72 9c 7d 77 de 83 a4 b5 da 89 8e 76 8a 02
+A  C  E  F  U  L  20 T  H  A  T  20 T  H  E  R  E  '  S
+
+80 de 9a 93 9b 73 94 86 8c de 81 7a 8f 9a 85 72 9d 80 de a1 0f
+20 N  O  20 O  T  H  E  R  20 P  R  I  S  O  N  E  R  S  .
+
+-- hope queen
+
+おうひ「ああ、どうしましょう。
+またアレフがいなくなってしまったわ。
+
+Oh dear, Aleph has gone missing again.
+Oh dear, Aleph is missing again.
+
+75 73 8b a2 71 71 a4 84 de 73 7c 8f 7c 6e 73 a1 02
+O  H  20 D  E  A  R  ,  20 A  L  E  P  H  20 I  S
+
+8f 80 b1 da cc 76 de 72 85 78 85 6f 83 7c 8f 6f 80 9c a1 0f
+20 M  I  S  S  I  N  G  20 A  G  A  I  N  .
