@@ -502,6 +502,14 @@ W  E  L  C  O  M  E  .  20 W  E  '  R  E  20 W  A
 75 73 76 de a4 32 76 72 83 de 75 8f 81 83 de 7d a1 0f
 I  T  I  N  G  02 U  P  S  T  A  I  R  S  .
 
+*「このかいだんは、
+ちかろうへつうじています。
+The stairs go to the cellar.
+This staircase goes down.
+
+2a a2 7a 89 76 72 80 de 9d 8a a4 02 81 76 9b 73 8d 82 73 7c de 83 72 8f 7d a1 0f
+T  H  I  S  20 S  T  A  I  R  C  A  S  E  20 G  O  E  S  20 D  O  W  N  .
+
 *「ねえねえ、ぼくとかくれんぼをしようよ。
 [...]
 じゃあ、そっちがオニだよ。わーいわーい!
@@ -632,3 +640,201 @@ O  H  20 D  E  A  R  ,  20 A  L  E  P  H  20 I  S
 
 8f 80 b1 da cc 76 de 72 85 78 85 6f 83 7c 8f 6f 80 9c a1 0f
 20 M  I  S  S  I  N  G  20 A  G  A  I  N  .
+
+-- hope king
+
+ホープおう「おお、よくぞまいられた。
+わしがホープおうじゃ。
+[...]
+ところで、アレフを...いや、
+アレフおうじをみかけなかったかな?
+としは8つくらいの...
+[...]
+そうそう。そのかくれんぼのこどもが、
+それにちがいない。こまったヤツだ。
+[...]
+すまぬが、おうじをさがしてきてくれんか?
+そとのへいしなら、なにかみているかもしれん。
+
+(Oh,) you've made it.
+I'm King Hope.
+
+Have you seen our boy,
+Prince Aleph?
+(prince, about 8 years old)
+
+Ah yes, the (little) rascal playing
+hide and seek (must be him)...
+
+Would you fetch him for
+me? Speak to the guards
+outside.
+(The guards outside may have seen something.)
+
+ce b0 cc df 75 73 a2 75 75 a4 96 78 7f de 8f 72 97 9a 80 a1 02
+Y  O  U  '  V  E  20 M  A  D  E  20 I  T  .  02 I  '  M  20 K
+
+9c 7c 76 de ce b0 cc df 75 73 7c de 6c a1 02 05
+I  N  G  20 H  O  P  E  .  02 05 H  A  V  E  20
+
+84 7a 9b 83 de a4 b1 da cc 66 eb 72 94 a4 02
+Y  O  U  20 S  E  E  N  20 O  U  R  20 B  O
+
+b1 da cc 75 73 7c de 66 90 76 79 85 76 6f 80 76 85 3f 02
+Y  ,  20 P  R  I  N  C  E  20 A  L  E  P  H  ?  02 05 A
+
+84 7c 8a 38 82 78 97 72 89 eb 02 05
+H  20 Y  E  S  .  20 T  H  E  20 R
+
+7f 73 7f 73 a1 7f 89 76 78 9a 9d 8e de 89 7a 84 de 93 76 de a4 02
+A  S  C  A  L  20 P  L  A  Y  I  N  G  20 H  I  D  E  20 A  N  D
+
+7f 9a 86 81 76 de 72 85 72 a1 7a 8f 6f 80 d4 c2 80 de a1 02 05
+20 S  E  E  K  .  .  .  02 05 W  O  U  L  D  20 Y  O  U  20 F
+
+7d 8f 87 76 de a4 75 73 7c de 66 7b 76 de 7c 83 77 83 78 9a 9d 76 3f 02
+E  T  C  H  20 H  I  M  20 F  O  R  20 M  E  ?  20 S  P  E  A  K  20 T
+
+7f 84 89 8d 72 7c 85 97 a4 85 86 76 90 83 72 99 76 93 7c 9a 9d a1 0f
+O  20 T  H  E  20 G  U  A  R  D  S  20 O  U  T  S  I  D  E  .
+
+-- guards after getting task from king
+
+*「はあ? アレフさまですか?
+そういえば、さきほど、はしゃいで、みなみへ
+はしっていきましたよ。
+
+Eh? Prince Aleph?
+(Come to think of it,)
+He (excitedly) dashed off to the
+south earlier.
+
+2a a2 8a 71 3f 20 b1 da cc 7b 8f 83 de 7d 76 3f 02
+E  H  ?  20 P  R  I  N  C  E  20 A  L  E  P  H  ?
+
+7f 73 72 74 8a de a4 7b 77 8e 84 de a4 8a 7c 6c 72 83 de a4 90 85 90 8d 02
+02 H  E  20 D  A  S  H  E  D  20 O  F  F  20 T  O  20 T  H  E  02 S  O  U
+
+8a 7c 6f 83 72 77 8f 7c 80 96 a1 0f
+T  H  20 E  A  R  L  I  E  R  .
+
+*「アレフさまなら、ひがしへいきました。
+Aleph? He went east.
+
+2a a2 b1 da cc 7b 8f 85 97 a4 8b 76 de 7c 8d 72 77 8f 7c 80 a1 0f
+A  L  E  P  H  ?  20 H  E  20 W  E  N  T  20 E  A  S  T  .
+
+*「アレフさま?
+ひがしへはしっていきましたが。
+
+Aleph? He ran to the east.
+
+2a a2 b1 da cc 7b 8f 3f 02 8b 76 de 7c 8d 8a 7c 6f 83 72 77 8f 7c 80 76 de a1 0f
+A  L  E  P  H  ?  20 H  E  20 R  A  N  20 T  O  20 T  H  E  20 E  A  S  T  .
+
+*「おうじは、きたへいきましたよ。
+
+The prince went north.
+Aleph went north.
+
+2a a2 75 73 7c de 8a a4 77 80 8d 72 77 8f 7c 80 96 a1 0f
+A  L  E  P  H  20 W  E  N  T  20 N  O  R  T  H  .
+
+*「はて、おうじは、ここにはきませんでしたが?
+もういちど、みなみのへいにきいてみては?
+
+(Well, was the prince here?)
+Aleph? You'd better ask
+the lads to the south.
+
+2a a2 8a 83 a4 75 73 7c de 8a a4 7a 7a 86 8a 77 8f 7e 9d 83 de 7c 80 76 de 3f 02
+A  L  E  P  H  ?  20 Y  O  U  '  D  20 B  E  T  T  E  R  20 A  S  K  20 T  H  E
+
+93 73 72 81 84 de a4 90 85 90 89 8d 72 86 77 72 83 90 83 8a 3f 0f
+20 L  A  D  S  20 T  O  20 T  H  E  20 S  O  U  T  H  .
+
+*「ああ、ゆうしゃどの。さっき、アレフさまが
+にしへはしっていきましたよ。
+
+(Ah, heroes.) Just now, the prince ran
+to the west.
+
+2a a2 71 71 a4 95 73 7c 6c 84 de 89 a1 7b 6f 77 a4 b1 da cc 7b 8f 76 de 02
+J  U  S  T  20 N  O  W  ,  20 T  H  E  20 P  R  I  N  C  E  20 R  A  N  02
+
+86 7c 8d 8a 7c 6f 83 72 77 8f 7c 80 96 a1 0f
+20 T  O  20 T  H  E  20 W  E  S  T  .
+
+*「アレフさまなら、きたへむかいましたよ。
+
+Aleph? He went north.
+
+2a a2 b1 da cc 7b 8f 85 97 a4 77 80 8d 91 76 72 8f 7c 80 96 a1 0f
+A  L  E  P  H  ?  20 H  E  20 W  E  N  T  20 N  O  R  T  H  .
+
+*「アレフさまは、たったいま、おうのへやへ
+はいっていかれました。
+
+Aleph just went to the
+King's chambers.
+
+Aleph just went to see
+the King.
+
+2a a2 b1 da cc 7b 8f 8a a4 80 6f 80 72 8f a4 75 73 89 8d 94 8d 02 8a 72 6f 83 72 76 9a 8f 7c 80 a1 0f
+A  L  E  P  H  20 J  U  S  T  20 W  E  N  T  20 T  O  20 S  E  E  20 T  H  E  20 K  I  N  G  .
+
+-- talking to king again
+
+ホープおう「なに? アレフがここにいるとな?
+
+What? Our Aleph is here?
+
+ce b0 cc df 75 73 a2 85 86 3f 20 b1 da cc 76 de 7a 7a 86 72 99 84 85 3f 02 0f
+W  H  A  T  ?  20 O  U  R  20 A  L  E  P  H  20 I  S  20 H  E  R  E  ?
+
+アレフ「わ~い。みつかっちゃったあ。
+[...]
+ホープおう「おおっ、アレフ! そんなところに!
+いつかくれたのじゃ?
+
+Aleph: I've been found out!
+
+[Aleph emerges.]
+
+Aleph! There you are,
+of all places!
+
+b1 da cc a2 9c ec 72 a1 90 82 76 6f 81 6c 6f 80 71 a1 02 05
+[  A  L  E  P  H  20 E  M  E  R  G  E  S  .  ]  02 05 A  L
+
+ce b0 cc df 75 73 a2 75 75 6f a4 b1 da cc 21 20 7f 9d 85 84 7a 9b 86 21 02
+E  P  H  !  20 T  H  E  R  E  20 Y  O  U  20 A  R  E  ,  02 O  F  20 A  L
+
+72 82 76 78 9a 80 89 7c de 6c 3f 0f
+L  20 P  L  A  C  E  S  !
+
+-- talking to king again
+
+ホープおう「いやいや、よけいなことを
+させてしまったな。
+[...]
+なるほど、ブリザラードへいきたいとな?
+[...]
+ガルテラごうのエイヴせんちょうを
+さがすといい。かれなら、ふねをだして
+くれるかもしれん。
+[...]
+しかし、かれはかわりものという
+うわさじゃしな...
+いばしょは、すいふたちがしっている。
+
+I'm sorry for all the trouble.
+
+I see, you wish to go to Blizzard?
+
+You should seek Capt. Aiv of the Galtera Fleet.
+He might lend you a ship.
+
+The sailors should know where he is,
+though the rumours say he's a little odd...
