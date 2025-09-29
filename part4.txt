@@ -918,3 +918,36 @@ H  O  P  E  20 I  S  20 K  E  P  T  20 W  A  R  M  20 B  Y  20 H  E  A  T
 
 81 88 82 89 75 76 79 de 85 89 83 de 7d a1 0f
 20 X  E  N  O  .
+
+-- harrison after talking to the king
+
+ハリソン「ホープおうは、なやんでいます。
+こくみんが、おうにたよりすぎていると...
+
+Hope's fading.  We rely too
+much on our king...
+
+ca d8 bf dd a2 ce b0 cc df 75 73 8a a4 85 94 9d 83 de 72 8f 7d a1 02
+H  O  P  E  '  S  20 F  A  D  I  N  G  .  20 W  E  20 R  E  L  Y  20
+
+7a 78 90 9d 76 de a4 75 73 86 80 96 98 7d 77 de 83 72 99 84 eb 02 0f
+T  O  O  20 M  U  C  H  20 O  N  20 O  U  R  20 K  I  N  G  .  .
+
+-- sailors after talking to king
+
+*「エイヴせんちょうかい?
+あのひとはかわりもので、ずっとみなみにくだった
+ところに、じぶんのみなとをもっているんだ。
+
+Capt. Aiv?  He's got his
+own port down south.
+Bit of an oddball.
+
+2a a2 b4 b2 b3 de 7e 9d 81 6e 73 76 72 3f 02
+C  A  P  T  .  20 A  I  V  ?  20 H  E  '  S 
+
+71 89 8b 84 8a 76 9c 98 93 89 83 de a4 7d de 6f 84 90 85 90 86 78 80 de 6f 80 02
+20 G  O  T  20 H  I  S  02 O  W  N  20 P  O  R  T  20 D  O  W  N  20 S  O  U  T
+
+84 7a 9b 86 a4 7c de 8c de 9d 89 90 85 84 66 93 6f 83 72 99 9d 80 de a1 0f
+H  .  02 B  I  T  20 O  F  20 A  N  20 O  D  D  B  A  L  L  .
