@@ -1574,6 +1574,13 @@ Wiz Robe
 b3 a8 bd de 89 db b0 cc de
 W  I  Z  D  20 R  O  B  E
 
+マーリンのローブ
+Merlin Robe
+
+マ ー リ ン の ロ ー ブde
+cf b0 d8 dd 89 db b0 cc de
+M  E  R  L  I  N  R  O  B
+
 スチールメイス
 Steel Mace
 St.Mace

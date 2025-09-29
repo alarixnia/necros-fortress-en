@@ -951,3 +951,79 @@ C  A  P  T  .  20 A  I  V  ?  20 H  E  '  S
 
 84 7a 9b 86 a4 7c de 8c de 9d 89 90 85 84 66 93 6f 83 72 99 9d 80 de a1 0f
 H  .  02 B  I  T  20 O  F  20 A  N  20 O  D  D  B  A  L  L  .
+
+-- capt. aiv's port, sailors
+
+*「さんばしをあるいていけば、
+ガルテラごうにのれるよ。
+
+Cross (the bridge) and (you
+can) board the Galtera.
+
+The Galtera is over the
+bridge.
+
+2a a2 7b 9d 8a de 7c 66 71 99 72 83 72 79 8a de a4 02
+T  H  E  20 G  A  L  T  E  R  A  20 I  S  20 O  V  E
+
+b6 de d9 c3 d7 7a de 73 86 89 9a 99 96 a1 0f
+R  20 T  H  E  02 B  R  I  D  G  E  .
+
+*「ガルテラごうなら、
+あのでっかいふねがそうさ。
+
+The Galtera is one big
+ship.
+[Lit: "The Galtera is the big one"]
+
+2a a2 b6 de d9 c3 d7 7a de 73 85 97 a4 02 71 89 83 de 6f 76 72 8c 88 76 de 7f 73 7b a1 0f
+T  H  E  20 G  A  L  T  E  R  A  20 I  S  20 O  N  E  20 B  I  G  20 S  H  I  P  .
+
+*「エイヴせんちょうは、
+おとこのなかのおとこだよ。
+
+Capt. Aiv's a true man's
+man.
+The Capt's a true man's
+man.
+
+*  「 エ イ ウ de せ ん ち ょ う は 、
+2a a2 b4 b2 b3 de 7e 9d 81 6e 73 8a a4 02
+T  H  E  20 C  A  P  T  '  S  20 A  20 T
+
+お と こ の な か の お と こ た de よ 。
+75 84 7a 89 85 76 89 75 84 7a 80 de 96 a1 0f
+R  U  E  20 M  A  N  '  S  20 M  A  N  .
+
+*「おもてのでっかいふねは、ガルテラごうさ。
+
+The large ship out front is the Galtera.
+The Galtera's out front.
+
+2a a2 75 93 83 89 83 de 6f 76 72 8c 88 8a a4 b6 de d9 c3 d7 7a de 73 7b a1 0f
+T  H  E  20 G  A  L  T  E  R  A  '  S  20 O  U  T  20 F  R  O  N  T  .
+
+*「ここのところ、ずっとりくにいるから、
+からだがなまっちまったなあ。
+
+Ashore so long,
+I'll be a landlubber.
+[Lit: "I've been ashore so long my body is getting dull"]
+
+2a a2 7a 7a 89 84 7a 9b a4 7d de 6f 84 98 78 86 72 99 76 97 a4 02
+A  S  H  O  R  E  20 S  O  20 L  O  N  G  ,  20 I  '  L  L  20 B
+
+76 97 80 de 76 de 85 8f 6f 81 8f 6f 80 85 71 a1 0f
+E  20 A  20 L  A  N  D  L  U  B  B  E  R  .
+
+*「さいきん、あくまのかいいきで、なかまのふねが
+たくさんゆくえふめいになっているんだ。
+
+(Lately,) our ships keep going
+missing in the Devil's Sea.
+
+2a a2 7b 72 77 9d a4 71 78 8f 89 76 72 72 77 83 de a4 85 76 8f 89 8c 88 76 de 02
+O  U  R  20 S  H  I  P  S  20 K  E  E  P  20 G  O  I  N  G  02 M  I  S  S  I  N
+
+80 78 7b 9d 95 78 74 8c 92 72 86 85 6f 83 72 99 9d 80 de a1 0f
+G  20 I  N  20 T  H  E  20 D  E  V  I  L  S  20 S  E  A  .
