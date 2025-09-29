@@ -829,12 +829,92 @@ L  20 P  L  A  C  E  S  !
 うわさじゃしな...
 いばしょは、すいふたちがしっている。
 
-I'm sorry for all the trouble.
+Sorry for the trouble.
 
-I see, you wish to go to Blizzard?
+You wish to go to
+Blizzard?
 
-You should seek Capt. Aiv of the Galtera Fleet.
-He might lend you a ship.
+Seek Capt. Aiv of the
+Galtera (Fleet).  (He might) He'll lend you
+a ship.
 
-The sailors should know where he is,
-though the rumours say he's a little odd...
+The sailors (should know where he is) know him,
+though rumours say he's (a little) odd...
+
+ce b0 cc df 75 73 a2 72 94 72 94 a4 96 79 72 85 7a 84 66 02
+S  O  R  R  Y  20 F  O  R  20 T  H  E  20 T  R  O  U  B  L
+
+7b 7e 83 7c 8f 6f 80 85 a1 02 05
+E  .  02 05 Y  O  U  20 W  I  S
+
+85 99 8e 84 de a4 cc de d8 bb de d7 b0 c4 de 8d 72 77 80 72 84 85 3f 02 05
+H  20 T  O  20 G  O  20 T  O  02 B  L  I  Z  Z  A  R  D  ?  20 S  E  E  K
+
+b6 de d9 c3 d7 7a de 73 89 b4 b2 b3 de 7e 9d 81 6e 73 66 02
+20 C  A  P  T  .  20 A  I  V  20 O  F  20 T  H  E  02 G  A
+
+7b 76 de 7d 84 72 72 a1 76 9a 85 97 a4 8c 88 66 80 de 7c 83 02
+L  T  E  R  A  .  20 H  E  '  L  L  20 L  E  N  D  20 Y  O  U
+
+78 9a 99 76 93 7c 9a 9d a1 02 05
+02 A  20 S  H  I  P  .  20 T  H 
+
+7c 76 7c a4 76 9a 8a 76 9c 98 93 89 84 72 73 02
+E  20 S  A  I  L  O  R  S  20 K  N  O  W  20 H
+
+73 9c 7b 7c de 6c 7c 85 eb 02
+I  M  ,  02 B  U  T  20 R  U
+
+72 8a de 7c 6e 8a a4 7d 72 8c 80 81 76 de 7c 6f 83 72 99 a1
+M  O  U  R  20 I  S  20 H  E  '  S  20 O  D  D  .  .  .
+
+おお、このたからばこに、かねがはいっておる。
+こころづくしじゃ。もっていくがいい。
+
+Oh, also, this treasure chest
+contains money.
+Take it with you, as a gift.
+
+Also, there's some money
+for you in the chest.
+
+75 75 a4 7a 89 80 76 97 8a de 7a 86 a4 76 88 76 de 8a 72 6f 83 75 99 a1 02
+A  L  S  O  ,  20 T  H  E  R  E  '  S  20 S  O  M  E  20 M  O  N  E  Y
+
+7a 7a 9b 82 de 78 7c 7c de 6c a1 93 6f 83 72 78 76 de 72 72 a1 0f 
+F  O  R  20 Y  O  U  20 I  N  20 T  H  E  20 C  H  E  S  T  .
+
+-- after aleph gets caught
+
+アレフ「ぼくのおとうさんは、とってもつよいんだよ。
+My dad is really strong,
+you know.
+My dad could beat up
+your dad.
+My dad could beat yours
+up.
+
+ア レ フ 「 ほ de く の お と う さ ん は 、 と っ て も つ よ い ん た de よ 。
+b1 da cc a2 8e de 78 89 75 84 73 7b 9d 8a a4 84 6f 83 93 82 96 72 9d 80 de 96 a1 0f
+M  Y  20 D  A  D  20 C  O  U  L  D  20 B  E  A  T  20 Y  O  U  R  S  02 U  P  .
+
+-- after finding aleph, hope queen
+
+おうひ「ホープおうこくがさむさのえいきょうを
+うけないのは、ちかくにあるゼノかざんの
+ちねつのおかげなのです。
+
+Hope Kingdom is unaffected by the cold
+due to the heat from the nearby Mount Xeno.
+
+Hope is kept warm by heat from the nearby
+Mount Xeno.
+
+75 73 8b a2 ce b0 cc df 75 73 7a 78 76 de 7b 91 7b 89 74 72 77 6e 73 66 02
+H  O  P  E  20 I  S  20 K  E  P  T  20 W  A  R  M  20 B  Y  20 H  E  A  T
+
+73 79 85 72 89 8a a4 81 76 78 86 71 99 be de c9 76 7b de 9d 89 02
+20 F  R  O  M  20 T  H  E  20 N  E  A  R  B  Y  20 M  O  U  N  T
+
+81 88 82 89 75 76 79 de 85 89 83 de 7d a1 0f
+20 X  E  N  O  .
