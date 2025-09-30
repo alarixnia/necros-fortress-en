@@ -2457,12 +2457,48 @@ Choco's lovely, I says.
 c1 ae ba da b0 c4 8a a4 7f 9a 72 7c de 6e 73 93 83 85 72 b1 d9 96 a1 02
 C  H  O  C  O  '  S  20 L  O  V  E  L  Y  20 I  20 S  A  Y  S  .
 
+おきゃくさま、もちものがいっぱいです。
+どれかをすててから、またおこしください。
+
+(Customer,) you have too many items.
+Discard some first.
+
+75 77 6c 78 7b 8f a4 93 81 93 89 76 de 72 6f 8a df 72 83 de 7d a1 02
+Y  O  U  20 H  A  V  E  20 T  O  O  20 M  A  N  Y  20 I  T  E  M  S
+
+84 de 9a 76 66 7d 83 83 76 97 a4 8f 80 75 7a 7c 78 80 de 7b 72 a1 02
+.  20 D  I  S  C  A  R  D  20 S  O  M  E  20 F  I  R  S  T  .
+
+もちものがいっぱいだニャ。
+どれかをすてて、またくるといいニャ。
+
+Meow, you've too much stuff already.
+(Discard some first.)
+
+93 81 93 89 76 de 72 6f 8a df 72 80 de c6 ac a1 02
+M  E  O  W  ,  20 Y  O  U  '  V  E  20 T  O  O  20
+
+84 de 9a 76 66 7d 83 83 a4 8f 80 78 99 84 72 72 c6 ac a1 02
+M  U  C  H  02 S  T  U  F  F  20 A  L  R  E  A  D  Y  .
+
+もちものがいっぱいアルな。
+どれかをすててから、またくるヨロシ。
+
+You've got too much,
+toss some first.
+
+93 81 93 89 76 de 72 6f 8a df 72 b1 d9 85 a1 02
+Y  O  U  '  V  E  20 G  O  T  20 T  O  O  20 M
+
+84 de 9a 76 66 7d 83 83 76 97 a4 8f 80 78 99 d6 db bc a1 02
+U  C  H  .  02 T  O  S  S  20 S  O  M  E  .
+
 どれをおもとめのコトか?
 What're you after?
-What'cha need
+Pick an item.
 
 84 de 9a 66 75 93 84 92 89 ba c4 76 3f 02
-W  H  A  T  '  C  H  A  20 N  E  E  D
+P  I  C  K  20 A  N  20 I  T  E  M  .
 
 Gになります。よろしいですか?
 G. Is that alright?
@@ -2485,7 +2521,7 @@ G, approx. OK?
 
 G  の コ ト ね 。 よ ろ し ア ル か ?
 47 89 ba c4 88 a1 96 9b 7c b1 d9 76 3f 02
-G  20 A  P  P  R  O  X  .  20 O  K  ?
+G  20 A  P  P  R  O  X  .  02 O  K  ?
 
 ほかには、おもとめになりますか?
 Anything else?
@@ -2576,6 +2612,12 @@ Already got
 7d 83 de 86 75 93 81 83 de 7d a1 02 05
 A  L  R  E  A  D  Y  20 G  O  T  .  02
 
+おきゃくさま、おかねがたりないようですが。
+(Customer,) you're short on funds.
+
+75 77 6c 78 7b 8f a4 75 76 88 76 de 80 98 85 72 96 73 83 de 7d 76 de a1
+Y  O  U  '  R  E  20 S  H  O  R  T  20 O  N  20 F  U  N  D  S  .
+
 は、すでにおもちのようですが。
 It seems you've already got one.
 You've already got one.
@@ -2628,3 +2670,53 @@ Rage
 
 20 8c 82 73 02 20 ca de b6 81 de 76 97 02 20 84 82 79 de 77 02 00
 20 A  T  K  20 20 02 20 B  R  U  T  E  02 20 R  A  G  E  20 02 00
+
+-- generic service person
+
+なにをごしょもうアルか?
+What do you need?
+Which service?
+
+85 86 66 7a de 7c 6e 93 73 b1 d9 76 3f
+W  H  A  T  20 Y  A  20 N  E  E  D  ?
+
+きずをなおしたい
+Healing
+
+ものをかいたい
+Buy things
+Med shop
+
+ぶきをかいたい
+Buy weapons
+Equipment
+
+77 7d de 66 85 75 7c 80 72 02 20 93 89 66 76 72 80 72 02 20 8c de 77 66 76 72 80 72
+H  E  A  L  I  N  G  02 20 M  E  D  20 S  H  O  P  02 20 E  Q  U  I  P  M  E  N  T
+
+きずなおす、?200Gかかるあるよ。よろしいあるか?
+Fixing you up will cost 200G. Alright?
+It'll be 200G, alright?
+
+77 7d de 85 75 7d a4 03 32 30 30 47 76 76 99 71 99 96 a1 96 9b 7c 72 71 99 76 3f
+I  T  '  L  L  20 B  E  20 03 2  0  0  G  .  20 A  L  R  I  G  H  T  ?
+
+あいや、おかねたりないあるね。
+(Oh dear, you're) short on gold.
+
+71 72 94 a4 75 76 88 80 98 85 72 71 99 88 a1
+S  H  O  R  T  20 O  N  20 G  O  L  D  .
+
+ほら、なおたあるよ。
+There you go.
+It's done.
+
+8e 97 a4 85 75 80 71 99 96 a1
+I  T  '  S  20 D  O  N  E  .
+
+またくる、よろしい。
+Come again.
+See you.
+
+8f 80 78 99 a4 96 9b 7c 72 a1 0f
+20 S  E  E  20 Y  O  U  .

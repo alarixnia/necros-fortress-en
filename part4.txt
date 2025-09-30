@@ -1068,3 +1068,26 @@ T  H  E  20 S  E  A  '  S  20 F  R  O  Z  E  N  ,  20 W  E  02 C
 
 8c 88 76 de 73 7a de 76 7e 88 74 a1 0f
 C  A  N  '  T  20 M  O  V  E  .
+
+-- trader inside galtera
+
+*「ワタシ、ガルテラごうのよろずやアル。
+ケガのちりょうからアイテムはんばいまで、
+てびろくやってるのコトよ。
+
+From healing to item
+trading, I'm doing a bit
+of everything
+(aboard the Galtera).
+
+2a a2 dc c0 bc a4 b6 de d9 c3 d7 7a de
+F  R  O  M  20 H  E  A  L  I  N  G  20
+
+73 89 96 9b 7d de 94 b1 d9 a1 02 b9 b6 de 89 81 98 6e 73
+T  O  20 I  T  E  M  02 T  R  A  D  I  N  G  ,  20 I  '
+
+76 97 b1 b2 c3 d1 8a 9d 8a de 72 8f 83 de a4 02 83 8b de
+M  20 D  O  I  N  G  20 A  20 B  I  T  20 O  F  20 E  V
+
+9b 78 94 6f 83 99 89 ba c4 96 a1 
+E  R  Y  T  H  I  N  G  .
