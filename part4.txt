@@ -1027,3 +1027,44 @@ O  U  R  20 S  H  I  P  S  20 K  E  E  P  20 G  O  I  N  G  02 M  I  S  S  I  N
 
 80 78 7b 9d 95 78 74 8c 92 72 86 85 6f 83 72 99 9d 80 de a1 0f
 G  20 I  N  20 T  H  E  20 D  E  V  I  L  S  20 S  E  A  .
+
+-- sailors on ship
+
+*「エイヴせんちょうなら、
+せんちょうしつにいるぜ。
+
+The capn's in his
+quarters.
+
+2a a2 b4 b2 b3 de 7e 9d 81 6e 73 85 97 a4 02 7e 9d 81 6e 73 7c 82 86 72 99 7e de a1 0f
+T  H  E  20 C  A  P  N  '  S  20 I  N  20 H  I  S  02 Q  U  A  R  T  E  R  S  .
+
+*「なんだい、あんたたちは?
+おれは、みはりでいそがしいんだ。
+
+What're you on about?
+I'm busy keeping watch.
+
+I'm busy keeping watch.
+Bugger off.
+
+2a a2 85 9d 80 de 72 a4 71 9d 80 80 81 8a 3f 02
+I  '  M  20 B  U  S  Y  20 K  E  E  P  I  N  G
+
+75 9a 8a a4 90 8a 98 83 de 72 7f 76 de 7c 72 9d 80 de a1 0f
+20 W  A  T  C  H  .  02 B  U  G  G  E  R  20 O  F  F  .
+
+*「くそっ。うみがこおっているせいで、
+ふねがうごかせねえ。
+
+The sea's frozen solid, so the ship
+won't budge.
+
+The sea's frozen, we
+can't move.
+
+2a a2 78 7f 6f a1 73 90 76 de 7a 75 6f 83 72 99 7e 72 83 de a4 02
+T  H  E  20 S  E  A  '  S  20 F  R  O  Z  E  N  ,  20 W  E  02 C
+
+8c 88 76 de 73 7a de 76 7e 88 74 a1 0f
+C  A  N  '  T  20 M  O  V  E  .
