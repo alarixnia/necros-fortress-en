@@ -412,6 +412,23 @@ H  A  N  G  S  20 A  R  O  U  N  D  20 T  H  E  20 B  A  R  20 A  L  L  02 D  A
 85 89 96 a1 0f
 Y  .
 
+--- hope shopkeeper
+
+*「やれやれ...むすこのマークときたら、
+さかばのむすめにホレちまって...
+
+Oh dear... Mark, my son,
+is in love with the fisherman's daughter...
+Oh no. My son Mark fell for Sylphie.
+My son Mark fell for the
+barmaid...
+
+2a a2 94 9a 94 9a eb 91 7d 7a 89 cf b0 b8 84 77 80 97 a4 02
+M  Y  20 S  O  N  20 M  A  R  K  20 F  E  L  L  20 F  O  R
+
+7b 76 8a de 89 91 7d 92 86 ce da 81 8f 6f 83 eb 05
+20 T  H  E  02 B  A  R  M  A  I  D  .  .  .
+
 --- old man in hope house
 
 *「せかいがあぶないだって?

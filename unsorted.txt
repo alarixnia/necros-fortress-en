@@ -353,6 +353,13 @@ Magic Cloth (MAGCLOTH)
 8f 8e 73 89 8c 9b 7c 77
 M  A  G  C  L  O  T  H
 
+ゆめほうせき
+Dream Gem
+Jewel
+
+95 92 8e 73 7e 77
+J  E  W  E  L  20
+
 おうごんのリンゴ
 Golden Apple
 Gold Apple
@@ -2332,6 +2339,15 @@ Finding a weapon/armour:
 も か de 、 そ う ひ de し た 。
 93 76 de a4 7f 73 8b de 7c 80 a1
 93 20 E  Q  U  I  P  S  20 I  T
+
+Found something, but inventory full:
+
+しかし、これいじょうもてない!
+But I can't carry more!
+But inv is full!
+
+7c 76 7c a4 7a 9a 72 7c de 6e 73 93 83 85 72 21 0f
+B  U  T  20 I  N  V  20 I  S  20 F  U  L  L  !
 
 --- Death
 
