@@ -1259,11 +1259,11 @@ S  I  L  . K O B O L
 
 
 オーク
-Oak
+Ork
 
 オ ー ク
 b5 b0 b8
-O  A  K 
+O  R  K
 
 アップラ
 Appla
@@ -1294,11 +1294,11 @@ Dr.Appla
 D  R  .  A  P  P  L  A
 
 レットdeオーク
-Red Oak
+Red Ork
 
 レ ッ ト de オ ー ク
 da af c4 de b5 b0 b8
-R  E  D  20 O  A  K
+R  E  D  20 O  R  K
 
 フットラ
 Footra
@@ -1384,11 +1384,11 @@ da af c4 de b6 b0 d8 b0
 R  E  D  C  U  R  L  Y
 
 ブラックOAK
-Dark Oak
+Dark Ork
 
-フ de ラ ッ ク O  A  K
+フ de ラ ッ ク O  R  K
 cc de d7 af b8 4f 41 4b
-D  A  R  K  20 O  A  K
+D  A  R  K  20 O  R  K
 
 ハーピー
 Harpy
