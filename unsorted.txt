@@ -2029,7 +2029,7 @@ Call Drag R
 
 サ モ ン ト de ラ コ de ン R
 bb d3 dd c4 de d7 ba de dd 52
-C  A  L  L  D  R  A  G  20 R
+C  A  L  L  D  R  A  G  R  de
 
 ヒール
 Heal
