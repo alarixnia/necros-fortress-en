@@ -1139,3 +1139,104 @@ Hey! That's my chest.
 
 b4 b2 b3 de a2 7a 97 21 20 76 6f 83 86 7b 9c 6f 83 8a 72 76 9d a1 02 0f
 H  E  Y  !  20 T  H  A  T  '  S  20 M  Y  20 C  H  E  S  T  .
+
+-- king hope on ember of blaze
+
+*「ブレイズだと? ゼノかざんのかこうのなかに
+そんなバケモノがすんでいるが...
+[...]
+しかし、マグマをこおらせでもしないかぎり、
+あうことはむりじゃろう。
+
+Blaze, eh? (Such a monster) dwells deep
+in Mount Xeno('s crater)...
+[...]
+Unless you can freeze magma,
+it's impossible to reach it.
+
+You'll have to freeze the
+magma to reach it.
+
+2a a2 cc de da b2 bd de 80 de 84 3f 20 be de c9 76 7b de 9d 89 76 7a 73 89 85 76 86 02
+B  L  A  Z  E  ,  20 E  H  ?  20 I  T  20 D  W  E  L  L  S  20 D  E  E  P  02 I  N  20
+
+7f 9d 85 ca de b9 d3 c9 76 de 7d 9d 83 de 72 99 76 de eb 02 05
+M  O  U  N  T  20 X  E  N  O  .  .  .  02 05 Y  O  U  '  L  L
+
+7c 76 7c a4 cf b8 de cf 66 7a 75 97 7e 83 de 93 7c 85 72 76 77 de 98 a4 02
+20 H  A  V  E  20 T  O  20 F  R  E  E  Z  E  20 T  H  E  02 M  A  G  M  A
+
+71 73 7a 84 8a 91 98 7c de 6c 9b 73 a1 0f
+20 T  O  20 R  E  A  C  H  20 I  T  .
+
+-- sylphy after aiv
+
+シルフィー「ええ? ブレイズのひだね?
+あんなおそろしいもの、なににつかうんですか?
+
+Eh? Blaze's Ember?
+(What use has such an awful thing?)
+It's awful. Why'd you ask?
+
+bc d9 cc a8 b0 a2 74 74 3f 20 cc de da b2 bd de 89 8b 80 de 88 3f 02
+E  H  ?  20 B  L  A  Z  E  '  S  20 E  M  B  E  R  ?  02 I  T  '  S
+
+71 9d 85 75 7f 9b 7c 72 93 89 a4 85 86 86 82 76 73 9d 83 de 7d 76 3f 0f
+20 A  W  F  U  L  .  20 W  H  Y  '  D  20 Y  O  U  20 A  S  K  ?
+
+-- dr. bomb after king
+
+ボムはかせ「なに?
+アイスばくだんが、ほしいのか?
+[...]
+ゼノかざんのマグマをこおらせる?
+そいつはいい!
+
+わしのはつめいは、かんぺきじゃからな。
+
+(What?)
+You want an ice bomb?
+To freeze magma (in Mount Xeno)?
+Brilliant!
+
+Let me know your results.
+
+ce de d1 8a 76 7e a2 85 86 3f 02
+Y  O  U  20 W  A  N  T  20 A  N
+
+b1 b2 bd 8a de 78 80 de 9d 76 de a4 8e 7c 72 89 76 3f 02 05
+20 I  C  E  20 B  O  M  B  ?  02 05 T  O  20 F  R  E  E  Z
+
+be de c9 76 7b de 9d 89 cf b8 de cf 66 7a 75 97 7e 99 3f 02
+E  20 M  A  G  M  A  ?  20 B  R  I  L  L  I  A  N  T  !  02
+
+7f 72 82 8a 72 72 21 02
+L  E  T  20 M  E  20 K
+
+7e de 8b a4 79 6f 76 66 77 76 7e 83 78 9a 80 8f 74 a1 0f
+N  O  W  20 T  H  E  20 R  E  S  U  L  T  S  .
+
+ボムはかせ「かこうのふちでつかわんと、
+こうかがないからな。きをつけろよ。
+
+If you don't use it at the
+crater's edge, it won't work.
+Take care.
+
+Use it at the crater's
+edge. Take care.
+
+ce de d1 8a 76 7e a2 76 7a 73 89 8c 81 83 de 82 76 9c 9d 84 a4 02
+U  S  E  20 I  T  20 A  T  20 T  H  E  20 C  R  A  T  E  R  '  S
+
+7a 73 76 76 de 85 72 76 97 85 a1 77 66 82 79 9b 96 a1 0f
+02 E  D  G  E  .  20 T  A  K  E  20 C  A  R  E  .
+
+-- tankirie king
+
+タンキリエおう「ちょうさは、すすんだか?
+Have you made progress?
+How's the task going?
+
+c0 dd b7 d8 b4 75 73 a2 81 6e 73 7b 8a a4 7d 7d 9d 80 de 76 3f 0f
+H  O  W  '  S  20 T  H  E  20 T  A  S  K  20 G  O  I  N  G  ?

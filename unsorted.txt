@@ -484,6 +484,13 @@ D.Claw
 98 6d 73 89 c2 d2 3f
 D  .  C  L  A  W
 
+アイスばくだん
+Ice Bomb
+
+ア イ ス は de く た de ん
+b1 b2 bd 8a de 78 80 de 9d
+I  C  E  20 B  O  M  B  20
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
