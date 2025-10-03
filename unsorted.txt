@@ -1324,6 +1324,20 @@ Hebi.
 cd cb de db bd
 H  E  B  I  .
 
+ファイヤビートム
+Fire Beetom
+Fire Beet
+
+cc a7 b2 d4 cb de b0 c4 d1
+F  I  R  E  20 B  E  E  T  
+
+レットdeハーピー
+Red Harpy
+
+レ ッ ト de ハ ー ヒ df ー
+da af c4 de ca b0 cb df b0
+R  E  D  20 H  A  R  P  Y
+
 ハンドラ
 Handler
 Handy
@@ -1331,6 +1345,14 @@ Handy
 ハ ン ト de ラ
 ca dd c4 de d7
 H  A  N  D  Y
+
+クロハンドラ
+Dark Handler
+DarkHand
+
+ク ロ ハ ン ト de ラ
+b8 db ca dd c4 de d7
+D  A  R  K  H  A  N 
 
 ダークリザード
 Dark Lizard
@@ -1346,6 +1368,13 @@ Curl
 カ ー リ ー
 b6 b0 d8 b0
 C  U  R  L
+
+レッドカーリー
+Red Curly
+
+レ ッ ト de カ ー リ ー
+da af c4 de b6 b0 d8 b0
+R  E  D  C  U  R  L  Y
 
 ブラックOAK
 Dark Oak
