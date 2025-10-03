@@ -1091,3 +1091,51 @@ M  20 D  O  I  N  G  20 A  20 B  I  T  20 O  F  20 E  V
 
 9b 78 94 6f 83 99 89 ba c4 96 a1 
 E  R  Y  T  H  I  N  G  .
+
+-- captain aiv
+
+エイヴ「ほう、ブリザラードへいきたいだと?
+[...]
+なら、ブレイズのひだねをとってきな。
+あれがあれば、うみのこおりをとかせる。
+[...]
+どこにあるかはおれもよくしらん。
+ホープおうこくのひとたちにきいてみな。
+
+So, you wish to go to
+Blizzard?
+
+First find the Ember of
+Blaze to clear the sea
+ice.
+
+(But I don't know where it is, myself.
+You'll need to ask the people of Hope.
+where it is.)
+
+Ask Hope where to find it.
+
+b4 b2 b3 de a2 8e 73 a4 cc de d8 bb de d7 b0 c4 de 8d 72 77 80 72 80 de 84 3f 02 05
+S  O  20 Y  O  U  20 W  I  S  H  20 T  O  20 G  O  20 T  O  02 B  L  I  Z  Z  A  R
+
+85 97 a4 cc de da b2 bd de 89 8b 80 de 88 66 84 6f 83 77 85 a1 02
+D  ?  02 05 F  I  R  S  T  20 F  I  N  D  20 T  H  E  20 E  M  B
+
+71 9a 76 de 71 9a 8a de a4 73 90 89 7a 75 98 66 84 76 7e 99 a1 02 05
+E  R  20 O  F  02 B  L  A  Z  E  20 T  O  20 C  L  E  A  R  20 T  H
+
+84 de 7a 86 71 99 76 8a 75 9a 93 96 78 7c 97 9d a1 02
+E  20 S  E  A  20 I  C  E  .  02 05 A  S  K  20 H  O
+
+ce b0 cc df 75 73 7a 78 89 8b 84 80 81 86 77 72 83 90 85 a1 0f
+P  E  20 W  H  E  R  E  20 T  O  20 F  I  N  D  20 I  T  . 
+
+-- searching captain aiv's chest
+
+エイヴ「こら! かってにさわってはいかん。
+
+Hey! Don't touch things without permission.
+Hey! That's my chest.
+
+b4 b2 b3 de a2 7a 97 21 20 76 6f 83 86 7b 9c 6f 83 8a 72 76 9d a1 02 0f
+H  E  Y  !  20 T  H  A  T  '  S  20 M  Y  20 C  H  E  S  T  .
