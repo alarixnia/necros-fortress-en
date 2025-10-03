@@ -345,8 +345,8 @@ A  H  ,  20 S  Y  L  P  H  Y  20 I  S  20 S  O  20 S  W  E  E  T  .
 
 *「マークのやつ、シルフィーにホレてるんだ。
 でも、あいつはなんじゃくものだからな。
-Mark's got a liking for Slyphie.
-Mark likes Slyphie.
+Mark's got a liking for Slyphy.
+Mark likes Slyphy.
 He's a bit soft, though.
 
 2a a2 cf b0 b8 89 94 82 a4 bc d9 cc a8 b0 86 ce da 83 99 9d 80 de a1 02
@@ -419,7 +419,7 @@ Y  .
 
 Oh dear... Mark, my son,
 is in love with the fisherman's daughter...
-Oh no. My son Mark fell for Sylphie.
+Oh no. My son Mark fell for Sylphy.
 My son Mark fell for the
 barmaid...
 
