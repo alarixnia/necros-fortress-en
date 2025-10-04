@@ -1692,6 +1692,23 @@ F  S  W  O  R  D
 c5 b2 c4 89 79 9d
 K  S  W  O  R  D
 
+りゅうひょうけん
+Drift Ice (Circle? Weapon?)
+(Needs checking)
+Ice sword
+
+り ゅ う ひ ょ う け ん
+98 6d 73 8b 6e 73 79 9d
+I  C  E  S  W  O  R  D
+
+オリハルのつるぎ
+Orichalcum Sword
+Orc Sword
+
+オ リ ハ ル の つ る ぎde
+b5 d8 ca d9 89 82 99 77 de
+O  R  C  20 S  W  O  R  D
+
 おの
 Axe
 
