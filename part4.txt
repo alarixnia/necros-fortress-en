@@ -1280,3 +1280,60 @@ H  O  W  '  D  20 Y  O  U  20 R  E  A  C  H  20 M  E  ?  20 I  '  L
 
 75 89 9a a4 7c de 7a de 78 89 8e 89 75 83 de a4 94 77 82 78 7c 83 78 9a 99 21 0f
 L  L  02 B  U  R  N  20 Y  O  U  20 W  I  T  H  20 H  E  L  L  F  I  R  E  !
+
+-- sylphy after blaze encounter
+
+シルフィー「きゃあ! それは、ブレイズのひだね!
+おねがい、ちかづかないでください!
+
+Eek! That's Blaze's Ember!
+(Please,) Don't come any closer!
+
+bc d9 cc a8 b0 a2 77 6c 71 21 20 7f 9a 8a a4 cc de da b2 bd de 89 8b 80 de 88 21 02
+E  E  K  !  20 T  H  A  T  '  S  20 B  L  A  Z  E  '  S  20 E  M  B  E  R  !  02 D
+
+75 88 76 de 72 a4 81 76 82 de 76 85 72 83 de 78 80 de 7b 72 21 0f
+O  N  '  T  20 C  O  M  E  20 A  N  Y  20 C  L  O  S  E  R  !
+
+-- king after blaze encounter
+
+ホープおう「ほう、ブレイズのひだねをてにいれたか!
+それがあれば、どんなさむさもへいきというぞ。
+
+(Oh,) you have Blaze's Ember!
+You'll survive any cold
+with it.
+
+ce b0 cc df 75 73 a2 8e 73 a4 cc de da b2 bd de 89 8b 80 de 88 66 83 86 72 9a 80 76 21 02
+Y  O  U  20 H  A  V  E  20 B  L  A  Z  E  '  S  20 E  M  B  E  R  !  02 Y  O  U  '  L  L
+
+7f 9a 76 de 71 9a 8a de a4 84 de 9d 85 7b 91 7b 93 8d 72 77 84 72 73 7f de a1 0f
+20 S  U  R  V  I  V  E  20 A  N  Y  20 C  O  L  D  02 W  I  T  H  20 I  T  .
+
+-- queen after blaze encounter
+
+*「ブレイズのひだねじゃないですか。
+よく、てにいれましたね。
+
+Isn't that Blaze's Ember?
+Well done (getting hold of it).
+
+2a a2 cc de da b2 bd de 89 8b 80 de 88 7c de 6c 85 72 83 de 7d 76 a1 02
+I  S  N  '  T  20 T  H  A  T  20 B  L  A  Z  E  '  S  20 E  M  B  E  R
+
+96 78 a4 83 86 72 9a 8f 7c 80 88 a1 0f
+?  20 W  E  L  L  20 D  O  N  E  .
+
+-- more hope queen
+
+おうひ「アレフったら、いつも、ちちおやのそばに
+くっついているんです。
+
+Aleph's always glued to
+his father('s side).
+
+75 73 8b a2 b1 da cc 6f 80 97 a4 72 82 93 a4 81 81 75 94 89 7f 8a de 86 02
+A  L  E  P  H  '  S  20 A  L  W  A  Y  S  20 G  L  U  E  D  20 T  O  20 H
+
+78 6f 82 72 83 72 99 9d 83 de 7d a1 0f
+I  S  20 F  A  T  H  E  R  .
