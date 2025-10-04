@@ -1257,3 +1257,26 @@ How's the task going?
 
 c0 dd b7 d8 b4 75 73 a2 81 6e 73 7b 8a a4 7d 7d 9d 80 de 76 3f 0f
 H  O  W  '  S  20 T  H  E  20 T  A  S  K  20 G  O  I  N  G  ?
+
+-- looking at magma
+
+マグマがあつくて、すすめない。
+The magma is too hot to proceed.
+It's too hot here
+
+cf b8 de cf 76 de 71 82 78 83 a4 7d 7d 92 85 72 a1 0f
+I  T  '  S  20 T  O  O  20 H  O  T  20 H  E  R  E
+
+-- encounter with blaze
+
+ブレイズ「どうやって、ここへはいった?
+おのれ、じごくのほのおで、やきつくしてくれる!
+
+How'd you reach me? I'll
+burn you with hellfire!
+
+cc de da b2 bd de a2 84 de 73 94 6f 83 a4 7a 7a 8d 8a 72 6f 80 3f 02
+H  O  W  '  D  20 Y  O  U  20 R  E  A  C  H  20 M  E  ?  20 I  '  L
+
+75 89 9a a4 7c de 7a de 78 89 8e 89 75 83 de a4 94 77 82 78 7c 83 78 9a 99 21 0f
+L  L  02 B  U  R  N  20 Y  O  U  20 W  I  T  H  20 H  E  L  L  F  I  R  E  !

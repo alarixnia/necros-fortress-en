@@ -1323,6 +1323,14 @@ Majoros
 cf bc de ae db bd
 M  A  J  O  R  O
 
+ギンドラゴニット
+Silver Dragonite
+S. Dragonite
+
+キ de ン ト de ラ コ de ニ ッ ト
+b7 de dd c4 de d7 ba de c6 af c4
+S  .  D  R  A  G  O  N  I  T  E
+
 ヘビロス
 Hebiros
 Hebi.
@@ -1344,6 +1352,13 @@ Red Harpy
 レ ッ ト de ハ ー ヒ df ー
 da af c4 de ca b0 cb df b0
 R  E  D  20 H  A  R  P  Y
+
+ブレイズ
+Blaze
+
+フ de レ イ ス de
+cc de da b2 bd de
+B  L  A  Z  E  20
 
 ハンドラ
 Handler
@@ -2695,6 +2710,12 @@ You've got one.
 は 、 す て de に お も ち の よ う て de す か de 。
 8a a4 7d 83 de 86 75 93 81 89 96 73 83 de 7d 76 de a1 0f
 Y  O  U  '  V  E  20 G  O  T  20 O  N  E  .
+
+--- dead message on stat screen
+
+しぼう
+7c 8e de 73
+D  E  A  D
 
 --- staying at the inn
 
