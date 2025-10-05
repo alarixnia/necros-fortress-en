@@ -1429,3 +1429,83 @@ E  N  J  O  Y  20 T  H  E  20 S  H  I  P  20 '  T  I  L  20 W  E
 
 b6 de d9 c3 d7 7a de 73 8a a4 9c 7c 89 7c de 8f 9d 7c de 6c 76 97 85 a1 0f
 '  M  20 P  R  O  U  D  02 O  F  20 M  Y  20 G  A  L  T  E  R  A  .
+
+-- galtera crew after setting sail
+
+*「おかげで、ひさしぶりにしゅっこうできたぜ。
+ありがとうよ。
+
+I can finally sail again.
+
+Thank you.
+
+2a a2 75 76 79 de 83 de a4 8b 7b 7c 8c de 98 86 7c 6d 6f 7a 73 83 de 77 80 7e de a1 02
+I  20 C  A  N  20 F  I  N  A  L  L  Y  20 S  A  I  L  20 A  G  A  I  N  .  02 T  H  A
+
+71 98 76 de 84 73 96 a1 0f
+N  K  20 Y  O  U  .
+
+*「ブリザラードなんかに、なにしにいくんだ?
+[...]
+えっ? このさむさのげんいんは、ブリザラード
+なのか!
+
+Why (the hell) are you going to Blizzard?
+Eh? They caused this cold?!
+
+2a a2 cc de d8 bb de d7 b0 c4 de 85 9d 76 86 a4 85 86 7c 86 72 78 9d 80 de 3f 02 05
+W  H  Y  20 A  R  E  20 Y  O  U  20 G  O  I  N  G  20 T  O  02 B  L  I  Z  Z  A  R
+
+74 6f 3f 20 7a 89 7b 91 7b 89 79 de 9d 72 9d 8a a4 cc de d8 bb de d7 b0 c4 de 02
+D  ?  02 05 E  H  ?  20 T  H  E  Y  20 C  A  U  S  E  D  20 T  H  I  S  02 C  O
+
+85 89 76 21 0f
+L  D  ?  !
+
+*「さいきん、うみで、やたらとかいぶつが
+でるようになった。どうしてかな?
+
+Lately, there's many monsters in the sea.
+(I wonder why?)
+
+Lately the sea is infested
+with monsters.
+
+2a a2 7b 72 77 9d a4 73 90 83 de a4 94 80 97 84 76 72 8c de 82 76 de 02
+L  A  T  E  L  Y  20 T  H  E  20 S  E  A  20 I  S  20 I  N  F  E  S  T
+
+83 de 99 96 73 86 85 6f 80 a1 84 de 73 7c 83 76 85 3f 0f
+E  D  02 W  I  T  H  20 M  O  N  S  T  E  R  S  .
+
+*「あくまのかいいきは、いつも
+きりがたちこめている。
+
+The devil's sea is thick
+with mist.
+
+Devil's Sea is full of fog.
+
+2a a2 71 78 8f 89 76 72 72 77 8a a4 72 82 93 02
+D  E  V  I  L  '  S  20 S  E  A  20 I  S  20 F
+
+77 98 76 de 80 81 7a 92 83 72 99 a1 0f
+U  L  L  20 O  F  02 F  O  G  .
+
+*「うわさだが、あくまのかいいきには
+なにかおそろしいものが、いるらしい。
+
+They say evil things lurk
+in (the) devils sea.
+
+2a a2 73 9c 7b 80 de 76 de a4 71 78 8f 89 76 72 72 77 86 8a 02
+T  H  E  Y  20 S  A  Y  20 E  V  I  L  20 T  H  I  N  G  S  20
+
+85 86 76 75 7f 9b 7c 72 93 89 76 de a4 72 99 97 7c 72 a1 0f
+L  U  R  K  02 I  N  20 D  E  V  I  L  S  20 S  E  A  .
+
+*「みはりがさわいでいるぞ。いってみよう。
+
+(Go and) check on the watchman.
+
+2a a2 90 8a 98 76 de 7b 9c 72 83 de 72 99 7f de a1 72 6f 83 90 96 73 a1 0f
+C  H  E  C  K  20 O  N  20 T  H  E  20 W  A  T  C  H  M  A  N  .
