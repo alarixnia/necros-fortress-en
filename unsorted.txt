@@ -362,11 +362,12 @@ J  E  W  E  L  20
 
 おうごんのリンゴ
 Golden Apple
-Gold Apple
+Gold Appl
+(Needs to be short due to shop size limit)
 
 お う こ de ん の リ ン コ de
 75 73 7a de 9d 89 d8 dd ba de
-G  O  L  D  20 A  P  P  L  E
+G  O  L  D  20 A  P  P  L  de
 
 -- misc. items
 
