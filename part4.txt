@@ -1586,3 +1586,21 @@ F  I  N  D  20 T  H  E  20 R  E  A  C  T  O  R  .  02 T
 
 7f 7a 76 de a4 7a 89 96 73 7b 72 89 7c de 6c 78 83 9d 83 de 7d a1
 H  A  T  '  S  20 T  H  E  20 W  E  A  K  20 P  O  I  N  T  .
+
+-- confused sailor
+
+エイヴ「どうだ、ガルテラごうですこしやすんでいくか?
+Do you need to rest on
+board (the Galtera)?
+
+b4 b2 b3 de a2 84 de 73 80 de a4 b6 de d9 c3 d7 7a de 73 83 de 7d 7a 7c
+D  O  20 Y  O  U  20 N  E  E  D  20 T  O  20 R  E  S  T  20 O  N  02 B
+
+94 7d 9d 83 de 72 78 76 3f
+O  A  R  D  ?
+
+*「おい、どうなっているんだ!?
+(Oi,) what's going on?!
+
+2a a2 75 72 a4 84 de 73 85 6f 83 72 99 9d 80 de 21 3f 0f
+W  H  A  T  '  S  20 G  O  I  N  G  20 O  N  ?  !
