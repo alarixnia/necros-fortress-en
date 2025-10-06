@@ -1509,3 +1509,63 @@ L  U  R  K  02 I  N  20 D  E  V  I  L  S  20 S  E  A  .
 
 2a a2 90 8a 98 76 de 7b 9c 72 83 de 72 99 7f de a1 72 6f 83 90 96 73 a1 0f
 C  H  E  C  K  20 O  N  20 T  H  E  20 W  A  T  C  H  M  A  N  .
+
+-- watchman spots something
+
+ああっ! あれは、なんだっ!?
+
+Bloody hell! What's that?!
+What in hell?
+
+71 71 6f 21 20 71 9a 8a a4 85 9d 80 de 6f 21 3f 0f
+W  H  A  T  20 I  N  20 H  E  L  L  ?  !
+
+-- sea cutscene
+
+っ!あれは!
+Oh my!
+
+6f 21 71 9a 8a 21 04
+O  H  20 M  Y  !
+
+かいていからあらわれたのは、きょだいな
+ようさいだった!
+
+A monsterous creature
+emerged (from the depths)!
+
+76 72 83 72 76 97 71 97 9c 9a 80 89 8a a4 77 6e 80 de 72 85 02
+A  20 M  O  N  S  T  E  R  O  U  S  20 C  R  E  A  T  U  R  E
+
+96 73 7b 72 80 de 6f 80 21 04
+02 E  M  E  R  G  E  D  !
+
+「うわああっ! ぶつかるぞー!!
+We're gonna crash!
+
+a2 73 9c 71 71 6f 21 20 8c de 82 76 99 7f de b0 21 21 04
+W  E  '  R  E  20 G  O  N  N  A  20 C  R  A  S  H  !
+
+-- aiv after shipwreck
+
+エイヴ「たいへんだ。
+ふねがのりあげてしまったんじゃ。
+[...]
+いったい、このようさいは、なんじゃろう。
+ネクロスのざんとうのしわざか...?
+
+Awful. The ship's wrecked.
+What's this fortress, 
+Necros' remnants work?
+
+b4 b2 b3 de a2 80 72 8d 9d 80 de a1 02
+A  W  F  U  L  .  20 T  H  E  20 S  H
+
+8c 88 76 de 89 98 71 79 de 83 7c 8f 6f 80 9d 7c de 6c a1 02 05
+I  P  '  S  20 W  R  E  C  K  E  D  .  02 05 W  H  A  T  '  S
+
+72 6f 80 72 a4 7a 89 96 73 7b 72 8a a4 85 9d 7c de 6c 9b 73 a1 02
+20 T  H  I  S  20 F  O  R  T  R  E  S  S  ,  02 N  E  C  R  O  S
+
+c8 b8 db bd 89 7b de 9d 84 73 89 7c 9c 7b de 76 eb 3f 0f
+'  20 R  E  M  N  A  N  T  S  '  20 W  O  R  K  ?
