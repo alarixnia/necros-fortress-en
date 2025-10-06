@@ -1261,11 +1261,16 @@ Zombie
 bf de dd ce de b0 b8 de
 Z  O  M  B  I  E  20 20
 
+バンパイア
+
+ハ de ン ハ df イ ア
+ca de dd ca df b2 b1
+V  A  M  P  I  R  E
+
 ギンKOBOLD
 Silver Kobold
 b7 de dd K O B O L D
 S  I  L  . K O B O L
-
 
 オーク
 Orc
@@ -1347,6 +1352,19 @@ Hebi.
 ヘ ヒ de ロ ス
 cd cb de db bd
 H  E  B  I  .
+
+スピリット
+Spirit
+
+ス ピ df リ ッ ト
+bd cb df d8 af c4
+S  P  I  R  I  T
+
+ブルーハーピー
+Blue Harpy
+
+cc de d9 b0 ca b0 cb df b0
+B  L  U  E  H  A  R  P  Y
 
 ファイヤビートム
 Fire Beetom
@@ -1506,6 +1524,14 @@ BluAppl
 ア オ ア ッ プ df ラ
 b1 b5 b1 af cc df d7
 B  L  U  A  P  P  L
+
+デーモン
+Daemon
+Demon
+
+テ de ー モ ン
+c3 de b0 d3 dd
+D  E  M  O  N
 
 --- Armour & Weapons
 

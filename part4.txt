@@ -1604,3 +1604,33 @@ O  A  R  D  ?
 
 2a a2 75 72 a4 84 de 73 85 6f 83 72 99 9d 80 de 21 3f 0f
 W  H  A  T  '  S  20 G  O  I  N  G  20 O  N  ?  !
+
+-- fortress ghoulies
+
+*「フィポナのもりでは、いちぞくのものが
+せわになったそうですね。ぜひ、おれいをしなければ!
+
+In Fipona Forest, you took care of my clan.
+Payback time!
+
+You took out my clan in
+Fipona Forest.
+Payback time!
+
+2a a2 cc a8 ce df c5 89 93 98 83 de 8a a4 72 81 7f de 78 89 93 89 76 de 02
+Y  O  U  20 T  O  O  K  20 O  U  T  20 M  Y  20 C  L  A  N  20 I  N  02 F
+
+7e 9c 86 85 6f 80 7f 73 83 de 7d 88 a1 7e de 8b a4 75 9a 72 66 7c 85 79 9a 8a de 21 0f
+I  P  O  N  A  20 F  O  R  E  S  T  .  20 P  A  Y  B  A  C  K  20 T  I  M  E  !
+
+*「このどうりょくろをはかいするつもりか?
+そうはさせん!
+
+You're going to destroy the reactor?
+I won't let you!
+
+You won't reach our
+reactor!
+
+2a a2 7a 89 84 de 73 98 6e 78 9b 66 8a 76 72 7d 99 82 93 98 76 3f 02 7f 73 8a 7b 7e 9d 21 0f
+Y  O  U  20 W  O  N  '  T  20 R  E  A  C  H  20 O  U  R  02 R  E  A  C  T  O  R  !
