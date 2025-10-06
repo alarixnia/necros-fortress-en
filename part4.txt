@@ -1569,3 +1569,20 @@ I  P  '  S  20 W  R  E  C  K  E  D  .  02 05 W  H  A  T  '  S
 
 c8 b8 db bd 89 7b de 9d 84 73 89 7c 9c 7b de 76 eb 3f 0f
 '  20 R  E  M  N  A  N  T  S  '  20 W  O  R  K  ?
+
+-- bard in fortress
+
+*「どうりょくろをさがしなさい。
+そこが、このようさいのじゃくてんです。
+
+Find the power reactor.
+That's this fortress's weak point.
+
+Find the reactor.
+That's the weak point.
+
+2a a2 84 de 73 98 6e 78 9b 66 7b 76 de 7c 85 7b 72 a1 02
+F  I  N  D  20 T  H  E  20 R  E  A  C  T  O  R  .  02 T
+
+7f 7a 76 de a4 7a 89 96 73 7b 72 89 7c de 6c 78 83 9d 83 de 7d a1
+H  A  T  '  S  20 T  H  E  20 W  E  A  K  20 P  O  I  N  T  .
