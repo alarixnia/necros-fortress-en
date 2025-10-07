@@ -1692,3 +1692,62 @@ T  H  I  S  20 F  O  R  T  R  E  S  S  20 W  I  L  L
 
 75 8f 74 80 81 93 a4 7c 88 21 04
 E  N  02 Y  O  U  !
+
+-- after defeating takoros
+
+タコロス「このタコロスが...たおされるとは...
+しかし...わたしのやくめははたした。いまごろ、
+ブリザラードでは...ネクロスさまが...ぐふっ
+
+Takoros... defeated... but my
+duty... Complete. Now Lord Necros...
+In Blizzard... Guh.
+
+c0 ba db bd a2 7a 89 c0 ba db bd 76 de eb 80 75 7b 9a 99 84 8a eb 02
+T  A  K  O  R  O  S  eb 20 D  E  F  E  A  T  E  D  eb 20 B  U  T  20
+
+7c 76 7c eb 9c 80 7c 89 94 78 92 8a 8a 80 7c 80 a1 72 8f 7a de 9b a4 02
+M  Y  20 D  U  T  Y  eb 20 C  O  M  P  L  E  T  E  .  20 N  O  W  20 L
+
+cc de d8 bb de d7 b0 c4 de 83 de 8a eb c8 b8 db bd 7b 8f 76 de eb 78 de 8c 6f 0f
+O  R  D  20 N  E  C  R  O  S  eb I  N  20 B  L  I  Z  Z  A  R  D  eb
+
+-- chest fairy
+
+*「たすけてくれて、ありがとう。
+わたしは、うみのようせい。おれいに、
+キズついたからだをなおしてあげましょう。
+
+I'm a sea fairy. Thank you
+for saving me. I'll heal
+you now.
+
+2a a2 80 7d 79 83 78 9a 83 a4 71 98 76 de 84 73 a1 02
+I  '  M  20 A  20 S  E  A  20 F  A  I  R  Y  .  20 T
+
+9c 80 7c 8a a4 73 90 89 96 73 7e 72 a1 75 9a 72 86 a4 02
+H  A  N  K  20 Y  O  U  20 F  O  R  20 S  A  V  I  N  G
+
+b7 bd de 82 72 80 76 97 80 de 66 85 75 7c 83 71 79 de 8f 7c 6e 73 a1
+20 M  E  .  20 I  '  L  L  20 H  E  A  L  20 Y  O  U  20 N  O  W  .
+
+-- aiv after destroying reactor
+
+エイヴ「おお、ぶじだったか!
+[...]
+なにっ、ようさいがしずむ?
+これでだっしゅつできる。いそいではなれよう!
+
+Oh, you're safe!
+(What,) the fortress is sinking?
+(That means we can escape. Let's hurry!)
+We must escape now!
+
+b4 b2 b3 de a2 75 75 a4 8c de 7c de 80 de 6f 80 76 21 02 05
+O  H  ,  20 Y  O  U  '  R  E  20 S  A  F  E  !  02 05 T  H
+
+85 86 6f a4 96 73 7b 72 76 de 7c 7d de 91 3f 02
+E  20 F  O  R  T  R  E  S  S  20 I  S  20 S  I
+
+7a 9a 83 de 80 de 6f 7c 6d 82 83 de 77 99 a1 72 7f 72 83 de 8a 85 9a 96 73 21 0f
+N  K  I  N  G  ?  02 W  E  20 M  U  S  T  20 E  S  C  A  P  E  20 N  O  W  !

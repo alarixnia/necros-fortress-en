@@ -432,6 +432,13 @@ Blaze Ember
 cc de da b2 bd de 89 8b 80 de 88
 B  L  A  Z  E  20 E  M  B  E  R
 
+レーザーじゅう
+Laser Gun
+
+レ ー サ de ー し de ゅ う
+da b0 bb de b0 7c de 6d 73
+L  A  S  E  R  20 G  U  N
+
 マージのてがみ
 MAGE'S LETTER
 MAGE NOTE
