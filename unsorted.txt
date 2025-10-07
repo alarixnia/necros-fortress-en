@@ -1387,6 +1387,14 @@ Blaze
 cc de da b2 bd de
 B  L  A  Z  E  20
 
+ダークシールダー
+Dark Shielder
+Dark Shield
+
+タ de ー ク シ ー ル ダ de ー
+c0 de b0 b8 bc b0 d9 c0 de b0
+D  A  R  K  S  H  I  E  L  D 
+
 ハンドラ
 Handler
 Handy
@@ -2470,6 +2478,31 @@ Actually appears twice:
 
 ---
 
+More status effect indicators
+
+もマヒ
+Paralyzed
+
+も マ ヒ
+93 cf cb
+93 P  A
+
+もどく
+Poisoned
+
+も と de く
+93 84 de 78
+93 P  O  I
+
+もげん
+Confused
+
+も け de ん
+93 79 de 9d
+93 C  O  N
+
+---
+
 find and replace:
 every hero's name prefixed with も
 every hero's name suffixed with D
@@ -2845,3 +2878,31 @@ See you.
 
 8f 80 78 99 a4 96 9b 7c 72 a1 0f
 20 S  E  E  20 Y  O  U  .
+
+-- using healing items
+
+をたべた。
+Eaten.
+
+93 を た へ de た 。
+93 66 80 8d de 80 a1
+93 E  A  T  E  N  .
+
+のHPが、
+
+93 89 48 50 76 de a4
+93 '  S  20 H  P  20
+
+かいふくした。
+Restored.
+Healed.
+
+93 か い ふ く し た 。
+93 76 72 8c 78 7c 80 a1
+93 H  E  A  L  E  D  .
+
+のMPが、かいふくした。
+MP was restored.
+
+93 89 4d 50 76 de a4 76 72 8c 78 7c 80 a1
+93 20 M  P  20 R  E  S  T  O  R  E  D  .
