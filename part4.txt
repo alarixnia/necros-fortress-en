@@ -1651,3 +1651,44 @@ D  E  S  T  R  O  Y  20 T  H  I  S  20 R  E  A
 
 7a 9a 7b 74 8a 76 72 7d 9a 8a de a4 96 73 7b 72 93 75 7c 8f 72 80 de a1 0f
 C  T  O  R  20 T  O  02 F  I  N  I  S  H  20 I  T  20 A  L  L  .
+
+-- red guy cutscene
+
+「ふっふっふっ。よくぞここまできた。
+
+Heh heh. Well done for making it this far.
+Heh. You made it.
+
+a2 8c 6f 8c 6f 8c 6f a1 96 78 7f de 7a 7a 8f 83 de 77 80 a1 04
+H  E  H  .  20 Y  O  U  20 M  A  D  E  20 I  T  .
+
+KNIGHT「きさまが、このようさいをつくったのか!
+
+You built this fortress?!
+You built all this?!
+
+14 a2 77 7b 8f 76 de a4 7a 89 96 73 7b 72 66 82 78 6f 80 89 76 21 04
+Y  O  U  20 B  U  I  L  T  20 A  L  L  20 T  H  I  S  ?  !
+
+This part is very timing sensitive:
+
+「そう。このタコロスようさいで、
+うみのじゃまものを、みなごろしにしてやるのだ。
+おまえたちも、しね!
+
+Yes. With this fortress, we'll kill all who
+oppose us!
+(Starting with you!)
+
+This fortress will crush
+all our enemies...
+Even you!
+
+a2 7f 73 a1 7a 89 c0 ba db bd 96 73 7b 72 83 de a4 02
+T  H  I  S  20 F  O  R  T  R  E  S  S  20 W  I  L  L
+
+73 90 89 7c de 6c 8f 93 89 66 a4 90 85 7a de 9b 7c 86 7c 83 94 99 89 80 de a1 02
+20 C  R  U  S  H  02 A  L  L  20 O  U  R  20 E  N  E  M  I  E  S  .  .  .  E  V
+
+75 8f 74 80 81 93 a4 7c 88 21 04
+E  N  02 Y  O  U  !

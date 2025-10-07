@@ -1034,6 +1034,19 @@ Dodged it!
 2a 8a bc de ac dd cc df 83 de 76 9c 7c 80 21 02
 2a 20 D  O  D  G  E  D  20 I  T  !
 
+*「いでよ! キンドラゴニット
+Calls upon kindragon!
+
+2a a2 72 83 de 96 21 20 b7 dd c4 de d7 ba de c6 af c4 02 04
+2a 20 C  A  L  L  S  20 K  I  N  D  R  A  G  O  N  !
+
+*「いでよ! ギンドラゴニット
+Calls upon gindragon!
+
+*  「 い て de よ !  20 キ de ン ト de ラ コ de ニ ッ ト
+2a a2 72 83 de 96 21 20 b7 de dd c4 de d7 ba de c6 af c4 02 04
+2a 20 C  A  L  L  S  20 G  I  N  D  R  A  G  O  N  !  20 
+
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
 20 C  H  A  R  G  E  S  !  20
@@ -1394,6 +1407,12 @@ Dark Shield
 タ de ー ク シ ー ル ダ de ー
 c0 de b0 b8 bc b0 d9 c0 de b0
 D  A  R  K  S  H  I  E  L  D 
+
+タコロス
+Takoros
+
+c0 ba db bd
+T  A  K  R
 
 ハンドラ
 Handler
