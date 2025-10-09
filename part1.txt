@@ -267,14 +267,14 @@ M  A  G  E  20 H  I  T  !  20
 I defeated Necros!
 "Damn it... I will never give up!
 Someday, I will return.
-My seven companions..."
+My seven disciples..."
 
 ネ ワ ロ ス を た お し た !
 c8 b8 db bd 66 80 75 7c 80 21
 
 damn it!
 i will prevail!
-some day, my 7 companions...
+one day, my 7 disciples...
 
 BERSERKERのとつげき!
 Berserker charges!
@@ -648,7 +648,8 @@ O  H  20 D  E  A  R  ,
 *Recently, the men in this village have been disappearing one after another.
 My husband too...
 
-Our village's men are disappearing one by one...
+Our village's men are
+disappearing one by one...
 
 *  「 さ い き ん 、 こ の む ら の お と こ が de 、 つ ぎ de つ ぎ de と
 2a a2 7b 72 77 9d a4 7a 89 91 97 89 75 84 7a 76 de a4 82 77 de 82 77    84
@@ -668,9 +669,9 @@ Our village's men are disappearing one by one...
 Every night, more people
 disappear...
 
-I wonder if Fipona forest to the east of
-here is connected in some
-way.
+I wonder if Fipona forest
+to the south of here is
+connected in some way.
 
 *  「 よ る に な る た ひ de 、 ひ と が de き え て い く の じ de ゃ...
 2a a2 96 99 86 85 99 80 8b de a4 8b 84 76 de 77 74 83 72 78 89 7c de 6c eb 02 05
@@ -687,14 +688,14 @@ MERCENARY「よー、きれーなネーチ?ンだな!
 *「ふふふ、おじょうずね。
 
 Hehe, you think I'm cute?
-Cheeky!
+Hehe, cheeky!
 
 16 「 よ ー 、 き れ ー な ネ ー チ ャ ン た de な !
 16 a2 96 b0 a4 77 9a b0 85 c8 b0 c1 ac dd 80 de 85 21 02
-H  E  H  E  ,  20 Y  O  U  20 T  H  I  N  K  20 I  '  M
+Y  O  U  20 T  H  I  N  K  20 I  '  M  20 C  U  T  E  ?
 
 2a a2 8c 8c 8c a4 75 7c de 6e 73 7d de 88 a1 0f
-20 C  U  T  E  ?  20 C  H  E  E  K  Y  !  20
+02 H  E  H  E  ,  20 C  H  E  E  K  Y  !  20
 
 --- kid in inn bedroom
 
