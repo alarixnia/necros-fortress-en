@@ -1907,8 +1907,53 @@ T  H  E  20 H  E  L  L  ?  !
 「オマエタチハ、
 イケニエトシテ、シヌノダ!
 
-You'll die as sacrifice!
 Now die as a sacrifice!
+The heroes shall die!
 
 a2 b5 cf b4 c0 c1 ca a4 02 b2 b9 c6 b4 c4 bc c3 a4 bc c7 c9 c0 de 21 04
 N  O  W  20 D  I  E  20 A  S  20 A  20 S  A  C  R  I  F  I  C  E  !
+T  H  E  20 H  E  R  O  E  S  20 S  H  A  L  L  20 D  I  E  !
+
+-- king dialogue
+
+タンキリエおう「な、なんと! それはまことか!?
+あの3にんが、ブリザラードでとらわれてしまったと
+いうのか!?
+
+It can't be! The 3 heroes
+have been captured in
+Blizzard?!
+
+c0 dd b7 d8 b4 75 73 a2 85 a4 85 9d 84 21 20 7f 9a 8a 8f 7a 84 76 21 3f 02
+I  T  20 C  A  N  '  T  20 B  E  !  20 T  H  E  20 3  20 H  E  R  O  E  S
+
+71 89 33 86 9d 76 de a4 cc de d8 bb de d7 b0 c4 de 83 de 84 97 9c 9a 83 7c 8f 6f 80 84 0a
+02 H  A  V  E  20 B  E  E  N  20 C  A  P  T  U  R  E  D  20 I  N  02 B  L  I  Z  Z  A  R
+
+72 73 89 76 21 3f 0f
+D  ?  !
+
+SAMURAI、MERCENARY、ELFは、
+KNIGHTたちのきゅうしゅつにむかうこととなった。
+[...]
+タンキリエおう「さむさは、ますますはげしくなって
+きておる。たのむぞ、8ゆうしゃ!
+
+Samurai, Mercenary, and Elf
+were sent to rescue the 3 heroes.
+
+I entrust you to save your captured comrades.
+I trust you to save the 3
+captured ones.
+
+(You must) hurry, the cold
+is ever more harsh!
+
+12 a4 16 a4 11 8a a4 02 14 80 81 89 77 6d 73 7c 6d 82 86 91 76 73 7a 84 84 85 6f 80 a1 02 05
+I  20 T  R  U  S  T  20 Y  O  U  20 T  O  20 S  A  V  E  20 T  H  E  20 3  02 C  A  P  T  U
+
+c0 dd b7 d8 b4 75 73 a2 7b 91 7b 8a a4 8f 7d 8f 7d 8a 79 de 7c 78 85 6f 83 02
+R  E  D  20 O  N  E  S  .  02 05 H  U  R  R  Y  ,  20 T  H  E  20 C  O  L  D
+
+77 83 75 99 a1 80 89 91 7f de a4 38 95 73 7c 6c 21 0f 2a a2 90 81 86 8f 96 6f 80 89 76 72 3f 02
+I  S  20 E  V  E  R  02 H  A  R  S  H  E  R  !

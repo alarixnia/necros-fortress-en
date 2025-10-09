@@ -1,12 +1,12 @@
-Fortress of Necross (English Translation)
+Fortress of Necros (English Translation)
 =========================================
 
-Necros Fortress is a turn-based RPG released in Japan for the PC
-Engine in 1990 on HuCard. It's based on a line of candy toys, but
-don't let that fool you - this game was designed by the company
-behind the Far East of Eden and Sakura Wars series.  It's probably
-most notable for its battle animations, which were very flashy
-for the time.
+Necros Fortress (or "Neclos Fortress")
+is a turn-based RPG released in Japan for the PC Engine in 1990 on
+HuCard. It's based on a line of candy toys, but don't let that fool
+you - this game was designed by the company behind the Far East of Eden
+and Sakura Wars series.  It's probably most notable for its battle
+animations, which were very flashy for the time.
 
 The game is divided into seven chapters, each with a different
 party of three characters.
