@@ -230,3 +230,92 @@ to an end.
 
 Part 4: A Closed Way
 --------------------
+
+We begin in Tankirie Castle. Once you're ready, and have upgraded your
+weapons and got some supplies, head out into the forest.
+
+There's nothing particularly interesting in the forest other than a few
+treasure chests, so grind out some XP and head west to the Hope Kingdom.
+
+Treasure Chests: Herb, Chocolate
+
+When you arrive in Hope, head northwest to the royal palace.  Going
+upstairs, there's a quick event where the young prince runs away from you.
+Head northwest to the King's chamber.
+
+He'll tell you to find the prince. The guards can be used to get directions,
+follow their directions one-by-one to find the prince. After finding him,
+talk to the King again. You'll be told to search for Captain Aiv.  Talk
+to the Queen (south of the King) for a little bit of background information.
+
+Proceed back to the south of the town to find the port, and talk to some
+sailors. You'll learn that Captain Aiv has his own port to the south.
+After learning this, it'll appear on your map, and you'll be able to fast
+travel there when leaving Hope.
+
+Once you arrive at Aiv's Port, board the ship on the southern pier and
+speak with the captain across his desk. You'll be told to search for
+Blaze's Ember to help unfreeze the oceans. Return to Hope Kingdom.
+
+Speak to the King and Queen in the royal palace, and you'll be directed
+towards Mount Xeno. It'll appear on your fast travel map.
+
+Go back to Castle Tankirie. To the castle's east, there's a small shed
+inhabited by Dr. Bomb. He'll give you an Ice Bomb which you can use to
+freeze the lava on Mount Xeno.
+
+Heal up, acquire some supplies, and head towards the peak of Mount Xeno.
+"Use" the ice bomb at the edge of the central crater to freeze the lava
+streams. An entrance at the back of the crater leads to a boss battle with
+Blaze. He uses Fire attacks, so you'll want to use Mage's CLD spell to
+create barriers.
+
+After obtaining Blaze's Ember, head back to Aiv's Port.  A cave over a
+small lava lake is now accessible which provides a shortcut back to the
+bottom of the mountain.
+
+Treasure chests: 200G, Jewel (restores MP),
+Ice Sword (weapon for Knight)
+
+Captain Aiv will tell you to use Blaze's Ember on the sea just before the
+bridge. Once you've done this, you can talk to Aiv again to travel to
+Blizzard.
+
+Once the ship has set sail, the other sailors will hint at you to check
+on the watchman. The watchman is on the west side of the upper deck. After
+talking to him, a cutscene will occur and you'll crash land on a moving
+fortress.
+
+Once on the fortress, you can talk to Aiv again to go back on the ship to
+acquire supplies or heal up.
+
+Follow the NPCs blocking the warp machines and talk to each of them to
+enter a boss battle.
+
+Boss Battle: "Dark Shield"
+Boss Battle: "Vampire"
+Boss Battle: "Shield" (optional)
+Boss Battle: "Shadow" (optional)
+Boss Battle: "Demon x 2"
+
+Takoros (the red guy) should be defeated to unlock the two chests he's
+standing between.
+
+One of the demons is guarding the reactor core. Defeat it, and use the
+laser gun obtained earlier from Takoros to destroy the reactor.
+
+If you open the treasure chests guarded by Shield and Shadow, a fairy will
+appear and offer to fully heal your party. However, this is optional,
+and you can fully heal for 200G on the ship.
+
+Treasure Chests: Gold Apple, Orc Sword, Staff of Truth, 200G, Laser Gun
+
+Go back to the entrance (use the warp to the right of the reactor) and
+talk to Aiv again and he's ready to leave. You'll land on Blizzard Kingdom's
+shore.
+
+Enter Blizzard Palace and talk to the Ice Queen to trigger a cutscene and
+end Part 4.
+
+Part 5: Lady's Letter
+---------------------
