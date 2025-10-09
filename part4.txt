@@ -1023,15 +1023,15 @@ T  H  E  20 G  A  L  T  E  R  A  '  S  20 O  U  T  20 F  R  O  N  T  .
 *「ここのところ、ずっとりくにいるから、
 からだがなまっちまったなあ。
 
-Ashore so long,
-I'll be a landlubber.
+I'm turning into a land
+lubber...
 [Lit: "I've been ashore so long my body is getting dull"]
 
 2a a2 7a 7a 89 84 7a 9b a4 7d de 6f 84 98 78 86 72 99 76 97 a4 02
-A  S  H  O  R  E  20 S  O  20 L  O  N  G  ,  20 I  '  L  L  20 B
+I  '  M  20 T  U  R  N  I  N  G  20 I  N  T  O  20 A  20 L  A  N
 
 76 97 80 de 76 de 85 8f 6f 81 8f 6f 80 85 71 a1 0f
-E  20 A  20 L  A  N  D  L  U  B  B  E  R  .
+D  02 L  U  B  B  E  R  .  .  . 
 
 *「さいきん、あくまのかいいきで、なかまのふねが
 たくさんゆくえふめいになっているんだ。
