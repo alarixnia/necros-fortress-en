@@ -1699,18 +1699,19 @@ E  N  02 Y  O  U  !
 しかし...わたしのやくめははたした。いまごろ、
 ブリザラードでは...ネクロスさまが...ぐふっ
 
-Takoros... defeated... but my
-duty... Complete. Now Lord Necros...
+Takoros... defeated...
+But my duty... Complete.
+Now Lord Necros...
 In Blizzard... Guh.
 
 c0 ba db bd a2 7a 89 c0 ba db bd 76 de eb 80 75 7b 9a 99 84 8a eb 02
-T  A  K  O  R  O  S  eb 20 D  E  F  E  A  T  E  D  eb 20 B  U  T  20
+T  A  K  O  R  O  S  eb 20 D  E  F  E  A  T  E  D  eb 02 B  U  T  20
 
 7c 76 7c eb 9c 80 7c 89 94 78 92 8a 8a 80 7c 80 a1 72 8f 7a de 9b a4 02
-M  Y  20 D  U  T  Y  eb 20 C  O  M  P  L  E  T  E  .  20 N  O  W  20 L
+M  Y  20 D  U  T  Y  eb 20 C  O  M  P  L  E  T  E  .  02 N  O  W  20 L
 
 cc de d8 bb de d7 b0 c4 de 83 de 8a eb c8 b8 db bd 7b 8f 76 de eb 78 de 8c 6f 0f
-O  R  D  20 N  E  C  R  O  S  eb I  N  20 B  L  I  Z  Z  A  R  D  eb
+O  R  D  20 N  E  C  R  O  S  eb 02 I  N  20 B  L  I  Z  Z  A  R  D  eb
 
 -- chest fairy
 
@@ -1751,3 +1752,163 @@ E  20 F  O  R  T  R  E  S  S  20 I  S  20 S  I
 
 7a 9a 83 de 80 de 6f 7c 6d 82 83 de 77 99 a1 72 7f 72 83 de 8a 85 9a 96 73 21 0f
 N  K  I  N  G  ?  02 W  E  20 M  U  S  T  20 E  S  C  A  P  E  20 N  O  W  !
+
+-- blizzard guard
+
+*「ここはブリザラードのおうきゅう。
+おまえたちのくることはわかっていた。
+じょおうさまがおまちだ。
+
+This is the (royal) Blizzard
+palace. We've been
+expecting you.
+
+2a a2 7a 7a 8a cc de d8 bb de d7 b0 c4 de 89 75 73 77 6d 73 a1 02
+T  H  I  S  20 I  S  20 T  H  E  20 B  L  I  Z  Z  A  R  D  20 P
+
+75 8f 74 80 81 89 78 99 7a 84 8a 9c 76 6f 83 72 80 a1 02
+A  L  A  C  E  .  20 W  E  '  V  E  20 B  E  E  N  20 E
+
+7c de 6e 75 73 7b 8f 76 de 75 8f 81 80 de a1 0f
+X  P  E  C  T  I  N  G  20 Y  O  U  .
+
+-- blizzard queen
+
+ブリザラード「わらわは、こおりのじょおう
+ブリザラード。
+なだたるゆうしゃにあえて、うれしいかぎりじゃ。
+[...]
+しかし、わるいが、おまえたちをたいほする!
+
+I am the ice queen.  It's a
+joy to meet you, heroes.
+
+But alas, you're under
+arrest!
+
+cc de d8 bb de d7 b0 c4 de a2 9c 97 9c 8a a4 7a 75 98 89 7c de 6e 75 73 02
+I  20 A  M  20 T  H  E  20 I  C  E  20 Q  U  E  E  N  .  20 I  T  '  S  20
+
+cc de d8 bb de d7 b0 c4 de a1 02
+A  02 J  O  Y  20 T  O  20 M  E
+
+85 80 de 80 99 95 73 7c 6c 86 71 74 83 a4 73 9a 7c 72 76 77 de 98 7c de 6c a1 02 05
+E  T  20 Y  O  U  ,  20 H  E  R  O  E  S  .  02 05 B  U  T  20 A  L  A  S  ,  20 Y
+
+7c 76 7c a4 9c 99 72 76 de a4 75 8f 74 80 81 66 80 72 8e 7d 99 21 0f
+O  U  '  R  E  20 U  N  D  E  R  02 A  R  R  E  S  T  !
+
+-- ice queen cutscene
+
+「えいへい! このものたちをとらえよ!
+
+Guards! Seize them!
+
+04 a2 74 72 8d 72 21 20 7a 89 93 89 80 81 66 84 97 74 96 21 04
+G  U  A  R  D  S  !  20 S  E  I  Z  E  20 T  H  E  M  !
+
+「えっ!?
+ちょ、ちょっとまってください!
+
+Huh?!
+Wait a minute!
+
+a2 74 6f 21 3f 02 81 6e a4 81 6e 6f 84 8f 6f 83 78 80 de 7b 72 21 04
+H  U  H  ?  !  20 W  A  I  T  20 A  20 M  I  N  U  T  E  !
+
+「ハッハ、イイザマダ。
+
+Excellent.
+
+a2 ca af ca a4 b2 b2 bb de cf c0 de a1 04
+E  X  C  E  L  L  E  N  T  .  .  .
+
+「あっ、きさまは!
+
+It's you!
+
+a2 71 6f a4 77 7b 8f 8a 21 04
+I  T  '  S  20 Y  O  U  !
+
+「ワタシハ、メカロスマーク2。
+でーたダケヲテンソウシテ、ヨミガエッタ。
+
+I'm Mecharos MK2,
+loaded from a backup.
+
+a2 dc c0 bc ca a4 d2 b6 db bd cf b0 b8 32 a1 02
+I  '  M  20 M  E  C  H  A  R  O  S  20 M  K  2
+
+83 de b0 80 c0 de b9 a6 c3 dd bf b3 bc c3 a4 d6 d0 b6 de b4 af c0 a1 04
+,  20 L  O  A  D  E  D  20 F  R  O  M  20 A  20 B  A  C  K  U  P  .
+
+「なんだと?
+
+What?
+
+a2 85 9d 80 de 84 3f 04
+W  H  A  T  ?
+
+「キサマラニ、イイモノヲミセテヤロウ。
+
+I'll show you something splendid.
+You'll be amazed...
+
+a2 b7 bb cf d7 c6 a4 b2 b2 d3 c9 a6 d0 be c3 d4 db b3 a1 04
+Y  O  U  '  L  L  20 B  E  20 A  M  A  Z  E  D  .  .  .
+
+-- mecharos mk2
+
+メカロスMK2「ピピー!
+ツイニ、ぷろぐらむハ、シュウリョウスル!
+ネクロスサマガ、フッカツスルノダ!
+
+Program complete! Beep!
+Lord Necros will be
+resurrected!
+
+d2 b6 db bd 4d 4b 32 a2 cb df cb df b0 21 02
+P  R  O  G  R  A  M  20 C  O  M  P  L  E  T
+
+c2 b2 c6 a4 8c df 9b 78 de 97 91 ca a4 bc ad b3 d8 ae b3 bd d9 21 02
+E  !  20 B  E  E  P  !  02 L  O  R  D  20 N  E  C  R  O  S  20 W  I 
+
+c8 b8 db bd bb cf b6 de a4 cc af b6 c2 bd d9 c9 c0 de 21 21 02 0f
+L  L  20 B  E  02 R  E  S  U  R  R  E  C  T  E  D  !
+
+-- necros mk2 cutscene
+
+ああっ!
+Ahh!!
+
+04 a2 71 71 6f 21 04
+04 A  H  H  !  !  04
+
+「われはネクロス...
+I am Necros...
+I, Necros
+
+a2 9c 9a 8a c8 b8 db bd eb 04
+I  ,  20 N  E  C  R  O  S 
+
+やみのせかいよりまいもどった!
+Back from the land of darkness!
+
+94 90 89 7e 76 72 96 98 8f 72 93 84 de 6f 80 21 04
+D  E  F  E  A  T  E  D  20 D  E  A  T  H  !
+
+「なんということだ!
+What the hell?
+The hell?!
+
+a2 85 9d 84 72 73 7a 84 80 de 21 04
+T  H  E  20 H  E  L  L  ?  !
+
+「オマエタチハ、
+イケニエトシテ、シヌノダ!
+
+You'll die as sacrifice!
+Now die as a sacrifice!
+
+a2 b5 cf b4 c0 c1 ca a4 02 b2 b9 c6 b4 c4 bc c3 a4 bc c7 c9 c0 de 21 04
+N  O  W  20 D  I  E  20 A  S  20 A  20 S  A  C  R  I  F  I  C  E  !
