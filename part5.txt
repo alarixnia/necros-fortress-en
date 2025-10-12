@@ -8,6 +8,21 @@ Lady's Letter
 75 73 7c de 6e 89 20 83 76 de 90 02
 L  A  D  Y  S  L  E  T  T  E  R
 
+--- king
+
+タンキリエおう「ことはいっこくをあらそう。
+いそいでブリザラードへむかってくれ。
+
+(This is a matter of urgency,)
+you must journey to
+Blizzard immediately.
+
+c0 dd b7 d8 b4 75 73 a2 7a 84 8a 72 6f 7a 78 66 71 97 7f 73 a1 02
+Y  O  U  20 M  U  S  T  20 J  O  U  R  N  E  Y  20 T  O  02 B  L
+
+72 7f 72 83 de cc de d8 bb de d7 b0 c4 de 8d 91 76 6f 83 78 9a a1 0f
+I  Z  Z  A  R  D  20 I  M  M  E  D  I  A  T  E  L  Y  .
+
 --- people around castle
 
 *「はやく、みなさんをたすけだしてくださいね。
