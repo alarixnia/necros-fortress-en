@@ -158,3 +158,101 @@ S  E  D  20 &  20 N  E  E  D  S  20 A  20 C  O  M  P  A  S
 
 83 de 77 85 72 7f 73 83 de 7d a1 0f
 S  02 T  O  20 C  R  O  S  S  .
+
+*「ホープおうこくがおそわれたらしいが、
+ホープおうならだいじょうぶさ。
+とてもつよいかただからな。
+
+(It seems) Hope was attacked, but
+I'm sure King Hope is
+just fine.
+
+2a a2 ce b0 cc df 75 73 7a 78 76 de 75 7f 9c 9a 80 97 7c 72 76 de a4 02
+H  O  P  E  20 W  A  S  20 A  T  T  A  C  K  E  D  ,  20 B  U  T  02 I
+
+ce b0 cc df 75 73 85 97 80 de 72 7c de 6e 73 8c de 7b a1 02
+I  '  M  20 S  U  R  E  20 K  I  N  G  20 H  O  P  E  20 I
+
+84 83 93 82 96 72 76 80 80 de 76 97 85 a1 0f
+S  02 J  U  S  T  20 F  I  N  E  .
+
+-- sailors
+
+*「またふねがのりあげちまわないよう、
+こんどはしっかりみはっていないとな。
+
+Now I'll be careful not to
+run aground.
+
+2a a2 8f 80 8c 88 76 de 89 98 71 79 de 81 8f 9c 85 72 96 73 a4 02
+N  O  W  20 I  '  L  L  20 B  E  20 C  A  R  E  F  U  L  20 N  O
+
+7a 9d 84 de 8a 7c 6f 76 98 90 8a 6f 83 72 85 72 84 85 a1 0f
+T  20 T  O  02 R  U  N  20 A  G  R  O  U  N  D  .
+
+*「よう。ふねをだすのかい?よーし。しゅっぱつしんこう!
+
+Let's set sail? OK, let's go!
+
+2a a2 96 73 a1 8c 88 66 80 de 7d 89 76 72 3f 96 b0 7c a1 7c 6d 6f 8a df 82 7c 9d 7a 73 21 0f
+L  E  T  '  S  20 S  E  T  20 S  A  I  L  ?  O  K  ,  20 L  E  T  '  S  20 G  O  !
+
+*「このままだと、またうみがこおってしまうぜ。
+
+If this goes on, the sea will freeze over again.
+The sea will freeze soon.
+
+2a a2 7a 89 8f 8f 80 de 84 a4 8f 80 73 90 76 de 7a 75 6f 83 7c 8f 73 7e de a1 0f
+T  H  E  20 S  E  A  20 W  I  L  L  20 F  R  E  E  Z  E  20 S  O  O  N  .
+
+-- aiv
+
+エイヴ「なるほど、わかった。
+わしも、できるだけのことはしよう。
+
+I see. I'll do what I can
+to help.
+
+b4 b2 b3 de a2 85 99 8e 84 de a4 9c 76 6f 80 a1 02
+I  20 S  E  E  .  20 I  '  L  L  20 D  O  20 W  H
+
+9c 7c 93 a4 83 de 77 99 80 de 79 89 7a 84 8a 7c 96 73 a1 0f
+A  T  20 I  20 C  A  N  02 T  O  20 H  E  L  P  .
+
+エイヴ「ふねをだしたいのなら、
+うえのやつにいうといい。
+
+If you want to set sail,
+talk to the lad above.
+
+Talk to the lad above to
+sail.
+
+b4 b2 b3 de a2 8c 88 66 80 de 7c 80 72 89 85 97 a4 02
+T  A  L  K  20 T  O  20 T  H  E  20 L  A  D  20 A  B
+
+73 74 89 94 82 86 72 73 84 72 72 a1 0f
+O  V  E  20 T  O  20 S  A  I  L  .
+
+-- aiv chest
+
+エイヴ「こら。かってにさわってはいかん。
+
+Hey. That's mine.
+
+b4 b2 b3 de a2 7a 97 a1 76 6f 83 86 7b 9c 6f 83 8a 72 76 9d a1 0f
+H  E  Y  .  20 T  H  A  T  '  S  20 M  I  N  E  .
+
+-- ship merchant
+
+*「ワタシ、8ゆうしゃおうえんするよ。
+とくべつかかくでサービスするのコトね!
+
+I've got special prices
+for you 8 heroes(, you know)!
+
+2a a2 dc c0 bc a4 38 95 73 7c 6c 75 73 74 9d 7d 99 96 a1 02
+I  '  M  20 G  I  V  I  N  G  20 S  P  E  C  I  A  L  20 P
+
+84 78 8d de 82 76 76 78 83 de bb b0 cb de bd 7d 99 89 ba c4 88 21 02 05
+R  I  C  E  S  20 T  O  20 Y  O  U  20 8  20 H  E  R  O  E  S  !
