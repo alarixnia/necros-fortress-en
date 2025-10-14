@@ -514,6 +514,13 @@ Ice Bomb
 b1 b2 bd 8a de 78 80 de 9d
 I  C  E  20 B  O  M  B  20
 
+ふぶきのたま
+Snow Orb
+Ice Orb
+
+8c 8c de 77 89 80 8f
+I  C  E  20 O  R  B
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:

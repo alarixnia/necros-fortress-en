@@ -256,3 +256,248 @@ I  '  M  20 G  I  V  I  N  G  20 S  P  E  C  I  A  L  20 P
 
 84 78 8d de 82 76 76 78 83 de bb b0 cb de bd 7d 99 89 ba c4 88 21 02 05
 R  I  C  E  S  20 T  O  20 Y  O  U  20 8  20 H  E  R  O  E  S  !
+
+-- blizzard guard
+
+*「じょおうが、おまちかねだ。
+
+The queen waits.
+
+2a a2 7c de 6e 75 73 76 de a4 75 8f 81 76 88 80 de a1 0f
+T  H  E  20 Q  U  E  E  N  20 W  A  I  T  S  . 
+
+-- blizzard queen
+
+ブリザラード「あの3にんをしゃくほうしろ?
+[...]
+ならん。あの3にんは、ニンゲンへのみせしめとして、
+しけいにしょす。
+[...]
+ニンゲンは、わたしのひとりむすめ、
+ゆきのおうじょをさらっていきおったのじゃ!
+いずれは、ぜんせかいのニンゲンをとうしさせてやる。
+[...]
+SAMURAI「それは、ごむたいな。
+ニンゲンは、そんなわるさはしませぬ!
+[...]
+ブリザラード「このものにきいてみよ。
+SAMURAI「あっ、きさまは!
+
+Ice Queen: Release those 3?
+
+Never. They'll be executed
+as a warning to humanity.
+
+You humans abducted the
+Snow Princess, my only
+daughter!
+
+(One day all) shall bow before me!
+
+Samurai: Ridiculous. Humans
+would never do such a wicked act.
+
+Ice Queen: Ask this one.
+
+[single person version
+Release those 3?
+
+Never. They'll be executed
+as a swarning to humanity.
+
+You humans abducted the
+snow princess, my only
+daughter!
+You shall bow before me!
+
+Step forth, my trusted
+witness.
+]
+
+cc de d8 bb de d7 b0 c4 de a2 71 89 33 86 9d 66 7c 6c 78 8e 73 7c 9b 3f 05 02
+R  E  L  E  A  S  E  20 T  H  O  S  E  E  20 3  ?  02 05 N  E  V  E  R  .  20
+
+85 97 9d a1 71 89 33 86 9d 8a a4 c6 dd b9 de dd 8d 89 90 7e 7c 92 84 7c 83 a4 02
+T  H  E  Y  '  L  L  20 B  E  20 E  X  E  C  U  T  E  D  02 A  S  20 A  20 W  A
+
+7c 79 72 86 7c 6e 7d a1 02 05
+R  N  I  N  G  20 T  O  20 H
+
+c6 dd b9 de dd 8a a4 9c 80 7c 89 8b 84 98 91 7d 92 a4 02
+U  M  A  N  I  T  Y  .  02 05 Y  O  U  20 H  U  M  A  N
+
+95 77 89 75 73 7c de 6e 66 7b 97 6f 83 72 77 75 6f 80 89 7c de 6c 21 02
+S  20 A  B  D  U  C  T  E  D  20 T  H  E  02 S  N  O  W  20 P  R  I  N
+
+72 7d de 9a 8a a4 7e de 9d 7e 76 72 89 c6 dd b9 de dd 66 84 73 7c 7b 7e 83 94 99 a1 02 05
+C  E  S  S  ,  20 M  Y  20 O  N  L  Y  02 D  A  U  G  H  T  E  R  !  02 05 Y  O  U  20 S
+
+12 a2 7f 9a 8a a4 7a de 91 80 72 85 a1 02
+H  A  L  L  20 B  O  W  02 B  E  F  O  R 
+
+c6 dd b9 de dd 8a a4 7f 9d 85 9c 99 7b 8a 7c 8f 7e 87 21 02 05
+E  20 M  E  !  02 05 S  T  E  P  20 F  O  R  T  H  ,  20 M  Y
+
+cc de d8 bb de d7 b0 c4 de a2 7a 89 93 89 86 77 72 83 90 96 a1 0f
+T  R  U  S  T  E  D  02 W  I  T  N  E  S  S  .
+
+-- blizzard queen and mecharos
+
+メカロスマーク2「ピー。ジョオウ、ワタシハ、
+オウジョサマガにんげんニサラワレルノヲ、
+コノメデミマシタ。
+[...]
+SAMURAI「じょおう、こいつのいうことを
+きいてはなりません!
+[...]
+ブリザラード「ほほう。ならば、
+おうじょをさがしだし、つれてまいれ。
+さすれば、なかまはたすけよう。
+
+ただし!
+このおうきゅうのかねが10かいなるまでにじゃ。
+おくれれば、なかまのいのちはない。
+
+この、ふぶきのたまをもっていくがいい。
+むすめなら、これをみせればわかるはず。
+
+Samurai: Ah, you!
+
+Mecharos Mk2: Beep. Queen,
+I have witnessed the humans.
+
+Ice Queen: Ho ho, in that case,
+bring forth the Princess.
+Then I shall spare your comrades.
+
+You must be done by 10 bells,
+If you are late, your
+comrades lives are forfeit.
+
+Take this snow orb. My daughter
+will recognize it.
+
+[single person version
+Beep. My queen, Mecharos
+has seen the crimes of
+the humans.
+
+You doubt us? Very well,
+bring forth the princess
+and I shall spare your
+comrades.
+
+But you must be done by 10
+bells, or your comrades
+lives will be forfeit.
+
+My daughter will recognize
+this orb.
+]
+
+12 a2 71 6f a4 77 7b 8f 8a 21 02 05
+B  E  E  P  .  20 M  Y  20 Q  U  E
+
+d2 b6 db bd cf b0 b8 32 a2 cb df b0 a1 bc de ae b5 b3 a4 dc c0 bc ca a4 02
+E  N  ,  20 M  E  C  H  A  R  O  S  02 H  A  S  20 S  E  E  N  20 T  H  E
+
+b5 b3 bc de ae bb cf b6 de 86 9d 79 de 9d c6 bb d7 dc da d9 c9 a6 a4 02
+20 C  R  I  M  E  S  20 O  F  20 T  H  E  20 H  U  M  A  N  S  .  02 05
+
+ba c9 d2 c3 de d0 cf bc c0 a1 02 05
+Y  O  U  20 D  O  U  B  T  20 U  S
+
+12 a2 7c de 6e 75 73 a4 7a 72 82 89 72 73 7a 84 66 02
+?  20 V  E  R  Y  20 W  E  L  L  .  02 B  R  I  N  G
+
+77 72 83 8a 85 98 8f 7e 9d 21 02 05
+20 F  O  R  T  H  20 T  H  E  20 P
+
+cc de d8 bb de d7 b0 c4 de a2 8e 8e 73 a1 85 97 8a de a4 02
+R  I  N  C  E  S  S  02 A  N  D  20 I  20 S  H  A  L  L  20
+
+75 73 7c de 6e 66 7b 76 de 7c 80 de 7c a4 82 9a 83 8f 72 9a a1 02
+S  P  A  R  E  20 Y  O  U  R  02 C  O  M  R  A  D  E  S  .  02 05
+
+7b 7d 9a 8a de a4 85 76 8f 8a 80 7d 79 96 73 a1 02 05
+B  U  T  20 Y  O  U  20 M  U  S  T  20 B  E  20 D  O  N
+
+80 80 de 7c 21 02 
+E  20 B  Y  20 1
+
+7a 89 75 73 77 6d 73 89 76 88 76 de 31 30 76 72 85 99 8f 83 de 86 7c de 6c a1 02
+0  02 B  E  L  L  S  ,  20 O  R  20 Y  O  U  R  20 C  O  M  R  A  D  E  S  02 L
+
+75 78 9a 9a 8a de a4 85 76 8f 89 72 89 81 8a 85 72 a1 02 05
+I  V  E  S  20 W  I  L  L  20 B  E  20 F  O  R  F  E  I  T
+
+7a 89 a4 8c 8c de 77 89 80 8f 66 93 6f 83 72 78 76 de 72 72 a1 02
+.  02 05 M  Y  20 D  A  U  G  H  T  E  R  20 W  I  L  L  20 R  E
+
+91 7d 92 85 97 a4 7a 9a 66 90 7e 9a 8a de 9c 76 99 8a 7d de a1 0f
+C  O  G  N  I  Z  E  02 T  H  I  S  20 O  R  B  .
+
+-- ice queen again
+
+ブリザラード「さあ、はやくむすめをつれてこい!
+Now, find my daughter at once!
+Now, find the girl at once!
+
+cc de d8 bb de d7 b0 c4 de a2 7b 71 a4 8a 94 78 91 7d 92 66 82 9a 83 7a 72 21 0f
+N  O  W  20 F  I  N  D  20 T  H  E  20 G  I  R  L  20 A  T  20 O  N  C  E  !
+
+-- ice queen first bell
+
+ブリザラード「さあ、1かいめがなったぞ。
+いそげよ。フフフ。
+
+Right, the 1st round's started.
+Hurry up. Heheh.
+
+Right, the 1st round
+begins. Heheh.
+
+cc de d8 bb de d7 b0 c4 de a2 7b 71 a4 31 76 72 92 76 de 85 6f 80 7f de a1 02
+R  I  G  H  T  ,  20 T  H  E  20 1  S  T  20 R  O  U  N  D  20 B  E  G  I  N
+
+72 7f 79 de 96 a1 cc cc cc a1 0f
+S  .  20 H  E  H  E  H  .
+
+-- bell tolling
+
+も?かいめのかねがなった。
+X bell rang.
+
+93 03 76 72 92 89 76 88 76 de 85 6f 80 a1
+93 03 20 B  E  L  L  20 R  A  N  G  .
+
+-- mecharos mk2
+
+メカロスMK2「ピピー。
+ウマイコトヲイッテ、ニゲルツモリダロウ?
+
+Beep.
+You're going to talk your way out of this, aren't you?
+
+Don't talk your way out
+of this. Beep.
+
+d2 b6 db bd 4d 4b 32 a2 cb df cb df b0 a1 02
+D  O  N  '  T  20 T  A  L  K  20 Y  O  U  R
+
+b3 cf b2 ba c4 a6 b2 af c3 a4 c6 b9 de d9 c2 d3 d8 c0 de db b3 3f 0f
+20 W  A  Y  20 O  U  T  02 O  F  20 T  H  I  S  .  20 B  E  E  P
+
+-- blizzard guard again
+
+*「ゆきのおうじょさまをつれてこなければ、
+なかまをだしてやるわけにはいかん。
+
+I can't release them
+without the princess.
+
+2a a2 95 77 89 75 73 7c de 6e 7b 8f 66 82 9a 83 7a 85 79 9a 8a de a4 02
+I  20 C  A  N  '  T  20 R  E  L  E  A  S  E  20 T  H  E  M  02 W  I  T
+
+85 76 8f 66 80 de 7c 83 94 99 9c 79 86 8a 72 76 9d a1 0f
+H  O  U  T  20 T  H  E  20 P  R  I  N  C  E  S  S  .
