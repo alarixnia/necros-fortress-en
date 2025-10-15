@@ -501,3 +501,89 @@ I  20 C  A  N  '  T  20 R  E  L  E  A  S  E  20 T  H  E  M  02 W  I  T
 
 85 76 8f 66 80 de 7c 83 94 99 9c 79 86 8a 72 76 9d a1 0f
 H  O  U  T  20 T  H  E  20 P  R  I  N  C  E  S  S  .
+
+-- king after blizzard
+
+タンキリエおう「なるほど。
+じょおうは、メカロスにだまされているのだな。
+いそいで、ゆきのおうじょをみつけてくれ。
+
+(I see,) the queen is being manipulated by Mecharos.
+(Hurry,) find the princess.
+
+c0 dd b7 d8 b4 75 73 a2 85 99 8e 84 de a1 02
+T  H  E  20 Q  U  E  E  N  20 I  S  20 B  E
+
+7c de 6e 75 73 8a a4 d2 b6 db bd 86 80 de 8f 7b 9a 83 72 99 89 80 de 85 a1 02
+I  N  G  20 M  A  N  I  P  U  L  A  T  E  D  20 B  Y  20 M  E  C  H  A  R  O
+
+72 7f 72 83 de a4 95 77 89 75 73 7c de 6e 66 90 82 79 83 78 9a a1 0f
+S  .  20 F  I  N  D  20 T  H  E  02 P  R  I  N  C  E  S  S  .
+
+-- forest woodcutter
+
+きこり「わーん!
+いえが、ゆきのおもみでつぶれてしまったよう。
+
+Fiddlesticks!
+My house is crushed!
+
+77 7a 98 a2 9c b0 9d 21 02 72 74 76 de a4 95 77 89 75 93 90 83 de 82 8c de 9a 83 7c 8f 6f 80 96 73 a1 0f
+F  I  D  D  L  E  S  T  I  C  K  S  !  02 M  Y  20 H  O  U  S  E  20 I  S  20 C  R  U  S  H  E  D  !
+
+-- forest dryad
+
+ドライアド「おおゆきのせいで、ここはもう
+とおれません。ホープおうこくなら、
+たつまきさばくからいらっしゃい。
+
+The path is blocked (due to snow). To
+reach Hope, pass through
+the (Tornado) Desert.
+
+c4 de d7 b2 b1 c4 de a2 75 75 95 77 89 7e 72 83 de a4 7a 7a 8a 93 73 02
+T  H  E  20 P  A  T  H  20 I  S  20 B  L  O  C  K  E  D  .  20 T  O  20
+
+84 75 9a 8f 7e 9d a1 ce b0 cc df 75 73 7a 78 85 97 a4 02
+R  E  A  C  H  20 H  O  P  E  ,  20 P  A  S  S  20 T  H
+
+80 82 8f 77 7b 8a de 78 76 97 72 97 6f 7c 6c 72 a1 0f
+R  O  U  G  H  20 T  H  E  20 D  E  S  E  R  T  .
+
+-- desert man
+
+*「みちにまよったのかい?
+ここは、らしんばんなしではとおれない...
+
+Are you lost?
+You need a compass...
+
+2a a2 90 81 86 8f 96 6f 80 89 76 72 3f 02
+A  R  E  20 Y  O  U  20 L  O  S  T  ?  02
+
+7a 7a 8a a4 97 7c 9d 8a de 9d 85 7c 83 de 8a 84 75 9a 85 72 eb 0f
+Y  O  U  20 N  E  E  D  20 A  20 C  O  M  P  A  S  S  .  .  .
+
+-- aiv after getting compass clue
+
+エイヴ「なに? らしんばんだと?
+どうしてもっとはやくいわんのだ。
+それなら、わしがもっておる。
+
+Eh? A compass?
+You should've asked
+sooner.
+I've got one, check in
+the chest.
+
+b4 b2 b3 de a2 85 86 3f 20 97 7c 9d 8a de 9d 80 de 84 3f 02
+E  H  ?  20 A  20 C  O  M  P  A  S  S  ?  02 Y  O  U  20 S
+
+84 de 73 7c 83 93 6f 84 8a 94 78 72 9c 9d 89 80 de a1 02
+H  O  U  L  D  '  V  E  20 A  S  K  E  D  02 S  O  O  N
+
+7f 9a 85 97 a4 9c 7c 76 de 93 6f 83 75 99 a1 02 05
+E  R  .  02 05 I  '  V  E  20 G  O  T  20 O  N  E
+
+7f 7a 89 8a 7a 89 85 76 7c de 6c a1 93 6f 83 72 78 76 de 72 72 a1 0f
+.  20 C  H  E  C  K  20 I  N  02 T  H  E  20 C  H  E  S  T  .

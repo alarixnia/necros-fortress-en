@@ -521,6 +521,13 @@ Ice Orb
 8c 8c de 77 89 80 8f
 I  C  E  20 O  R  B
 
+らしんばん
+Compass
+
+ら し ん は de ん
+97 7c 9d 8a de 9d
+C  O  M  P  A  S
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -1091,12 +1098,14 @@ LEVELS UP!
 20 L  E  V  E  L  S  20 UP !
 
 ハdfーティは、にけdeたdeした。
-
 The party fled.
+Party fled.
+
+(requires df's to keep it on one line)
 
 ハ df ー テ ィ は 、 に け de た de し た 。
 ca df b0 c3 a8 8a a4 86 79 de 80 de 7c 80 a1
-T  H  E  20 P  A  R  T  Y  20 F  L  E  D  .
+P  A  R  T  Y  20 df F  L  E  D  .  df df df
 
 もをやっつけた!
 Defeated!
@@ -1413,6 +1422,14 @@ Blaze
 cc de da b2 bd de
 B  L  A  Z  E  20
 
+ミノタウル
+Minotaur
+Mino.
+
+ミ ノ タ ウ ル
+d0 c9 c0 b3 d9
+M  I  N  O  .
+
 ダークシールダー
 Dark Shielder
 Dark Shield
@@ -1426,6 +1443,12 @@ Takoros
 
 c0 ba db bd
 T  A  K  R
+
+ウォーム
+Worm
+
+b3 ab b0 d1
+W  O  R  M
 
 ハンドラ
 Handler
