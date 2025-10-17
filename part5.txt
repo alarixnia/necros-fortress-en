@@ -588,7 +588,21 @@ E  R  .  02 05 I  '  V  E  20 G  O  T  20 O  N  E
 7f 7a 89 8a 7a 89 85 76 7c de 6c a1 93 6f 83 72 78 76 de 72 72 a1 0f
 .  20 C  H  E  C  K  20 I  N  02 T  H  E  20 C  H  E  S  T  .
 
--- hope townsfolk after defeating monsters
+-- desert guy after getting compass
+
+*「ホープおうこくへいける
+ただしいでぐちは、ひとつだけだ。
+
+There's only one true
+exit to Hope.
+
+2a a2 ce b0 cc df 75 73 7a 78 8d 72 79 99 02 80 80 de 7c 72 83
+T  H  E  R  E  '  S  20 O  N  L  Y  20 O  N  E  20 T  R  U  E
+
+de 78 de 81 8a a4 8b 84 82 80 de 79 80 de a1 0f
+02 E  X  I  T  20 T  O  20 H  O  P  E  .
+
+-- hope townsfolk
 
 *「このくには、せんりょうされてしまいました。
 かいぶつがいますから、きをつけて。
