@@ -1027,6 +1027,12 @@ Used jump attack!
 2a 89 bc de ac dd cc df 7a 73 79 de 77 21 02 04
 2a 20 U  S  E  D  20 J  U  M  P  !  
 
+「とおーっ!
+Waah!
+
+a2 84 75 b0 6f 21 02 04
+W  A  A  A  H  !
+
 は、むかっていったす
 Advancing!
 Charges!
@@ -1196,6 +1202,13 @@ X cured.
 *  は 、 か い ふ く し た 。
 2a 8a a4 76 72 8c 78 7c 80 a1 02
 2a 20 C  U  R  E  D  .
+
+*はげんわくされた!
+X is confused!
+X dazzled!
+
+2a 8a 79 de 9d 9c 78 7b 9a 80 21 02
+2a 20 D  A  Z  Z  L  E  D  !
 
 *には、きかなかった!
 X unaffected!
@@ -1429,6 +1442,12 @@ Mino.
 ミ ノ タ ウ ル
 d0 c9 c0 b3 d9
 M  I  N  O  .
+
+ブルーシャドウ
+Blue Shade
+
+cc de d9 b0 bc ac c4 de b3
+B  L  U  E  S  H  A  D  E
 
 ダークシールダー
 Dark Shielder
@@ -1944,6 +1963,14 @@ Air Dagr
 76 7e de 89 c5 b2 cc
 A  I  R  D  A  G  R
 
+ウィズダガー
+Wiz Dagger
+Wiz Daggr
+
+ウ ィ ス de タ de カ de ー
+b3 a8 bd de c0 de b6 de b0
+W  I  Z  20 D  A  G  G  R
+
 サムライかたな
 Katana
 
@@ -2377,7 +2404,7 @@ Clone Cut
 
 ふ de ん し ん さ っ ほ df う
 8c de 9d 7c 9d 7b 6f 8e df 73
-C  L  O  N  E  20 C  U  T  S
+C  L  O  N  E  20 C  U  T  df
 
 ゆきやまおろし
 Chilling Cut
@@ -2547,14 +2574,14 @@ Poisoned
 
 も と de く
 93 84 de 78
-93 P  O  I
+93 P  S  df
 
 もげん
 Confused
 
 も け de ん
 93 79 de 9d
-93 C  O  N
+93 C  N  df
 
 ---
 

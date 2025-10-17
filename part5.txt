@@ -587,3 +587,124 @@ E  R  .  02 05 I  '  V  E  20 G  O  T  20 O  N  E
 
 7f 7a 89 8a 7a 89 85 76 7c de 6c a1 93 6f 83 72 78 76 de 72 72 a1 0f
 .  20 C  H  E  C  K  20 I  N  02 T  H  E  20 C  H  E  S  T  .
+
+-- hope townsfolk after defeating monsters
+
+*「このくには、せんりょうされてしまいました。
+かいぶつがいますから、きをつけて。
+
+Take care, monsters have
+overrun the area.
+
+2a a2 7a 89 78 86 8a a4 7e 9d 98 6e 73 7b 9a 83 7c 8f 72 8f 7c 80 a1 02
+T  A  K  E  20 C  A  R  E  ,  20 M  O  N  S  T  E  R  S  20 H  A  V  E
+
+76 72 8c de 82 76 de 72 8f 7d 76 97 a4 77 66 82 79 83 a1
+02 O  V  E  R  R  R  U  N  20 T  H  E  20 A  R  E  A  .
+
+*「おれたちのふねが、みんなしずめられて
+しまった。くやしいよう。
+
+Bloody hell.
+All our ships sunk.
+
+2a a2 75 9a 80 81 89 8c 88 76 de a4 90 9d 85 7c 7d de 92 97 9a 83 02
+B  L  O  O  O  D  Y  20 H  E  L  L  .  02 A  L  L  20 O  U  R  20 S
+
+7c 8f 6f 80 a1 78 94 7c 72 96 73 a1 0f
+H  I  P  S  20 S  U  N  K  .
+
+*「どうもありがとう。
+こころからかんしゃします。
+
+(Thank you.) I am truly grateful.
+
+2a a2 84 de 73 93 71 98 76 de 84 73 a1 02 7a 7a 9b 76 97 76 9d 7c
+I  20 A  M  20 T  R  U  L  Y  20 G  R  A  T  E  F  U  L  .
+
+6c 7c 8f 7d a1
+
+にせKNIGHT「ひええ、たすかったぜ。
+じゃあな。
+
+Blimey, I'm saved. Bye.
+
+86 7e 14 a2 8b 74 74 a4 80 7d 76 6f 80 7e de a1 02
+B  L  I  M  E  Y  ,  20 I  '  M  20 S  A  V  E  D
+
+7c de 6c 71 85 a1 0f
+.  20 B  Y  E  .
+
+さかばにいたシルフィーなら、
+ニューホープへひなんしていますよ。
+Sylphy took refuge in 
+New Hope.
+
+あのマークが、いのちがけでシルフィーを
+まもったのです。
+Mark risked his life to protect her.
+
+7b 76 8a de 86 72 80 bc d9 cc a8 b0 85 97 a4 02 c6 ad
+S  Y  L  P  H  Y  20 T  O  O  K  20 R  E  F  U  G  E
+
+b0 ce b0 cc df 8d 8b 85 9d 7c 83 72 8f 7d 96 a1 02 05
+20 I  N  20 N  E  W  02 H  O  P  E  .  20 M  A  R  K
+
+71 89 cf b0 b8 76 de a4 72 89 81 76 de 79 83 de bc d9 cc a8 b0 66 02
+20 R  I  S  K  E  D  20 H  I  S  20 L  I  F  E  02 T  O  20 P  R  O
+
+8f 93 6f 80 89 83 de 7d a1 0f
+T  E  C  T  20 H  E  R  .
+
+ハリソン「ありがとう。
+わたしは、ハリソンともうします。
+ゆうしゃさま、おねがいがあるのですが。
+[...]
+ホープおうが、まだしろのなかにいるのです。
+おうをたすけてください。
+[...]
+そのベットのしたに、ひみつのぬけあながあります。
+
+(Thank you. I'm Harrison.)
+(Please,) I have a request. King
+Hope is still inside the
+castle.
+
+I beg you, please save
+him. There's a secret pass
+under my bed.
+
+ca d8 bf dd a2 71 98 76 de 84 73 a1 02
+I  20 H  A  V  E  20 A  20 R  E  Q  U
+
+9c 80 7c 8a a4 ca d8 bf dd 84 93 73 7c 8f 7d a1 02
+E  S  T  .  20 K  I  N  G  02 H  O  P  E  20 I  S
+
+95 73 7c 6c 7b 8f a4 75 88 76 de 72 76 de 71 99 89 83 de 7d 76 de a1 02 05
+20 S  T  I  L  L  20 I  N  S  I  D  E  20 T  H  E  02 C  A  S  T  L  E  .
+
+ce b0 cc df 75 73 76 de a4 8f 80 de 7c 9b 89 85 76 86 72 99 89 83 de 7d a1 02
+02 05 I  20 B  E  G  20 Y  O  U  ,  20 P  L  E  A  S  E  20 S  A  V  E  02 H 
+
+75 73 66 80 7d 79 83 78 80 de 7b 72 a1 02 05
+I  M  .  02 05 T  H  E  R  E  '  S  20 A  20
+
+7f 89 cd de af c4 89 7c 80 86 a4 8b 90 82 89 87 79 71 85 76 de 71 98 8f 7d a1 0f
+S  E  C  R  E  T  20 P  A  S  S  02 U  N  D  E  R  20 M  Y  20 B  E  D  .
+
+*「ふふふふ。
+おどろいたかね。いだいなヘブライルさまは、
+どこでもあらわれるのじゃ!
+
+Hehehe.
+The great god appears
+where he chooses!
+
+2a a2 8c 8c 8c 8c a1 02
+H  E  H  E  H  E  .  02
+
+75 84 de 9b 72 80 76 88 a1 72 80 de 72 85 cd cc de d7 b2 d9 7b 8f 8a a4 02
+T  H  E  20 G  R  E  A  T  20 G  O  D  20 A  P  P  E  A  R  S  02 W  H  E
+
+84 de 7a 83 de 93 71 97 9c 9a 99 89 7c de 6c 21 02 05
+R  E  20 H  E  20 C  H  O  O  S  E  S  !
