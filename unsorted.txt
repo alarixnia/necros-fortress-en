@@ -528,6 +528,13 @@ Compass
 97 7c 9d 8a de 9d
 C  O  M  P  A  S
 
+ホープおうのつるぎ
+Hope Sword
+
+ホ ー フ df お う の つ る き de
+ce b0 cc df 75 73 89 82 99 77 de
+H  O  P  E  20 S  W  O  R  D  df
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -724,21 +731,21 @@ Shot laser!
 
 *  は レ ー サ de ー を う っ た !
 2a 8a da b0 bb de b0 66 73 6f 80 21 02
-2a S  H  O  T  20 L  A  S  E  R  !
+2a 20 S  H  O  T  20 L  A  S  E  R 
 
 *はエナシdeーホdeールをうった!
 Shot energy ball!
 
 *  は エ ナ シ de ー ホ de ー ル を う っ た !
 2a 8a b4 c5 bc de b0 ce de b0 d9 66 73 6f 80 21 02 04
-2a S  H  O  T  20 E  N  E  R  G  Y  !  20 20 20
+2a 20 S  H  O  T  20 E  N  E  R  G  Y  !  20 20
 
 *は、さいみんビームをはっしゃした!
 Shot sleep beam!
 Fired sleep ray!
 
 2a 8a a4 7b 72 90 9d cb de b0 d1 66 8a 6f 7c 6c 7c 80 21 02
-2a F  I  R  E  D  20 S  L  E  E  P  20 R  A  Y  !
+2a 20 F  I  R  E  D  20 S  L  E  E  P  20 R  A  Y  !
 
 は、むかってきた!
 Foe approaching! (Coming!)
@@ -835,6 +842,13 @@ Ouch!
 
 *  「 あ た た っ !
 2a a2 71 80 80 6f 21
+
+*は、まぼろしをよびだした!
+Summoned phantom!
+Called phantom!
+
+2a 8a a4 8f 8e de 9b 7c 66 96 8b de 80 de 7c 80 21 02 04
+2a 20 C  A  L  L  E  D  20 P  H  A  N  T  O  M  !
 
 *のツインアタック!
 Used twin attack!
@@ -1059,6 +1073,13 @@ Dodged it!
 2a 8a bc de ac dd cc df 83 de 76 9c 7c 80 21 02
 2a 20 D  O  D  G  E  D  20 I  T  !
 
+*「そりゃあーっ!
+Heavens!
+
+*  「 そ り ゃ あ ー っ !
+2a a2 7f 98 6c 71 b0 6f 21 02 04
+H  E  A  V  E  N  S  !  20
+
 *「いでよ! キンドラゴニット
 Calls upon kindragon!
 
@@ -1188,6 +1209,12 @@ poisoned!
 *  は 、 と de く に お か さ れ た !
 2a 8a a4 84 de 78 86 75 76 7b 9a 80 21 02
 2a 20 P  O  I  S  O  N  E  D  !  20 20
+
+*は、うごけなくなった!
+immobilized!
+
+2a 8a a4 73 7a de 79 85 78 85 6f 80 21 02
+2a 20 I  M  M  O  B  I  L  I  Z  E  D
 
 *は、?をとなえた!
 X cast Y spell!
@@ -1464,6 +1491,20 @@ Shdw Curl
 シ ャ ト de ウ カ ー リ ー
 bc ac c4 de b3 b6 b0 d8 b0
 S  H  D  W  20 C  U  R  L
+
+ドクロス
+Docros
+Docrs
+
+c4 de b8 db bd
+D  O  C  R  S
+
+デカロス
+Decros
+Decrs
+
+c3 de b6 db bd
+D  E  C  R  S
 
 ブルーシャドウ
 Blue Shade

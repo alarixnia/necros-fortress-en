@@ -787,3 +787,100 @@ Is King Hope safe?
 
 2a a2 71 71 a4 ce b0 cc df 75 73 8a a4 8c de 7c de 80 de 9b 73 76 a1 0f
 I  S  20 K  I  N  G  20 H  O  P  E  20 S  A  F  E  ?
+
+-- docros
+
+ドクロス「ほほう。
+わざわざころされにくるとは、ばかなやつらだ。
+このドクロスさまのてにかかって、しぬがいい。
+
+Well well. What fools you
+are to come here.
+
+Now meet your end (at the hands of Docros).
+
+c4 de b8 db bd a2 8e 8e 73 a1 02 9c 7b de 9c 7b de 7a 9b 7b 9a 86 78
+W  E  L  L  20 W  E  L  L  .  20 W  H  A  T  20 F  O  O  L  S  20 Y
+
+99 84 8a a4 8a de 76 85 94 82 97 80 de a1 02 7a 89 c4 de b8 db bd
+O  U  02 A  R  E  20 T  O  20 C  O  M  E  20 H  E  R  E  .  02 N
+
+7b 8f 89 83 86 76 76 6f 83 a4 7c 87 76 de 72 72 a1 0f
+O  W  20 M  E  E  T  20 Y  O  U  R  20 E  N  D  .
+
+ドクロス「お、おのれ、おぼえておれ!
+Ah, to hell with you!
+
+c4 de b8 db bd a2 75 a4 75 89 9a a4 75 8e de 74 83 75 9a 21 0f
+A  H  20 T  O  20 H  E  L  L  20 W  I  T  H  20 Y  O  U  !
+
+-- decaros
+
+デカロス「ぐるる...
+ドクロスがじかんをかせいでいるあいだに、
+ホープおうをちまつりにしてやったわ。
+
+さて、はやくわしをたおしてすすまんと、
+ホープおうはいきたえてしまうぞ!
+
+Grr... While Docros bought
+us time, I went for the
+King.
+
+You stand in the way of
+his last breath!
+
+c3 de b6 db bd a2 78 de 99 99 eb 02
+G  R  R  .  .  20 W  H  I  L  E  20
+
+c4 de b8 db bd 76 de 7c de 76 9d 66 76 7e 72 83 de 72 99 71 72 80 de 86 a4 02
+D  O  C  R  O  S  20 B  O  U  G  H  T  02 U  S  20 T  I  M  E  ,  20 I  20 W	
+
+ce b0 cc df 75 73 66 81 8f 82 98 86 7c 83 94 6f 80 9c a1 02 05
+E  N  T  20 F  O  R  20 T  H  E  02 K  I  N  G  .  02 05 Y  O
+
+7b 83 a4 8a 94 78 9c 7c 66 80 75 7c 83 7d 7d 8f 9d 84 a4 02
+U  20 S  T  A  N  D  20 I  N  20 T  H  E  20 W  A  Y  20 O
+
+ce b0 cc df 75 73 8a 72 77 80 74 83 7c 8f 73 7f de 21 0f
+F  02 H  I  S  20 L  A  S  T  20 B  R  E  A  T  H  !
+
+-- king after defeating decaros
+
+ホープおう「う...8ゆうしゃか...
+わしはもう...だめだ...
+[...]
+この...つるぎを...むすこのアレフに...
+とどけてくれ...ニューホープに...
+[...]
+ホープおうは、いきをひきとった。
+
+(Ugh...) Heroes.. I'm done for..
+This sword.. Take it to
+my son (Aleph)..  In New Hope.
+[He collapses.]
+
+ce b0 cc df 75 73 a2 73 eb 38 95 73 7c 6c 76 eb 02
+H  E  R  O  E  S  .  .  20 I  '  M  20 D  O  N  E
+
+9c 7c 8a 93 73 eb 80 de 92 80 de eb 02 05
+20 F  O  R  .  .  02 05 T  H  I  S  20 S
+
+7a 89 eb 82 99 77 de 66 eb 91 7d 7a 89 b1 da cc 86 eb 02
+W  O  R  D  .  .  20 T  A  K  E  20 I  T  20 T  O  02 M
+
+84 84 de 79 83 78 9a eb c6 ad b0 ce b0 cc df 86 eb 02 05
+Y  20 S  O  N  .  .  20 I  N  20 N  E  W  20 H  O  P  E
+
+ce b0 cc df 75 73 8a a4 72 77 66 8b 77 84 6f 80 a1 0f
+.  02 [  H  E  20 C  O  L  L  A  P  S  E  S  .  ]
+
+-- dead king
+
+だめだ。すでにしんでいる。
+
+No use. Already dead.
+[Lifeless & cold] 
+
+80 de 92 80 de a1 7d 83 de 86 7c 9d 83 de 72 99 a1 0f
+[  L  I  F  E  L  E  S  S  20 &  20 C  O  L  D  ]
