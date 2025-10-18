@@ -471,6 +471,19 @@ X bell rang.
 93 03 76 72 92 89 76 88 76 de 85 6f 80 a1
 93 03 20 B  E  L  L  20 R  A  N  G  .
 
+あと
+Only
+
+71 84
+20 20
+
+もかいしかない!
+Left over!
+Left!
+
+93 76 72 7c 76 85 72 21 0f
+93 20 L  E  F  T  !  20
+
 -- mecharos mk2
 
 メカロスMK2「ピピー。
@@ -722,3 +735,55 @@ T  H  E  20 G  R  E  A  T  20 G  O  D  20 A  P  P  E  A  R  S  02 W  H  E
 
 84 de 7a 83 de 93 71 97 9c 9a 99 89 7c de 6c 21 02 05
 R  E  20 H  E  20 C  H  O  O  S  E  S  !
+
+-- prisoners in castle
+
+*「だれか、だしてくれーっ。
+Let me out!
+
+2a a2 80 de 9a 76 a4 80 de 7c 83 78 9a b0 6f a1 0f
+P  L  E  A  S  E  20 H  E  L  P  20 M  E  .
+
+*「おねがい、たすけてっ。
+Please help me.
+
+2a a2 75 88 76 de 72 a4 80 7d 79 83 6f a1 0f
+L  E  T  20 M  E  20 O  U  T  !
+
+*「わーいわーい。
+こんなになかまがいるなんて、10ねんぶりだあ!
+Yay. It's been 10 years since
+I had so many friends!
+
+It's been years since I
+had company!
+
+(This is the guy that was already in prison
+before the monster invasion).
+
+2a a2 9c b0 72 9c b0 72 a1 02
+I  T  '  S  20 B  E  E  N  20
+
+7a 9d 85 86 85 76 8f 76 de 72 99 85 9d 83 a4 31 30 88 9d 8c de 98 80 de 71 21 0f
+Y  E  A  R  S  20 S  I  N  C  E  20 I  02 H  A  D  20 C  O  M  P  A  N  Y  !
+
+*「ホープおうが、しろにのこって
+たたかっています。おうをたすけてください!
+King Hope is still (in the castle) fighting.
+Please come to his aid!
+
+You must help the king
+keep up his fight!
+
+2a a2 ce b0 cc df 75 73 76 de a4 7c 9b 86 89 7a 6f 83 02
+Y  O  U  20 M  U  S  T  20 H  E  L  P  20 T  H  E  20 K
+
+80 80 76 6f 83 72 8f 7d a1 75 73 66 80 7d 79 83 78 80 de 7b 72 21 0f
+I  N  G  02 K  E  E  P  20 U  P  20 H  I  S  20 F  I  G  H  T  !
+
+*「ああ、ホープおうは、ぶじだろうか。
+I wonder if King Hope is safe.
+Is King Hope safe?
+
+2a a2 71 71 a4 ce b0 cc df 75 73 8a a4 8c de 7c de 80 de 9b 73 76 a1 0f
+I  S  20 K  I  N  G  20 H  O  P  E  20 S  A  F  E  ?
