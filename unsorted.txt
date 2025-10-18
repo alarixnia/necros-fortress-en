@@ -1181,6 +1181,14 @@ Sudden attack.
 72 77 85 98 75 7f 72 76 76 6f 83 77 80 a1 04
 S  U  D  D  E  N  20 A  T  T  A  C  K  .
 
+*は、どくにおかされた!
+was poisoned!
+poisoned!
+
+*  は 、 と de く に お か さ れ た !
+2a 8a a4 84 de 78 86 75 76 7b 9a 80 21 02
+2a 20 P  O  I  S  O  N  E  D  !  20 20
+
 *は、?をとなえた!
 X cast Y spell!
 
@@ -1209,6 +1217,12 @@ X dazzled!
 
 2a 8a 79 de 9d 9c 78 7b 9a 80 21 02
 2a 20 D  A  Z  Z  L  E  D  !
+
+*は、じゅもんをふうじられた!
+was silenced!
+
+2a 8a a4 7c de 6d 93 9d 66 8c 73 7c de 97 9a 80 21 02
+2a 20 W  A  S  20 S  I  L  E  N  C  E  D  !
 
 *には、きかなかった!
 X unaffected!
@@ -1442,6 +1456,14 @@ Mino.
 ミ ノ タ ウ ル
 d0 c9 c0 b3 d9
 M  I  N  O  .
+
+シャドウカーリー
+Shadow Curly
+Shdw Curl
+
+シ ャ ト de ウ カ ー リ ー
+bc ac c4 de b3 b6 b0 d8 b0
+S  H  D  W  20 C  U  R  L
 
 ブルーシャドウ
 Blue Shade
