@@ -884,3 +884,145 @@ No use. Already dead.
 
 80 de 92 80 de a1 7d 83 de 86 7c 9d 83 de 72 99 a1 0f
 [  L  I  F  E  L  E  S  S  20 &  20 C  O  L  D  ]
+
+-- harrison
+
+ハリソン「そうですか...ホープおうは...
+[...]
+ニューホープは、にしのうみにある
+ちいさなしまです。あそこへいかれるのなら
+いいことをおおしえしましょう。
+[...]
+たつまきさばくのいわをしらべなさい。
+したにあるちかどうをとおれば、かいぶつに
+あわずにすみます。
+
+I see... King Hope is...
+
+New Hope's a (small) island in
+the west(ern) sea...
+
+(Let me give you a hint.)
+If you go back via the
+desert, look at the rocks
+- there's a (safe) pass(age)
+below,
+(so you won't get attacked
+by monsters)
+
+ca d8 bf dd a2 7f 73 83 de 7d 76 eb ce b0 cc df 75 73 8a eb 02 05
+I  20 S  E  E  eb 20 K  I  N  G  20 H  O  P  E  20 I  S  eb 02 05
+
+c6 ad b0 ce b0 cc df 8a a4 86 7c 89 73 90 86 71 99 02
+N  E  W  20 H  O  P  E  '  S  20 A  N  20 I  S  L  A
+
+81 72 7b 85 7c 8f 83 de 7d a1 71 7f 7a 8d 72 76 9a 99 89 85 97 02
+N  D  20 I  N  02 T  H  E  20 W  E  S  T  20 S  E  A  eb 02 05 I
+
+72 72 7a 84 66 75 75 7c 74 7c 8f 7c 6e 73 a1 02 05
+F  20 Y  O  U  20 G  O  20 B  A  C  K  20 V  I  A
+
+80 82 8f 77 7b 8a de 78 89 72 9c 66 7c 97 8d de 85 7b 72 a1 02
+20 T  H  E  02 D  E  S  E  R  T  ,  20 L  O  O  K  20 A  T  20
+
+7c 80 86 71 99 81 76 84 de 73 66 84 75 9a 8a de a4 76 72 8c de 82 86 02
+T  H  E  20 R  O  C  K  S  02 -  20 T  H  E  R  E  '  S  20 A  20 P  A
+
+71 9c 7d de 86 7d 90 8f 7d a1 0f
+S  S  20 B  E  L  O  W  .
+
+-- talking to prisoner again after king death
+
+*「えーん、またさびしくなっちゃったよー!
+Oh no, I'm all alone again!
+No! I'm alone again!
+
+2a a2 74 b0 9d a4 8f 80 7b 8b de 7c 78 85 6f 81 6c 6f 80 96 b0 21
+N  O  !  20 I  '  M  20 A  L  O  N  E  20 A  G  A  I  N  !
+
+-- port town innkeeper
+
+*「ゆきのおうじょさま?
+[...]
+さあ、うちにはいませんねえ。
+
+Snow Princess?
+(Well, she's not here.)
+Never heard of her.
+
+2a a2 95 77 89 75 73 7c de 6e 7b 8f 3f 02 05 7b 71 a4 73 81 86 8a 72 8f 7e 9d 88 74 a1 0f
+P  R  I  N  C  E  S  S  ?  20 N  E  V  E  R  20 H  E  A  R  D  20 O  F  02 H  E  R  .
+
+-- mercenary x marin in port town
+
+MERCENARY「あれ? マリン!
+[...]
+マリン「あ、あら、ぐうぜんね。
+ホープおうこくでは、たいへんだったんですって?
+[...]
+MERCENARY「へー、しんぱいしてくれんの?
+[...]
+マリン「ちがうわよ! あなたがたよりないから、
+みにきたのよ。...まあ、でも、きをつけてね。
+
+There you are!
+
+I heard about the trouble
+in Hope and wanted to
+check on you, since you're
+so messy (unreliable) (and all)...
+
+Well, please take care.
+
+16 a2 71 9a 3f 20 cf d8 dd 21 02 05 cf d8 dd a2 71 a4 71
+T  H  E  R  E  20 Y  O  U  20 A  R  E  !  02 05 I  20 H
+
+97 a4 78 de 73 7e de 9d 88 a1 02 ce b0 cc df 75 73 7a 78 83 de 8a a4 80
+E  A  R  D  20 A  B  O  U  T  20 T  H  E  20 T  R  O  U  B  L  E  02 I
+
+72 8d 9d 80 de 6f 80 9d 83 de 7d 6f 83 3f 02 05 16 a2 8d b0 a4 7c 9d 8a
+N  20 H  O  P  E  20 A  N  D  02 W  A  N  T  E  D  20 T  O  02 C  H  E
+
+df 72 7c 83 78 9a 9d 89 3f 02 05 cf d8 dd a2 81 76 de 73 9c 96 21 20 71
+C  K  20 O  N  20 Y  O  U  ,  20 S  I  N  C  E  20 Y  O  U  '  R  E  02
+
+85 80 76 de 80 96 98 85 72 76 97 a4 02 90 86 77 80 89 96 a1 eb 8f 71 a4
+S  O  20 M  E  S  S  Y  .  02 05 W  E  L  L  ,  20 P  L  E  A  S  E  20
+
+83 de 93 a4 77 66 82 79 83 88 a1 0f
+T  A  K  E  20 C  A  R  E  .
+
+-- once marin leaves
+
+MERCENARY「なんだい、へんなの...
+ン、でも、げんきがでたぞ!
+[...]
+MERCENARYは、マリンのハートをてにいれた!
+
+Hmm... what's that warm fuzzy feeling?
+Suddenly I feel warm...
+
+[Mercenary won Marin's heart!]
+[Mercenary won Marin's love]
+
+16 a2 85 9d 80 de 72 a4 8d 9d 85 89 eb 02 dd a4 83 de 93 a4 79 de 9d 77
+S  U  D  D  E  N  L  Y  20 I  20 F  E  E  L  20 W  A  R  M  eb 02 05 [
+
+76 de 83 de 80 7f de 21 05 02 16 8a a4 cf d8 dd 89 ca b0 c4 66 83 86 72
+M  E  R  C  E  N  A  R  Y  20 W  O  N  20 M  A  R  I  N  '  S  02 L  O
+
+9a 80 21 0f
+V  E  ]
+
+-- marin ???
+
+マリン「あのお...MERCENARYさんは?
+[...]
+えっ! しんじゃったの!?
+そんな...ねえ、はやくいきかえらせてあげて!
+
+Hey... whatever happened to
+Mercenary?
+
+He's dead?! No!
+Revive him at once!

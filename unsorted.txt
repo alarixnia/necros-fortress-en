@@ -2422,6 +2422,13 @@ X.Heal
 c0 de b2 cb b0 d9
 X  .  H  E  A  L
 
+リライブ
+Revive
+Reviv
+
+d8 d7 b2 cc de
+R  E  V  I  V
+
 ミナヒール
 Heal All
 Heal*
