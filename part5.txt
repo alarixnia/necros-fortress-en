@@ -1026,3 +1026,258 @@ Mercenary?
 
 He's dead?! No!
 Revive him at once!
+
+-- new hope villagers
+
+*「こんにちは。ここは、ニューホープです。
+
+Welcome to New Hope.
+
+2a a2 7a 9d 86 81 8a a1 7a 7a 8a a4 c6 ad b0 ce b0 cc df 83 de 7d a1 0f
+W  E  L  C  O  M  E  20 T  O  20 N  E  W  20 H  O  P  E  .
+
+*「これからは、ひとりひとりが
+このくにをささえなくては。
+
+From now on, we have to
+support each other.
+
+Now we'll support each
+other.
+
+2a a2 7a 9a 76 97 8a a4 8b 84 98 8b 84 98 76 de 02
+N  O  W  20 W  E  '  L  L  20 S  U  P  P  O  R  T
+
+7a 89 78 86 66 7b 7b 74 85 78 83 8a a1 0f
+20 E  A  C  H  02 O  T  H  E  R  .
+
+*「いまきょうかいで、けっこんしきを
+やっているんだぜ。
+
+There's a wedding in the
+church right now.
+
+They're marrying in the
+church.
+
+2a a2 72 8f 77 6e 73 76 72 83 de a4 79 6f 7a 9d 7c 77 66
+T  H  E  Y  '  R  E  20 M  A  R  R  Y  I  N  G  20 I  N
+
+02 94 6f 83 72 99 9d 80 de 7e de a1 0f
+20 T  H  E  02 C  H  U  R  C  H  .
+
+*「わたしたちのために、
+ホープおうをくるしめてしまいました。
+じりつしなくてはいけませんね。
+
+We have to be self-reliant,
+not depend on a King.
+
+2a a2 9c 80 7c 80 81 89 80 92 86 a4 02
+W  E  20 H  A  V  E  20 T  O  20 B  E
+
+ce b0 cc df 75 73 66 78 99 7c 92 83 7c 8f 72 8f 7c 80 a1 02
+20 S  E  L  F  -  R  E  L  I  A  N  T  ,  20 N  O  T  20 D
+
+7c de 98 82 7c 85 78 83 8a 72 79 8f 7e 9d 88 a1 0f
+E  P  E  N  D  20 O  N  20 A  20 K  I  N  G  .
+
+*「われわれは、ホープおうにあまえていたのです。
+そのバチがあたったのでしょう。
+
+We've had our comeuppance for relying
+too much on the king.
+
+(At this point I got tired of the repetition)
+
+We're an anarcho-syndicalist
+collective now.
+
+2a a2 9c 9a 9c 9a 8a a4 ce b0 cc df 75 73 86 71 8f 74 83 72 80 89 83 de 7d a1 02
+W  E  '  R  E  20 A  N  20 A  N  A  R  C  H  O  -  S  Y  N  D  I  C  A  L  I  S
+
+7f 89 ca de c1 76 de 71 80 6f 80 89 83 de 7c 6e 73 a1 0f
+S  T  20 C  O  L  L  E  C  T  I  V  E  20 N  O  W  .
+
+*「これは、ゆうしゃどの。
+よくまいられました。
+
+Thank you for coming,
+brave warriors.
+
+-- queen's guards new hope
+
+*「これは、ゆうしゃどの。
+よくまいられました。
+
+??? this is for the heroes,
+you've done well ???
+
+what is for the heroes?
+
+-- queen new hope
+
+おうひ「わたしが、ホープのきさきですが...
+[...]
+そうですか...
+しゅじんのさいごをみとどけてくださって、
+ありがとうございました...
+[...]
+アレフには、まだひみつにしておいて
+くださいな。おさないあのこには、とても
+つたえられません...
+
+I'm Hope's queen...
+
+I see... Thank you for being
+at my husband's side until
+the end...
+
+Please keep this news from
+Aleph for now...
+
+75 73 8b a2 9c 80 7c 76 de a4 ce b0 cc df 89 77 7b 77 83 de 7d 76 de eb 02 05
+I  '  M  20 H  O  P  E  '  S  20 Q  U  E  E  N  eb 02 05 I  20 S  E  E  eb 20
+
+7f 73 83 de 7d 76 eb 02 7c 6d 7c de 9d 89 7b 72 7a de 66 90 84 84 de 79 83 78 80
+T  H  A  N  K  20 Y  O  U  20 F  O  R  20 B  E  I  N  G  02 A  T  20 M  Y  20 H
+
+de 7b 6f 83 a4 02 71 98 76 de 84 73 7a de 7b de 72 8f 7c 80 eb 02 05 b1 da cc 86
+U  S  B  A  N  D  '  S  20 S  I  D  E  20 U  N  T  I  L  02 T  H  E  20 E  N  D
+
+8a a4 8f 80 de 8b 90 82 86 7c 83 75 72 83 02 78 80 de 7b 72 85 a1 75 7b 85 72 71
+eb  02 05 P  L  E  A  S  E  20 K  E  E  P  20 T  H  I  S  20 N  E  W  S  20 F  R
+
+89 7a 86 8a a4 84 83 93 02 82 80 74 97 9a 8f 7e 9d eb 0f
+O  M  02 A  L  E  P  H  20 F  O  R  20 N  O  W  eb eb
+
+-- aleph in new hope
+
+アレフ「こんにちは!
+おじさんたちが、タンキリエのゆうしゃさんだね。
+[...]
+あ。それは、おとうさんのつるぎだ! 
+え? おとうさんが、ぼくにって?
+[...]
+うわあ、すごいや。いままでぜんぜん
+さわらせてくれなかったのに! わーい!
+
+Wow, cool! The  heroes of Tankirie!
+[...]
+And that's Dad's sword!
+Eh? He gave it to me?
+[...]
+Yay! He never (even) let me touch it
+before!
+
+b1 da cc a2 7a 9d 86 81 8a 21 02
+W  O  W  ,  20 C  O  O  L  !  02
+
+75 7c de 7b 9d 80 81 76 de a4 c0 dd b7 d8 b4 89 95 73 7c 6c 7b 9d 80 de 88 a1 02 05
+T  H  E  20 H  E  R  O  E  S  20 O  F  20 T  A  N  K  I  R  I  E  !  02 05 A  N  D
+
+71 a1 7f 9a 8a a4 75 84 73 7b 9d 89 82 99 77 de 80 de 21 20 02
+T  H  A  T  '  S  20 D  A  D  '  S  20 S  W  O  R  D  !  02 05
+
+74 3f 20 75 84 73 7b 9d 76 de a4 8e de 78 86 6f 83 3f 02 05
+E  H  ,  20 H  E  20 G  A  V  E  20 I  T  20 T  O  20 M  E
+
+73 9c 71 a4 7d 7a de 72 94 a1 72 8f 8f 83 de 7e de 9d 7e de 9d 02
+?  20 Y  A  Y  !  02 H  E  20 N  E  V  E  R  20 L  E  T  20 M  E
+
+7b 9c 97 7e 83 78 9a 85 76 6f 80 89 86 21 20 9c b0 72 21 0f
+20 T  O  U  C  H  20 I  T  02 B  E  F  O  R  E  !
+
+アレフ「おとうさんもこないかな。
+このけんで、けいこをしてもらわなくちゃ!
+
+I hope Dad comes back.
+I need to practice with the sword!
+
+I hope Dad comes soon so
+we can train!
+
+b1 da cc a2 75 84 73 7b 9d 93 7a 85 72 76 85 a1 02
+I  20 H  O  P  E  20 D  A  D  20 C  O  M  E  S  20
+
+7a 89 79 9d 83 de a4 79 72 7a 66 7c 83 93 97 9c 85 78 81 6c 21 0f
+S  O  O  N  20 S  O  02 W  E  20 C  A  N  20 T  R  A  I  N  !
+
+-- new hope wedding guests
+
+*「あのマークがね。なかなかやるもんだ。
+
+That Mark lad isn't half bad.
+Mark isn't half bad.
+
+2a a2 71 89 cf b0 b8 76 de 88 a1 85 76 85 76 94 99 93 9d 80 de a1 0f
+M  A  R  K  20 I  S  N  '  T  20 H  A  L  F  20 B  A  D .
+
+*「みをていしてシルフィーをまもったんだそうだ。
+なかなかゆうきがあるじゃないか。
+
+They say he risked his
+life to save Sylphy.
+
+2a a2 90 66 83 72 7c 83 bc d9 cc a8 b0 66 8f 93 6f 80 9d 80 de 7f 73 80 de a1 02
+T  H  E  Y  20 S  A  Y  20 H  E  20 R  I  S  K  E  D  20 H  I  S  02 L  I  F  E
+
+85 76 85 76 95 73 77 76 de 71 99 7c de 6c 85 72 76 a1 0f
+20 T  O  20 S  A  V  E  20 S  Y  L  P  H  Y  .
+
+*「ちえっ。おれも、シルフィーちゃんが
+すきだったのにな...
+
+Damn it. I liked Sylphy too...
+
+2a a2 81 74 6f a1 75 9a 93 a4 bc d9 cc a8 b0 81 6c 9d 76 de 02
+D  A  M  N  20 I  T  .  20 I  20 L  I  K  E  D  20 S  Y  L  P
+
+7d 77 80 de 6f 80 89 86 85 eb 0f
+H  Y  02 T  O  O  .  .  .  df
+
+*「マーク、シルフィー、ふたりともおめでとう!
+
+Mark, Sylphy, congratulations!
+Mark, Sylphy, mazel tov!
+
+2a a2 cf b0 b8 a4 bc d9 cc a8 b0 a4 8c 80 98 84 93 75 92 83 de 84 73 21 0f
+M  A  R  K  ,  20 S  Y  L  P  H  Y  ,  20 M  A  Z  E  L  20 T  O  V  !
+
+*「ぐうたらマークと、びじんのシルフィーか。
+マークのやつ、しりにしかれるぜ。
+
+Lazy Mark & lovely Sylphy.
+(He'll be eaten alive.)
+It won't last.
+
+2a a2 78 de 73 80 97 cf b0 b8 84 a4 8b de 7c de 9d 89 bc d9 cc a8 b0 76 a1 02
+L  A  Z  Y  20 M  A  R  K  20 &  20 L  O  V  E  L  Y  20 S  Y  L  P  H  Y  .
+
+cf b0 b8 89 94 82 a4 7c 98 86 7c 76 9a 99 7e de a1 0f
+.  02 I  T  20 W  O  N  '  T  20 L  A  S  T  . 
+
+*「こんなときだからこそ、
+みんなでいわってあげなくては...
+
+At times like this we must celebrate together.
+Times like this make me
+cry...
+
+2a a2 7a 9d 85 84 77 80 de 76 97 7a 7f a4 02
+T  I  M  E  S  20 L  I  K  E  20 T  H  I  S
+
+90 9d 85 83 de 72 9c 6f 83 71 79 de 85 78 83 8a eb 0f
+20 M  A  K  E  20 M  E  20 C  R  Y  .  .  .
+
+*「こんなかわいいヨメをみつけおって。
+さすがわしのむすこじゃわい。
+
+My son has found such a
+lovely wife.
+
+2a a2 7a 9d 85 76 9c 72 72 d6 d2 66 90 82 79 75 6f 83 a1 02
+M  Y  20 S  O  N  20 H  A  S  20 F  O  U  N  D  20 S  U  C
+
+7b 7d 76 de 9c 7c 89 91 7d 7a 7c de 6c 9c 72 a1 0f
+H  20 A  02 L  O  V  E  L  Y  20 W  I  F  E  .
