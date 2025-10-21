@@ -535,6 +535,13 @@ Hope Sword
 ce b0 cc df 75 73 89 82 99 77 de
 H  O  P  E  20 S  W  O  R  D  df
 
+おうじょのてがみ
+LadysLetter
+Syl Letter
+
+75 73 7c de 6e 89 83 76 de 90
+S  Y  L  20 L  E  T  T  E  R
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
