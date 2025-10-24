@@ -515,6 +515,62 @@ I  20 C  A  N  '  T  20 R  E  L  E  A  S  E  20 T  H  E  M  02 W  I  T
 85 76 8f 66 80 de 7c 83 94 99 9c 79 86 8a 72 76 9d a1 0f
 H  O  U  T  20 T  H  E  20 P  R  I  N  C  E  S  S  .
 
+-- knocking on blizzard shed
+
+おや? ひとのけはいがする。
+[...]
+*「ゆうしゃのかたですか?
+いま、あけます...
+
+Oh? Someone's here.
+
+(You're the heroes?)
+I'll open it now...
+
+75 94 3f 20 8b 84 89 79 8a 72 76 de 7d 99 a1 02 05
+O  H  ?  20 S  O  M  E  O  N  E  '  S  20 H  E  R
+
+2a a2 95 73 7c 6c 89 76 80 83 de 7d 76 3f 02 72 8f a4 71 79 8f 7d eb 0f
+E  .  02 05 I  '  L  L  20 O  P  E  N  20 I  T  20 N  O  W  .  .  .
+
+-- blizzard lady in shed
+
+*「じょおうは、だまされているのです。
+ひめさまは、このくにのせいかつがたいくつで
+いえでをなさったのです。
+[...]
+しかし、このままでは、せかいがこおってしまう。
+どうか、ひめさまをさがしだしてください。
+[...]
+ひめさまのなまえは、
+シルフィーといいます。
+
+The Queen is being manipulated.
+The princess ran
+away for a less dull life.
+
+Please find her and stop
+the freezing.
+Her name is Sylphy.
+
+2a a2 7c de 6e 75 73 8a a4 80 de 8f 7b 9a 83 72 99 89 83 de 7d a1 02
+T  H  E  20 Q  U  E  E  N  20 I  S  20 B  E  I  N  G  20 M  A  N  I
+
+8b 92 7b 8f 8a a4 7a 89 78 86 89 7e 72 76 82 76 de 80 72 78 82 83 de
+P  U  L  A  T  E  D  .  20 T  H  E  20 P  R  I  N  C  E  S  S  20 R
+
+02 72 74 83 de 66 85 7b 6f 80 89 83 de 7d a1 02 05 7c 76 7c a4 7a 89
+A  N  20 A  W  A  Y  20 F  O  R  20 A  20 L  E  S  S  20 D  U  L  L
+
+8f 8f 83 de 8a a4 7e 76 72 76 de 7a 75 6f 83 7c 8f 73 a1 02 84 de 73
+20 L  I  F  E  .  02 05 P  L  E  A  S  E  20 F  I  N  D  20 H  E  R
+
+76 a4 8b 92 7b 8f 66 7b 76 de 7c 80 de 7c 83 78 80 de 7b 72 a1 02 05
+20 A  N  D  20 S  T  O  P  02 T  H  E  20 F  R  E  E  Z  I  N  G  .
+
+8b 92 7b 8f 89 85 8f 74 8a a4 02 bc d9 cc a8 b0 84 72 72 8f 7d a1 0f
+02 H  E  R  20 N  A  M  E  20 I  S  20 S  Y  L  P  H  Y  .
+
 -- king after blizzard
 
 タンキリエおう「なるほど。
