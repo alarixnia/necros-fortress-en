@@ -1445,3 +1445,12 @@ R  U  T  H  .  20 I  T  '  L  L  02 H  E  L  P  20 S  H  O  W  20 W  H  O
 
 9c 76 99 83 de 7c 6e 73 a1 0f
 '  S  20 L  Y  I  N  G  .
+
+-- blizzard cave thingy (appears twice)
+
+ドワーフがいれば、くずせそうだ。
+A dwarf could break it.
+
+ト de ワ ー フ か de い れ は de 、 く す de せ そ う た de 。
+c4 de dc b0 cc 76 de 72 9a 8a de a4 78 7d de 7e 7f 73 80 de a1 0f
+A  20 13 20 C  O  U  L  D  20 B  R  E  A  K  20 I  T  .

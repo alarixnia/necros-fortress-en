@@ -1491,6 +1491,13 @@ Mino.
 d0 c9 c0 b3 d9
 M  I  N  O  .
 
+アイスグリフォン
+Ice Griffon
+
+ア イ ス ク de リ フ ォ ン
+b1 b2 bd b8 de d8 cc ab dd
+I  C  E  20 G  R  I  F  F
+
 シャドウカーリー
 Shadow Curly
 Shdw Curl
@@ -1512,6 +1519,12 @@ Decrs
 
 c3 de b6 db bd
 D  E  C  R  S
+
+ダークスピリット
+Dark Spirit
+
+c0 de b0 b8 bd cb df d8 af c4
+D  A  R  K  S  P  I  R  I  T
 
 ブルーシャドウ
 Blue Shade
@@ -2638,6 +2651,19 @@ Actually appears twice:
 ---
 
 More status effect indicators
+
+もしに
+Death
+KO
+
+93 7c 86
+93 K  O
+
+もふう
+Frozen
+
+93 8c 73
+93 F  R
 
 もマヒ
 Paralyzed
