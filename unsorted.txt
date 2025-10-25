@@ -1540,6 +1540,12 @@ Dark Spirit
 c0 de b0 b8 bd cb df d8 af c4
 D  A  R  K  S  P  I  R  I  T
 
+メカロスMK-2
+Mecharos MK.2
+
+d2 b6 db bd 4d 4b 2d 32
+M  E  C  H  A  R  O  S
+
 ブルーシャドウ
 Blue Shade
 

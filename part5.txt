@@ -1585,3 +1585,32 @@ Mecharos!
 
 a2 7b 71 d2 b6 db bd 21 20 7a 9d 84 de 7a 7f 02 7c de 7a de 78 86 72 6f 83 93 97 73 7f de 21 04
 I  '  L  L  20 S  E  N  D  20 Y  O  U  20 T  O  20 H  E  L  L  20 M  E  C  H  A  R  O  S  !
+
+「ウヌヌ、コシャクナ!
+Why you little...!
+
+a2 b3 c7 c7 a4 ba bc ac b8 c5 21 04
+W  H  Y  20 Y  O  U  .  .  .  !
+
+-- some parts of the above cutscene are in random locations 
+
+こおりのかがみが、あたりをてらす!
+The icy mirror illuminates!
+The mirror glows!
+
+7a 75 98 89 76 76 de 90 76 de a4 71 80 98 66 83 97 7d 21 04
+T  H  E  20 M  I  R  R  O  R  20 G  L  O  W  S  !
+
+「ダッ、ダレダ!
+What the hell?
+What the?!
+
+a2 c0 de af a4 c0 de da c0 de 21 04
+W  H  A  T  20 T  H  E  ?  !  df
+
+ギロチンをくいとめた!
+The guillotine stopped!
+It stopped!
+
+b7 de db c1 dd 66 78 72 84 92 80 21
+I  T  20 S  T  O  P  P  E  D  !
