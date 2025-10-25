@@ -1471,3 +1471,62 @@ I  20 W  O  N  '  T  20 G  I  V  E  20 U  P  20 T  H  E  20 M
 
 7f 73 76 9d 80 9d 86 8a 9c 80 7b 9d 21 0f
 I  R  R  O  R  02 E  A  S  I  L  Y  !
+
+-- back in blizzard
+
+*「おお! あなたがたのなかまは、たったいま
+しけいじょうにひったてられていきました。
+まだまにあいます。いそいで!
+
+(Oh!)
+Your friends were just
+taken away (to the execution ground).
+There's still time. Hurry!
+
+2a a2 75 75 21 20 71 85 80 76 de 80 89 85 76 8f 8a a4 80 6f 80 72 8f 02
+Y  O  U  R  20 F  R  I  E  N  D  S  20 W  E  R  E  20 J  U  S  T  02 T
+
+7c 79 72 7c de 6e 73 86 8b 6f 80 83 97 9a 83 72 77 8f 7c 80 a1 02
+A  K  E  N  20 A  W  A  Y  .  02 05 T  H  E  R  E  '  S  20 S  T
+
+8f 80 de 8f 86 71 72 8f 7d a1 72 7f 72 83 de 21 0f
+I  L  L  20 T  I  M  E  .  20 H  U  R  R  Y  !
+
+-- 10th bell ringing
+
+そのとき、ついに10かいめのかねが
+なりひびいた!
+
+The 10th bell rings out!
+
+04 7f 89 84 77 a4 82 72 86 31 30 76 72 92 89 76 88 76 de 02 85 98 8b 8b de 72 80 21 0f
+04 T  H  E  20 1  0  T  H  20 B  E  L  L  20 R  I  N  G  S  20 O  U  T  !
+
+-- mecharos mk2 event
+
+メカロスMK2「ピピー!
+10カイメノカネハナッタ。
+[...]
+ツイニ、ヤウシャノ3ニンモ、ぎろちんノモクズト
+キエルノダ!
+
+THE 10TH BELL HAS TOLLED.
+BEEP!
+
+(AT LAST THE GUILLOTINE CALLS
+FOR THE THREE HEROES!)
+
+3 HEROES FOR THE
+GUILLOTINE!
+
+d2 b6 db bd 4d 4b 32 a2 cb df cb df b0 21 02
+T  H  E  20 1  0  T  H  20 B  E  L  L  20 H
+
+31 30 b6 b2 d2 c9 b6 c8 ca c5 af c0 a1 02 05
+A  S  20 T  O  L  L  E  D  .  20 B  E  E  P
+
+c2 b2 c6 a4 d5 b3 bc ac c9 33 c6 dd d3 a4 77 de 9b 81 9d c9 d3 b8 bd de c4 02
+!  02 05 3  20 H  E  R  O  E  S  20 F  O  R  20 T  H  E  02 G  U  I  L  L  O
+
+b7 b4 d9 c9 c0 de 21 0f
+T  I  N  E  !  df 20

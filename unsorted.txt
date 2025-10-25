@@ -2471,6 +2471,12 @@ Heal*
 d0 c5 cb b0 d9
 H  E  A  L  *
 
+ハイパーシールド
+Hyper shield
+
+ca b2 ca df b0 bc b0 d9 c4 de
+H  Y  P  R  S  H  I  E  L  D
+
 --- Samurai's spells
 
 じゅうもんじギリ
