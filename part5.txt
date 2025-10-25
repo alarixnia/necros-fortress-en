@@ -1454,3 +1454,20 @@ A dwarf could break it.
 ト de ワ ー フ か de い れ は de 、 く す de せ そ う た de 。
 c4 de dc b0 cc 76 de 72 9a 8a de a4 78 7d de 7e 7f 73 80 de a1 0f
 A  20 13 20 C  O  U  L  D  20 B  R  E  A  K  20 I  T  .
+
+-- blizzard cave ice dragon
+
+*「この、こおりのかがみがめあてか?
+そうかんたんにはわたさん!
+
+You seek the ice mirror?
+I shan't hand it over easily!
+
+I won't give up the mirror
+easily!
+
+2a a2 7a 89 a4 7a 75 98 89 76 76 de 90 76 de 92 71 83 76 3f 02
+I  20 W  O  N  '  T  20 G  I  V  E  20 U  P  20 T  H  E  20 M
+
+7f 73 76 9d 80 9d 86 8a 9c 80 7b 9d 21 0f
+I  R  R  O  R  02 E  A  S  I  L  Y  !

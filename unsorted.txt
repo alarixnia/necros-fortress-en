@@ -542,6 +542,14 @@ Syl Letter
 75 73 7c de 6e 89 83 76 de 90
 S  Y  L  20 L  E  T  T  E  R
 
+こおりのかがみ
+Ice Mirror
+Mirror
+
+こ お り の か か de み
+7a 75 98 89 76 76 de 90
+M  I  R  R  O  R  df 20
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -1079,6 +1087,12 @@ Dodged it!
 *  は シ de ャ ン フ df て de か わ し た !
 2a 8a bc de ac dd cc df 83 de 76 9c 7c 80 21 02
 2a 20 D  O  D  G  E  D  20 I  T  !
+
+*「たあーーっ!
+Taaahhh!
+
+2a a2 80 71 b0 b0 6f 21 02 04
+T  A  A  A  H  H  H  !
 
 *「そりゃあーっ!
 Heavens!
