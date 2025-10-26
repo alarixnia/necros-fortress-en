@@ -776,6 +776,13 @@ Grr grr grr grr!
 2a a2 cc b6 de cc b6 de cc b6 de cc b6 de b0 af 21
 G  R  R  20 G  R  R  20 G  R  R  20 G  R  R  !  20
 
+*は、うんをてんにいのった!
+Leave it to fate!
+Fate take me!
+
+2a 8a a4 73 9d 66 83 9d 86 72 89 6f 80 21 02 04
+F  A  T  E  20 T  A  K  E  20 M  E  !
+
 *「いくぞ!
 Let's go!
 Come on!
@@ -935,6 +942,12 @@ Fires bow!
 8a a4 95 90 66 8a 85 6f 80 21
 S  H  O  O  T  20 B  O  W  !
 20 F  I  R  E  S  20 B  O  W
+
+うんがわるかった...
+Bad luck...
+
+73 9d 76 de 9c 99 76 6f 80 eb 02
+B  A  D  20 L  U  C  K  eb df 02
 
 *「うっ!
 "Ugh!"

@@ -1614,3 +1614,143 @@ It stopped!
 
 b7 de db c1 dd 66 78 72 84 92 80 21
 I  T  20 S  T  O  P  P  E  D  !
+
+-- defeating mecharos
+
+*「メカロスマーク2「ビッ...
+[...]
+ワタシノヤクメハ、オワッタガ...
+コレデ、ワレワレニカッタト、オモウナヨ...
+[...]
+イマゴロ、ねくろすサマハ...
+ア・ト・ラ・ン・チ・ス...デ...
+
+BEEEP. MECHAROS MK2'S ROLE
+IS OVER, BUT (YOU HAVEN'T WON)...
+
+BY NOW, LORD NECROS...
+ATLANTIS...
+
+2a a2 d2 b6 db bd cf b0 b8 32 a2 cb de af eb 02 05
+B  E  E  E  P  .  20 M  E  C  H  A  R  O  S  20 M
+
+dc c0 bc c9 d4 b8 d2 ca a4 b5 dc af c0 b6 de eb 02
+K  2  '  S  20 R  O  L  E  02 I  S  20 O  V  E  R
+
+ba da c3 de a4 dc da dc da c6 b6 af c0 c4 a4 b5 d3 b3 c5 d6 eb 02 05
+,  20 B  U  T  eb 02 05 Y  O  U  20 H  A  V  E  N  '  T  20 W  O  N
+
+b2 cf ba de db a4 88 78 9b 7d bb cf ca eb 02
+eb 02 05 B  Y  20 N  O  W  ,  20 L  O  R  D
+
+b1 a5 c4 a5 d7 a5 dd a5 c1 a5 bd eb c3 de eb 02
+20 N  E  C  R  O  S  eb  02 A  T  L  A  N  T  I
+
+cb de b0 af 0f
+I  S  eb
+
+-- after mecharos defeat
+
+こうして、ゆうしゃのかつやくにより、
+あやういところで、せかいはすくわれた。
+[...]
+しかし、メカロスのいいのこしたことば、
+アトランチスとは...?
+
+And so, the heroes triumphed
+at the 11th hour.
+
+Yet questions remained... (Mecharos left questions)
+(Atlantis...?)
+
+7a 73 7c 83 a4 95 73 7c 6c 89 76 82 94 78 86 96 98 a4 02
+A  N  D  20 S  O  ,  20 T  H  E  20 H  E  R  O  E  S  20
+
+71 94 73 72 84 7a 9b 83 de a4 7e 76 72 8a 7d 78 9c 9a 80 a1 02 05
+T  R  I  U  M  P  H  E  D  20 A  T  20 T  H  E  20 1  1  T  H  20
+
+7c 76 7c a4 d2 b6 db bd 89 72 72 89 7a 7c 80 7a 84 8a de a4 02
+H  O  U  R  .  02 05 Y  E  T  20 Q  U  E  S  T  I  O  N  S  20
+
+b1 c4 d7 dd c1 bd 84 8a eb 3f 0f
+R  E  M  A  I  N  E  D  eb
+
+ネクロスは、アトランチスでなにをしようと
+しているのか...
+
+What is Necros plotting
+in Atlantis...?
+
+What is Necros plotting
+next?
+
+c8 b8 db bd 8a a4 b1 c4 d7 dd c1 bd 83 de 85 86 66 7c 96 73 84 02 7c 83 72 99 89 76 eb 02 04 05
+W  H  A  T  20 I  S  20 N  E  C  R  O  S  20 P  L  O  T  T  I  N  G  02 N  E  X  T  ?
+
+8ゆうしゃは、アトランチスのなぞを
+ちょうさするため、かくちへとんだ。
+
+The 8 heroes set forth to find
+the mysterious Atlantis.
+
+The 8's quest now points to
+Atlantis.
+
+38 95 73 7c 6c 8a a4 b1 c4 d7 dd c1 bd 89 85 7f de 66 02
+T  H  E  20 8  '  S  20 Q  U  E  S  T  20 N  O  W  20 P
+
+81 6e 73 7b 7d 99 80 92 a4 76 78 81 8d 84 9d 80 de a1 04
+O  I  N  T  S  02 T  O  20 A  T  L  A  N  T  I  S  .
+
+AMAZONは、ひとりドラゴンにのり、DWARFと
+BERSERKERのまつタンキリエへむかった。
+
+Amazon rode her dragon towards Tankirie
+Castle, where Berserker and Dwarf waited.
+
+Amazon rode a dragon to Tankirie...
+
+10 8a a4 8b 84 98 c4 de d7 ba de dd 86 89 98 a4 13 84 02
+A  M  A  Z  O  N  20 R  O  D  E  20 A  20 D  R  A  G  O
+
+15 89 8f 82 c0 dd b7 d8 b4 8d 91 76 6f 80 a1 04
+N  20 T  O  02 T  A  N  K  I  R  I  E  .  .
+
+-- king's task after mecharos
+
+タンキリエおう「しらせはきいた。AMAZONどのも、
+DWARFとBERSERKERをつれて、アトランチス
+なるもののちょうさにむかってくれ!
+
+I've heard the news. Amazon, take Dwarf and
+Berserker with you, and investigate this
+Atlantis!
+
+I've heard the news.
+Amazon, go with Dwarf and
+Berserker!
+
+c0 dd b7 d8 b4 75 73 a2 7c 97 7e 8a 77 72 80 a1 10 84 de 89 93 a4 02
+I  '  V  E  20 H  E  A  R  D  20 T  H  E  20 N  E  W  S  .  02 A  M
+
+13 84 15 66 82 9a 83 a4 b1 c4 d7 dd c1 bd 02
+A  Z  O  N  ,  20 G  O  20 W  I  T  H  20 13
+
+85 99 93 89 89 81 6e 73 7b 86 91 76 6f 83 78 9a 21 0f 04
+20 A  N  D  02 B  E  R  S  E  R  K  E  R  !
+
+でんせつのたいりくアトランチスをもとめて、
+8ゆうしゃのさいごのぼうけんがはじまった!
+
+In search of the legendary missing land
+of Atlantis, the final adventure of our
+8 heroes has begun!
+
+Our final quest: In search of
+the lost Atlantis!
+
+83 de 9d 7e 82 89 80 72 98 78 b1 c4 d7 dd c1 bd 66 93 84 92 83 a4 02
+O  U  R  20 F  I  N  A  L  20 Q  U  E  S  T  :  20 I  N  20 S  E  A
+
+38 95 73 7c 6c 89 7b 72 7a de 89 8e de 73 79 9d 76 de 8a 7c de 8f 6f 80 21 0f
+R  C  H  02 O  F  20 T  H  E  20 L  O  S  T  20 A  T  L  A  N  T  I  S  !
