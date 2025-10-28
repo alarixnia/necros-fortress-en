@@ -92,3 +92,52 @@ W  H  Y  20 I  S  20 T  H  E  20 K  I  N  G  20 S  U  P  P  O  R  T  I
 
 74 9d 7c de 6e 66 7c 83 72 99 9d 80 de 9b 73 eb 0f
 N  G  02 D  R  .  20 B  O  M  B  .  .  .  ?
+
+ボムはかせ「アトランチス?
+しりあいのアラオはかせが、そんな
+けんきゅうをしていたが...
+[...]
+ところで、じっけんだいにならんか?
+これは、かいはつちゅうの"よみがえりのくすり"
+なんじゃが...
+
+Atlantis? My friend Dr.
+Arao was researching it, but...
+[...]
+(Care to be a guinea pig?
+I'm working on a "revival potion".)
+Care to help test my new
+"revival potion"?
+
+ce de d1 8a 76 7e a2 b1 c4 d7 dd c1 bd 3f 02
+A  T  L  A  N  T  I  S  ?  20 M  Y  20 F  R
+
+7c 98 71 72 89 b1 d7 b5 8a 76 7e 76 de a4 7f 9d 85 02
+I  E  N  D  20 D  R  .  20 A  R  A  O  20 W  A  S  20
+
+79 9d 77 6d 73 66 7c 83 72 80 76 de eb 05 02
+R  E  S  E  A  R  C  H  I  N  G  20 I  T  ,
+
+84 7a 9b 83 de a4 7c de 6f 79 9d 80 de 72 86 85 97 9d 76 3f 02
+02 B  U  T  .  .  .  02 05 C  A  R  E  20 T  O  20 H  E  L  P
+
+7a 9a 8a a4 76 72 8a 82 81 6d 73 89 22 96 90 76 de 74 98 89 78 7d 98 22 02
+20 T  E  S  T  20 M  Y  20 N  E  W  02 "  R  E  V  I  V  A  L  20 P  O  T
+
+85 9d 7c de 6c 76 de eb
+I  O  N  "  .  .  .  ?
+
+AMAZON「い、いえ、きゅうようをおもいだして...
+またにしますわ。
+
+(No, no, I've just remembered an urgent matter...)
+... What do you mean you're busy?
+
+よ う を お も 
+96 73 66 75 93
+
+10 a2 72 a4 72 74 a4 77 6d 73 96 73 66 75 93 72 80 de 7c 83 eb 02
+eb W  H  A  T  20 D  O  20 Y  O  U  20 M  E  A  N  20 Y  O  U  '
+
+8f 80 86 7c 8f 7d 9c a1 0f
+R  E  02 B  U  S  Y  ?
