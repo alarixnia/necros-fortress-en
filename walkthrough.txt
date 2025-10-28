@@ -176,7 +176,7 @@ villagers will reveal that they're currently feuding, and a mysterious figure
 known as the seer is behind it.
 
 Most of the NPCs will refuse to give you any services, but there is a
-travelling merchant in the north-west of the western village, and a NPC
+traveling merchant in the north-west of the western village, and a NPC
 called Dan will let you rest at his house. In the eastern village, a cat
 acts as a stand-in for the medicine shop's owner.
 
@@ -319,3 +319,69 @@ end Part 4.
 
 Part 5: Lady's Letter
 ---------------------
+
+Chapter 5 starts in the Tankirie Castle throne room. There's nothing notable
+happening in the town, so when you're ready and have enough supplies, head
+out to Captain Aiv's port.
+
+Board the Galtera ship and speak with the Captain, and then the crewman
+upstairs to set sail to Blizzard.
+
+Talk Blizzard's queen inside her throne room. She'll give you a task to find
+her daughter, and provide you with an ice orb that is familiar to her
+daughter.
+
+Head back to Tankirie and exit the town to the forest. There's a Dryad
+standing by the broken bridge. After talking to her, you'll be able to travel
+to the Tornado Desert using the map once you exit the forest.
+
+Once you enter the Tornado Desert, head directly south and talk to the man
+wandering around. He'll advise you that you'll be unable to navigate the
+desert without a compass. Exit the desert and head back to the Galtera ship.
+The captain has a compass in his chest.
+
+Search the treasure chests on the desert's surface - they contain powerful
+weapons. Once you're done, head through the cave to the southwest to access
+the Hope Kingdom.
+
+People are under attack by monsters inside Hope's buildings . You won't be
+able to access any services directly in Hope until they're defeated,
+but there's an option to save or go back.
+
+Battles: 2x Dark Vampire, Demons, 2x Blue Shadow, and Blaze.
+
+Once you've defeated the monsters, talk to Harrison (the golden knight) in
+his house in the south-east of Hope. He'll reveal that there's a secret
+passage under his bed, so search it to enter the tunnel underneath Hope
+Castle. There's random encounters with powerful monsters in the tunnel, so
+make sure you're sufficiently healed.
+
+Exit the Hope Castle prison room, climb the stairs, and defeat Docros
+upstairs. He'll reveal that he's just trying to slow you down, and you'll
+now have to fight Decaros for the king's life in the room to the north.
+
+Speak to King Hope. He'll utter his last words and give you a sword to
+deliver to his son on New Hope, an island.
+
+Head back to Aiv's port and speak with Marin who is surprisingly walking
+around the town looking for Mercenary. You'll recieve Marin's Heart, powerful
+protective armour for Mercenary.
+
+Once you arrive in New Hope, give the sword to the young prince in the
+south-east house. Next, head to the church to see Mark and Sylphy's wedding. If
+you've been paying attention to Hope's bar before, you might know that Sylphy
+(the light blue woman) is afraid of heat. Show her the Ice Orb and speak to
+her - she'll admit to being the Snow Princess. She'll give you a letter for
+her mother and tell you to find the Mirror of Truth in a cave on Blizzard.
+
+The Blizzard cave can now be accessed from the sea map. Once again, it's
+filled with powerful monsters, so stock up on supplies before heading there.
+Head north-west into the cave and there will be a boss battle with an Ice
+Dragon for the Mirror.
+
+Once you've obtained the Mirror, heal up on the Galtera ship, then head back
+to Blizzard. Talk to the NPC at the throne to trigger a cutscene and boss
+battle with Mecharos MK-2. Once you've defeated Mecharos again, Chapter 5
+ends.
+
+
