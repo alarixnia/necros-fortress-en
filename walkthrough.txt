@@ -329,7 +329,8 @@ upstairs to set sail to Blizzard.
 
 Talk Blizzard's queen inside her throne room. She'll give you a task to find
 her daughter, and provide you with an ice orb that is familiar to her
-daughter.
+daughter. She'll also give you a time limit, but *don't worry about it*!
+Time only progresses at notable points in the story.
 
 Head back to Tankirie and exit the town to the forest. There's a Dryad
 standing by the broken bridge. After talking to her, you'll be able to travel
@@ -344,7 +345,7 @@ Search the treasure chests on the desert's surface - they contain powerful
 weapons. Once you're done, head through the cave to the southwest to access
 the Hope Kingdom.
 
-People are under attack by monsters inside Hope's buildings . You won't be
+People are under attack by monsters inside Hope's buildings. You won't be
 able to access any services directly in Hope until they're defeated,
 but there's an option to save or go back.
 
