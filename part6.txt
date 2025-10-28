@@ -5,3 +5,90 @@ Atlantis. The Finale!
 
 79 6f 7e 9d 21 20 b1 c4 d7 dd c1 bd 02 0f
 T  H  E  20 F  I  N  A  L  E  !  df 
+
+--- tankirie villagers
+
+*「さいきん、へんなげんしょうがよくおこってるぜ。
+いつになったら、へいわになるやら...
+Recently, lots of strange things happened.
+I hope it settles down...
+
+I hope things settle
+down... It's been hard.
+
+2a a2 7b 72 77 9d a4 8d 9d 85 79 de 9d 7c 6e 73 76 de 96 78 75 7a 6f 83 99 7e de a1 02
+I  20 H  O  P  E  20 T  H  I  N  G  S  20 S  E  T  T  L  E  20 D  O  W  N  .  .  .  20
+
+72 82 86 85 6f 80 97 a4 8d 72 9c 86 85 99 94 97 eb 0f
+I  T  '  S  20 B  E  E  N  20 H  A  R  D  .
+
+*「がんばって、ネクロスをたおしてください。
+Do your best to bring Necros down.
+Please bring down Necros.
+
+2a a2 76 de 9d 8a de 6f 83 a4 c8 b8 db bd 66 80 75 7c 83 78 80 de 7b 72 a1 0f
+P  L  E  A  S  E  20 B  R  I  N  G  20 D  O  W  N  20 N  E  C  R  O  S  .
+
+*「アトランチスは、とおいにしのうみにあるそうだ。
+I heard Atlantis is in the far western seas.
+Atlantis? It's far west...
+
+2a a2 b1 c4 d7 dd c1 bd 8a a4 84 75 72 86 7c 89 73 90 86 71 99 7f 73 80 de a1 0f
+A  T  L  A  N  T  I  S  ?  20 I  T  '  S  20 F  A  R  20 W  E  S  T  .  .  .
+
+*「アトランチスなんて、たんなるでんせつさ!
+Atlantis is (just) a myth!
+
+2a a2 b1 c4 d7 dd c1 bd 85 9d 83 a4 80 9d 85 99 83 de 9d 7e 82 7b 21 0f
+A  T  L  A  N  T  I  S  20 I  S  20 20 A  20 M  Y  T  H  !
+
+*「AMAZONのおねえさんって、つよそうで
+かっこいいわ~。あこがれちゃうな~。
+Amazons are so strong
+and cool...
+(I'm so jealous...)
+
+2a a2 10 89 75 88 74 7b 9d 6f 83 a4 82 96 7f 73 83 de 02
+W  O  W  eb 20 A  M  A  Z  O  N  S  20 A  R  E  20 S  O
+
+76 6f 7a 72 72 9c ec a1 71 7a 76 de 9a 81 6c 73 85 ec a1 0f
+20 S  T  R  O  N  G  02 A  N  D  20 C  O  O  L  eb
+
+*「ホープおうこくをすくうために、
+KNIGHTのきしだんがうごきだしたそうだ。
+It seems the Knights set out to save Hope.
+It seems that the Knights will save Hope.
+
+2a a2 ce b0 cc df 75 73 7a 78 66 7d 78 73 80 92 86 a4 02
+I  T  20 S  E  E  M  S  20 T  H  A  T  20 T  H  E  20 K
+
+14 89 77 7c 80 de 9d 76 de 73 7a de 77 80 de 7c 80 7f 73 80 de a1 0f
+N  I  G  H  T  S  20 W  I  L  L  20 S  A  V  E  20 H  O  P  E  .
+
+-- civillians in castle
+
+*「ボムはかせは、こりずに、あたらしい
+けんきゅうをしているみたい。
+Dr. Bomb is at it again with
+new research.
+
+Dr Bomb is working on a
+new project.
+
+2a a2 ce de d1 8a 76 7e 8a a4 7a 98 7d de 86 a4 71 80 97 7c 72 02
+D  R  20 B  O  M  B  20 I  S  20 W  O  R  K  I  N  G  20 O  N  20
+
+79 9d 77 6d 73 66 7c 83 72 99 90 80 72 a1 0f
+A  02 N  E  W  20 P  R  O  J  E  C  T  .
+
+*「なんで、おうさまは、ボムはかせなんかに
+えんじょをしているんだろう...
+I don't get why the king supports Dr. Bomb...
+Why is the King supporting
+Dr. Bomb...?
+
+2a a2 85 9d 83 de a4 75 73 7b 8f 8a a4 ce de d1 8a 76 7e 85 9d 76 86 02
+W  H  Y  20 I  S  20 T  H  E  20 K  I  N  G  20 S  U  P  P  O  R  T  I
+
+74 9d 7c de 6e 66 7c 83 72 99 9d 80 de 9b 73 eb 0f
+N  G  02 D  R  .  20 B  O  M  B  .  .  .  ?
