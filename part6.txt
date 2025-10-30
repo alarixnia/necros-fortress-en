@@ -82,7 +82,8 @@ W  O  W  eb 20 A  M  A  Z  O  N  S  20 A  R  E  20 S  O
 *「ホープおうこくをすくうために、
 KNIGHTのきしだんがうごきだしたそうだ。
 It seems the Sir Knight's forces set out to save Hope.
-It seems Sir Knight is protecting Hope.
+It seems Sir Knight is
+protecting Hope.
 
 2a a2 ce b0 cc df 75 73 7a 78 66 7d 78 73 80 92 86 a4 02
 I  T  20 S  E  E  M  S  20 S  I  R  20 K  N  I  G  H  T
@@ -224,6 +225,17 @@ O  H  ,  20 I  F  20 O  N  L  Y  20 M  Y  20 D  A  U  G  H  T
 75 94 7c de 8a 8c de 7c de 80 de 84 a4 82 80 74 83 78 9a eb 0f
 E  R  02 W  A  S  20 S  T  I  L  L  20 A  L  I  V  E  .  .
 
+*「アレフおうじさまは、まだ8つとか!
+おいたわしや...
+Prince Aleph is only 8 years old!
+Oh dear...
+
+Oh no! Prince Aleph's
+only 8!
+
+2a a2 b1 da cc 75 73 7c de 7b 8f 8a a4 8f 80 de 38 82 84 76 21 02 75 72 80 9c 7c 94 eb 0f 
+O  H  20 N  O  !  20 P  R  I  N  C  E  20 A  L  E  P  H  '  S  02 O  N  L  Y  20 8  !
+
 *「ネクロスのざんとうは、
 みずいろぐさのしまに、にげたそうだ。
 I hear Necros' forces fled to an island.
@@ -235,6 +247,16 @@ N  E  C  R  O  S  '  20 F  O  R  C  E  S  20
 
 90 7d de 72 9b 78 de 7b 89 7c 8f 86 a4 86 79 de 80 7f 73 80 de a1 0f
 R  A  N  20 A  W  A  Y  02 T  O  20 A  N  20 I  S  L  A  N  D  .
+
+*「KNIGHTさま! おねがいです。
+Please become our King,
+Sir Knight!
+
+2a a2 14 7b 8f 21 20 75 88 76 de 72 83 de 7d a1 02
+P  L  E  A  S  E  20 B  E  C  O  M  E  20 O  U  R
+
+71 80 97 7c 72 75 73 86 85 6f 83 78 80 de 7b 72 a1 0f
+20 K  I  N  G  ,  20 S  I  R  20 14 G  H  T  !
 
 *「ちかつうろのさらにおくには、
 こだいのいせきがあるという...
@@ -255,3 +277,107 @@ It's safe thanks to you.
 
 2a a2 75 76 79 de 83 de a4 d3 dd bd c0 b0 93 72 85 78 85 98 8f 7c 80 a1 0f
 I  T  '  S  20 S  A  F  E  20 T  H  A  N  K  S  20 T  O  20 Y  O  U  .
+
+*「こくみんにつぐ! ネクロスのざんとうは、
+ぜんめつした! ここからにげたものも
+みなぶじだ!
+...ああ、オレ、こんなやくばっかし。
+
+Hear ye! Necros' forces are
+have been defeated!
+Those who fled are safe!
+... Of course I'm stuck
+with this job...
+
+Hear ye! Necros' army is
+gone! Your families are
+safe!
+... Curse this job.
+
+2a a2 7a 78 90 9d 86 82 78 de 21 20 c8 b8 db bd 89 7b de 9d 84 73 8a a4 02
+H  E  A  R  20 Y  E  !  20 N  E  C  R  O  S  '  20 A  R  M  Y  20 I  S  20
+
+7e de 9d 92 82 7c 80 21 20 7a 7a 76 97 86 79 de 80 93 89 93 02
+G  O  N  E  !  20 Y  O  U  R  20 F  A  M  I  L  I  E  S  20 A
+
+90 85 8c de 7c de 80 de 21 02
+R  E  20 S  A  F  E  !  02 05
+
+eb 71 71 a4 b5 da a4 7a 9d 85 94 78 8a de 6f 76 7c a1 0f
+.  .  .  C  U  R  S  E  20 T  H  I  S  20 J  O  B  .
+
+-- prisoner in hope castle
+
+え? アラオ?
+うん...そんななまえのひとが、このしろのいせきに
+なにかかくしたって、きいたような...
+
+Arao, eh? I heard he hid
+something under here...
+
+74 3f 20 b1 d7 b5 3f 02
+A  R  A  O  ,  20 E  H
+
+73 9d eb 7f 9d 85 85 8f 74 89 8b 84 76 de a4 7a 89 7c 9b 89 72 7e 77 86 02
+?  20 I  20 H  E  A  R  D  20 H  E  20 H  I  D  02 S  O  M  E  T  H  I  N
+
+85 86 76 76 78 7c 80 6f 83 a4 77 72 80 96 73 85 eb 0f
+G  20 U  N  D  E  R  20 H  E  R  E  .  .  .
+
+-- knight's assistant in hope council
+
+ロイ「KNIGHTさま、みながのぞんでいます。
+このくにのおうになられては...
+[...]
+KNIGHT「わたしはまだまだ、しゅぎょうのみだ。
+おまえがおうになったらどうだ?
+ロイ「ご、ごじょうだんを...
+
+Sir Knight, it's everyone's wish.
+Will you take Hope's throne?
+[...]
+Eh?! I should become King
+instead?!
+(You must be joking...)
+
+db b2 a2 14 7b 8f a4 90 85 76 de 89 7f de 9d 83 de 72 8f 7d a1 02
+S  I  R  20 K  N  I  G  H  T  ,  20 I  T  '  S  20 E  V  E  R  Y
+
+7a 89 78 86 89 75 73 86 85 97 9a 83 8a eb 02 05
+O  N  E  '  S  20 W  I  S  H  eb 20 W  I  L  L
+
+14 a2 9c 80 7c 8a 8f 80 de 8f 80 de a4 7c 6d 77 de 6e 73 89 90 80 de a1 02
+20 Y  O  U  20 T  A  K  E  20 H  O  P  E  '  S  20 T  H  R  O  N  E  ?  02
+
+75 8f 74 76 de 75 73 86 85 6f 80 97 84 de 73 80 de 3f 02
+05 eb E  H  ?  20 I  20 S  H  O  U  L  D  20 B  E  C  O
+
+db b2 a2 7a de a4 7a de 7c de 6e 73 80 de 9d 66 eb 0f
+M  E  20 K  I  N  G  02 I  N  S  T  E  A  D  ?  !
+
+-- sir knight in hope being pestered
+
+KNIGHT「このくにもへいわになった。あとは
+いっこくもはやく、アトランチスを
+さがさねばならない。
+
+[...]
+わたしも、ガルテラごうにのせてもらうとしよう。
+
+Hope's peaceful, now
+we must seek Atlantis.
+[...]
+Please take me on the
+Galtera.
+
+14 a2 7a 89 78 86 93 8d 72 9c 86 85 6f 80 a1 71 84 8a 02
+H  O  P  E  '  S  20 P  E  A  C  E  F  U  L  ,  20 N  O
+
+72 6f 7a 78 93 8a 94 78 a4 b1 c4 d7 dd c1 bd 66 02
+W  02 W  E  20 M  U  S  T  20 S  E  E  K  20 A  T
+
+7b 76 de 7b 88 8a de 85 97 85 72 a1 02 05
+L  A  N  T  I  S  .  02 05 P  L  E  A  S
+
+9c 80 7c 93 a4 b6 de d9 c3 d7 7a de 73 86 89 7e 83 93 97 73 84 7c 96 73 a1 0f
+E  20 T  A  K  E  20 M  E  20 O  N  20 T  H  E  02 G  A  L  T  E  R  A  .
