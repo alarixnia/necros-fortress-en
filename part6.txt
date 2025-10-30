@@ -81,14 +81,14 @@ W  O  W  eb 20 A  M  A  Z  O  N  S  20 A  R  E  20 S  O
 
 *「ホープおうこくをすくうために、
 KNIGHTのきしだんがうごきだしたそうだ。
-It seems the Knights set out to save Hope.
-It seems that the Knights will save Hope.
+It seems the Sir Knight's forces set out to save Hope.
+It seems Sir Knight is protecting Hope.
 
 2a a2 ce b0 cc df 75 73 7a 78 66 7d 78 73 80 92 86 a4 02
-I  T  20 S  E  E  M  S  20 T  H  A  T  20 T  H  E  20 K
+I  T  20 S  E  E  M  S  20 S  I  R  20 K  N  I  G  H  T
 
 14 89 77 7c 80 de 9d 76 de 73 7a de 77 80 de 7c 80 7f 73 80 de a1 0f
-N  I  G  H  T  S  20 W  I  L  L  20 S  A  V  E  20 H  O  P  E  .
+20 I  S  20 P  R  O  T  E  C  T  I  N  G  20 H  O  P  E  .
 
 -- civillians in castle
 
@@ -185,3 +185,73 @@ ce b0 cc df 89 b1 d7 b5 8a 76 7e 86 a4 c0 dd b7 d8 b4 83 de 8a 02
 
 7e 9c 86 85 99 84 72 72 84 77 77 a4 80 7d de 88 83 77 80 9d 80 de 76 de eb 0f
 E  20 I  N  02 H  O  P  E  20 T  H  A  T  20 H  E  '  S  20 H  E  R  E  eb
+
+-- hope civilians
+
+*「さすがは、KNIGHTのきしだん!
+ネクロスのざんとうも、たちまちにげだした!
+Praise Sir Knight!
+Necros' forces are gone!
+
+2a a2 7b 7d 76 de 8a a4 14 89 77 7c 80 de 9d 21 02
+P  R  A  I  S  E  20 S  I  R  20 14 G  H  T  !  02
+
+c8 b8 db bd 89 7b de 9d 84 73 93 a4 80 81 8f 81 86 79 de 80 de 7c 80 21 0f
+N  E  C  R  O  S  '  20 F  O  R  C  E  S  20 A  R  E  20 G  O  N  E  !
+
+*「ホープおうがなくなったのはかなしいが、
+KNIGHTのきしだんがきてくれれば、あんしんだ。
+I'm sad that King Hope is gone,
+but I'm glad Sir Knight's forces are here.
+
+I'm sad the King's gone,
+but hooray for knights.
+
+2a a2 ce b0 cc df 75 73 76 de 85 78 85 6f 80 89 8a 76 85 7c 72 76 de a4 02
+I  '  M  20 S  A  D  20 T  H  E  20 K  I  N  G  '  S  20 G  O  N  E  ,  02
+
+14 89 77 7c 80 de 9d 76 de 77 83 78 9a 9a 8a de a4 71 9d 7c 9d 80 de a1 0f
+B  U  T  20 H  O  O  R  A  Y  20 F  O  R  20 14 G  H  T  S  .
+
+*「もし、オレのむすめがいきていたら、
+おやじはぶじだと、つたえてくれ...
+Oh, if only my daughter
+was still alive...
+
+2a a2 93 7c a4 b5 da 89 91 7d 92 76 de 72 77 83 72 80 97 a4 02
+O  H  ,  20 I  F  20 O  N  L  Y  20 M  Y  20 D  A  U  G  H  T
+
+75 94 7c de 8a 8c de 7c de 80 de 84 a4 82 80 74 83 78 9a eb 0f
+E  R  02 W  A  S  20 S  T  I  L  L  20 A  L  I  V  E  .  .
+
+*「ネクロスのざんとうは、
+みずいろぐさのしまに、にげたそうだ。
+I hear Necros' forces fled to an island.
+Necros' forces ran away
+to an island.
+
+2a a2 c8 b8 db bd 89 7b de 9d 84 73 8a a4 02
+N  E  C  R  O  S  '  20 F  O  R  C  E  S  20
+
+90 7d de 72 9b 78 de 7b 89 7c 8f 86 a4 86 79 de 80 7f 73 80 de a1 0f
+R  A  N  20 A  W  A  Y  02 T  O  20 A  N  20 I  S  L  A  N  D  .
+
+*「ちかつうろのさらにおくには、
+こだいのいせきがあるという...
+It's said there's ancient
+ruins deep underground.
+There's ageold ruins
+underground.
+
+2a a2 81 76 82 73 9b 89 7b 97 86 75 78 86 8a a4 02
+T  H  E  R  E  '  S  20 A  G  E  O  L  D  20 R  U
+
+7a 80 de 72 89 72 7e 77 76 de 71 99 84 72 73 eb 0f
+I  N  S  02 U  N  D  E  R  G  R  O  U  N  D  .
+
+*「おかげで、モンスターもいなくなりました。
+Thanks to you, the monsters are gone.
+It's safe thanks to you.
+
+2a a2 75 76 79 de 83 de a4 d3 dd bd c0 b0 93 72 85 78 85 98 8f 7c 80 a1 0f
+I  T  '  S  20 S  A  F  E  20 T  H  A  N  K  S  20 T  O  20 Y  O  U  .
