@@ -381,3 +381,12 @@ L  A  N  T  I  S  .  02 05 P  L  E  A  S
 
 9c 80 7c 93 a4 b6 de d9 c3 d7 7a de 73 86 89 7e 83 93 97 73 84 7c 96 73 a1 0f
 E  20 T  A  K  E  20 M  E  20 O  N  20 T  H  E  02 G  A  L  T  E  R  A  .
+
+-- pathway under hope castle
+
+DWARF「ゆうしゃのオノで、くずしてみよう。
+Let's break it down with the Hero's Axe.
+Let's use a Hero Axe.
+
+13 a2 95 73 7c 6c 89 b5 c9 83 de a4 78 7d de 7c 83 90 96 73 a1 0f
+L  E  T  '  S  20 U  S  E  20 A  20 H  E  R  O  20 A  X  E  .

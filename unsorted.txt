@@ -550,6 +550,13 @@ Mirror
 7a 75 98 89 76 76 de 90
 M  I  R  R  O  R  df 20
 
+アラオのペンダント
+Arao Amulet
+
+ア ラ オ の ヘ df ン タ de ン ト
+b1 d7 b5 89 cd df dd c0 de dd c4
+A  R  A  O  20 A  M  U  L  E  T
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -1503,6 +1510,14 @@ Red Harpy
 da af c4 de ca b0 cb df b0
 R  E  D  20 H  A  R  P  Y
 
+キンドラゴニット
+Gold Dragonite
+Gold Drgni
+
+キ ン ト de ラ コ de ニ ッ ト
+b7 dd c4 de d7 ba de c6 af c4
+G  O  L  D  20 D  R  G  N  I
+
 ブレイズ
 Blaze
 
@@ -1971,6 +1986,13 @@ A  X
 り ょ う て お の
 98 6e 73 83 75 89
 2  H  20 A  X  E
+
+けんぼう
+Envy
+
+け ん ほ de う
+79 9d 8e de 73
+E  N  V  Y  df
 
 ナイトのよろい
 Knight's Armour
