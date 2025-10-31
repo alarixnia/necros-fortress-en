@@ -390,3 +390,31 @@ Let's use a Hero Axe.
 
 13 a2 95 73 7c 6c 89 b5 c9 83 de a4 78 7d de 7c 83 90 96 73 a1 0f
 L  E  T  '  S  20 U  S  E  20 A  20 H  E  R  O  20 A  X  E  .
+
+-- fans after sir knight leaves
+
+*「ロイさま、おねがいです!
+あたらしいおうになってください。
+
+Sir Roy, please become
+our king!
+
+2a a2 db b2 7b 8f a4 75 88 76 de 72 83 de 7d 21 02
+S  I  R  20 R  O  Y  ,  20 P  L  E  A  S  E  20 B
+
+71 80 97 7c 72 75 73 86 85 6f 83 78 80 de 7b 72 a1 0f
+E  C  O  M  E  02 O  U  R  20 K  I  N  G  !
+
+-- roy after sir knight leaves
+
+ロイ「ああ、よわった。
+KNIGHTさまは、まだかえらんか?
+
+Ah, I'm exhausted.
+When will Sir Knight return?
+
+When's Sir Knight
+returning?
+
+db b2 a2 71 71 a4 96 9c 6f 80 a1 02 14 7b 8f 8a a4 8f 80 de 76 74 97 9d 76 3f 0f
+W  H  E  N  '  S  20 S  I  R  20 14 G  H  T  02 R  E  T  U  R  N  I  N  G  ?
