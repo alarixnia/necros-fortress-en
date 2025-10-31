@@ -418,3 +418,99 @@ returning?
 
 db b2 a2 71 71 a4 96 9c 6f 80 a1 02 14 7b 8f 8a a4 8f 80 de 76 74 97 9d 76 3f 0f
 W  H  E  N  '  S  20 S  I  R  20 14 G  H  T  02 R  E  T  U  R  N  I  N  G  ?
+
+-- port town inn
+
+*「ネクロスは、みずいろぐさのしまをせんりょうして
+いるそうだ。
+
+I hear Necros is on
+bluegrass isle.
+
+2a a2 c8 b8 db bd 8a a4 90 7d de 72 9b 78 de 7b 89 7c 8f 66 7e 9d 98 6e 73 7c 83 02
+I  20 H  E  A  R  20 N  E  C  R  O  S  20 I  S  20 O  N  20 B  L  U  E  G  R  A  S
+
+72 99 7f 73 80 de a1 0f
+S  20 I  S  L  E  .
+
+*「アトランチスには、こうどなぶんめいがあって、
+ふしぎなきかいや、すごいクスリがあったという。
+
+Atlantis is (said to be) an advanced
+society with amazing
+machines.
+
+ん め い か
+9d 92 72 76
+
+2a a2 b1 c4 d7 dd c1 bd 86 8a a4 7a 73 84 de 85 8c de 9d 92 72 76
+A  T  L  A  N  T  I  S  20 I  S  20 A  N  20 A  D  V  A  N  C  E
+
+de 71 6f 83 a4 02 8c 7c 77 de 85 77 76 72 94 a4 7d 7a de 72 b8 bd
+D  20 S  O  C  I  E  T  Y  20 W  I  T  H  20 A  M  A  Z  I  N  G
+
+d8 76 de 71 6f 80 84 72 73 a1 0f
+02 M  A  C  H  I  N  E  S  .
+
+*「ドクロスのふねは、メカロスがつくった
+せかいいちがんじょうなふねだ。
+
+Mecharos has built the
+world's strongest ship.
+
+2a a2 c4 de b8 db bd 89 8c 88 8a a4 d2 b6 db bd 76 de 82 78 6f 80 02
+M  E  C  H  A  R  O  S  20 B  U  I  L  T  20 T  H  E  02 W  O  R  L
+
+7e 76 72 72 81 76 de 9d 7c de 6e 73 85 8c 88 80 de a1 0f
+D  S  20 S  T  R  O  N  G  E  S  T  20 S  H  I  P  .
+
+-- galtera merchant
+
+*「このフネ、まるで8ゆうしゃに
+チャーターされたみたいね。どしたことかな?
+
+This vessel was chartered by the 8 heroes? What on earth's happening?
+
+The 8 heroes again?
+Oh no, what now?
+
+2a a2 7a 89 cc c8 a4 8f 99 83 de 38 95 73 7c 6c 86 02
+T  H  E  20 E  I  G  H  T  20 H  E  R  O  E  S  20 A
+
+c1 ac b0 c0 b0 7b 9a 80 90 80 72 88 a1 84 de 7c 80 7a 84 76 85 3f 02 05
+G  A  I  N  ?  20 O  H  20 N  O  ,  20 W  H  A  T  20 N  O  W  ?
+
+-- new guy on board galtera
+
+*「ガルテラごうのヒト、みんなヨクくう!
+しょくじのしたくもたいへんデース!!
+
+It's hard work cooking!
+These Galtera lads eat loads!
+
+It's hard to cook!
+The lads here eat loads!
+
+2a a2 b6 de d9 c3 d7 7a de 73 89 cb c4 a4 90 9d 85 d6 b8 78 73 21
+I  T  '  S  20 H  A  R  D  20 T  O  20 C  O  O  K  !  02 T  H  E
+
+02 7c 6e 78 7c de 89 7c 80 78 93 80 72 8d 9d c3 de b0 bd 21 21 0f
+20 L  A  D  S  20 H  E  R  E  20 E  A  T  20 L  O  A  D  S  !
+
+-- another new guy on board galtera
+
+*「おいてますますさかんとは、
+エイヴせんちょうのようなひとをいうのでしょうな!
+
+(some japanese idiom that doesn't translate well)
+
+Capt. Aiv likes being left alone with his thoughts!
+
+Capt Aiv likes it alone
+with his thoughts!
+
+2a a2 75 72 83 8f 7d 8f 7d 7b 76 9d 84 8a a4 02
+C  A  P  T  20 A  I  V  20 L  I  K  E  S  20 I
+
+b4 b2 b3 de 7e 9d 81 6e 73 89 96 73 85 8b 84 66 72 73 89 83 de 7c 6e 73 85 21 0f
+T  20 A  L  O  N  E  02 W  I  T  H  20 H  I  S  20 T  H  O  U  G  H  T  S  !
