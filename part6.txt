@@ -480,23 +480,6 @@ T  H  E  20 E  I  G  H  T  20 H  E  R  O  E  S  20 A
 c1 ac b0 c0 b0 7b 9a 80 90 80 72 88 a1 84 de 7c 80 7a 84 76 85 3f 02 05
 G  A  I  N  ?  20 O  H  20 N  O  ,  20 W  H  A  T  20 N  O  W  ?
 
--- new guy on board galtera
-
-*「ガルテラごうのヒト、みんなヨクくう!
-しょくじのしたくもたいへんデース!!
-
-It's hard work cooking!
-These Galtera lads eat loads!
-
-It's hard to cook!
-The lads here eat loads!
-
-2a a2 b6 de d9 c3 d7 7a de 73 89 cb c4 a4 90 9d 85 d6 b8 78 73 21
-I  T  '  S  20 H  A  R  D  20 T  O  20 C  O  O  K  !  02 T  H  E
-
-02 7c 6e 78 7c de 89 7c 80 78 93 80 72 8d 9d c3 de b0 bd 21 21 0f
-20 L  A  D  S  20 H  E  R  E  20 E  A  T  20 L  O  A  D  S  !
-
 -- another new guy on board galtera
 
 *「おいてますますさかんとは、
@@ -577,3 +560,59 @@ O  F  20 C  O  U  R  S  E  20 N  O  T  !  04
 
 b1 b2 c2 86 7f 9d 85 b6 b2 bc ae b3 76 de 71 99 84 8a 88 eb 04
 H  E  R  02 S  P  A  R  K  L  I  N  G  20 E  Y  E  S  eb ]  04
+
+-- cook on board galtera
+
+*「ガルテラごうのヒト、みんなヨクくう!
+しょくじのしたくもたいへんデース!!
+
+It's hard work cooking!
+These Galtera lads eat loads!
+
+It's hard to cook!
+The lads here eat loads!
+
+2a a2 b6 de d9 c3 d7 7a de 73 89 cb c4 a4 90 9d 85 d6 b8 78 73 21
+I  T  '  S  20 H  A  R  D  20 T  O  20 C  O  O  K  !  02 T  H  E
+
+02 7c 6e 78 7c de 89 7c 80 78 93 80 72 8d 9d c3 de b0 bd 21 21 0f
+20 L  A  D  S  20 H  E  R  E  20 E  A  T  20 L  O  A  D  S  !
+
+-- cook x marin interaction (after marin cutscene)
+
+*「マリンさんがてつだってくれて、とっても
+たすかりマース! ところで、れいのコイビトには、
+あいにいかないのデスカ?
+[...]
+マリン「やだなあ、コックさん。
+こいびとなんかじゃないわよ。あんなバカ!
+
+Cook: Marin helping out has been a
+blessing. By the way, aren't
+you going to see your boyfriend?
+
+Marin: Oh, come off it, you fool.
+He's not my boyfriend!
+
+[single-person version
+
+It's been nice helping
+the cook.
+But I wish he wouldn't
+hassle me about my
+"boyfriend".  What an idiot!
+
+2a a2 cf d8 dd 7b 9d 76 de 83 82 80 de 6f 83 78 9a 83 a4 84 6f 83 93 02
+I  T  '  S  20 B  E  E  N  20 N  I  C  E  20 H  E  L  P  I  N  G  02 T
+
+80 7d 76 98 cf b0 bd 21 20 84 7a 9b 83 de a4 9a 72 89 ba b2 cb de c4 86 8a a4 02
+H  E  20 C  O  O  K  .  02 05 B  U  T  20 I  20 W  I  S  H  20 H  E  20 W  O  U
+
+71 72 86 72 76 85 72 89 c3 de bd b6 3f 02 05
+L  D  N  '  T  20 H  A  S  S  L  E  20 M  E
+
+cf d8 dd a2 94 80 de 85 71 a4 ba af b8 7b 9d a1 02
+20 A  B  O  U  T  20 M  Y  20 "  B  O  Y  F  R  I
+
+7a 72 8b de 84 85 9d 76 7c de 6c 85 72 9c 96 a1 71 9d 85 ca de b6 21 0f
+E  N  D  "  .  20 W  H  A  T  20 A  N  20 I  D  I  O  T  !
