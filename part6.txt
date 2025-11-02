@@ -514,3 +514,66 @@ C  A  P  T  20 A  I  V  20 L  I  K  E  S  20 I
 
 b4 b2 b3 de 7e 9d 81 6e 73 89 96 73 85 8b 84 66 72 73 89 83 de 7c 6e 73 85 21 0f
 T  20 A  L  O  N  E  02 W  I  T  H  20 H  I  S  20 T  H  O  U  G  H  T  S  !
+
+-- marin cutscene on board galtera
+
+AMAZON「あら? あなた...
+マリン「あちゃー、みつかっちゃったあ。
+ね、あたしもはたらくから、このままのせて。
+おねがい!
+[...]
+AMAZON「しょうがないわねエ。
+おめあてはMERCENARY?
+[...]
+マリン「ち、ちがうわよっ!
+[...]
+AMAZON「フフ、かおにかいてあるわよ。
+アイツにそんなカイショウがあるとはね...
+
+Amazon: Oh, it's you...
+Marin: Oh dear, I've been caught stowing away.
+Look, I'll work too, just let me come. Please!
+Amazon: Well, it can't be helped.
+You're looking for Mercenary, right?
+Marin: N-no, of course not!
+Amazon: Heh heh, it's written all over your face.
+I didn't think he'd get to you...
+
+[single-person version]
+Oh, you..
+You've caught me stowing
+away. Please take me!
+
+Hm, after Mercenary?
+Of course not!
+
+It's obvious in her
+sparkling eyes.
+
+10 a2 71 97 3f 20 71 85 80 eb 02
+O  H  ,  20 Y  O  U  .  .  20 02
+[  M  A  R  I  N  .  .  ?  ]
+
+cf d8 dd a2 71 81 6c b0 a4 90 82 76 6f 81 6c 6f 80 71 a1 02
+Y  O  U  '  V  E  20 C  A  U  G  H  T  20 M  E  20 S  T  O
+
+88 a4 71 80 7c 93 8a 80 97 78 76 97 a4 7a 89 8f 8f 89 7e 83 a1 02
+W  I  N  G  02 A  W  A  Y  .  20 P  L  E  A  S  E  20 T  A  K  E
+
+75 88 76 de 72 21 04
+20 M  E  !  20 20 04
+
+10 a2 7c 6e 73 76 de 85 72 9c 88 b4 a1 02
+H  M  ,  20 A  F  T  E  R  20 M  E  R  C
+
+75 92 71 83 8a 16 3f 02 05
+E  N  A  R  Y  ?  20 02 05
+
+cf d8 dd a2 81 a4 81 76 de 73 9c 96 6f 21 04
+O  F  20 C  O  U  R  S  E  20 N  O  T  !  04
+
+10 a2 cc cc a4 76 75 86 76 72 83 71 99 9c 96 a1 02
+[  I  T  '  S  20 O  B  V  I  O  U  S  20 I  N  20
+
+b1 b2 c2 86 7f 9d 85 b6 b2 bc ae b3 76 de 71 99 84 8a 88 eb 04
+H  E  R  02 S  P  A  R  K  L  I  N  G  20 E  Y  E  S  eb ]  04
