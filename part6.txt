@@ -676,3 +676,69 @@ A  L  E  P  H  20 I  S  20 S  T  I  L  L  20 O  N  L  Y  20 8
 
 80 8b de 86 83 de 99 85 9d 83 a4 77 79 9d 7d 77 de 8f 7d 9c a1 0f
 ,  02 T  O  O  20 Y  O  U  N  G  20 T  O  20 Q  U  E  S  T  .
+
+-- woman in new hope church
+
+*「にげおくれたパパは、いきているのかしら...
+I wonder if my dad is still alive...
+I wonder if dad's alive...
+
+2a a2 86 79 de 75 78 9a 80 ca df ca df 8a a4 72 77 83 72 99 89 76 7c 97 eb 0f
+I  20 W  O  N  D  E  R  20 I  F  20 D  A  D  '  S  20 A  L  I  V  E  eb df
+
+-- men arguing in new hope church
+
+*「マークとシルフィーは、わしがしきをあげたなかで
+いちばんしあわせなカップルじゃったのう!
+[...]
+*「なんのなんの。わたしのむらのダンとアンジェラの
+カップルには、かないますまい!
+
+I tell you, Mark & Sylphy
+are the happiest couple I
+ever married!
+[My village's Dan and Angela are a match for them
+any day!
+
+There's no way your village's Dan and Angela
+are a match for them!]
+Dan and Angela are no
+match!
+
+2a a2 cf b0 b8 84 bc d9 cc a8 b0 8a a4 9c 7c 76 de 7c 77 66 71 79 de 80 85 76 83 de 02
+I  20 T  E  L  L  20 Y  O  U  ,  20 M  A  R  K  20 &  20 S  Y  L  P  H  Y  02 A  R  E
+
+72 81 8a de 9d 7c 71 9c 7e 85 b6 af cc df d9 7c de 6c 6f 80 89 73 21 02
+20 T  H  E  20 H  A  P  P  I  E  S  T  20 C  O  U  P  L  E  20 I  20 E
+
+05 2a a2 85 9d 89 85 9d 89 a1 9c 80 7c 89 91 97 89 c0 de dd 84 b1 dd bc de aa d7 89 02
+V  E  R  20 M  A  R  R  I  E  D  !  02 05 D  A  N  20 A  N  D  20 A  N  G  E  L  A  20
+
+b6 af cc df d9 86 8a a4 76 85 72 8f 7d 8f 72 21 0f
+A  R  E  20 N  O  20 M  A  T  C  H  !
+
+-- sylphy x mark, new hope
+
+マーク「なんだか、さいきんシルフィーが
+げんきなくて、しんぱいなんだ...
+Mark: Somehow Sylphy's not been herself lately, I'm worried...
+Sylphy hasn't been feeling
+good lately...
+
+cf b0 b8 a2 85 9d 80 de 76 a4 7b 72 77 9d bc d9 cc a8 b0 76 de 02
+S  Y  L  P  H  Y  20 H  A  S  N  '  T  20 B  E  E  N  20 F  E  E
+
+79 de 9d 77 85 78 83 a4 7c 9d 8a df 72 85 9d 80 de eb 0f
+L  I  N  G  02 G  O  O  D  20 L  A  T  E  L  Y  .  .
+
+シルフィー「ブリザラードのおかあさまは、
+どうしているかしら...
+わたしばかり、しあわせになって...
+Sylphy: I wonder how mother is faring... Only I've been so lucky...
+I wonder how mother is faring back in Blizzard...
+
+bc d9 cc a8 b0 a2 cc de d8 bb de d7 b0 c4 de 89 75 76 71 7b 8f 8a a4 02
+I  20 W  O  N  D  E  R  20 H  O  W  20 M  O  T  H  E  R  20 I  S  20 F
+
+84 de 73 7c 83 72 99 76 7c 97 eb 02 9c 80 7c 8a de 76 98 a4 7c 71 9c 7e 86 85 6f 83 eb 0f
+A  R  I  N  G  20 B  A  C  K  20 I  N  20 B  L  I  Z  Z  A  R  D  .  .  .
