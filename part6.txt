@@ -742,3 +742,46 @@ I  20 W  O  N  D  E  R  20 H  O  W  20 M  O  T  H  E  R  20 I  S  20 F
 
 84 de 73 7c 83 72 99 76 7c 97 eb 02 9c 80 7c 8a de 76 98 a4 7c 71 9c 7e 86 85 6f 83 eb 0f
 A  R  I  N  G  20 B  A  C  K  20 I  N  20 B  L  I  Z  Z  A  R  D  .  .  .
+
+-- blizzard
+
+*「たいへんだ! じょおうさまがいないぞ!
+Oh no! The queen is gone!
+
+2a a2 80 72 8d 9d 80 de 21 20 7c de 6e 75 73 7b 8f 76 de 72 85 72 7f de 21 0f
+O  H  20 N  O  !  20 T  H  E  20 Q  U  E  E  N  20 I  S  20 G  O  N  E  !
+
+*「ああ、じょおうさまはいったいどこへ...
+Oh, where's the queen...
+
+2a a2 71 71 a4 7c de 6e 75 73 7b 8f 8a 72 6f 80 72 84 de 7a 8d eb 0f
+O  H  ,  20 W  H  E  R  E  '  S  20 T  H  E  20 Q  U  E  E  N  eb
+
+*「ひめさまがいなくなったショックで、
+へんなことをかんがえてなければいいが...
+I hope the queen isn't too troubled
+due to the princess leaving...
+
+With Sylphy gone, the
+queen is troubled...
+
+2a a2 8b 92 7b 8f 76 de 72 85 78 85 6f 80 bc ae af b8 83 de a4 02
+W  I  T  H  20 S  Y  L  P  H  Y  20 G  O  N  E  ,  20 T  H  E  02
+
+8d 9d 85 7a 84 66 76 9d 76 de 74 83 85 79 9a 8a de 72 72 76 de eb 0f
+Q  U  E  E  N  20 I  S  20 T  R  O  U  B  L  E  D  .  .  .
+
+*「じょおうさまは、こおりのどうくつに
+はいっていきました。だれも、あとをつけるなと...
+
+The queen left for the ice cave.
+She said no-one should follow her.
+
+The queen's in the cave.
+She asks to be alone.
+
+2a a2 7c de 6e 75 73 7b 8f 8a a4 7a 75 98 89 84 de 73 78 82 86 02
+T  H  E  20 Q  U  E  E  N  '  S  20 I  N  20 T  H  E  20 C  A  V
+
+8a 72 6f 83 72 77 8f 7c 80 a1 80 de 9a 93 a4 71 84 66 82 79 99 85 84 eb 0f
+E  .  02 S  H  E  20 A  S  K  S  20 T  O  20 B  E  20 A  L  O  N  E  eb
