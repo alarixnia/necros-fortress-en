@@ -557,6 +557,12 @@ Arao Amulet
 b1 d7 b5 89 cd df dd c0 de dd c4
 A  R  A  O  20 A  M  U  L  E  T
 
+イフリートのつぼ
+Ifrit Jar
+
+b2 cc d8 b0 c4 89 82 8e de
+I  F  R  I  T  20 J  A  R
+
 -- attempting to use magic cloth
 
 this string appears thrice in the binary:
@@ -1573,6 +1579,12 @@ Mecharos MK.2
 
 d2 b6 db bd 4d 4b 2d 32
 M  E  C  H  A  R  O  S
+
+イフリート
+Ifrit
+
+b2 cc d8 b0 c4
+I  F  R  I  T
 
 ブルーシャドウ
 Blue Shade

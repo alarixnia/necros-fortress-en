@@ -785,3 +785,180 @@ T  H  E  20 Q  U  E  E  N  '  S  20 I  N  20 T  H  E  20 C  A  V
 
 8a 72 6f 83 72 77 8f 7c 80 a1 80 de 9a 93 a4 71 84 66 82 79 99 85 84 eb 0f
 E  .  02 S  H  E  20 A  S  K  S  20 T  O  20 B  E  20 A  L  O  N  E  eb
+
+-- samurai on arao island
+
+SAMURAI「アラオというなをてがかりに、このしままで
+きたのでござるが...
+[...]
+
+そういえば、やどやで、シーフがうなっていたようで
+ござる。
+
+I've come to this island
+seeking Arao...
+
+(Come to think of it,)
+there's a thief moaning
+in the inn.
+
+12 a2 b1 d7 b5 84 72 73 85 66 83 76 de 76 98 86 a4 7a 89 7c 8f 8f 83 de 02
+I  '  V  E  20 C  O  M  E  20 T  O  20 T  H  I  S  20 I  S  L  A  N  D  02 
+
+77 80 89 83 de 7a de 7b de 99 76 de eb 05 02
+S  E  E  K  I  N  G  20 A  R  A  O  eb  02 05
+
+7f 73 72 74 8a de a4 94 84 de 94 83 de a4 bc b0 cc 76 de 73 85 6f 83 72 80 96 73 83 de 02
+T  H  E  R  E  '  S  20 A  20 T  H  I  E  F  20 M  O  A  N  I  N  G  02 I  N  20 T  H  E
+
+7a de 7b de 99 a1 0f
+20 I  N  N  .
+
+-- arao island
+
+*「しまのはずれにいるのは、めのみえない
+かわいそうなむすめさんだ。
+The blind girl lives on the island's edge.
+The blind girl lives to
+the west.
+
+2a a2 7c 8f 89 8a 7d de 9a 86 72 99 89 8a a4 92 89 90 74 85 72 02
+T  H  E  20 B  L  I  N  D  20 G  I  R  L  20 L  I  V  E  S  20 T
+
+76 9c 72 7f 73 85 91 7d 92 7b 9d 80 de a1 0f
+O  20 T  H  E  20 W  E  S  T  .
+
+*「はずれにあるのは、アラオはかせのいえだ。
+Dr. Arao's house is on the outskirts.
+Arao's home is out west.
+
+2a a2 8a 7d de 9a 86 71 99 89 8a a4 b1 d7 b5 8a 76 7e 89 72 74 80 de a1 0f
+A  R  A  O  '  S  20 H  O  M  E  20 I  S  20 O  U  T  20 W  E  S  T  .
+
+*「アラオはかせは、ずいぶんまえに
+たびにでたままだ。
+
+Dr. Arao left here a
+while ago.
+
+2a a2 b1 d7 b5 8a 76 7e 8a a4 7d de 72 8c de 9d 8f 74 86 02
+D  R  .  20 A  R  A  O  20 L  E  F  T  20 H  E  R  E  20 A
+
+80 8b de 86 83 de 80 8f 8f 80 de a1 0f
+02 W  H  I  L  E  20 A  G  O  .
+
+*「めのみえないまごをおいてたびをしているとは、
+アラオはかせは、ひどいヤツじゃなあ...
+
+Arao left behind his blind grandchild. Awful.
+
+2a a2 92 89 90 74 85 72 8f 7a de 66 75 72 83 80 8b de 66 7c 83 72 99 84 8a a4 02
+A  R  A  O  20 L  E  F  T  20 B  E  H  I  N  D  20 H  I  S  20 B  L  I  N  D  02
+
+b1 d7 b5 8a 76 7e 8a a4 8b 84 de 72 d4 c2 7c de 6c 85 71 eb 0f
+G  R  A  N  D  C  H  I  L  D  .  20 A  W  F  U  L  .  .  .
+
+-- thief in island inn
+
+シーフ「う~ん、う~ん。
+
+Umm, umm.
+
+bc b0 cc a2 73 ec 9d a4 73 ec 9d a1 0f
+U  M  M  ,  20 U  M  M  .  .  .  df
+
+after searching chest and defeating ifrit:
+
+シーフ「お、おかげでたすかったぜ。
+このつぼは、わるいヤツからかっぱらったんだが、
+てにいれてから、のろわれちまってな。
+[...]
+そうだ、のろいもとけたようだし、
+そのつぼをもってってくれ。
+アトランチスのたからものらしいぜ。
+
+You saved me. I stole
+this cursed jar from some
+scumbag.
+[...]
+Looks like the curse is
+gone now. Take it, it's
+from Atlantis.
+
+bc b0 cc a2 75 a4 75 76 79 de 83 de 80 7d 76 6f 80 7e de a1 02
+Y  O  U  20 S  A  V  E  D  20 M  E  .  20 I  20 S  T  O  L  E
+
+7a 89 82 8e de 8a a4 9c 99 72 d4 c2 76 97 76 6f 8a df 97 6f 80 9d 80 de 76 de a4 02
+20 T  H  I  S  20 C  U  R  S  E  D  20 J  A  R  20 F  R  O  M  20 S  O  M  E  20 S
+
+83 86 72 9a 83 76 97 a4 89 9b 9c 9a 81 8f 6f 83 85 a1 02 05
+C  U  M  B  A  G  .  02 05 L  O  O  K  S  20 L  I  K  E  20
+
+7f 73 80 de a4 89 9b 72 93 84 79 80 96 73 80 de 7c a4 02
+T  H  E  20 C  U  R  S  E  20 I  S  20 G  O  N  E  20 N
+
+7f 89 82 8e de 66 93 6f 83 6f 83 78 9a a1 02
+O  W  .  20 T  A  K  E  20 I  T  ,  20 I  T
+
+b1 c4 d7 dd c1 bd 89 80 76 97 93 89 97 7c 72 7e de a1 0f
+'  S  20 F  R  O  M  20 A  T  L  A  N  T  I  S  .
+
+elsewhere in the binary
+
+シーフ「このしまのはずれに、めのみえないむすめが
+いる。そのツボで、あのこのめもなおるぜ。
+
+With that jar, even the blind girl
+on the edge of the island can be
+healed.
+
+With that jar, the blind
+can even see once more.
+
+bc b0 cc a2 7a 89 7c 8f 89 8a 7d de 9a 86 a4 92 89 90 74 85 72 91 7d 92 76 de 02
+W  I  T  H  20 T  H  A  T  20 J  A  R  ,  20 T  H  E  20 B  L  I  N  D  20 C  A
+
+72 99 a1 7f 89 c2 ce de 83 de a4 71 89 7a 89 92 93 85 75 99 7e de a1 0f
+N  20 E  V  E  N  20 S  E  E  20 O  N  C  E  20 M  O  R  E  .
+
+-- blind girl, arao island
+
+メイ「だれ...おじいちゃん?
+
+Who... granddad?
+
+d2 b2 a2 80 de 9a eb 75 7c de 72 81 6c 9d 3f 0f
+W  H  O  .  .  20 G  R  A  N  D  D  A  D  ?
+
+メイ「かえって! わたし、だれにもあいたくない!
+Go away! I don't want visitors!
+I don't want guests! Go!
+
+d2 b2 a2 76 74 6f 83 21 20 9c 80 7c a4 80 de 9a 86 93 71 72 80 78 85 72 21 0f
+I  20 D  O  N  '  T  20 W  A  N  T  20 G  U  E  S  T  S  !  20 G  O  !
+
+-- blind girl, after using ifrit jar
+
+メイ「ああ、みえる、みえるわ! しんじられない!
+わたしのめが、なおるなんて!
+Oh, I can see! I can see!
+My eyes are getting better!
+
+I can see! I can see!
+My eyes are cured!
+
+d2 b2 a2 71 71 a4 90 74 99 a4 90 74 99 9c 21 20 7c 9d 7c de 97 9a 85 72 21 02
+I  20 C  A  N  20 S  E  E  !  20 I  20 C  A  N  20 S  E  E  !  02 M  Y  20 E
+
+9c 80 7c 89 92 76 de a4 85 75 99 85 9d 83 21 02 0f
+Y  E  S  20 A  R  E  20 C  U  R  E  D  !
+
+メイ「あなたたちは、なぜ、わたしに
+しんせつにしてくれるの?
+Why were you so kind to me?
+
+d2 b2 a2 71 85 80 80 81 8a a4 85 7e de a4 9c 80 7c 86 02
+W  H  Y  20 W  E  R  E  20 Y  O  U  20 S  O  20 K  I  N
+
+7c 9d 7e 82 86 7c 83 78 9a 99 89 3f 0f
+D  20 T  O  02 M  E  .  .  .  ?
