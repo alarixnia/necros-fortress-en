@@ -1056,9 +1056,10 @@ T  H  E  20 F  O  R  T  .  02 05 I  20 W  A  S
 
 *「おねがいします、このしまをまもってください。
 Please protect this isle.
+Please save this island.
 
 2a a2 75 88 76 de 72 7c 8f 7d a4 7a 89 7c 8f 66 8f 93 6f 83 78 80 de 7b 72 a1 02 0f
-P  L  E  A  S  E  20 P  R  O  T  E  C  T  20 T  H  I  S  20 I  S  L  E  .
+P  L  E  A  S  E  20 S  A  V  E  20 T  H  I  S  20 I  S  L  A  N  D  .
 
 *「えーん、こわいよー!
 Waah, it's scary!
