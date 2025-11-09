@@ -962,3 +962,116 @@ W  H  Y  20 W  E  R  E  20 Y  O  U  20 S  O  20 K  I  N
 
 7c 9d 7e 82 86 7c 83 78 9a 99 89 3f 0f
 D  20 T  O  02 M  E  .  .  .  ?
+
+-- bluegrass isle
+
+*「ここは、みずいろぐさのしまです。
+Welcome to Bluegrass (Isle).
+
+さ の し ま
+7b 89 7c 8f
+
+2a a2 7a 7a 8a a4 90 7d de 72 9b 78 de 7b 89 7c 8f 83 de 7d a1 0f
+W  E  L  C  O  M  E  20 T  O  20 B  L  U  E  G  R  A  S  S  .
+
+*「どけどけ、おれたちはネクロスぐんだぞ!
+Make way for Necros' army!
+
+2a a2 84 de 79 84 de 79 a4 75 9a 80 81 8a c8 b8 db bd 78 de 9d 80 de 7f de 21 0f
+M  A  K  E  20 W  A  Y  20 F  O  R  20 N  E  C  R  O  S  '  20 A  R  M  Y  !
+
+*「ああ、なんということじゃ!
+Oh good heavens! (he is surrounded by monsters)
+
+2a a2 71 71 a4 85 9d 84 72 73 7a 84 7c de 6c 21 0f
+O  H  20 G  O  O  D  20 H  E  A  V  E  N  S  !
+
+*「ネクロスは、このしまをきょてんに、せかいを
+ほろぼすけいかくらしい!
+Necros will destroy the world,
+using this island as a base!
+Necros will end the world from here!
+
+2a a2 c8 b8 db bd 8a a4 7a 89 7c 8f 66 77 6e 83 9d 86 a4 7e 76 72 66 02
+N  E  C  R  O  S  20 W  I  L  L  20 E  N  D  20 T  H  E  20 W  O  R  L
+
+8e 9b 8e de 7d 79 72 76 78 97 7c 72 21 0f
+D  20 F  R  O  M  20 H  E  R  E  !
+
+*「ネクロスは、うみをひあがらせるきかいを
+つくっているそうだ!
+I heard Necros will drain the sea!
+
+2a a2 c8 b8 db bd 8a a4 73 90 66 8b 71 76 de 97 7e 99 77 76 72 66 02
+I  20 H  E  A  R  D  20 N  E  C  R  O  S  20 W  I  L  L  20 D  R  A
+
+82 78 6f 83 72 99 7f 73 80 de 21 0f
+I  N  20 T  H  E  20 S  E  A  !
+
+*「ネクロスは、たいりくをいちげきでふきとばす
+ばくだんをつくっているぞ!
+Necros is building a
+doomsday bomb!
+Necros is now building a
+doomsday bomb!
+
+2a a2 c8 b8 db bd 8a a4 80 72 98 78 66 72 81 79 de 77 83 de 8c 77 84 8a de 7d 02
+N  E  C  R  O  S  20 I  S  20 N  O  W  20 B  U  I  L  D  I  N  G  20 A  20 D  O
+
+8a de 78 80 de 9d 66 82 78 6f 83 72 99 7f de 21 0f
+O  M  S  D  A  Y  20 B  O  M  B  !  20
+
+*「ネクロスには、シーフというさんぼうが
+ついているらしいぞ!
+I hear Necros is using
+Thief as his strategist!
+Thief is Necros' chief
+strategist!
+
+2a a2 c8 b8 db bd 86 8a a4 bc b0 cc 84 72 73 7b 9d 8e de 73 76 de 02
+T  H  I  E  F  20 I  S  20 N  E  C  R  O  S  '  20 C  H  I  E  F  20
+
+82 72 83 72 99 97 7c 72 7f de 21 0f
+S  T  R  A  T  E  G  I  S  T  !
+
+-- bluegrass isle (harrison)
+
+ハリソン「さきほどMERCENARYどのが、ひとりで
+とりでにはいっていきました。
+ここでまつようにいわれたのですが...
+Mercenary just entered
+the fort.
+I was told to wait here...
+
+ca d8 bf dd a2 7b 77 8e 84 de 16 84 de 89 76 de a4 8b 84 98 83 de 02
+M  E  R  C  E  N  A  R  Y  20 J  U  S  T  20 E  N  T  E  R  E  D  20
+
+84 98 83 de 86 8a 72 6f 83 72 77 8f 7c 80 a1 02
+T  H  E  20 F  O  R  T  .  02 05 I  20 W  A  S
+
+7a 7a 83 de 8f 82 96 73 86 72 9c 9a 80 89 83 de 7d 76 de eb 0f
+20 T  O  L  D  20 T  O  20 W  A  I  T  20 H  E  R  E  eb
+
+-- bluegrass isle (separate)
+
+*「おねがいします、このしまをまもってください。
+Please protect this isle.
+
+2a a2 75 88 76 de 72 7c 8f 7d a4 7a 89 7c 8f 66 8f 93 6f 83 78 80 de 7b 72 a1 02 0f
+P  L  E  A  S  E  20 P  R  O  T  E  C  T  20 T  H  I  S  20 I  S  L  E  .
+
+*「えーん、こわいよー!
+Waah, it's scary!
+Waah, scary!
+
+2a a2 74 b0 9d a4 7a 9c 72 96 b0 21 02 0f
+W  A  A  H  ,  20 S  C  A  R  Y  !
+
+-- baddies guarding bluegrass fort
+
+*「ここは、とおすわけにはいかん!
+You shall not pass!
+You will not pass!
+
+2a a2 7a 7a 8a a4 84 75 7d 9c 79 86 8a 72 76 9d 21 0f
+Y  O  U  20 W  I  L  L  20 N  O  T  20 P  A  S  S  !
