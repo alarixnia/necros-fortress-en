@@ -1114,6 +1114,13 @@ Dodged it!
 2a 8a bc de ac dd cc df 83 de 76 9c 7c 80 21 02
 2a 20 D  O  D  G  E  D  20 I  T  !
 
+*はかんじない!
+X felt nothing!
+Blocked!
+
+2a 8a 76 9d 7c de 85 72 21 02
+B  L  O  C  K  E  D  !
+
 *「たあーーっ!
 Taaahhh!
 
@@ -1215,6 +1222,12 @@ Members: (gained XP...)
 93 メ ン ハ de ー は 、
 93 d2 dd ca de b0 8a a4 00
 93 P  A  R  T  Y  :  20
+
+モンスターはこうさんした。
+Foe surrender
+
+d3 dd bd c0 b0 8a 7a 73 7b 9d 7c 80 a1
+F  O  E  20 S  U  R  R  E  N  D  E  R
 
 もEXPせいちょうした。
 EXP gained.
