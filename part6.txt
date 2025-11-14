@@ -1076,3 +1076,83 @@ You will not pass!
 
 2a a2 7a 7a 8a a4 84 75 7d 9c 79 86 8a 72 76 9d 21 0f
 Y  O  U  20 W  I  L  L  20 N  O  T  20 P  A  S  S  !
+
+-- fake knight one bluegrass isle
+
+*「な、なんだ、キサマら!
+このネクロスさまに、たてつくきか!
+
+How dare you defy the mighty
+Lord Necros!
+How dare you defy mighty
+Necros!
+
+2a a2 85 a4 85 9d 80 de a4 b7 bb cf 97 21 02
+H  O  W  20 D  A  R  E  20 Y  O  U  20 D  E
+
+7a 89 c8 b8 db bd 7b 8f 86 a4 80 83 82 78 77 76 21 05 02
+F  Y  20 M  I  G  H  T  Y  20 N  E  C  R  O  S  !
+
+*「わーっ、ちょ、ちょっとまった!
+
+Wait, hold on!
+
+2a a2 9c b0 6f a4 81 6e a4 81 6e 6f 84 8f 6f 80 21 0f
+W  A  I  T  ,  20 H  O  L  D  20 O  N  !
+
+-- more fake knight
+
+にせKNIGHT「うう、できごころだったんだ!
+[...]
+じつは、ねがいごとをかなえてくれる
+ふしぎなつぼをてにいれて、かいぶつを
+あやつっていたのだ。
+[...]
+しかし、つるんでいたシーフというヤツに、つぼも
+ためたカネもうばわれてしまったのだ!
+...たのむ。み、みのがしてくれ!
+
+Ugh, I'm a fraud!
+
+I found a strange jar that
+grants wishes, and used it
+to control the monsters.
+
+The thief (I was working with) ran away with
+the jar and all my money!
+(... Please let me go now!)
+
+86 7e 14 a2 73 73 a4 83 de 77 7a de 7a 9b 80 de 6f 80 9d 80 de 21 02 05
+U  G  H  ,  20 I  '  M  20 A  20 F  R  A  U  D  !  02 05 I  20 F  O  U
+
+7c de 82 8a a4 88 76 de 72 7a de 84 66 76 85 74 83 78 9a 99 02
+N  D  20 A  20 S  T  R  A  N  G  E  20 J  A  R  20 T  H  A  T
+
+8c 7c 77 de 85 82 8e de 66 83 86 72 9a 83 a4 76 72 8c de 82 66 02
+02 G  R  A  N  T  S  20 W  I  S  H  E  S  ,  20 A  N  D  20 U  S
+
+71 94 82 6f 83 72 80 89 80 de a1 02 05
+E  D  20 I  T  02 T  O  20 C  O  N  T
+
+7c 76 7c a4 82 99 9d 83 de 72 80 bc b0 cc 84 72 73 d4 c2 86 a4 82 8e de 93 02
+R  O  L  20 T  H  E  20 M  O  N  S  T  E  R  S  .  02 05 T  H  E  20 T  H  I
+
+80 92 80 b6 c8 93 73 8a de 9c 9a 83 7c 8f 6f 80 89 80 de 21 02
+E  F  20 R  A  N  20 A  W  A  Y  20 W  I  T  H  20 T  H  E  20
+
+eb 80 89 91 a1 90 a4 90 89 76 de 7c 83 78 9a 21
+J  A  R  20 &  20 M  Y  20 M  O  N  E  Y  !
+
+-- amazon's response to fake knight
+
+AMAZON「あまったれてんじゃないわよ!
+そのこんじょう、たたきなおしてやるわ!
+
+Ugh, what a crybaby!
+I'll sort him out!
+
+10 a2 71 8f 6f 80 9a 83 9d 7c de 6c 85 72 9c 96 21 02
+[  U  G  H  ,  20 I  S  20 H  E  20 G  O  N  N  A  20
+
+7f 89 7a 9d 7c de 6e 73 a4 80 80 77 85 75 7c 83 94 99 9c 21 0f
+S  T  A  R  T  02 C  R  Y  I  N  G  20 N  O  W  ?  ]
