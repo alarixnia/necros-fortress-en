@@ -1257,3 +1257,108 @@ c4 de b8 db bd 6f 83 72 73 94 82 86 a4 82 9a 7b 97 9a 80 89 a1 02
 
 7b 77 93 98 89 7c 8f 89 81 76 78 66 7b 76 de 7c 83 72 99 8a 7d de 96 a1 0f
 Y  '  R  E  20 A  T  20 S  E  A  20 B  Y  20 S  A  K  I  M  O  R  I  .
+
+-- sailor after learning about arao
+
+*「おい! あっちのほうにみえるのは、
+ドクロスせんじゃないか!?
+
+Oi, look! Isn't that Dracos' ship?!
+
+2a a2 75 72 21 20 71 6f 81 89 8e 73 86 90
+O  I  ,  20 L  O  O  K  !  20 I  S  N  '
+
+74 99 89 8a a4 02 c4 de b8 db bd 7e 9d 7c de 6c 85 72 76 21 3f 0f
+T  20 T  H  A  T  20 D  R  A  C  O  S  '  20 S  H  I  P  ?  !
+
+-- mage at frontier island
+
+MAGE「このしまには、まだネクロスのても
+のびておらん。アトランチスのてがかりは、どうやら
+このしまにありそうじゃ...
+
+Necros' rotten influence hasn't
+reached this island yet. Clues
+to Atlantis may lie here...
+
+We are safe from Necros
+here. There may be clues
+to Atlantis...
+
+17 a2 7a 89 7c 8f 86 8a a4 8f 80 de c8 b8 db bd 89 83 93 02
+W  E  20 A  R  E  20 S  A  F  E  20 F  R  O  M  20 N  E  C
+
+89 8b de 83 75 97 9d a1 b1 c4 d7 dd c1 bd 89 83 76 de 76 98 8a a4 84 de 73 94 97 02
+R  O  S  02 H  E  R  E  .  20 T  H  E  R  E  20 M  A  Y  20 B  E  20 C  L  U  E  S
+
+7a 89 7c 8f 86 71 98 7f 73 7c de 6c eb 0f
+02 T  O  20 A  T  L  A  N  T  I  S  eb
+
+-- save game guy at frontier island
+
+*「ここは、さいはてのさきもりのしまだ。
+いいつたえによれば、6000ねんのむかしにしずんだ
+たいりくが、やがて、すがたをあらわすという...
+[...]
+われわれさきもりは、そのひがくるのを
+せんぞだいだい、みはっているのだ...
+
+This is Frontier Island,
+at the world's edge.
+
+Legends say a lost (continent which
+sank 6000 years ago will one day reappear)...
+continent will one day reppear here...
+
+(We guardians have waited for that day
+for generations...)
+We're waiting..
+
+2a a2 7a 7a 8a a4 7b 72 8a 83 89 7b 77 93 98 89 7c 8f 80 de a1 02
+T  H  I  S  20 I  S  20 F  R  O  N  T  I  E  R  20 I  S  L  A  N
+
+72 72 82 80 74 86 96 9a 8a de a4 36 30 30 30 88 9d 89 91 76 7c 86 7c 7d de 9d 80 de 02
+D  ,  02 A  T  20 T  H  E  20 W  O  R  L  D  '  S  20 E  D  G  E  .  02 05 L  E  G  E
+
+80 72 98 78 76 de a4 94 76 de 83 a4 7d 76 de 80 66 71 97 9c 7d 84 72 73 eb 02 05
+N  D  S  20 S  A  Y  20 A  20 L  O  S  T  20 C  O  N  T  I  N  E  N  T  20 W  I
+
+9c 9a 9c 9a 7b 77 93 98 8a a4 7f 89 8b 76 de 78 99 89 66 02
+L  L  20 O  N  E  20 D  A  Y  02 R  E  A  P  P  E  A  R  20
+
+7e 9d 7f de 80 de 72 80 de 72 a4 90 8a 6f 83 72 99 89 80 de eb 0f
+H  E  R  E  .  W  E  '  R  E  02 W  A  I  T  I  N  G  .  .  .
+
+-- kid on frontier island
+
+いつへい「むかし、このせかいには、ふたりのかみが
+いたという。ひとりはヘブライル、もうひとりは、
+ネク...ラ...ええと...
+[...]
+えへへ。ぼくは、しじんになるために、ここで
+しゅぎょうをしているんだ。
+
+(Long ago, there were two gods
+in this world. One was Hebrail,)
+Long ago, 2 gods ruled the
+land. One was Hebrail, the
+other Ne... ca...  um...
+
+(Haha. I'm training to be a poet.)
+Haha. Do you like my
+poetry?
+
+72 82 8d 72 a2 91 76 7c a4 7a 89 7e 76 72 86 8a a4 8c 80 98 89 76 90 76 de 02
+L  O  N  G  20 A  G  O  ,  20 2  20 G  O  D  S  20 R  U  L  E  D  20 T  H  E
+
+72 80 84 72 73 a1 8b 84 98 8a cd cc de d7 b2 d9 a4 93 73 8b 84 98 8a a4 02
+02 L  A  N  D  .  20 O  N  E  20 W  A  S  20 H  E  B  R  A  I  L  ,  20 T
+
+c8 b8 eb d7 eb 74 74 84 eb 02 05
+H  E  02 O  T  H  E  R  20 N  E
+
+74 8d 8d a1 8e de 78 8a a4 7c 7c de 9d 86 85 99 80 92 86 a4 7a 7a 83 de 02
+eb 20 C  A  eb 20 U  M  eb 02 05 H  A  H  A  .  20 D  O  20 Y  O  U  20 L
+
+7c 6d 77 de 6e 73 66 7c 83 72 99 9d 80 de a1 0f
+I  K  E  20 M  Y  02 P  O  E  T  R  Y  ?
