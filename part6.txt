@@ -1156,3 +1156,63 @@ I'll sort him out!
 
 7f 89 7a 9d 7c de 6e 73 a4 80 80 77 85 75 7c 83 94 99 9c 21 0f
 S  T  A  R  T  02 C  R  Y  I  N  G  20 N  O  W  ?  ]
+
+-- mercenary after "defeating" fake necros
+
+MERCENARY「よう、とんだネクロスだったな。
+おれも、あんまりやすやすとしのびこめたんで、
+へんだとおもったんだが...
+どれ、おれもガルテラごうへのりこむとしよう。
+
+(Well then,)
+a fake Necros... I thought
+it was odd I could sneak
+in so easy...
+(Ah well, I'll) See you on the Galtera.
+
+16 a2 96 73 a4 84 9d 80 de c8 b8 db bd 80 de 6f 80 85 a1 02
+A  20 F  A  K  E  20 N  E  C  R  O  S  eb 20 I  20 T  H  O
+
+75 9a 93 a4 71 9d 8f 98 94 7d 94 7d 84 7c 89 8b de 7a 92 80 9d 83 de a4 02
+U  G  H  T  02 I  T  20 W  A  S  20 O  D  D  20 I  20 C  O  U  L  D  20 S
+
+8d 9d 80 de 84 75 93 6f 80 9d 80 de 76 de eb 02
+N  E  A  K  02 I  N  20 S  O  20 E  A  S  Y  eb
+
+84 de 9a a4 75 9a 93 b6 de d9 c3 d7 7a de 73 8d 89 98 7a 91 84 7c 96 73 a1 0f
+02 S  E  E  20 Y  O  U  20 O  N  20 T  H  E  20 G  A  L  T  E  R  A  .
+
+-- villagers after "defeating" fake necros
+
+*「いやあ、さすが8ゆうしゃだ!
+Praise the 8 (heroes)!
+
+2a a2 72 94 71 a4 7b 7d 76 de 38 95 73 7c 6c 80 de 21 0f
+P  R  A  I  S  E  20 T  H  E  20 E  I  G  H  T  !
+
+-- fake knight arguing on board galtera
+
+*「おらおら、しんまい!
+もっと、きあいをいれてみがかんかい!
+にせKNIGHT「ひー、たすけてー!
+
+(Hey fresh meat!
+Put some heart into polishing them decks!)
+Hey you, fresh meat!
+Heave-ho!
+Gah, help me!
+
+2a a2 75 97 75 97 a4 7c 9d 8f 72 21 02 93 6f 84 a4 77 71 72 66 72 9a 83 90 76 de 76 9d
+H  E  Y  20 Y  O  U  ,  20 F  R  E  S  H  20 M  E  A  T  !  02 H  E  A  V  E  -  H  O
+
+76 72 21 02 86 7e 14 a2 8b b0 a4 80 7d 79 83 b0 21 0f
+!  02 05 G  A  H  ,  20 H  E  L  P  20 M  E  !
+
+-- mercenary on galtera
+
+MERCENARY「きょうのメシは、なかなかだな。
+Today's meal is quite something.
+The food's lovely.
+
+16 a2 77 6e 73 89 d2 bc 8a a4 85 76 85 76 80 de 85 a1 0f
+T  H  E  20 F  O  O  D  '  S  20 L  O  V  E  L  Y  .
