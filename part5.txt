@@ -844,7 +844,7 @@ Is King Hope safe?
 2a a2 71 71 a4 ce b0 cc df 75 73 8a a4 8c de 7c de 80 de 9b 73 76 a1 0f
 I  S  20 K  I  N  G  20 H  O  P  E  20 S  A  F  E  ?
 
--- docros
+-- skullcros
 
 ドクロス「ほほう。
 わざわざころされにくるとは、ばかなやつらだ。
@@ -853,7 +853,7 @@ I  S  20 K  I  N  G  20 H  O  P  E  20 S  A  F  E  ?
 Well well. What fools you
 are to come here.
 
-Now meet your end (at the hands of Docros).
+Now meet your end (at the hands of Skullcros).
 
 c4 de b8 db bd a2 8e 8e 73 a1 02 9c 7b de 9c 7b de 7a 9b 7b 9a 86 78
 W  E  L  L  20 W  E  L  L  .  20 W  H  A  T  20 F  O  O  L  S  20 Y
@@ -879,21 +879,21 @@ A  H  20 T  O  20 H  E  L  L  20 W  I  T  H  20 Y  O  U  !
 さて、はやくわしをたおしてすすまんと、
 ホープおうはいきたえてしまうぞ!
 
-Grr... While Docros bought
-us time, I went for the
+(Grr...) While Skullcros slowed
+you down , I went for the
 King.
 
 You stand in the way of
 his last breath!
 
 c3 de b6 db bd a2 78 de 99 99 eb 02
-G  R  R  .  .  20 W  H  I  L  E  20
+W  H  I  L  E  20 S  K  U  L  L  C
 
 c4 de b8 db bd 76 de 7c de 76 9d 66 76 7e 72 83 de 72 99 71 72 80 de 86 a4 02
-D  O  C  R  O  S  20 B  O  U  G  H  T  02 U  S  20 T  I  M  E  ,  20 I  20 W	
+R  O  S  20 S  L  O  W  E  D  20 Y  O  U  20 D  O  W  N  ,  20 I  20 W  E  N
 
 ce b0 cc df 75 73 66 81 8f 82 98 86 7c 83 94 6f 80 9c a1 02 05
-E  N  T  20 F  O  R  20 T  H  E  02 K  I  N  G  .  02 05 Y  O
+T  20 F  O  R  20 T  H  E  02 K  I  N  G  .  02 05 Y  O  U  20
 
 7b 83 a4 8a 94 78 9c 7c 66 80 75 7c 83 7d 7d 8f 9d 84 a4 02
 U  20 S  T  A  N  D  20 I  N  20 T  H  E  20 W  A  Y  20 O

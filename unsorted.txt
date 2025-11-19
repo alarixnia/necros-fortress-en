@@ -1568,11 +1568,10 @@ bc ac c4 de b3 b6 b0 d8 b0
 S  H  D  W  20 C  U  R  L
 
 ドクロス
-Docros
-Docrs
+Skullcros
 
 c4 de b8 db bd
-D  O  C  R  S
+S  K  U  L  L
 
 デカロス
 Decros

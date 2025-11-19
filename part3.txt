@@ -1884,14 +1884,14 @@ H  E  H  20 H  E  H  .  20 Y  O  U  '  V  E  20 C  O  M  E  20 F  A  R  .
 「ふふふ。わたしは、
 ネクロス7にんしゅうのかしら、ドクロス。
 
-(Muahaha.) I am Drocros,
-head of the (Necros) 7.
+(Muahaha.) I am Skullcros,
+leader of the (Necros) 7.
 
 a2 8c 8c 8c a1 9c 80 7c 8a a4 02
-I  20 A  M  20 D  R  O  C  R  O
+I  20 A  M  20 S  K  U  L  L  C
 
 c8 b8 db bd 37 86 9d 7c 6d 73 89 76 7c 97 a4 c4 de b8 db bd a1 04
-S  ,  20 H  E  A  D  20 O  F  20 T  H  E  20 S  E  V  E  N  .
+R  O  S  ,  20 L  E  A  D  E  R  20 O  F  20 T  H  E  20 7  .
 
 いままでおまえらのたおしたのは、われわれのうちでも
 とくにちからのないれんちゅうよ。
@@ -1945,12 +1945,12 @@ BERSERKERのおかげで、たまたまヘビロスのやぼうを
 
 With the help of Berserker, Elf and Samurai
 had accidentally thwarted Hebiros' ambitions.
-Though concerned by Drocros' words, they
+Though concerned by Skullcros' words, they
 hurried towards Tankirie Castle where
 everyone awaited them.
 
 Though the heroes had thwarted Hebiros,
-they were concerned by Drocros' words.
+they were concerned by Sullcros' words.
 They all hurried to Tankirie Castle.
 
 Though they'd thwarted Hebiros,
