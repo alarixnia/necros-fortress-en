@@ -1380,3 +1380,62 @@ eb 20 C  A  eb 20 U  M  eb 02 05 H  A  H  A  .  20 D  O  20 Y  O  U  20 L
 
 7c 6d 77 de 6e 73 66 7c 83 72 99 9d 80 de a1 0f
 I  K  E  20 M  Y  02 P  O  E  T  R  Y  ?
+
+-- after talking to people on frontier island, they join the galtera
+
+アレフ「いま、けいこをつけてもらっているんだ。
+えい、えい! やあ、やあ!
+
+I'm practicing my leading. Heave-ho!
+
+b1 da cc a2 72 8f a4 79 72 7a 66 82 79 83 93 97 6f 83 72 99 9d 80
+I  '  M  20 P  R  A  C  T  I  C  I  N  G  20 M  Y  20 L  E  A  D
+
+de a1 02 74 72 a4 74 72 21 20 94 71 a4 94 71 21 0f
+I  N  G  .  20 H  E  A  V  E  -  H  O  !
+
+KNIGHT「さすがホープおうのごしそく。
+とても8さいとはおもえん。
+
+Truly Hope's son.
+(Hard to believe he's 8.)
+Truly only 8.
+
+14 a2 7b 7d 76 de ce b0 cc df 75 73 89 7a de 7c 7f 78 a1 02
+T  R  U  L  Y  20 H  O  P  E  '  S  20 S  O  N  .  02 T  R
+
+84 83 93 38 7b 72 84 8a 75 93 74 9d a1 0f
+U  L  Y  20 O  N  L  Y  20 8  .
+
+SAMURAI「さきがたのしみなワカじゃのう。
+でしにとりたいぐらいでござる!
+
+(What a promising young man!)
+Wow, promising. He's a
+natural leader.
+
+12 a2 7b 77 76 de 80 89 7c 90 85 dc b6 7c de 6c 89 73 a1 02
+W  O  W  ,  P  R  O  M  I  S  I  N  G  .  20 H  E  '  S  20
+
+83 de 7c 86 84 98 80 72 78 de 97 72 83 de 7a de 7b de 99 21 0f
+A  02 N  A  T  U  R  A  L  20 L  E  A  D  E  R  !  20  
+
+-- and the mage too
+
+MAGE「わしも、まだまだわかいもんには
+まけやせん。エイヴせんちょうとは
+きがあいそうじゃ。
+
+I think me and Capt. Aiv
+will get along.
+(We won't lose to some whippersnappers.)
+
+17 a2 9c 7c 93 a4 8f 80 de 8f 80 de 9c 76 72 93 9d 86 8a 02
+I  20 T  H  I  N  K  20 M  E  20 A  N  D  20 C  A  P  T  .
+
+8f 79 94 7e 9d a1 b4 b2 b3 de 7e 9d 81 6e 73 84 8a 02
+20 A  I  V  02 W  I  L  L  20 G  E  T  20 A  L  O  N
+
+77 76 de 71 72 7f 73 7c de 6c a1 0f
+G  .  20 H  O  20 H  O  .
+
