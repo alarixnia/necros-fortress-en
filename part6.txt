@@ -1590,3 +1590,63 @@ W  E  20 D  O  N  '  T  20 W  A  N  T  20 T  H  E  M  02 K
 
 84 9d 83 de 93 85 72 7a 84 86 85 98 8f 7d 76 97 21 0f
 N  O  W  I  N  G  20 H  I  S  20 S  O  N  G  S  !
+
+-- arao
+
+アラオ「ああ、たいへんじゃ! ヤツらに
+アトランチスのひみつをしゃべってしまった!
+[...]
+ヤツらは、アトランチスのかがくぎじゅつを
+つかって、とんでもないことをたくらんでいる!
+
+I told them the secrets of
+Atlantis!
+
+They're planning something (terrible)
+with its technology!
+
+b1 d7 b5 a2 71 71 a4 80 72 8d 9d 7c de 6c 21 20 d4 c2 97 86 02
+[  A  R  A  O  !  ]  02 I  20 T  O  L  D  20 T  H  E  M  20 T
+
+b1 c4 d7 dd c1 bd 89 8b 90 82 66 7c 6c 8d de 6f 83 7c 8f 6f 80 21 02 05
+E  20 S  E  C  R  E  T  S  20 O  F  20 A  T  L  A  N  T  I  S  !  02 05
+
+d4 c2 97 8a a4 b1 c4 d7 dd c1 bd 89 76 76 de 78 77 de 7c de 6d 82 66 02
+T  H  E  Y  '  R  E  20 P  L  A  N  N  I  N  G  20 S  O  M  E  T  H  I
+
+82 76 6f 83 a4 84 9d 83 de 93 85 72 7a 84 66 80 78 97 9d 83 de 72 99 21 02 05
+N  G  20 W  I  T  H  20 I  T  S  20 T  E  C  H  N  O  L  O  G  Y  .  02 05
+
+(this part is separate in the binary)
+
+さきもりのしまのきたに、100ねんにいちど
+うずまきがおこる。
+[...]
+そのうずまきにとびこむことが、アトランチスにいく
+ゆいいつのほうほうだ。
+...そして、きょうが、その100ねんめなのだ!
+
+Once every 100 years, a portal (whirlpool)
+appears north
+of Frontier Island.
+
+(Diving into that whirlpool is the only
+way to reach Atlantis.)
+
+... (And) today marks the 100th
+year!
+
+7b 77 93 98 89 7c 8f 89 77 80 86 a4 31 30 30 88 9d 86 72 81 84 de 02
+E  V  E  R  Y  20 1  0  0  20 Y  E  A  R  S  ,  20 A  20 P  O  R  T
+
+73 7d de 8f 77 76 de 75 7a 99 a1 02 05
+A  L  20 T  O  20 A  T  L  A  N  T  I
+
+7f 89 73 7d de 8f 77 86 84 8b de 7a 91 7a 84 76 de a4 b1 c4 d7 dd c1 bd 86 72 78 02
+S  20 A  P  P  E  A  R  S  20 N  O  R  T  H  20 O  F  20 F  R  O  N  T  I  E  R  20
+
+95 72 72 82 89 8e 73 8e 73 80 de a1 02
+I  S  L  A  N  D  .  02 05 T  O  D  A
+
+eb 7f 7c 83 a4 77 6e 73 76 de a4 7f 89 31 30 30 88 9d 92 85 89 80 de 21 0f
+Y  20 M  A  R  K  S  20 T  H  E  20 1  0  0  T  H  20 Y  E  A  R  !

@@ -1605,6 +1605,14 @@ Ifrit
 b2 cc d8 b0 c4
 I  F  R  I  T
 
+サタナキア
+Satanachia
+Satania
+
+サ タ ナ キ ア
+bb c0 c5 b7 b1
+S  A  T  N  I
+
 ブルーシャドウ
 Blue Shade
 
