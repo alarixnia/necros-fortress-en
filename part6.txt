@@ -1547,3 +1547,46 @@ M  E  E  !  02 05 W  H  O  20 K  N  E  W
 
 2a a2 9c 8a 8a a4 14 76 de 7a 9d 85 86 96 9c 72 84 8a 85 21 0f
 20 14 G  H  T  20 W  A  S  02 T  H  I  S  20 W  E  A  K  !
+
+-- bards in ship's basement
+
+*「ああ、おかげでたすかりました。
+
+Ah, finally I'm saved.
+
+2a a2 71 71 a4 75 76 79 de 83 de 80 7d 76 98 8f 7c 80 a1 0f
+F  I  N  A  L  L  Y  20 I  '  M  20 S  A  V  E  D  .
+
+*「ネクロスは、われわれがなにかしっていると
+おもって、とらえてまわったようですが、われわれは
+うたをうたうだけで、なにもしらないのです。
+
+Necros thinks we know some
+thing useful to him, but
+we're just songwriters.
+
+2a a2 c8 b8 db bd 8a a4 9c 9a 9c 9a 76 de 85 86 76 7c 6f 83 72 99 84 02
+N  E  C  R  O  S  20 T  H  I  N  K  S  20 W  E  20 K  N  O  W  20 S  O
+
+75 93 6f 83 a4 84 97 74 83 8f 9c 6f 80 96 73 83 de 7d 76 de a4 9c 9a 9c 9a 8a 02
+M  E  T  H  I  N  G  20 U  S  E  F  U  L  20 T  O  20 H  I  M  ,  20 B  U  T  02
+
+73 80 66 73 80 73 80 de 79 83 de a4 85 86 93 7c 97 85 72 89 83 de 7d a1 0f
+W  E  '  R  E  20 J  U  S  T  20 S  O  N  G  W  R  I  T  E  R  S  .
+
+*「しかし、バードがつかまらず、さいわいでした。
+さいかいのうたが、やつらにしられたら
+とんでもないことになりますから!
+
+Good, they didn't catch
+Bard. We don't want them
+knowing his songs (the Reunion Song)!
+
+2a a2 7c 76 7c a4 ca de b0 c4 de 76 de 82 76 8f 97 7d de a4 7b 72 9c 72 83 de 7c 80 a1 02
+G  O  O  D  ,  20 T  H  E  Y  20 D  I  D  N  '  T  20 C  A  T  C  H  02 B  A  R  D  .  20
+
+7b 72 76 72 89 73 80 76 de a4 94 82 97 86 7c 97 9a 80 97 02
+W  E  20 D  O  N  '  T  20 W  A  N  T  20 T  H  E  M  02 K
+
+84 9d 83 de 93 85 72 7a 84 86 85 98 8f 7d 76 97 21 0f
+N  O  W  I  N  G  20 H  I  S  20 S  O  N  G  S  !

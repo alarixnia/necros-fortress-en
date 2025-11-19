@@ -872,6 +872,13 @@ Used fire attack!
 2a 89 cc a7 b2 d4 b0 b1 c0 af b8 21
 2a 20 U  S  E  D  20 F  I  R  E  !
 
+*は、うけとめた!
+Took the blow!
+Took it
+
+2a 8a a4 73 79 84 92 80 21 02 04
+2a 20 T  O  O  K  20 I  T
+
 *「あたたっ!
 Ouch!
 
