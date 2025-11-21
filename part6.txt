@@ -1650,3 +1650,105 @@ I  S  L  A  N  D  .  02 05 T  O  D  A
 
 eb 7f 7c 83 a4 77 6e 73 76 de a4 7f 89 31 30 30 88 9d 92 85 89 80 de 21 0f
 Y  20 M  A  R  K  S  20 T  H  E  20 1  0  0  T  H  20 Y  E  A  R  !
+
+-- skullcros capturing ship
+
+ドクロス「ぐっふっふ、まぬけどもめ!
+ガルテラごうは、このドクロスがいただいた!
+
+Haha, you fools! Now the
+Galtera belongs to us (Skullcros)!
+
+c4 de b8 db bd a2 78 de 6f 8c 6f 8c a4 8f 87 79 84 de 93 92 21 02
+H  A  H  A  ,  20 Y  O  U  20 F  O  O  L  S  !  02 05 N  O  W  20
+
+b6 de d9 c3 d7 7a de 73 8a a4 7a 89 c4 de b8 db bd 76 de 72 80 80 de 72 80 21 0f
+T  H  E  20 G  A  L  T  E  R  A  20 B  E  L  O  N  G  S  20 T  O  20 U  S  ! 
+
+-- atlantis portal
+
+アトランチスにいったら、2どとこちらのせかいには
+もどれません
+
+(Once in Atlantis,)
+You may never return to this land.
+
+b1 c4 d7 dd c1 bd 86 72 6f 80 97 a4 32 84 de 84 7a 81 97 89 7e 76 72 86 8a 02
+Y  O  U  20 M  A  Y  20 N  E  V  E  R  20 R  E  T  U  R  N  20 T  O  20 T  H
+
+93 84 de 9a 8f 7e 9d a1
+I  S  20 L  A  N  D  .
+
+-- atlantis
+
+*「ゴロゴロ...
+Grr...
+
+2a a2 ba de db ba de db eb 0f
+G  R  .  .  20 G  R  .  .
+
+*「あなたのなかまはぶじです。
+そこのいえに、はいってごらんなさい。
+
+Your comrades are safe.
+See for yourself, inside this house.
+
+Your comrades are safe in this house.
+
+2a a2 71 85 80 89 85 76 8f 8a 8c de 7c de 83 de 7d a1 02
+Y  O  U  R  20 C  O  M  R  A  D  E  S  20 A  R  E  20 S
+
+7f 7a 89 72 74 86 a4 8a 72 6f 83 7a de 97 9d 85 7b 72 a1 0f
+A  F  E  20 I  N  20 T  H  A  T  20 H  O  U  S  E  .
+
+*「ほかのせんいんは、だいじょぶかな...
+まあ、ころしてもしなないヤツらだけど。
+
+I wonder if the other
+crew members are OK...
+
+2a a2 8e 76 89 7e 9d 72 9d 8a a4 80 de 72 7c de 6e 8c de 76 85 eb 02
+I  20 W  O  N  D  E  R  20 I  F  20 T  H  E  20 O  T  H  E  R  20 C
+
+8f 71 a4 7a 9b 7c 83 93 7c 85 85 72 d4 c2 97 80 de 79 84 de a1 0f
+R  E  W  20 M  E  M  B  E  R  S  20 A  R  E  20 O  K  .  .  .
+
+*「だいじょうぶかい? むりするなよ。
+
+Are you OK? Don't push yourself too hard.
+How are you feeling?
+
+2a a2 80 de 72 7c de 6e 73 8c de 76 72 3f 20 91 98 7d 99 85 96 a1 0f
+H  O  W  20 A  R  E  20 Y  O  U  20 F  E  E  L  I  N  G  ?
+
+*「ぶきをしまってください。われわれは
+かいぶつではありません。
+
+Please put down your weapons. We aren't monsters.
+We aren't monsters. Lower
+your arms.
+
+2a a2 8c de 77 66 7c 8f 6f 83 78 80 de 7b 72 a1 9c 9a 9c 9a 8a 02
+W  E  20 A  R  E  N  '  T  20 M  O  N  S  T  E  R  S  .  20 L  O
+
+76 72 8c de 82 83 de 8a 71 98 8f 7e 9d a1 0f
+W  E  R  02 Y  O  U  R  20 A  R  M  S  .
+
+-- mage in atlantis
+
+MAGE「うう、わしもトシかのう...
+そろそろ、MAGEのしょうごうをだれかにゆずって
+いんたいするか...
+
+(Ugh, I'm getting too old for this...)
+It's about time I passed
+on the title of Mage (to someone else)...
+
+17 a2 73 73 a4 9c 7c 93 c4 bc 76 89 73 eb 02
+I  T  '  S  20 A  B  O  U  T  20 T  I  M  E
+
+7f 9b 7f 9b a4 17 89 7c 6e 73 7a de 73 66 80 de 9a 76 86 95 7d de 6f 83 02
+20 I  20 P  A  S  S  E  D  02 O  N  20 T  H  E  20 T  I  T  L  E  20 O  F
+
+72 9d 80 72 7d 99 76 eb 0f
+20 M  A  G  E  .  .  .
