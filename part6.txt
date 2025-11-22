@@ -2088,3 +2088,84 @@ S  20 W  O  R  L  D  20 I  S  20 D  A  R  K  !  02 K  I  N  D  N  E  S  S
 
 94 90 8a a4 77 74 9d 21 20 9c 7c 8a a4 85 9d 84 de 83 de 93 72 77 76 74 99 7f de 21 0f
 T  O  02 F  A  I  L  U  R  E  !  02 I  20 W  I  L  L  20 R  E  T  U  R  N  !
+
+-- ghosty back in atlantis
+
+*「どうやら、ネクラーガのふっかつも
+とめられたようですね。
+[...]
+あなたのなかまは、みな、もとのせかいへ
+ぶじかえりました。
+[...]
+もうすぐ、あなたがたのせかいとのつながりも
+きれてしまいます。そうなったら、また100ねんは
+もどれません。いそいでください。
+
+It seems Necros' forces
+have retreated.
+
+Your friends are safe (back) in
+their world.
+
+Soon, the portal will close
+for 100 years.
+Please hurry.
+
+2a a2 84 de 73 94 97 a4 c8 b8 d7 b0 b6 de 89 8c 6f 76 82 93 02
+I  T  20 S  E  E  M  S  20 N  E  C  R  O  S  '  20 F  O  R  C
+
+84 92 97 9a 80 96 73 83 de 7d 88 a1 02 05
+E  S  02 H  A  V  E  20 R  E  T  R  E  A
+
+71 85 80 89 85 76 8f 8a a4 90 85 a4 93 84 89 7e 76 72 8d 02
+T  E  D  .  02 05 Y  O  U  R  20 F  R  I  E  N  D  S  20 A
+
+8c de 7c de 76 74 98 8f 7c 80 a1 02 05
+R  E  20 S  A  F  E  20 I  N  02 T  H
+
+93 73 7d 78 de a4 71 85 80 76 de 80 89 7e 76 72 84 89 82 85 76 de 98 93 02
+E  I  R  20 W  O  R  L  D  .  02 05 S  O  O  N  20 T  H  E  20 P  O  R  T
+
+77 9a 83 7c 8f 72 8f 7d a1 7f 73 85 6f 80 97 a4 8f 80 31 30 30 88 9d 8a 02
+A  L  20 W  I  L  L  20 C  L  O  S  E  02 F  O  R  20 1  0  0  20 Y  E  A
+
+93 84 de 9a 8f 7e 9d a1 72 7f 72 83 de 78 80 de 7b 72 a1 0f
+R  S  .  20 P  L  E  A  S  E  20 H  U  R  R  Y  . 
+
+-- marin back on atlantis
+
+マリン「あたし、いったいどうしてここに...?
+なにがあったのかしら...?
+[...]
+そのとき、どこからともなくこえがした。
+
+*「ヘヴライルのかみは、いつでも
+こころただしきもののみかたである。
+そなたらを、タンキリエのちへおくりとどけよう。
+
+Where am I? What on earth
+happened?
+
+Suddenly, a voice (from nowhere)...
+
+"The God Hebrail always
+sides with the good &
+pure. Now, return!"
+
+cf d8 dd a2 71 80 7c a4 72 6f 80 72 84 de 73 7c 83 7a 7a 86 eb 3f 02
+W  H  E  R  E  20 A  M  20 I  ?  20 W  H  A  T  20 O  N  20 E  A  R
+
+85 86 76 de 71 6f 80 89 76 7c 97 eb 3f 02 05
+T  H  02 H  A  P  P  E  N  E  D  ?  02 05 S
+
+7f 89 84 77 a4 84 de 7a 76 97 84 93 85 78 7a 74 76 de 7c 80 a1
+U  D  D  E  N  L  Y  ,  20 A  20 V  O  I  C  E  eb 02 05 "  T
+
+2a a2 cd b3 de d7 b2 d9 89 76 90 8a a4 72 82 83 de 93 02
+H  E  20 G  O  D  20 H  E  B  R  A  I  L  20 A  L  W  A
+
+7a 7a 9b 80 80 de 7c 77 93 89 89 90 76 80 83 de 71 99 a1 02
+Y  S  02 S  I  D  E  S  20 W  I  T  H  20 T  H  E  20 G  O
+
+7f 85 80 97 66 a4 c0 dd b7 d8 b4 89 81 8d 75 78 98 84 84 de 79 96 73 a1 0f
+O  D  20 &  02 P  U  R  E  .  20 N  O  W  ,  20 R  E  T  U  R  N  !  "
