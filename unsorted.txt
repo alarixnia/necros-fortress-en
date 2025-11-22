@@ -1113,6 +1113,14 @@ F  E  C  K  !
 2a 89 ca de b6 81 de 76 97 85 78 de 98 21 02 04
 2a 20 U  S  E  D  20 B  A  S  H  !
 
+クロスアタック!
+Cross attack!
+X Atk!
+
+ク ロ ス ア タ ッ ク !
+b8 db bd b1 c0 af b8 21 02
+X  20 A  T  K  !
+
 *はジャンプでかわした!
 Dodged it with a jump!
 Dodged it!
@@ -1141,6 +1149,12 @@ Heavens!
 2a a2 7f 98 6c 71 b0 6f 21 02 04
 H  E  A  V  E  N  S  !  20
 
+*「いでよ! リザード
+Calls lizard
+
+2a a2 72 83 de 96 21 20 d8 bb de b0 c4 de 02 04
+2a 20 C  A  L  L  S  20 L  I  Z  A  R  D
+
 *「いでよ! キンドラゴニット
 Calls upon kindragon!
 
@@ -1165,6 +1179,19 @@ Calls fire dragon!
 
 2a a2 72 83 de 96 21 20 cc a7 b2 d4 b0 c4 de d7 ba de dd 02 04
 2a 20 C  A  L  L  S  20 F  I  R  E  20 D  R  A  G  O  N
+
+*「いでよ! アイスドラゴン
+Calls ice dragon!
+
+2a a2 72 83 de 96 21 20 b1 b2 bd c4 de d7 ba de dd 02 04
+2a 20 C  A  L  L  S  20 I  C  E  D  R  A  G  N  !
+
+*は、?をついた!
+X grabbed Y! (used for dwarf jar attacks)
+X used Y!
+
+2a 8a a4 23 66 82 72 80 21 02 04
+2a 20 U  S  E  D  20 23 !
 
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
@@ -1576,7 +1603,7 @@ Ice Griffon
 
 ア イ ス ク de リ フ ォ ン
 b1 b2 bd b8 de d8 cc ab dd
-I  C  E  20 G  R  I  F  F
+I  C  E  20 G  R  I  F  N
 
 シャドウカーリー
 Shadow Curly
@@ -1687,7 +1714,7 @@ Red Curly
 
 レ ッ ト de カ ー リ ー
 da af c4 de b6 b0 d8 b0
-R  E  D  C  U  R  L  Y
+R  E  D  20 C  U  R  L
 
 ブラックORC
 Dark Orc
@@ -2051,6 +2078,13 @@ Envy
 け ん ほ de う
 79 9d 8e de 73
 E  N  V  Y  df
+
+かいりきゴント
+Mighty Gont
+
+か い り き コ de ン ト
+76 72 98 77 ba de dd c4
+M  I  G  H  T  Y
 
 ナイトのよろい
 Knight's Armour
@@ -2444,6 +2478,12 @@ Summon Dragon D
 bb d3 dd c4 de d7 ba de dd
 C  A  L  L  D  R  A  G  20 D
 
+サモンドラゴンI
+Call Dragon I
+
+bb d3 dd c4 de d7 ba de dd 49
+C  A  L  L  D  R  A  G  I  df
+
 --- Dwarf's spells
 
 れつだんのつぼ
@@ -2717,6 +2757,13 @@ But inv is full!
 B  U  T  20 I  N  V  20 I  S  20 F  U  L  L  !
 
 --- Death
+
+もは、しんでしまった。
+X has died.
+
+も は 、 し ん て de し ま っ た 。
+93 8a a4 7c 9d 83 de 7c 8f 6f 80 a1 0f
+93 20 H  A  S  20 D  I  E  D  .
 
 ハdf-ティは、せdeんめつした。
 

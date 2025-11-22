@@ -1916,3 +1916,55 @@ C  R  O  S  20 I  S  20 S  A  C  R  I  F  I  C  I  N  G  02 T  H  E  20 G  I  R
 
 71 89 91 7d 92 66 72 79 86 74 86 7c 83 85 eb 0f
 L  20 U  N  D  E  R  G  R  O  U  N  D  eb
+
+-- mercenary in dungeon
+
+MERCENARY「おう、おまえか。わるいが、さきに
+いかせてもらうぜ。なにしろ、このようさいには、
+おたからがたんまりあるというからな...
+
+Ah, it's you. Sorry, but
+I'll be off. They say
+there's treasure...
+
+16 a2 75 73 a4 75 8f 74 76 a1 9c 99 72 76 de a4 7b 77 86 02
+A  H  ,  20 I  T  '  S  20 Y  O  U  .  20 S  O  R  R  Y  ,
+
+72 76 7e 83 93 97 73 7e de a1 85 86 7c 9b a4 7a 89 96 73 7b 72 86 8a a4 02
+20 B  U  T  02 I  '  L  L  20 B  E  20 O  F  F  .  20 T  H  E  Y  20 S  A
+
+75 80 76 97 76 de 80 9d 8f 98 71 99 84 72 73 76 97 85 eb 0f
+Y  02 T  H  E  R  E  '  S  20 T  R  E  A  S  U  R  E  eb
+
+-- necros kidnapping marin in dungeon
+
+ネクロス「ふふふ、よくぞきたな。
+しかし、おまえたちにかちめはない。わっはっは!
+[...]
+マリン「ああ、こないで!
+
+[Hah, you've come at last.
+But you've got no chance of victory!
+
+Oh, don't come near him!]
+
+Hah, you're here at last.
+But you don't stand a chance!
+
+c8 b8 db bd a2 8c 8c 8c a4 96 78 7f de 77 80 85 a1 02
+H  A  H  ,  20 Y  O  U  '  R  E  20 H  E  R  E  20 A
+
+7c 76 7c a4 75 8f 74 80 81 86 76 81 92 8a 85 72 a1 9c 6f 8a 6f 8a 21 05 02
+T  20 L  A  S  T  .  02 B  U  T  20 Y  O  U  20 D  O  N  '  T  20 S  T  A
+
+cf d8 dd a2 71 71 a4 7a 85 72 83 de 21 0f
+N  D  20 A  02 C  H  A  N  C  E  !
+
+-- necros running away
+
+*「ワアッハッハッハア!
+
+Wahahahaha!
+
+2a a2 dc b1 af ca af ca af ca b1 21 0f
+W  A  H  A  H  A  H  A  H  A  !  df
