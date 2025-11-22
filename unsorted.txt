@@ -1619,11 +1619,24 @@ Shdw Curl
 bc ac c4 de b3 b6 b0 d8 b0
 S  H  D  W  20 C  U  R  L
 
+グリフォン
+Griffon
+
+b8 de d8 cc ab dd
+G  R  I  F  F  N
+
 ドクロス
 Skullcros
 
 c4 de b8 db bd
 S  K  U  L  L
+
+ネクロス
+Necros
+
+ネ ク ロ ス
+c8 b8 db bd
+N  E  C  R
 
 デカロス
 Decros

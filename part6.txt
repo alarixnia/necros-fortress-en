@@ -1968,3 +1968,123 @@ Wahahahaha!
 
 2a a2 dc b1 af ca af ca af ca b1 21 0f
 W  A  H  A  H  A  H  A  H  A  !  df
+
+-- more mercenary showboating
+
+MERCENARY「ぐっ、これしきのキズで...
+へへ、わるいが、さきにいくぜ...
+
+Uh, just a scratch...
+Sorry, (but I'm going ahead) I'm off...
+
+16 a2 78 de 6f a4 7a 9a 7c 77 89 b7 bd de 83 de eb 02
+U  H  ,  20 J  U  S  T  20 A  20 S  C  R  A  T  C  H
+
+8d 8d a4 9c 99 72 76 de a4 7b 77 86 72 78 7e de eb 0f
+eb 02 S  O  R  R  Y  ,  20 I  '  M  20 O  F  F  eb
+
+MERCENARY「く、くそう。こんなキズ...
+マリン、たのむから、いきていてくれよ...
+
+This flesh wound...
+Marin, please be (alive)...
+
+16 a2 78 a4 78 7f 73 a1 7a 9d 85 b7 bd de eb 02
+T  H  I  S  20 F  L  E  S  H  20 W  O  U  N  D
+
+cf d8 dd a4 80 89 91 76 97 a4 72 77 83 72 83 78 9a 96 eb 0f
+eb 02 M  A  R  I  N  ,  20 P  L  E  A  S  E  20 B  E  eb
+
+-- necros dialogue
+
+ネクロス「ふっふっふ。
+ニンゲンは、つくづくおろかよのう!
+[...]
+MERCENARYとやらは、あんなムスメのために
+キズだらけでむかってきよる。
+[...]
+しかし、そのマリンとかいうムスメは
+いけにえになるまえに、じぶんでじぶんのいのちを
+たちおったわい!
+[...]
+それをすくいにきたおぬしらも、
+とんだおろかものよのう!
+ちょうどいい。キサマらをかわりに
+いけにえにしてやろう!
+
+Heh heh. Humans are such
+foolish morsels!
+
+The girl killed herself
+before she could be
+sacrificed!
+
+Now you all charge in,
+covered in wounds,
+hoping to save her!
+
+You'll take her place!
+
+c8 b8 db bd a2 8c 6f 8c 6f 8c a1 02
+H  E  H  20 H  E  H  .  20 H  U  M
+
+c6 dd b9 de dd 8a a4 82 78 82 de 78 75 9b 76 96 89 73 21 02 05
+A  N  S  20 A  R  E  20 S  U  C  H  02 F  O  O  L  I  S  H  20
+
+16 84 94 97 8a a4 71 9d 85 d1 bd d2 89 80 92 86 02
+20 M  O  R  S  E  L  S  !  02 05 T  H  E  20 G  I
+
+b7 bd de 80 de 97 79 83 de 91 76 6f 83 77 96 99 a1 02 05
+R  L  20 K  I  L  L  E  D  20 H  E  R  S  E  L  F  02 B
+
+7c 76 7c a4 7f 89 cf d8 dd 84 76 72 73 d1 bd d2 8a 02
+E  F  O  R  E  20 S  H  E  20 C  O  U  L  D  20 B  E
+
+72 79 86 74 86 85 99 8f 74 86 a4 7c de 8c de 9d 83 de 7c de 8c de 9d 89 72 89 81 66 02
+02 S  A  C  R  I  F  I  C  E  D  !  02 05 N  O  W  20 Y  O  U  20 A  L  L  20 C  H  A
+
+80 81 75 6f 80 9c 72 21 02 05
+R  G  E  20 I  N  ,  02 C  O
+
+7f 9a 66 7d 78 72 86 77 80 75 87 7c 97 93 a4 02
+V  E  R  E  D  20 I  N  20 W  O  U  N  D  S  ,
+
+84 9d 80 de 75 9b 76 93 89 96 89 73 21 02
+02 H  O  P  I  N  G  20 T  O  20 S  A  V
+
+81 6e 73 84 de 72 72 a1 b7 bb cf 97 66 76 9c 98 86 02
+E  20 H  E  R  !  02 Y  O  U  '  L  L  20 T  A  K  E
+
+72 79 86 74 86 7c 83 94 9b 73 21 0f
+H  E  R  20 P  L  A  C  E  !
+
+-- after defeating necros
+
+ネクロス「ぐ、ぐふ...
+[...]
+このよは、やみ! やさしさなど、なんのやくにも
+たつものか!
+やみは、きえん! わしは、なんどでもいきかえるぞ!
+
+Grr, grr...
+
+[This world is darkness!
+Kindness is useless!
+The dark shall prevail!
+I will rise again!]
+
+This world is dark!
+Kindness leads to failure!
+I will return!
+
+c8 b8 db bd a2 78 de a4 78 de 8c eb 02 05
+G  R  R  ,  20 G  R  R  eb 02 05 T  H  I
+
+7a 89 96 8a a4 94 90 21 20 94 7b 7c 7b 85 84 de a4 85 9d 89 94 78 86 93 02
+S  20 W  O  R  L  D  20 I  S  20 D  A  R  K  !  02 K  I  N  D  N  E  S  S
+
+80 82 93 89 76 21 02
+20 L  E  A  D  S  20
+
+94 90 8a a4 77 74 9d 21 20 9c 7c 8a a4 85 9d 84 de 83 de 93 72 77 76 74 99 7f de 21 0f
+T  O  02 F  A  I  L  U  R  E  !  02 I  20 W  I  L  L  20 R  E  T  U  R  N  !
