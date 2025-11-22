@@ -1605,6 +1605,12 @@ Ice Griffon
 b1 b2 bd b8 de d8 cc ab dd
 I  C  E  20 G  R  I  F  N
 
+サタナキアダーク
+Dark Satania
+
+bb c0 c5 b7 b1 c0 de b0 b8
+D  A  R  K  20 S  A  T  A
+
 シャドウカーリー
 Shadow Curly
 Shdw Curl
@@ -2498,7 +2504,7 @@ Bind(er) Jar
 
 か な し は de り の つ ほ
 76 85 7c 8a de 98 89 82 8e de
-B  I  N  D  E  R  20 J  A  R
+B  I  N  D  E  R  J  A  R  df
 
 げんむのつぼ
 Illusion Jar
