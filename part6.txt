@@ -1726,6 +1726,14 @@ I  20 W  O  N  D  E  R  20 I  F  20 T  H  E  20 O  T  H  E  R  20 C
 8f 71 a4 7a 9b 7c 83 93 7c 85 85 72 d4 c2 97 80 de 79 84 de a1 0f
 R  E  W  20 M  E  M  B  E  R  S  20 A  R  E  20 O  K  .  .  .
 
+*「ニンゲンのくちにあうようなさけは、ないねえ...
+
+Sorry, we've got no drinks for humans...
+No drinks for humans here...
+
+2a a2 c6 dd b9 de dd 89 78 81 86 71 73 96 73 85 7b 79 8a a4 85 72 88 74 eb 02 0f
+N  O  20 D  R  I  N  K  S  20 F  O  R  20 H  U  M  A  N  S  20 H  E  R  E  eb
+
 *「だいじょうぶかい? むりするなよ。
 
 Are you OK? Don't push yourself too hard.
@@ -1831,3 +1839,80 @@ M  E  R  C  E  N  A  R  Y  20 J  U  S  T  20 W  E  N  T
 
 85 9d 83 d1 c1 ac 85 7a 84 66 eb 0f
 E  02 N  O  R  T  H  .  .  .
+
+-- knight fighting monster
+
+カーン、キンキン!
+KNIGHT「このさきに、しんでんがある。
+わたしにかまわず、いけ!
+
+[Clang, clang!]
+The temple is just ahead.
+Don't worry about me, go!
+
+Don't worry about me, the
+temple is ahead!
+
+b6 b0 dd a4 b7 dd b7 dd 21 02
+D  O  N  '  T  20 W  O  R  R
+
+14 a2 7a 89 7b 77 86 a4 7c 9d 83 de 9d 76 de 71 99 a1 02
+Y  20 A  B  O  U  T  20 M  E  ,  20 T  H  E  02 T  E  M
+
+9c 80 7c 86 76 8f 9c 7d de a4 72 79 21 0f
+P  L  E  20 I  S  20 A  H  E  A  D  !
+
+-- samurai fighting monster
+
+カーン、キンキン!
+SAMURAI「ネクロスは、おかのうえのしんでんに
+むかったらしいでござる!
+
+[Clang, clang!]
+Necros went to the temple to the north!
+
+Necros has gone to the
+temple north of here!
+
+b6 b0 dd a4 b7 dd b7 dd 21 02
+N  E  C  R  O  S  20 H  A  S
+
+12 a2 c8 b8 db bd 8a a4 75 76 89 73 74 89 7c 9d 83 de 9d 86 02
+20 G  O  N  E  20 T  O  20 T  H  E  02 T  E  M  P  L  E  20 N
+
+91 76 6f 80 97 7c 72 83 de 7a de 7b de 99 21 0f
+O  R  T  H  20 O  F  20 H  E  R  E  !
+
+-- necros
+
+ドクロス「ぐっふっふ。
+このしんでんが、きさまらのはかばだ!
+
+(Heh heh heh.)
+Hah.
+This temple will be your grave!
+
+c4 de b8 db bd a2 78 de 6f 8c 6f 8c a1 02
+H  A  H  .  20 T  H  I  S  20 T  E  M  P
+
+7a 89 7c 9d 83 de 9d 76 de a4 77 7b 8f 97 89 8a 76 8a de 80 de 21 0f
+L  E  20 W  I  L  L  20 B  E  02 Y  O  U  R  20 G  R  A  V  E  !
+
+-- after defeating skullcros
+
+ドクロス「ぐっ...オレがじかんをかせいでいるうちに、
+ネクロスさまは、ちかで、もくてきをはたすだろう。
+あのむすめをいけにえにしてな...
+
+Guh... while I bought us
+time, Necros is sacrificing
+the girl underground...
+
+c4 de b8 db bd a2 78 de 6f eb b5 da 76 de 7c de 76 9d 66 76 7e 72 83 de 72 99 73 81 86 a4 02
+G  U  H  eb 20 W  H  I  L  E  20 I  20 B  O  U  G  H  T  20 U  S  02 T  I  M  E  ,  20 N  E
+
+c8 b8 db bd 7b 8f 8a a4 81 76 83 de a4 93 78 83 77 66 8a 80 7d 80 de 9b 73 a1 02
+C  R  O  S  20 I  S  20 S  A  C  R  I  F  I  C  I  N  G  02 T  H  E  20 G  I  R
+
+71 89 91 7d 92 66 72 79 86 74 86 7c 83 85 eb 0f
+L  20 U  N  D  E  R  G  R  O  U  N  D  eb

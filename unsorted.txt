@@ -1147,12 +1147,24 @@ Calls upon kindragon!
 2a a2 72 83 de 96 21 20 b7 dd c4 de d7 ba de c6 af c4 02 04
 2a 20 C  A  L  L  S  20 K  I  N  D  R  A  G  O  N  !
 
+*「いでよ! ダークリザード
+Calls dark lizard!
+
+2a a2 72 83 de 96 21 20 c0 de b0 b8 d8 bb de b0 c4 de 02 04
+2a 20 C  A  L  L  S  20 D  A  R  K  L  I  Z  A  R  D
+
 *「いでよ! ギンドラゴニット
 Calls upon gindragon!
 
 *  「 い て de よ !  20 キ de ン ト de ラ コ de ニ ッ ト
 2a a2 72 83 de 96 21 20 b7 de dd c4 de d7 ba de c6 af c4 02 04
 2a 20 C  A  L  L  S  20 G  I  N  D  R  A  G  O  N  !  20 
+
+*「いでよ! ファイヤードラゴン
+Calls fire dragon!
+
+2a a2 72 83 de 96 21 20 cc a7 b2 d4 b0 c4 de d7 ba de dd 02 04
+2a 20 C  A  L  L  S  20 F  I  R  E  20 D  R  A  G  O  N
 
 は 、 む か っ て い っ た す
 8a a4 91 76 6f 83 72 6f 80 21 02
@@ -1785,6 +1797,13 @@ Demon
 c3 de b0 d3 dd
 D  E  M  O  N
 
+ブルーウオーム
+Blue Worm
+
+フ de ル ー ウ オ ー ム
+cc de d9 b0 b3 b5 b0 d1
+B  L  U  20 W  O  R  M
+
 --- Armour & Weapons
 
 こdeまかしのつえ
@@ -1942,11 +1961,11 @@ M  I  T  H  20 M  A
 
 スターメイス
 Star Mace
-* Mace
+SR Mace
 
 ス タ ー メ イ ス
 bd c0 b0 d2 b2 bd
-*  20 M  A  C  E
+S  R  M  A  C  E
 
 ドワーフハンマー
 Dwarf Hammer
