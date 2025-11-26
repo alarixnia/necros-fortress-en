@@ -2169,3 +2169,78 @@ Y  S  02 S  I  D  E  S  20 W  I  T  H  20 T  H  E  20 G  O
 
 7f 85 80 97 66 a4 c0 dd b7 d8 b4 89 81 8d 75 78 98 84 84 de 79 96 73 a1 0f
 O  D  20 &  02 P  U  R  E  .  20 N  O  W  ,  20 R  E  T  U  R  N  !  "
+
+-- greeting from king
+
+こうして、8ゆうしゃはタンキリエへかえってきた。
+こくみんのねっきょうてきなかんげいをうけ、
+8ゆうしゃはタンキリエじょうへとむかえられた。
+[...]
+タンキリエおう「8ゆうしゃのしょくん。
+ネクロスのやぼうは、しょくんのはたらきで
+みぜんにくいとめることができた。
+[...]
+これも、いだいなるヘヴライルしんの
+ごかごのおかげじゃ。
+みなで、かんしゃをささげよう。
+[...]
+また、8ゆうしゃのしょくんには、
+ワシからじきじきにほうびをとらす。
+さあ、うけとってくれたまえ!
+[...]
+そのとき...
+
+[And thus, the 8 returned
+to Tankirie Castle, and
+recieved a heroes' welcome.]
+
+Necros' evil plot has
+ended thanks to your
+valiant efforts.
+
+And Lord Hebrail's
+protection, of course.
+
+On behalf of the realm, I
+now bestow your reward!
+
+[Suddenly...]
+
+7a 73 7c 83 a4 38 95 73 7c 6c 8a c0 dd b7 d8 b4 8d 76 74 6f 83 77 80 a1 02
+[  A  N  D  20 T  H  U  S  ,  20 T  H  E  20 8  20 R  E  T  U  R  N  E  D
+
+7a 78 90 9d 89 88 6f 77 6e 73 83 77 85 76 9d 79 de 72 66 73 79 a4 02
+20 T  O  20 T  A  N  K  I  R  I  E  20 C  A  S  T  L  E  ,  20 A  N
+
+38 95 73 7c 6c 8a c0 dd b7 d8 b4 7c de 6e 73 8d 84 91 76 74 97 9a 80 a1 05 02
+D  20 R  E  C  I  E  V  E  D  20 A  20 H  E  R  O  E  S  '  20 W  E  L  C  O
+
+c0 dd b7 d8 b4 75 73 a2 38 95 73 7c 6c 89 7c 6e 78 9d a1 02
+M  E  .  ]  02 05 N  E  C  R  O  S  '  20 E  V  I  L  20 P
+
+c8 b8 db bd 89 94 8e de 73 8a a4 7c 6e 78 9d 89 8a 80 97 77 83 de 02
+L  O  T  20 H  A  S  02 E  N  D  E  D  20 T  H  A  N  K  S  20 T  O
+
+90 7e de 9d 86 78 72 84 92 99 7a 84 76 de 83 de 77 80 a1 02 05
+20 Y  O  U  R  02 V  A  L  I  A  N  T  20 E  F  F  O  R  T  S
+
+7a 9a 93 a4 72 80 de 72 85 99 cd b3 de d7 b2 d9 7c 9d 89 02
+.  02 05 A  N  D  20 L  O  R  D  20 H  E  B  R  A  I  L  '
+
+7a de 76 7a de 89 75 76 79 de 7c de 6c a1 02
+S  02 P  R  O  T  E  C  T  I  O  N  ,  20 O
+
+90 85 83 de a4 76 9d 7c 6c 66 7b 7b 79 de 96 73 a1 02 05
+F  20 C  O  U  R  S  E  .  02 05 O  N  20 B  E  H  A  L
+
+8f 80 a4 38 95 73 7c 6c 89 7c 6e 78 9d 86 8a a4 02
+F  20 O  F  20 T  H  E  20 R  E  A  L  M  ,  02 I
+
+dc bc 76 97 7c de 77 7c de 77 86 8e 73 8b de 66 84 97 7d a1 02
+20 N  O  W  20 B  E  S  T  O  W  20 Y  O  U  R  20 R  E  W  A
+
+7b 71 a4 73 79 84 6f 83 78 9a 80 8f 74 21 02 05
+R  D  .  02 05 [  S  U  D  D  E  N  L  Y  .  .
+
+7f 89 84 77 eb 0f
+.  ]
