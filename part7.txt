@@ -1,0 +1,8 @@
+-- Title screen
+
+ネクラーガの ふっかつ
+Necros' Revival
+The Revival
+
+c8 b8 d7 b0 b6 de 89 20 8c 6f 76 82 02
+T  H  E  20 R  E  V  I  V  A  L

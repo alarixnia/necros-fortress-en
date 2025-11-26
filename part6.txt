@@ -2244,3 +2244,46 @@ R  D  .  02 05 [  S  U  D  D  E  N  L  Y  .  .
 
 7f 89 84 77 eb 0f
 .  ]
+
+-- castle cutscene
+
+「あら? なにかしら?
+[...]
+「ようすがヘンだぜ。
+[...]
+「じしんだ、おおきいぞ!
+[...]
+「うわっ、とてもたっていられん!
+
+What's happening?
+What's up?
+
+Something's not right.
+This is bad.
+
+(It's) an earthquake!
+
+(Bloody hell,) I can't stand!
+Oh no, my knees!
+
+a2 71 97 3f 20 85 86 76 7c 97 3f 04
+W  H  A  T  '  S  20 U  P  ?
+
+a2 96 73 7d 76 de cd dd 80 de 7e de a1 04
+T  H  I  S  20 I  S  20 B  A  D  .
+
+a2 7c de 7c 9d 80 de a4 75 75 77 72 7f de 21 04
+A  N  20 E  A  R  T  H  Q  U  A  K  E  !
+
+a2 73 9c 6f a4 84 83 93 80 6f 83 72 97 9a 9d 21 04
+O  H  20 N  O  ,  20 M  Y  20 K  N  E  E  S  !
+
+-- this bit of the cutscene is separate
+
+しろが、そらにすいこまれていく!
+
+Tankirie is swallowed by the sky!
+We're taken up!
+
+7c 9b 76 de a4 7f 97 86 7d 72 7a 8f 9a 83 72 78 21 04
+W  E  '  R  E  20 T  A  K  E  N  20 U  P  !
