@@ -6,3 +6,111 @@ The Revival
 
 c8 b8 d7 b0 b6 de 89 20 8c 6f 76 82 02
 T  H  E  20 R  E  V  I  V  A  L
+
+-- heroes at castle
+
+ELF「どうなっちゃんだろう?
+What's going on?
+What happened?
+
+11 a2 84 de 73 85 6f 81 6c 9d 80 de 9b 73 3f 0f
+W  H  A  T  20 H  A  P  P  E  N  E  D  ?
+
+BERSERKER「フンガー!
+Hmph!
+
+15 a2 cc dd b6 de b0 21 0f
+H  M  P  H  !
+
+DWARF「いまのじしんは、なんだったのじゃ?
+What was that tremor?
+
+13 a2 72 8f 89 7c de 7c 9d 8a a4 85 9d 80 de 6f 80 89 7c de 6c 3f 0f
+W  H  A  T  20 W  A  S  20 T  H  A  T  20 T  R  E  M  O  R  ?
+
+SAMURAI「いったい、なにごとでござるか?
+What (on earth) is happening?
+
+12 a2 72 6f 80 72 a4 85 86 7a de 84 83 de 7a de 7b de 99 76 3f 0f
+W  H  A  T  20 I  S  20 H  A  P  P  E  N  I  N  G  ?
+
+KNIGHT「ひとびとは、ぶじなのだろうか?
+Are the people safe?
+
+14 a2 8b 84 8b de 84 8a a4 8c de 7c de 85 89 80 de 9b 73 76 3f 0f
+A  R  E  20 T  H  E  20 P  E  O  P  L  E  20 S  A  F  E  ?
+
+MAGE「ものすごい、じゃあくなオーラをかんじるぞ。
+I sense an evil presence.
+
+17 a2 93 89 7d 7a de 72 a4 7c de 6c 71 78 85 b5 b0 d7 66 76 9d 7c de 99 7f de a1 0f
+I  20 S  E  N  S  E  20 A  N  20 E  V  I  L  20 P  R  E  S  E  N  C  E  .
+
+AMAZON「たいへん。しろがボロボロだわ。
+Terrible. The castle is wrecked.
+The castle is ruined.
+
+10 a2 80 72 8d 9d a1 7c 9b 76 de ce de db ce de db 80 de 9c a1 0f
+T  H  E  20 C  A  S  T  L  E  20 I  S  20 R  U  I  N  E  D  .
+
+-- castle bard
+
+*「ゆうしゃよ、さいごのたたかいがちかづいています。
+[...]
+いまからうたううたは、ひじょうにじゅうようです。
+コピーをとって、ぜったいになくさないでください。
+
+(Hero,) the final battle draws
+near. I have a precious
+song for you. Keep it
+safe.
+
+2a a2 95 73 7c 6c 96 a4 7b 72 7a de 89 80 80 76 72 76 de 81 76 82 de 72 83 72 8f 7d a1 02 05
+T  H  E  20 F  I  N  A  L  20 B  A  T  T  L  E  20 D  R  A  W  S  02 N  E  A  R  .  02 05 I
+
+72 8f 76 97 73 80 73 73 80 8a a4 8b 7c de 6e 73 86 7c de 6d 73 96 73 83 de 7d a1 02
+20 H  A  V  E  20 A  20 P  R  E  C  I  O  U  S  02 S  O  N  G  20 F  O  R  20 Y  O
+
+ba cb df b0 66 84 6f 83 a4 7e de 6f 80 72 86 85 78 7b 85 72 83 de 78 80 de 7b 72 a1 05 02
+U  .  02 K  E  E  P  20 I  T  02 S  A  F  E  .
+
+-- merchants outside castle
+
+*「ぶきがひつようではないですか?
+いくらかは、おわけできますが。
+Do you need weapons?
+I've got a couple.
+
+2a a2 8c de 77 76 de 8b 82 96 73 83 de 8a 85 72 83 de 7d 76 3f 02
+D  O  20 Y  O  U  20 N  E  E  D  20 W  E  A  P  O  N  S  ?  02 I
+
+72 78 97 76 8a a4 75 9c 79 83 de 77 8f 7d 76 de a1 05 cf d8 dd a2 71 6f a4 16 7b 9d a1 05 02
+'  V  E  02 G  O  T  20 A  20 C  O  U  P  L  E  .
+
+そうそう、だれかしんでいるのをみつけたら、
+ボムはかせにそうだんしてみてください。
+(Oh yes,) if you find a dead body,
+speak with Dr. Bomb.
+
+7f 73 7f 73 a4 80 de 9a 76 7c 9d 83 de 72 99 89 66 90 82 79 80 97 a4 02
+I  F  20 Y  O  U  20 F  I  N  D  20 A  20 D  E  A  D  20 B  O  D  Y  ,
+
+ce de d1 8a 76 7e 86 7f 73 80 de 9d 7c 83 90 83 78 80 de 7b 72 a1 0f
+02 S  P  E  A  K  20 W  I  T  H  20 D  R  .  20 B  O  M  B  .
+
+-- people at castle
+
+*「いったいなにがおこったのですか?
+What the hell happened?
+What on earth now..?
+
+2a a2 72 6f 80 72 85 86 76 de 75 7a 6f 80 89 83 de 7d 76 3f 0f
+W  H  A  T  20 O  N  20 E  A  R  T  H  20 N  O  W  .  .  ?
+
+-- king after speaking to bard
+
+タンキリエおう「だれをつれていくか?
+Who will you take (along)?
+
+c0 dd b7 d8 b4 75 73 a2 80 de 9a 66 82 9a 83 72 78 76 3f 02 05
+W  H  O  20 W  I  L  L  20 Y  O  U  20 T  A  K  E  ?
