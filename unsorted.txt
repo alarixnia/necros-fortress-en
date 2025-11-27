@@ -1269,6 +1269,14 @@ Members: (gained XP...)
 93 d2 dd ca de b0 8a a4 00
 93 P  A  R  T  Y  :  20
 
+にげられない!
+Can't escape!
+Failed!
+
+に け de ら れ な い !
+86 79 de 97 9a 85 72 21
+F  A  I  L  E  D  !  df
+
 モンスターはこうさんした。
 Foe surrender
 

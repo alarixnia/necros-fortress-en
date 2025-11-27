@@ -163,6 +163,20 @@ Take them?
 82 9a 83 72 77 8f 7d 76 3f
 T  A  K  E  20 T  H  E  M
 
+-- king after adding 2 to party
+
+タンキリエおう「なにかわかったら、すぐに
+しらせにくるのじゃぞ!
+
+Report back if you find
+something!
+
+c0 dd b7 d8 b4 75 73 a2 85 86 76 9c 76 6f 80 97 a4 7d 78 de 86 02
+R  E  P  O  R  T  20 B  A  C  K  20 I  F  20 Y  O  U  20 F  I  N
+
+7c 97 7e 86 78 99 89 7c de 6c 7f de 21 0f
+D  02 S  O  M  E  T  H  I  N  G  !
+
 -- fairy
 
 *「ゆうしゃさま。
