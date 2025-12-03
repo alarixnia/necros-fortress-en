@@ -371,3 +371,92 @@ A  R  L  I  E  R  .  02 05 P  L  E  A  S  E  20 T  A  K  E  20 I  T  ,
 
 84 de 73 7f de a4 93 6f 83 72 6f 83 78 80 de 7b 72 a1 0f
 E  T  H  I  N  G  20 Y  O  U  ' D   20 N  E  E  D  .
+
+-- mark in west cave
+
+マーク「ああ、ゆうしゃさま。
+きがついたら、こんなところにいたのです。
+それと、いつのまにか、こんなものが。
+[...]
+シルフィーが、これは、おかあさまの
+ふぶきのたまじゃないかというのですが。
+やくにたつなら、おもちください。
+
+(Ah, heroes,)
+I woke up and found myself
+here. Then, this appeared.
+
+Sylphy said it might be
+her mother's ice orb.
+Please, take it.
+
+cf b0 b8 a2 71 71 a4 95 73 7c 6c 7b 8f a1 02
+I  20 W  O  K  E  20 U  P  20 A  N  D  20 F
+
+77 76 de 82 72 80 97 a4 7a 9d 85 84 7a 9b 86 72 80 89 83 de 7d a1 02
+O  U  N  D  20 M  Y  S  E  L  F  02 H  E  R  E  .  20 T  H  E  N  ,
+
+7f 9a 84 a4 72 82 89 8f 86 76 a4 7a 9d 85 93 89 76 de a1 02 05
+20 T  H  I  S  20 A  P  P  E  A  R  E  D  .  02 05 S  Y  L  P
+
+bc d9 cc a8 b0 76 de a4 7a 9a 8a a4 75 76 71 7b 8f 89 02
+H  Y  20 S  A  I  D  20 I  T  20 M  I  G  H  T  20 B  E
+
+8c 8c de 77 89 80 8f 7c de 6c 85 72 76 84 72 73 89 83 de 7d 76 de a1 02
+02 H  E  R  20 M  O  T  H  E  R  '  S  20 I  C  E  20 O  R  B  .  02 P
+
+94 78 86 80 82 85 97 a4 75 93 81 78 80 de 7b 72 a1 0f
+L  E  A  S  E  ,  20 T  A  K  E  20 I  T  . 
+
+-- sylphy in west cave
+
+シルフィー「ああ、ゆうしゃさま。
+わたしはだいじょうぶです。マークがそばに
+いてくれますから。
+
+Ah, heroes. I'll be quite
+alright. Mark is with me.
+
+bc d9 cc a8 b0 a2 71 71 a4 95 73 7c 6c 7b 8f a1 02
+A  H  ,  20 H  E  R  O  E  S  .  20 I  '  L  L  20
+
+9c 80 7c 8a 80 de 72 7c de 6e 73 8c de 83 de 7d a1 cf b0 b8 76 de 7f 8a de 86 02
+B  E  20 Q  U  I  T  E  02 A  L  R  I  G  H  T  .  20 M  A  R  K  20 I  S  20 W
+
+72 83 78 9a 8f 7d 76 97 a1 0f
+I  T  H  20 M  E  .
+
+-- fake knight in west cave
+
+にせKNIGHT「こ、このキバのもんさえひらけば、
+そとにでられるんだ。なんとかあけられないかな。
+
+If only we could get this (damn thing)
+open, we could escape.
+
+86 7e 14 a2 7a a4 7a 89 b7 ca de 89 93 9d 7b 74 8b 97 79 8a de a4 02
+I  F  20 O  N  L  Y  20 W  E  20 C  O  U  L  D  20 G  E  T  20 T  H
+
+7f 84 86 83 de 97 9a 99 9d 80 de a1 85 9d 84 76 71 79 97 9a 85 72 76 85 a1 0f
+I  S  02 O  P  E  N  ,  20 W  E  20 C  O  U  L  D  20 E  S  C  A  P  E  .
+
+-- marin in west cave
+
+おとうさんが、かいぶつにつかまって
+しまったの。おねがい、おとうさんをたすけて。
+
+Dad's been caught by
+monsters. Please help (him).
+
+75 84 73 7b 9d 76 de a4 76 72 8c de 82 86 82 76 8f 6f 83 02
+D  A  D  '  S  20 B  E  E  N  20 C  A  U  G  H  T  20 B  Y
+
+7c 8f 6f 80 89 a1 75 88 76 de 72 a4 75 84 73 7b 9d 66 80 7d 79 83 a1 0f
+02 M  O  N  S  T  E  R  S  .  20 P  L  E  A  S  E  20 H  E  L  P  .
+
+マリン「あっ、MERCENARYさん。
+
+Oh, Mercenary...
+
+cf d8 dd a2 71 6f a4 16 7b 9d a1 05 02
+O  H  ,  20 M  E  R  C  Y  .  .  02 05
