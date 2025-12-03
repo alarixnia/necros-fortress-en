@@ -165,9 +165,10 @@ There is no response.
 
 と く に 、 あ や し い と こ ろ は な い 。
 84 78 86 a4 71 94 7c 72 84 7a 9b 8a 85 72 a1
-t  h  e  r  e  '  s  20 n  o  t  h  i  n  g
+N  O  T  H  I  N  G  20 H  E  R  E  .
 
 There's nothing interesting.
+Nothing here.
 
 --- trying to use a skill when not knowing any
 
@@ -562,6 +563,13 @@ Ifrit Jar
 
 b2 cc d8 b0 c4 89 82 8e de
 I  F  R  I  T  20 J  A  R
+
+くものたま
+Spider Orb
+
+く も の た ま
+78 93 89 80 8f
+S  P  I  D  R
 
 -- attempting to use magic cloth
 
@@ -1679,6 +1687,34 @@ Satania
 bb c0 c5 b7 b1
 S  A  T  N  I
 
+パズズ
+Pazuzu
+
+ハ df ス de ス de
+ca df bd de bd de
+P  A  Z  U  Z  U
+
+ワイバーン
+Wyvern
+
+ワ イ ハ de ー ン
+dc b2 ca de b0 dd
+W  Y  V  E  R  N
+
+スノーワイバーン
+Snow Wyvern
+
+ス ノ ー ワ イ de ハ ー ン
+bd c9 b0 dc b2 ca de b0 dd
+S  N  O  W  20 W  Y  V  df
+
+オニロスゴースト
+Oniros Ghost
+
+オ ニ ロ ス コ de ー ス ト
+b5 c6 db bd ba de b0 bd c4
+O  N  I  20 G  H  O  S  T
+
 ブルーシャドウ
 Blue Shade
 
@@ -2167,6 +2203,13 @@ Viking Arm
 ハ de イ キ ン ク de メ ー ル
 ca de b2 b7 dd b8 de d2 b0 d9
 V  I  K  I  N  G  A  R  M  df
+
+トールのかたびら
+Thor Mail
+
+ト ー ル の か た ひ de ら
+c4 b0 d9 89 76 80 8b de 97
+T  H  O  R  20 M  A  I  L
 
 くさりかたびら
 Chain Mail

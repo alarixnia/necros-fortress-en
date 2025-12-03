@@ -221,3 +221,153 @@ T  H  E  20 S  I  T  U  A  T  I  O  N  20
 
 7f 84 89 96 73 7d 76 de 8d 9d 85 89 83 de 7d a1 0f
 O  U  T  S  I  D  E  20 I  S  02 O  D  D  .
+
+-- caves
+
+*「たいへんだ!
+エイヴせんちょうが、みぞにはばまれて
+うごけないんだ。
+
+Oh no! Captain Aiv is
+stuck and can't move!
+
+2a a2 80 72 8d 9d 80 de 21 02
+O  H  20 N  O  !  20 C  A  P
+
+b4 b2 b3 de 7e 9d 81 6e 73 76 de a4 90 7f de 86 8a 8a de 8f 9a 83 02
+T  A  I  N  20 A  I  V  20 I  S  20 S  T  U  C  K  20 A  N  D  20 C
+
+73 7a de 79 85 72 9d 80 de a1 0f
+A  N  '  T  20 M  O  V  E  .
+
+*「アイヤア、ゆうしゃさん! たいへんアルね。
+アイテムをうるくらいなら、おてつだいできるヨ!
+
+Oh dear, we're in a predicament, eh?
+Need items?
+
+2a a2 b1 b2 d4 b1 a4 95 73 7c 6c 7b 9d 21 20 80 72 8d 9d b1 d9 88 a1 02
+O  H  20 D  E  A  R  ,  20 W  E  '  R  E  20 I  N  20 A  20 P  R  E  D
+
+b1 b2 c3 d1 66 73 99 78 97 72 85 97 a4 75 83 82 80 de 72 83 de 77 99 d6 21 02 05
+I  C  A  M  E  N  T  ,  20 E  H  ?  20 N  E  E  D  20 I  T  E  M  S  ?
+
+-- dan in cave
+
+ダン「やあ、ELFさんには、いつぞやはすっかり
+おせわになってしまって...
+
+Hey, Elf, it's Dan.
+I owe you one...
+
+い つ そ de や
+72 82 7f de 94
+
+c0 de dd a2 94 71 a4 11 7b 9d 86 8a a4 72 82 7f de 94 8a 7d 6f 76 98 02
+H  E  Y  ,  20 E  L  F  ,  20 I  T  '  S  20 D  A  N  .  02 I  20 O  W
+
+75 7e 9c 86 85 6f 83 7c 8f 6f 83 eb 0f
+E  20 Y  O  U  20 O  N  E  .  .  .
+
+-- harrison in cave
+
+ハリソン「アレフおうじをみかけませんでしたか?
+はぐれてしまって、こまっているのです。
+
+Have you seen Prince
+Aleph? We're worried...
+
+ca d8 bf dd a2 b1 da cc 75 73 7c de 66 90 76 79 8f 7e 9d 83 de 7c 80 76 3f 02
+H  A  V  E  20 Y  O  U  20 S  E  E  N  20 P  R  I  N  C  E  02 A  L  E  P  H
+
+8a 78 de 9a 83 7c 8f 6f 83 a4 7a 8f 6f 83 72 99 89 83 de 7d a1 0f
+?  20 W  E  '  R  E  20 W  O  R  R  I  E  D  .  .  . 
+
+MERCENARY「あっ、ハリソンさんじゃないか。
+[...]
+ハリソン「おお、アレフおうじがみつかりましたか!
+さっそく、おうじのもとへいくとしましょう。
+
+[It's Harrison.]
+Oh, you've found Prince Aleph?
+Let's go (to him) at once.
+
+16 a2 71 6f a4 ca d8 bf dd 7b 9d 7c de 6c 85 72 76 a1 05 02
+[  I  T  '  S  20 H  A  R  R  I  S  O  N  .  ]  df 20 02 05
+
+ca d8 bf dd a2 75 75 a4 b1 da cc 75 73 7c de 76 de 90 82 76 98 8f 7c 80 76 21 02
+O  H  ,  20 Y  O  U  '  V  E  20 F  O  U  N  D  20 P  R  I  N  C  E  20 A  L  E
+
+7b 6f 7f 78 a4 75 73 7c de 89 93 84 8d 72 78 84 7c 8f 7c 6e 73 a1 0f
+P  H  ?  02 L  E  T  '  S  20 G  O  20 A  T  20 O  N  C  E  .
+
+-- cat in cave
+
+*「あら、ELFさん。おひさしぶりね!
+ためたおカネで、タンキリエにかいものに
+きたんだけど...いったい、なにごと?
+[...]
+まあったく、ニンゲンとつきあうと、ロクなことが
+ないわ! フー!!
+
+Oh, Elf, it's been ages!
+(I came to Tankirie to spend
+my savings, but... What's
+happening?)
+
+I came to visit Tankirie,
+then this...
+
+Hmph, humans always bring
+trouble!!
+
+2a a2 71 97 a4 11 7b 9d a1 75 8b 7b 7c 8c de 98 88 21 02
+O  H  ,  20 11 ,  20 I  T  '  S  20 B  E  E  N  20 A  G
+
+80 92 80 75 b6 c8 83 de a4 c0 dd b7 d8 b4 86 76 72 93 89 86 02
+E  S  !  02 I  20 C  A  M  E  20 T  O  20 V  I  S  I  T  20 T 
+
+77 80 9d 80 de 79 84 de eb 72 6f 80 72 a4 85 86 7a de 84 3f 02 05
+A  N  K  I  R  I  E  ,  02 T  H  E  N  20 T  H  I  S  .  .  02 05
+
+8f 71 6f 80 78 a4 c6 dd b9 de dd 84 82 77 71 73 84 a4 db b8 85 7a 84 76 de 02
+H  M  P  H  ,  20 H  U  M  A  N  S  20 A  L  W  A  Y  S  20 B  R  I  N  G  20
+
+85 72 9c 21 20 cc b0 21 21 0f
+T  R  O  U  B  L  E  !  !
+
+-- angela in cave
+
+アンジェラ「まあ、おひさしぶりですね。
+Well, it's been ages.
+
+b1 dd bc de aa d7 a2 8f 71 a4 75 8b 7b 7c 8c de 98 83 de 7d 88 a1 05 02
+W  E  L  L  ,  20 I  T  '  S  20 B  E  E  N  20 A  G  E  S  .  df 02 05
+
+ここでいきどまりのようです。
+そうだわ。さっき、こんなものをみつけたんです。
+[...]
+これは、なにか、ゆうしゃさまにわたさなければ
+ならないもののようなきがするの。
+どうぞ、もっていってください。
+
+It's a dead end here. Oh,
+yes, I found this earlier.
+
+Please take it, it seems
+like something you'd need.
+
+7a 7a 83 de 72 77 84 de 8f 98 89 96 73 83 de 7d a1 02
+I  T  '  S  20 A  20 D  E  A  D  20 E  N  D  20 H  E
+
+7f 73 80 de 9c a1 7b 6f 77 a4 7a 9d 85 93 89 66 90 82 79 80 9d 83 de 7d a1 02 05
+R  E  .  20 O  H  ,  02 Y  E  S  ,  20 I  20 F  O  U  N  D  20 T  H  I  S  20 E
+
+7a 9a 8a a4 85 86 76 a4 95 73 7c 6c 7b 8f 86 9c 80 7b 85 79 9a 8a de 02
+A  R  L  I  E  R  .  02 05 P  L  E  A  S  E  20 T  A  K  E  20 I  T  ,
+
+85 97 85 72 93 89 89 96 73 85 77 76 de 7d 99 89 a1 02
+20 I  T  20 S  E  E  M  S  02 L  I  K  E  20 S  O  M
+
+84 de 73 7f de a4 93 6f 83 72 6f 83 78 80 de 7b 72 a1 0f
+E  T  H  I  N  G  20 Y  O  U  ' D   20 N  E  E  D  .
