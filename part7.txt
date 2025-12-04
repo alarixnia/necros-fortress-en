@@ -413,11 +413,11 @@ L  E  A  S  E  ,  20 T  A  K  E  20 I  T  .
 マーク「どんなことがあっても、シルフィーは
 ぼくがまもりますよ。
 
-I'll protect Sylphy
-no matter what.
+I'll protect Sylphy no
+matter what.
 
 cf b0 b8 a2 84 de 9d 85 7a 84 76 de 71 6f 83 93 a4 bc d9 cc a8 b0 8a 02
-I  '  L  L  20 P  R  O  T  E  C  T  20 S  Y  L  P  H  Y  20 N  O  20 M
+I  '  L  L  20 P  R  O  T  E  C  T  20 S  Y  L  P  H  Y  20 N  O  02 M
 
 8e de 78 76 de 8f 93 98 8f 7d 96 a1 0f
 A  T  T  E  R  20 W  H  A  T  .
@@ -520,3 +520,64 @@ I  '  M  20 M  A  R  I  N  '  S  20 F  A  T  H  E  R
 
 9c 80 7c 8a a4 cf d8 dd 89 81 81 83 de 7d a1 0f
 R  20 Y  O  U  R  20 H  E  L  P  .
+
+-- lying old man deep in west cave
+
+うそつきじーさん「わしは、こころをいれかえた。
+もううそはつかないよ。
+[...]
+わしのはなしをしんじてくれるかい?
+
+I've changed my ways.
+I won't lie any more.
+
+Will you believe my story?
+
+うそつきじーさん「そうかいそうかい...
+なら、あっちへいってくれ。
+
+Oh, well...
+Go over there then.
+
+うそつきじーさん「じつはここは、なんと、
+まじんネクラーガのからだのなかなのじゃ!
+[...]
+ネクロスは、みずからのいのちで、ネクラーガを
+ふっかつさせたのじゃ。われわれは、ネクラーガに
+タンキリエごとのみこまれてしまったのじゃ!
+[...]
+むこうのへやのみょうなパネルは、ネクラーガの
+ずのうじゃ。あれをあやつって、みんなをたすけるには、
+8つのほうぎょくがひつようとなる。
+[...]
+3つのあなのいずれかにたまをいれ、ひだりはしの
+スイッチをいれればよい。ただし、1つだけではダメで、
+2ついじょうのたまがひつようじゃ。
+[...]
+そして、キバのもんをひらくには、8つのたまを
+すべてあつめなければならん。
+[...]
+これをもっていくがいい。
+せかいのうんめいは、おまえたちにゆだねられて
+いることをわすれずにな。
+
+In truth, this place is the
+very body of the demon Necrogar!
+
+Necros used his life force to
+resurrect Necrogar, and he swallowed
+us whole!
+
+The strange panel in the next room
+is Necrogar's brain. It is controlled
+by 8 magic orbs.
+
+Place an orb in one of the 3 holes,
+then press the switch. One alone
+won't work, you need at least 2.
+
+To open the exit, you must gather
+all 8 orbs.
+
+Take this, and remember our fate
+is in your hands.

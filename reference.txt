@@ -172,3 +172,33 @@ Fonts
 The font can be edited using YY-CHR. They are stored as 1bpp 8x8 tiles
 (note: non-font sprites are stored as 4bpp tiles!) around address
 0x02ce00.
+
+Official names of characters
+----------------------------
+
+From cards.
+
+* Neclos (chief baddie)
+* Doclos (skull baddie)
+* Mechalos (robot baddie)
+* Dekalos (cat baddie)
+* Hebilos
+* Majolos
+* Tacolos
+* Onilos
+* Shougun
+* Orc
+* Beetom
+* Appla (sentient apple)
+* Happy (harpy...)
+* Blaze
+* Zomborg
+* Joros (female mage)
+* Handla (hand monster)
+* Footla (foot monster)
+* Shielder (shield monster)
+* Pazuzu
+* Golem
+* Blizarerd (Blizzard / Ice Queen...)
+* Satanachia
+* Wyvern
