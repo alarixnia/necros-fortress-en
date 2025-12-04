@@ -564,6 +564,13 @@ Ifrit Jar
 b2 cc d8 b0 c4 89 82 8e de
 I  F  R  I  T  20 J  A  R
 
+きりのたま
+Mist Orb
+
+き り の た ま
+77 98 89 80 8f
+M  I  S  T  O
+
 くものたま
 Spider Orb
 
@@ -928,6 +935,27 @@ Ouch ouch!
 *  「 あ た た た た た た っ !
 2a a2 71 80 80 80 80 80 80 6f 21
 
+*はチョキをだした!
+Picks scissors!
+
+*  は チ ョ キ を た de し た !
+2a 8a c1 ae b7 66 80 de 7c 80 21 02 04
+2a :  20 S  C  I  S  S  O  R  S
+
+*はパーをだした!
+Picks paper!
+
+*  は ハ df ー を た de し た !
+2a 8a ca df b0 66 80 de 7c 80 21 02 04
+2a :  20 P  A  P  E  R  !  df 20 
+
+*はグーをだした!
+Picks rock!
+
+*  は ク de ー を た de し た !
+2a 8a b8 de b0 66 80 de 7c 80 21 02 04
+2a :  20 R  O  C  K  !  df 20 df
+
 *の、きゅうこうかこうげき!
 Used dive attack!
 
@@ -1044,6 +1072,14 @@ Uses claws!
 *  は 、 と de く の つ め て de お そ い か か る !
 2a 8a a4 84 de 78 89 82 92 83 de 75 7f 72 76 76 99 21 02 04
 2a 20 U  S  E  S  20 C  L  A  W  S  !  20 20 20 20 20
+
+*の、じごくがえし!
+Uses counter-attack!
+Uses return
+
+*  の 、 し de こ de く か de え し !
+2a 89 a4 7c de 7a de 78 76 de 74 7c 21 02 04
+2a 20 U  S  E  S  20 R  E  T  U  R  N
 
 *は、なくdeりかかった!
 Strikes!
@@ -1654,6 +1690,13 @@ Necros
 c8 b8 db bd
 N  E  C  R
 
+オニショーウン
+Demon Shogun (Oni Shogun)
+
+オ ニ シ ョ ー ウ de ン
+b5 c6 bc ae b0 b8 de dd
+D  .  S  H  O  G  U  N 
+
 デカロス
 Decros
 Decrs
@@ -1714,6 +1757,13 @@ Oniros Ghost
 オ ニ ロ ス コ de ー ス ト
 b5 c6 db bd ba de b0 bd c4
 O  N  I  20 G  H  O  S  T
+
+タコロスゴースト
+Takoros Ghost
+
+タ コ ロ ス コ de ー ス ト
+c0 ba db bd ba de b0 bd c4
+T  A  K  20 G  H  O  S  T
 
 ブルーシャドウ
 Blue Shade
