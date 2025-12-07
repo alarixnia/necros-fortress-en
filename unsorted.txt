@@ -566,17 +566,27 @@ I  F  R  I  T  20 J  A  R
 
 きりのたま
 Mist Orb
+M Orb
 
 き り の た ま
 77 98 89 80 8f
-M  I  S  T  O
+M  20 O  R  B
 
 くものたま
 Spider Orb
+S Orb
 
 く も の た ま
 78 93 89 80 8f
-S  P  I  D  R
+S  20  O  R  B
+
+にじのたま
+Rainbow Orb
+Color Orb
+
+に し de の たま
+86 7c de 89 80 8f
+C  O  20 O  R  B
 
 -- attempting to use magic cloth
 
