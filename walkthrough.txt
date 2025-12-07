@@ -385,4 +385,81 @@ to Blizzard. Talk to the NPC at the throne to trigger a cutscene and boss
 battle with Mecharos MK-2. Once you've defeated Mecharos again, Chapter 5
 ends.
 
+Part 6: Finale - Atlantis
+-------------------------
 
+The chapter begins in front of the throne in Tankirie Castle. You may now
+travel to several islands from the Galtera ship. The map has expanded and
+now scrolls horizontally.
+
+Using Dwarf's hero axe, it is now possible to break through the wall in the
+north-east corner of the ice cave. Through the passageway, you will find
+Elf and be able to convince him to join you on the Galtera.
+
+Treasure Chest: Star Luster
+
+The island furthest to the west is Frontier Island. On it, you can find
+Mage. After speaking to him, he will also join you on the Galtera.
+
+Return to the Hope kingdom. The blocked part of the passage under the golden
+knight Harrison's bed is also now accessible with the hero axe.  Go inside,
+and travel through the dungeon to the "ancient ruins".  A treasure chest
+inside contains the Arao Amulet, which you will need later.
+
+Treasure Chests: Jewel, Arao Amulet
+
+Rumour has it that Necros' forces have occupied Bluegrass Island.  Heal
+yourself and purchase some Chocolate before traveling there.  You should
+proceed to the north of the island to a fort guarded by two NPCs.
+
+Battles: Red Dragon and Red Kali.
+
+Enter the fort and be surprised by the low-level monsters that reside within.
+Proceed east, and talk to Necros(?). Answer "Yes" to all the questions that
+appear. Once he's disappeared, exit the fort and talk to Mercenary outside,
+who will now join you on the Galtera.
+
+You must now travel in search of the scientist Arao. The other island where
+Samurai is standing around near the docks is where you'll find a trace of
+him. Samurai will mention that a Thief is moaning in the inn, visit the inn
+and head to its furthest room.
+
+Search the chest near the Thief to enter into a boss battle with the Ifrit
+who is possessing him. After the battle, the Thief will explain that he
+stole the cursed jar containing the Ifrit, and it comes from Atlantis.
+
+Around the island village, rumour is that Arao's daughter is blind, and that
+she lives on the outskirts to the northwest. Visit the northwest house and
+show the girl the Arao Amulet. After speaking to her, she'll reveal that
+Arao was kidnapped by Necros' forces to serve as a guide to Atlantis.
+
+Once you've learned this, you'll now be able to access the enemy's ship from
+the travel map. Prepare for more combat and travel to the enemy's ship when
+you're ready.
+
+Boss Battle: Satania
+
+After traveling through the ship and defeating the Satania boss, the portal
+to Atlantis in the ocean north of Frontier Island will open.
+
+Atlantis has various services offered by its peaceful ghostly residents, so
+you can heal at the inn there. Only the initial area of Atlantis is not
+occupied by Necros' forces. Travel south through the island and then to the
+east, following the path north. Skullcros is occupying the temple, and a
+boss battle against him will occur upon entering.
+
+Boss Battle: Skullcros
+
+After defeating Skullcros, he'll say something cryptic about the underground.
+There is a hidden dungeon below the temple that you can reach by searching
+the floor. Traveling downwards, it looks like you are going in circles
+(remember Mage's Shrine?) but you are not - just keep going down until you
+reach the facility. The dungeon is huge, so make sure you have Exit spells
+ready to return to Atlantis and heal when necessary.
+
+Near the end of the dungeon, a gold passageway will appear. This leads to
+a boss battle with Necros.
+
+After defeating Necros, talk to Marin at the Atlantis port to end Chapter 6.
+
+Boss Battle: Necros.
