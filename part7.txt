@@ -718,3 +718,38 @@ A distant noise...
 
 84 75 78 83 de a4 85 86 76 93 89 75 84 76 de 7c 80 a1 0f
 A  20 D  I  S  T  A  N  T  20 N  O  I  S  E  .  .  .
+
+-- freed captain
+
+エイヴ「きゅうにみぞがきえたんだが、
+あんたたちのおかげかね?
+[...]
+れいといってはなんだが、これをもっていってくれ。
+いつのまにか、もっていたんじゃ。
+
+The pit (suddenly) vanished, was it
+your doing?
+
+It's hardly proper thanks,
+but (please) take this.
+(I somehow found it.)
+
+b4 b2 b3 de a2 77 6d 73 86 90 7f de 76 de 77 74 80 9d 80 de 76 de a4 02
+T  H  E  20 P  I  T  20 V  A  N  I  S  H  E  D  ,  20 W  A  S  20 I  T
+
+71 9d 80 80 81 89 75 76 79 de 76 88 3f 02 05
+02 Y  O  U  R  20 D  O  I  N  G  ?  02 05 I
+
+9a 72 84 72 6f 83 8a 85 9d 80 de 76 de a4 7a 9a 66 93 6f 83 72 6f 83 78 9a a1 02
+T  '  S  20 H  A  R  D  L  Y  20 P  R  O  P  E  R  20 T  H  A  N  K  S  ,  02 B
+
+72 82 89 8f 86 76 a4 93 6f 83 72 80 9d 7c de 6c a1 0f
+U  T  20 T  A  K  E  20 T  H  I  S  20 O  R  B  .
+
+-- sailor after freeing the captain with orbs
+
+*「8ゆうしゃよ、ありがとう。
+Thanks, heroes.
+
+2a a2 38 95 73 7c 6c 96 a4 71 98 76 de 84 73 a1 0f
+T  H  A  N  K  S  ,  20 H  E  R  O  E  S  .
