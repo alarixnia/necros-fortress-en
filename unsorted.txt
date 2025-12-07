@@ -6,11 +6,30 @@
 93 20 8a 72 02 20 72 72 74 00
 93 Y  E  S  02 20 20 N  O  00
 
+--- next and previous options
+
+も つぎへ
+
+93 82 77 de 8d 00 3f
+93 N  E  X  T
+
+も まえへ
+
+93 8f 74 8d
+93 P  R  V
+
+--- deleting items
+
+をすてました。
+Discarded.
+
+を す て ま し た 。
+66 7d 83 8f 7c 80 a1 0f
+20 T  H  R  E  W  .
+
 --- stats
 
 0007b515
-
-TODO: the alignment here needs fixing.
 
 レヘdeル 
 Level (LVL.)
@@ -587,6 +606,13 @@ Color Orb
 に し de の たま
 86 7c de 89 80 8f
 C  O  20 O  R  B
+
+たいようのたま
+Sun Orb
+
+た い よ う の た ま
+80 72 96 73 89 80 8f
+S  U  N  20 O  R  B
 
 -- attempting to use magic cloth
 
@@ -1774,6 +1800,13 @@ Takoros Ghost
 タ コ ロ ス コ de ー ス ト
 c0 ba db bd ba de b0 bd c4
 T  A  K  20 G  H  O  S  T
+
+デカロスゴースト
+Dekaros Ghost
+
+テ de カ ロ ス コ de ー ス ト
+c3 de b6 db bd ba de b0 bd c4
+D  E  K  20 G  O  H  S  T  df
 
 ブルーシャドウ
 Blue Shade
