@@ -688,3 +688,33 @@ E  H  ?  20 T  H  I  S  20 I  S  20
 
 7a 7a 76 de a4 c8 b8 d7 b0 b6 de 89 80 72 85 72 3f 0f
 N  E  C  R  O  G  A  R  '  S  02 B  E  L  L  Y  ?
+
+-- using orbs on control panel
+
+をあなにいれました。
+Put it in the hole.
+Inserted.
+
+66 71 85 86 72 9a 8f 7c 80 a1 0f
+20 I  N  S  E  R  T  E  D  .
+
+これはなんだろう? あなが3つあいている。
+What is this? It has 3 holes.
+There are 3 holes here.
+
+7a 9a 8a 85 9d 80 de 9b 73 3f 20 71 85 76 de 33 82 71 72 83 72 99 a1 0f
+T  H  E  R  E  20 A  R  E  20 3  20 H  O  L  E  S  20 H  E  R  E  .
+
+スイッチがあります。おしてみますか?なにもおこりませんでした。
+There's a switch. Would you like to push it? Nothing happened.
+Push the switch? ... But nothing.
+
+bd b2 af c1 76 de 71 98 8f 7d a1 75 7c 83 90 8f 7d 76 3f 85 86 93 75 7a 98 8f 7e 9d 83 de 7c 80 a1 0f
+P  U  S  H  20 T  H  E  20 S  W  I  T  C  H  ?  df 20 df ...20 B  U  T  20 N  O  T  H  I  N  G  .
+
+とおくで、なにかものおとがした。
+I heard some noise in the distance...
+A distant noise...
+
+84 75 78 83 de a4 85 86 76 93 89 75 84 76 de 7c 80 a1 0f
+A  20 D  I  S  T  A  N  T  20 N  O  I  S  E  .  .  .
