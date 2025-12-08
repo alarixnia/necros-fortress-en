@@ -753,3 +753,119 @@ Thanks, heroes.
 
 2a a2 38 95 73 7c 6c 96 a4 71 98 76 de 84 73 a1 0f
 T  H  A  N  K  S  ,  20 H  E  R  O  E  S  .
+
+-- aleph surrounded
+
+アレフ「えい、えい! かあさんをはなせえ!
+Hey, hey! Let go of Mum!
+
+b1 da cc a2 74 72 a4 74 72 21 20 76 71 7b 9d 66 8a 85 7e 74 21 0f
+H  E  Y  !  20 L  E  T  20 G  O  20 O  F  20 M  U  M  M  Y  !
+
+-- aleph after rescuing
+
+アレフ「ありがとう。そうだ、これ!
+ゆうしゃさんたちにあげるよ。
+
+Thanks. Oh, right! I'll give this to you.
+
+Thanks. Oh, right!
+Here, take this.
+
+b1 da cc a2 71 98 76 de 84 73 a1 7f 73 80 de a4 7a 9a 21 02
+T  H  A  N  K  S  .  20 O  H  ,  20 R  I  G  H  T  !  02 H
+
+95 73 7c 6c 7b 9d 80 81 86 71 79 de 99 96 a1 0f
+E  R  E  ,  20 T  A  K  E  20 T  H  I  S  .
+
+-- aleph after orb
+
+アレフ「かあさんをたすけてくれて、ありがとう。
+ぼくもきっと、ゆうしゃさんたちみたいに
+つよくなるからね。
+
+Thanks for saving mum. One
+day I'll be strong like
+you.
+
+b1 da cc a2 76 71 7b 9d 66 80 7d 79 83 78 9a 83 a4 71 98 76 de 84 73 a1 02
+T  H  A  N  K  S  20 F  O  R  20 S  A  V  I  N  G  20 M  U  M  .  20 O  N
+
+8e de 78 93 77 6f 84 a4 95 73 7c 6c 7b 9d 80 81 90 80 72 86 02
+E  20 D  A  Y  20 I  '  L  L  20 B  E  20 S  T  R  O  N  G  20
+
+82 96 78 85 99 76 97 88 a1 0f
+L  I  K  E  20 Y  O  U  .
+
+-- queen after rescuing
+
+*「ああ、ほんとうに
+なんとおれいをのべていいやら...
+
+I don't know how to thank you...
+
+Oh, how can I thank
+you...?
+
+2a a2 71 71 a4 8e 9d 84 73 86 02
+O  H  ,  20 H  O  W  20 C  A  N
+
+85 9d 84 75 9a 72 66 89 8d de 83 72 72 94 97 eb 0f
+20 I  20 T  H  A  N  K  02 Y  O  U  .  .  .  ?
+
+-- finding thief's body
+
+あっ、シーフ!
+[...]
+...しんでいる。
+なんということだ...
+
+Oh, Thief!
+[...]
+... He's dead.
+Awful...
+
+71 6f a4 bc b0 cc 21 02 05
+A  H  ,  20 T  H  I  E  F
+
+eb 7c 9d 83 de 72 99 a1 02 85 9d 84 72 73 7a 84 80 de eb 0f
+!  02 05 O  H  eb 20 H  E  '  S  20 D  E  A  D  eb
+
+-- dr.bomb
+
+ボムはかせ「どうした? だれか、やられたのか?
+[...]
+よしよし、まかせておけ。ちょうどいま、
+よみがえりのくすりがかんせいしたんじゃ。
+これをつかってみるがいい。
+
+What's the matter? Oh...
+[...]
+(Right, leave it to me.)
+OK, right then.
+I've finished my revival potion.
+Try using it.
+
+ce de d1 8a 76 7e a2 84 de 73 7c 80 3f 20 80 de 9a 76 a4 94 97 9a 80 89 76 3f 02 05
+W  H  A  T  '  S  20 T  H  E  20 M  A  T  T  E  R  ?  20 O  H  eb 02 05 O  K  ,  20
+
+96 7c 96 7c a4 8f 76 7e 83 75 79 a1 81 6e 73 84 de 72 8f a4 02
+R  I  G  H  T  20 T  H  E  N  .  20 I  '  V  E  20 F  I  N  I
+
+96 90 76 de 74 98 89 78 7d 98 76 de 76 9d 7e 72 7c 80 9d 7c de 6c a1 02
+S  H  E  D  20 M  Y  20 R  E  V  I  V  A  L  20 P  O  T  I  O  N  .  02
+
+7a 9a 66 82 76 6f 83 90 99 76 de 72 72 a1 02 05
+T  R  Y  20 U  S  I  N  G  20 I  T  .
+
+あんたたちゆうしゃにはムリじゃが、
+ふつうのニンゲンならこれでいきかえらせられるぞ。
+
+A normal human can be revived,
+but not a hero.
+
+71 9d 80 80 81 95 73 7c 6c 86 8a d1 d8 7c de 6c 76 de a4 02
+A  20 N  O  R  M  A  L  20 H  U  M  A  N  20 C  A  N  20 B
+
+8c 82 73 89 c6 dd b9 de dd 85 97 7a 9a 83 de 72 77 76 74 97 7e 97 9a 99 7f de a1 0f
+E  20 R  E  V  I  V  E  D  ,  20 B  U  T  20 N  O  T  20 A  20 H  E  R  O  .

@@ -40,6 +40,16 @@ Discarded.
 66 7d 83 8f 7c 80 a1 0f
 20 T  H  R  E  W  .
 
+--- can't use spell in battle
+
+もせんとうにはつかえない。
+Not in battle.
+Not right now.
+Can't now...
+
+93 7e 9d 84 73 86 8a 82 76 74 85 72 a1 0f
+93 C  A  N  '  T  20 N  O  W  .
+
 --- stats
 
 0007b515
@@ -596,6 +606,13 @@ Ifrit Jar
 b2 cc d8 b0 c4 89 82 8e de
 I  F  R  I  T  20 J  A  R
 
+たつまきのたま
+Tornado Orb
+Wind Orb
+
+80 82 8f 77 89 80 8f
+W  N  D  20 O  R  B
+
 きりのたま
 Mist Orb
 M Orb
@@ -611,6 +628,13 @@ S Orb
 く も の た ま
 78 93 89 80 8f
 S  20  O  R  B
+
+よみがえりのクスリ
+Revival Potion
+Life Potion
+
+96 90 76 de 74 98 89 b8 bd d8
+L  I  F  E  20 P  O  T  20 df
 
 にじのたま
 Rainbow Orb
@@ -964,6 +988,13 @@ Called phantom!
 2a 20 C  A  L  L  E  D  20 P  H  A  N  T  O  M  !
 
 *のツインアタック!
+Twin attack!
+Dual attack!
+
+2a 89 c2 b2 dd b1 c0 af b8 21 02
+2a 20 D  U  A  L  20 A  T  K  02
+
+*のツインアタック!
 Used twin attack!
 
 *  の ツ イ ン ア タ ッ ク !
@@ -1166,6 +1197,12 @@ Ah feck
 
 2a a2 cc b6 de af 21 02
 A  H  20 F  E  C  K  02
+
+*は、はねかえした!
+Parried it!
+
+2a 8a a4 8a 88 76 74 7c 80 21 02
+2a 20 P  A  R  R  I  E  D  !
 
 *は、ぶんしんしてよけた!
 Evaded it by duplicating!
@@ -1521,6 +1558,25 @@ Not poisoned
 2a 8a a4 84 de 78 76 de 87 79 80 a1 02 04
 N  O  T  20 P  O  I  S  O  N  E  D
 
+*は、うごけるようになった。
+can move again.
+
+2a 8a a4 73 7a de 79 99 96 73 86 85 6f 80 a1
+2a 20 C  A  N  20 M  O  V  E  20 N  O  W  .
+
+*は、めがさめた。
+woke up.
+
+2a 8a a4 92 76 de 7b 92 80 a1 02 04
+2a 20 W  O  K  E  20 U  P  .
+
+*は、くちがひらいた。
+Opened their mouth.
+Unsilenced.
+
+2a 8a a4 78 81 76 de 8b 97 72 80 a1 02
+2a 20 U  N  S  I  L  E  N  C  E  D
+
 *のまえに、バリアがはられた!
 
 's shield erected!
@@ -1827,6 +1883,18 @@ Dekaros Ghost
 テ de カ ロ ス コ de ー ス ト
 c3 de b6 db bd ba de b0 bd c4
 D  E  K  20 G  O  H  S  T  df
+
+メカロスゴースト
+Mecharos Ghost
+
+d2 b6 db bd ba de b0 bd c4
+M  E  C  20 G  H  O  S  T
+
+ヘビロスゴースト
+Hebiros Ghost
+
+cd cb de db bd ba de b0 bd c4
+H  E  B  20 G  H  O  S  T  df
 
 ブルーシャドウ
 Blue Shade
@@ -3010,10 +3078,10 @@ KO
 93 K  O
 
 もふう
-Frozen
+Silenced
 
 93 8c 73
-93 F  R
+93 S  I
 
 もマヒ
 Paralyzed
