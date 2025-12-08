@@ -651,6 +651,12 @@ Sun Orb
 80 72 96 73 89 80 8f
 S  U  N  20 O  R  B
 
+ほしのたま
+Star Orb
+
+8e 7c 89 80 8f
+*  20 O  R  B
+
 つきのたま
 Moon Orb
 

@@ -869,3 +869,41 @@ A  20 N  O  R  M  A  L  20 H  U  M  A  N  20 C  A  N  20 B
 
 8c 82 73 89 c6 dd b9 de dd 85 97 7a 9a 83 de 72 77 76 74 97 7e 97 9a 99 7f de a1 0f
 E  20 R  E  V  I  V  E  D  ,  20 B  U  T  20 N  O  T  20 A  20 H  E  R  O  .
+
+-- reviving thief
+
+シーフ「うう...ここは...?
+そうか、あんたたちがたすけてくれたのか...
+[...]
+ああ、こんなものをいつのまにかもっていたんだ。
+れいがわりだ、もっていってくれ。
+
+Ugh... where am I?
+So it's you who saved me...
+
+Ah, somehow I ended up with this.
+Take it.
+
+bc b0 cc a2 73 73 eb 7a 7a 8a eb 3f 02
+U  G  H  eb 02 05 W  H  E  R  E  20 A
+
+7f 73 76 a4 71 9d 80 80 81 76 de 80 7d 79 83 78 9a 80 89 76 eb 02 05
+M  20 I  ?  20 S  O  20 I  T  ' S   20 Y  O  U  20 W  H  O  20 S  A
+
+71 71 a4 7a 9d 85 93 89 66 72 82 89 8f 86 76 93 6f 83 72 80 9d 80 de a1 02
+V  E  D  20 M  E  eb 02 05 A  H  ,  20 I  20 F  O  U  N  D  20 T  H  I  S
+
+9a 72 76 de 9c 98 80 de a4 93 6f 83 72 6f 83 78 9a a1 0f
+.  20 P  L  E  A  S  E  02 T  A  K  E  20 I  T  .
+
+シーフ「せわをかけちまったな。
+がんばって、せかいをすくってくれよ!
+
+I'm fine. (Now) you've gotta save
+the world!
+
+bc b0 cc a2 7e 9c 66 76 79 81 8f 6f 80 85 a1 02
+I  '  M  20 O  K  .  20 Y  O  U  '  V  E  20 G
+
+76 de 9d 8a de 6f 83 a4 7e 76 72 66 7d 78 6f 83 78 9a 96 21 0f
+O  T  T  A  20 S  A  V  E  02 T  H  E  20 W  O  R  L  D  !
