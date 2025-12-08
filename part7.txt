@@ -1085,3 +1085,71 @@ As for Mercenary...
 
 7f 7c 83 a4 16 8a eb 04
 M  E  R  C  E  N  A  R  Y
+
+-- elf at end talking to king
+
+ELF「...さっきは、たしか
+ほうびをうけとろうとしたとたん、
+ネクラーガがあらわれたんだよね...
+
+... Wait, last time I tried
+to accept this reward, Necrogar
+appeared...
+
+... Wait, last time we took
+this, we got swallowed...
+
+11 a2 eb 7b 6f 77 8a a4 80 7c 76 02
+eb 20 W  A  I  T  ,  20 L  A  S  T
+
+8e 73 8b de 66 73 79 84 9b 73 84 7c 80 84 80 9d a4 02
+02 T  I  M  E  20 W  E  20 T  O  O  K  20 T  H  I  S
+
+c8 b8 d7 b0 b6 de 76 de 71 97 9c 9a 80 9d 80 de 96 88 eb
+,  20 W  E  20 G  O  T  02 S  W  A  L  L  O  W  E  D  eb
+
+-- reward questions at end
+
+うけとりますか?
+Take it?
+
+73 79 84 98 8f 7d 76 3f
+T  A  K  E  20 I  T  ?
+
+やめといたほうがよくないですか?
+Isn't it better to leave it?
+Better not, or...?
+
+94 92 84 72 80 8e 73 76 de 96 78 85 72 83 de 7d 76 3f
+B  E  T  T  E  R  20 N  O  T  ,  20 O  R  .  .  .  ?
+
+-- king when you don't take the reward
+
+タンキリエおう「おお、なんとつつしみぶかい!
+さすが8ゆうしゃ、あっぱれあっぱれ!
+[...]
+わかった、それではこのたからは
+おうこくのためにやくだてるとしよう!
+そなたら8ゆうしゃに、えいこうあれ!
+
+Oh my, how humble! Truly
+what I'd expect from you.
+
+Very well, the treasure
+shall benefit the kingdom!
+(Glory to you, 8 heroes!)
+
+c0 dd b7 d8 b4 75 73 a2 75 75 a4 85 9d 84 82 82 7c 90 8c de 76 72 21 02
+O  H  20 M  Y  ,  20 H  O  W  20 H  U  M  B  L  E  !  20 T  R  U  L  Y
+
+7b 7d 76 de 38 95 73 7c 6c a4 71 6f 8a df 9a 71 6f 8a df 9a 21 02 05
+20 W  H  A  T  20 I  '  D  20 E  X  P  E  C  T  20 F  R  O  M  20 Y
+
+9c 76 6f 80 a4 7f 9a 83 de 8a 7a 89 80 76 97 8a 02
+O  U  .  02 05 V  E  R  Y  20 W  E  L  L  ,  20 T
+
+75 73 7a 78 89 80 92 86 94 78 80 de 83 99 84 7c 96 73 21 02
+H  E  20 T  R  E  A  S  U  R  E  20 S  H  A  L  L  20 B  E
+
+7f 85 80 97 38 95 73 7c 6c 86 a4 74 72 7a 73 71 9a 21 0f
+N  E  F  I  T  20 T  H  E  20 K  I  N  G  D  O  M  !
