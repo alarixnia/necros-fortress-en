@@ -957,3 +957,131 @@ O  U  R  20 F  A  C  E  .  02 I  T  '  D  20 B  E  20
 
 84 de 7a 76 97 83 de 93 76 76 6f 83 78 99 76 de 72 72 21 0f
 D  U  L  L  02 A  N  Y  20 O  T  H  E  R  20 W  A  Y  !
+
+-- character portraits at end
+
+このたたかいをさいごに、MAGEはげんえきをいんたい。
+
+For Mage, this was his final
+battle before retirement.
+
+Mage retired after this
+quest.
+
+7a 89 80 80 76 72 66 7b 72 7a de 86 a4 17 8a 79 de 9d 74 77 66 72 9d 80 72 a1 04
+17 20 R  E  T  I  R  E  D  20 A  F  T  E  R  20 T  H  I  S  20 Q  U  E  S  T
+
+KNIGHTは、くにをおさめるために、せんしをはいぎょう。
+こくおうとして、だい2のしょうがいを
+あゆむこととなった。
+
+Knight chose to live the
+rest of his life in peace
+as King.
+
+14 8a a4 78 86 66 75 7b 92 99 80 92 86 a4 7e 9d 7c 66 8a 72 77 de 6e 73 a1 02
+14 G  H  T  20 C  H  O  S  E  20 T  O  20 L  I  V  E  20 T  H  E  02 R  E  S
+
+7a 78 75 73 84 7c 83 a4 80 de 72 32 89 7c 6e 73 76 de 72 66 02
+T  20 O  F  20 H  I  S  20 L  I  F  E  20 I  N  20 P  E  A  C
+
+71 95 91 7a 84 84 85 6f 80 a1 04
+E  02 A  S  20 K  I  N  G  .
+
+AMAZONは、こきょうへかえり、AMAZONぞくの
+じょおうになることがきまった。
+が、おてんばゆえ、おっとがみつかっていない。
+
+Amazon returned to her village and became
+their queen. She's too much of a tomboy
+for a husband.
+
+Amazon became her village's chief.
+She didn't want a husband.
+
+10 8a a4 7a 77 6e 73 8d 76 74 98 a4 10 7f de 78 89 02
+A  M  A  Z  O  N  20 B  E  C  A  M  E  20 H  E  R  20
+
+7c de 6e 75 73 86 85 99 7a 84 76 de 77 8f 6f 80 a1 02
+V  I  L  L  A  G  E  '  S  20 C  H  I  E  F  .  20 S
+
+76 de a4 75 83 9d 8a de 95 74 a4 75 6f 84 76 de 90 82 76 6f 83 72 85 72 a1 04
+H  E  20 D  I  D  N  '  T  20 W  A  N  T  02 A  20 H  U  S  B  A  N  D  .
+
+DWARFは、かじやのダイダロスのでしとなり、
+あらたなゆうしゃのために、さまざまなぶきを
+つくっている。
+
+Dwarf retired to become a
+blacksmith, (forging weapons) for the next
+(generation of) heroes.
+
+13 8a a4 76 7c de 94 89 c0 de b2 c0 de db bd 89 83 de 7c 84 85 98 a4 02
+13 20 R  E  T  I  R  E  D  20 T  O  20 B  E  C  O  M  E  20 A  20 B  L
+
+71 97 80 85 95 73 7c 6c 89 80 92 86 a4 7b 8f 7b de 8f 85 8c de 77 66 02
+A  C  S  K  S  M  I  T  H  20 F  O  R  20 T  H  E  20 N  E  X  T  20 H
+
+82 78 6f 83 72 99 a1 04
+E  R  O  E  S  .
+
+BERSERKERは、なぜかブリザラードのおうとなり、
+こくみんからあついしんらいをうけてる。
+よのなかとはふしぎなものだ。
+
+Berserker, for some reason,
+inherits Blizzard's throne.
+
+Berserker, by some miracle,
+inherits the throne of
+Blizzard.
+
+(He is deeply trusted by the people.)
+
+15 8a a4 85 7e de 76 cc de d8 bb de d7 b0 c4 de 89 75 73 84 85 98 a4 02
+B  E  R  S  E  R  K  E  R  ,  20 B  Y  20 S  O  M  E  20 M  I  R  A  C
+
+7a 78 90 9d 76 97 71 82 72 7c 9d 97 72 66 73 79 83 99 a1 02
+L  E  ,  20 I  N  H  E  R  I  T  S  20 T  H  E  20 T  H  R
+
+96 89 85 76 84 8a 8c 7c 77 de 85 93 89 80 de a1 04
+O  N  E  20 O  F  02 B  L  I  Z  Z  A  R  D  .
+
+SAMURAIは、しゅぎょうのたびにでた。
+そのご、アレフおうじをでしにとり、
+りっぱなゆうしゃにそだてあげたという。
+
+Samurai took (Prince) Aleph as his
+student, training him to
+be a (great) warrior.
+
+12 8a a4 7c 6d 77 de 6e 73 89 80 8b de 86 83 de 80 a1 02
+12 R  A  I  20 T  O  O  K  20 A  L  E  P  H  20 A  S  20
+
+7f 89 7a de a4 b1 da cc 75 73 7c de 66 83 de 7c 86 84 98 a4 02
+H  I  S  20 S  T  U  D  E  N  T  ,  20 T  R  A  I  N  I  N  G
+
+98 6f 8a df 85 95 73 7c 6c 86 7f 80 de 83 71 79 de 80 84 72 73 a1 04
+20 H  I  M  20 T  O  20 B  E  20 A  20 W  A  R  R  I  O  R  .
+
+ELFは、MAGEのしょうごうをゆずりうけ、
+MAGEのもとでしゅぎょうをつんでいる。
+
+Elf inherited Mage's title and
+began his new training.
+
+Elf inherited Mage's title
+& began a new life
+
+11 8a a4 17 89 7c 6e 73 7a de 73 66 95 7d de 98 73 79 a4 02
+11 20 I  N  H  E  R  I  T  E  D  20 17 '  S  20 T  I  T  L
+
+17 89 93 84 83 de 7c 6d 77 de 6e 73 66 82 9d 83 de 72 99 a1 04
+E  20 &  20 B  E  G  A  N  20 A  20 N  E  W  20 L  I  F  E  .
+
+そして、MERCENARYは...
+
+As for Mercenary...
+
+7f 7c 83 a4 16 8a eb 04
+M  E  R  C  E  N  A  R  Y
