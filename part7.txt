@@ -907,3 +907,53 @@ I  '  M  20 O  K  .  20 Y  O  U  '  V  E  20 G
 
 76 de 9d 8a de 6f 83 a4 7e 76 72 66 7d 78 6f 83 78 9a 96 21 0f
 O  T  T  A  20 S  A  V  E  02 T  H  E  20 W  O  R  L  D  !
+
+-- dr. bomb after reviving thief
+
+ボムはかせ「おお! せいこうしたか!
+まさか、ほんとうにいきかえるとはおもわなかったぞ。
+
+Really, he's alive?!
+I didn't think it'd work.
+
+ce de d1 8a 76 7e a2 75 75 21 20 7e 72 7a 73 7c 80 76 21 02
+R  E  A  L  L  Y  ,  20 H  E  '  S  20 A  L  I  V  E  ?  !
+
+8f 7b 76 a4 8e 9d 84 73 86 72 77 76 74 99 84 8a 75 93 9c 85 76 6f 80 7f de a1 0f
+02 I  20 D  I  D  N  '  T  20 T  H  I  N  K  20 I  T  '  D  20 W  O  R  K  .
+
+-- necros ghost
+
+*「ぐうう...にがすものか...
+きさまらだけは...!
+
+Gah... I will not fall...
+Not to you...!
+
+I will not fall...
+Now now!
+
+2a a2 78 de 73 73 eb 86 76 de 7d 93 89 76 eb 02 77 7b 8f 97 80 de 79 8a eb 21 0f
+I  20 W  I  L  L  20 N  O  T  20 F  A  L  L  eb 20 N  O  T  20 N  O  W  eb !  0f
+
+-- demon
+
+ネクラーガ「はっはっは、ようやくでてきたな。
+[...]
+こうでなくては、おもしろくない。
+どこからでもかかってくるがいい!
+
+(Hah,)
+so you've finally shown
+your face.
+[...]
+It'd be dull any other way!
+
+c8 b8 d7 b0 b6 de a2 8a 6f 8a 6f 8a a4 96 73 94 78 83 de 83 77 80 85 a1 02 05
+S  O  ,  20 Y  O  U  '  V  E  20 F  I  N  A  L  L  Y  20 S  H  O  W  N  02 Y
+
+7a 73 83 de 85 78 83 8a a4 75 93 7c 9b 78 85 72 a1 02
+O  U  R  20 F  A  C  E  .  02 I  T  '  D  20 B  E  20
+
+84 de 7a 76 97 83 de 93 76 76 6f 83 78 99 76 de 72 72 21 0f
+D  U  L  L  02 A  N  Y  20 O  T  H  E  R  20 W  A  Y  !

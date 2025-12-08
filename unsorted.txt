@@ -1896,6 +1896,19 @@ Mecharos Ghost
 d2 b6 db bd ba de b0 bd c4
 M  E  C  20 G  H  O  S  T
 
+ネクロスゴースト
+Necros Ghost
+
+ネ ク ロ ス コ de ー ス ト
+c8 b8 db bd ba de b0 bd c4
+N  E  C  20 G  H  O  S  T
+
+ネクラーガ
+Necrogar
+
+c8 b8 d7 b0 b6 de
+N  E  C  R  O  G
+
 ヘビロスゴースト
 Hebiros Ghost
 

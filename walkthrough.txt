@@ -471,3 +471,4 @@ Part 7: Revival
 * follow cave east, talk with dead thief, don't search the body
 * monsters in aleph/thief chamber are much stronger, bring magic cloth to
   return to dr. bomb
+* necros and necrogar use a combination of fire and ice attacks
