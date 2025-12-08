@@ -917,6 +917,13 @@ X played Y!
 2a 8a a4 23 66 76 85 83 de 80 21 02 04
 2a 20 P  L  A  Y  E  D  20 23 !
 
+*は、カマをふりかざした!
+Swung a scythe!
+Uses scythe!
+
+2a 8a a4 b6 cf 66 8c 98 76 7b de 7c 80 21 02
+2a 20 U  S  E  S  20 S  C  Y  T  H  E  !
+
 *の、こうけdeき!
 Attacks!
 
