@@ -1086,6 +1086,32 @@ As for Mercenary...
 7f 7c 83 a4 16 8a eb 04
 M  E  R  C  E  N  A  R  Y
 
+-- introduction to king at end
+
+きがつくと、ゆうしゃたちは
+ネクラーガにのみこまれるまえの
+タンキリエじょうにもどっていた。
+[...]
+どうやら、じかんがもどってしまったようだ...
+
+[Before they knew it,
+the heroes found themself back
+in Tankirie Castle, in audience
+with the King, as if time had
+been turned back...]
+
+77 76 de 82 78 84 a4 95 73 7c 6c 80 81 8a 02
+[  A  S  20 I  F  20 T  I  M  E  20 H  A  D
+
+c8 b8 d7 b0 b6 de 86 89 90 7a 8f 9a 99 8f 74 89 02
+20 T  U  R  N  E  D  20 B  A  C  K  ,  20 T  H  E 
+
+c0 dd b7 d8 b4 7c de 6e 73 86 93 84 de 6f 83 72 80 a1 05 02
+20 H  E  R  O  E  S  20 F  O  U  N  D  20 T  H  E  M  S  E
+
+84 de 73 94 97 a4 7c de 76 9d 76 de 93 84 de 6f 83 7c 8f 6f 80 96 73 80 de eb 02 05
+L  V  E  S  20 I  N  20 T  H  E  20 T  H  R  O  N  E  20 R  O  O  M  eb ]
+
 -- elf at end talking to king
 
 ELF「...さっきは、たしか
@@ -1153,3 +1179,57 @@ H  E  20 T  R  E  A  S  U  R  E  20 S  H  A  L  L  20 B  E
 
 7f 85 80 97 38 95 73 7c 6c 86 a4 74 72 7a 73 71 9a 21 0f
 N  E  F  I  T  20 T  H  E  20 K  I  N  G  D  O  M  !
+
+-- guy in the inn (might be in part1 too?)
+
+*「また、ばくちでスッカラカンかい?
+みせのオヤジにどやされるぜ。
+
+Have you gambled yourself into
+the red again?
+The barkeep will be angry.
+
+Have you gambled yourself
+broke again?
+
+2a a2 8f 80 a4 8a de 78 81 83 de bd af b6 d7 b6 dd 76 72 3f 02
+H  A  V  E  20 Y  O  U  20 G  A  M  B  L  E  D  20 Y  O  U  R
+
+90 7e 89 b5 d4 bc de 86 84 de 94 7b 9a 99 7e de a1 0f
+S  E  L  F  20 B  R  O  K  E  20 A  G  A  I  N  ?
+
+-- marin encounter in inn
+
+*「まあまあ、ここはワタシがはらいましょう。
+[...]
+MERCENARY「いやーっ、もうしわけない!
+あんたみたいなびじんとしりあえて、シアワセだなー!
+[...]
+*「クスクス、あいかわらずねえ。
+[...]
+MERCENARY「え?
+あっ! あんたは...
+
+Now, now, I'll pay for this.
+
+[Oh my, what a beautiful
+lady...]
+
+Heh heh, you haven't changed at all.
+
+[Eh? Oh! It's...]
+
+2a a2 8f 71 8f 71 a4 7a 7a 8a dc c0 bc 76 de 8a 97 72 8f 7c 6e 73 a1 02 05
+[  A  H  ,  20 A  20 B  E  A  U  T  I  F  U  L  20 Y  O  U  N  G  02 L  A
+
+16 a2 72 94 b0 6f a4 93 73 7c 9c 79 85 72 21 02
+D  Y  !  ]  02 05 N  O  W  ,  0 N  O  W  .   02
+
+71 9d 80 90 80 72 85 8b de 7c de 9d 84 7c 98 71 74 83 a4 bc b1 dc be 80 de 85 b0 21 02 05
+I  '  L  L  20 P  A  Y  20 F  O  R  20 T  H  I  S  .  02 H  E  H  E  ,  20 Y  O  U  20 H
+
+2a a2 b8 bd b8 bd a4 71 72 76 9c 97 7d de 88 74 a1 02 05
+A  V  E  N  '  T  20 C  H  A  N  G  E  D  .  02 05 [  E
+
+16 a2 74 3f 02 71 6f 21 20 71 9d 80 8a eb 0f
+H  ?  20 O  H  ,  20 I  T  '  S  .  .  ]
