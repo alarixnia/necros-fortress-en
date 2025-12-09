@@ -2142,6 +2142,37 @@ S  .  02 U  S  E  20 I  T  20 O  N  20 W  E  L  L  S  .  02
 7a 9a 66 82 76 6f 83 90 85 21 0f
 S  E  E  20 Y  A  !  20 20
 
+--- thief when mercenary is dead and only mage living
+
+シーフ「お、ゆうしゃさんかい。
+MERCENARYはげんきかい?
+
+[...]
+え? やられた?
+なさけねえなあ...はやくいきかえらせてやんなよ。
+
+Oh, hey. How's Mercenary doing?
+[...]
+Taken out, eh?
+Better get him back on his feet quickly.
+
+Oh, hey.
+How's Mercenary?
+Taken out eh?
+Better revive him.
+
+bc b0 cc a2 75 a4 95 73 7c 6c 7b 9d 76 72 a1 02
+O  H  ,  20 H  E  Y  .  20 H  O  W  '  S  20 M
+
+16 8a 79 de 9d 77 76 72 3f 02 05
+E  R  C  E  N  A  R  Y  ?  02 05
+
+74 3f 20 94 97 9a 80 3f 02
+T  A  K  E  N  20 O  U  T
+
+85 7b 79 88 74 85 71 eb 8a 94 78 72 77 76 74 97 7e 83 94 9d 85 96 a1 0f
+20 E  H  ?  20 B  E  T  T  E  R  20 R  E  V  I  V  E  20 H  I  M  .
+
 --- mage's message in dungeon chest
 
 こdeくろうぢゃったな。
@@ -2678,6 +2709,42 @@ a choice.)
 10 は 、 う む を い わ さ す de な か ま に く わ わ っ た !
 10 8a a4 73 91 66 72 9c 7b 7d de 85 76 8f 86 78 9c 9c 6f 80 21 02
 A  M  A  Z  O  N  20 Q  U  I  C  K  L  Y  20 J  O  I  N  S  !
+
+--- amazon when mercenary is dead
+
+*「ああ、8ゆうしゃのかたですね?
+わたしは、AMAZONぞくのむすめです。
+
+[...]
+おねえさまが、わたしをさがしにきてくれる
+はずなのに...グスン
+MAGE「なるほど。しかし、MERCENARYがおらん
+ことにはのう...
+
+Ah, you must be one of the 8?
+I'm a daughter of the Amazon tribe.
+I'm looking for my sister...
+
+[Oh, but without Mercenary...]
+
+You must be one of the 8?
+I'm from the Amazons,
+and looking for my sis.
+
+2a a2 71 71 a4 38 95 73 7c 6c 89 76 80 83 de 7d 88 3f 02
+Y  O  U  20 M  U  S  T  20 B  E  20 O  N  E  20 O  F  20
+
+9c 80 7c 8a a4 10 7f de 78 89 91 7d 92 83 de 7d a1 02 05
+T  H  E  20 8  ?  02 05 I  '  M  20 F  R  O  M  20 T  H  E
+
+75 88 74 7b 8f 76 de a4 9c 80 7c 66 7b 76 de 7c 86 77 83 78 9a 99 02
+E  20 A  M  A  Z  O  N  S  ,  20 A  N  D  20 L  O  O  K  I  N  G  20
+
+8a 7d de 85 89 86 eb b8 de bd dd 0f
+F  O  R  20 M  Y  20 S  I  S  .  0f
+
+17 a2 85 99 8e 84 de a1 7c 76 7c a4 16 76 de 75 97 9d 02 7a 84 86 8a bd dd 0f
+[  B  U  T  20 W  I  T  H  O  U  T  20 M  E  R  C  E  N  A  R  Y  eb ]
 
 --- curing sylvia
 
@@ -3287,3 +3354,54 @@ S  E  20 K  E  E  P  02 I  T  20 Q  U  I  E  T  .  20 T  E  L  L  20 N  O  -  O 
 た de ま っ て お い て く れ...
 80 de 8f 6f 83 75 72 83 78 9a eb 0f
 E  .  .  .
+
+-- unsure where these appear
+
+シルヴィアだ!
+It's Sylvia!
+
+bc d9 b3 de a8 b1 80 de 21 02
+eb 20 S  Y  L  V  I  A  !
+
+*「しんでいるようにみえますが、よるになると
+すがたをけしているのです...ああ!
+
+She seems dead, but come nightfall...
+Ah!
+
+2a a2 7c 9d 83 de 72 99 96 73 86 90 74 8f 7d 76 de a4 96 99 86 85 99 84 02
+S  H  E  20 S  E  E  M  S  20 D  E  A  D  ,  20 B  U  T  20 C  O  M  E  20
+
+7d 76 de 80 66 79 7c 83 72 99 89 83 de 7d eb 71 71 21 0f
+N  I  G  H  T  F  A  L  L  .  .  .  20 A  H  !
+
+*「おとうさんがいなくなっちゃったんで、あたしが
+やることになったの。えーと...
+
+My father is gone,
+so I had to. Uh...
+
+2a a2 75 84 73 7b 9d 76 de 72 85 78 85 6f 81 6c 6f 80 9d 83 de a4 71 80 7c 76 de 02
+M  Y  20 F  A  T  H  E  R  20 I  S  20 G  O  N  E  ,  02 S  O  20 I  20 H  A  D  20
+
+94 99 7a 84 86 85 6f 80 89 a1 74 b0 84 eb 05 02
+T  O  .  .  .  02 U  H  .  .  .  
+
+*「おや? これは、ゆうしゃさま。
+Hm? Oh, it's the hero.
+Hm? Oh, it's you.
+
+2a a2 75 94 3f 20 7a 9a 8a a4 95 73 7c 6c 7b 8f a1 0f
+H  M  ?  20 O  H  ,  20 I  T  '  S  20 Y  O  U  .
+
+*「ふうー、ふうー。
+Huf, huf.
+
+2a a2 8c 73 b0 a4 8c 73 b0 a1 0f
+H  U  F  ,  20 H  U  F  .
+
+*「スヤスヤ...
+Zzz...
+
+2a a2 bd d4 bd d4 eb 0f
+Z  Z  Z  .  .  .  

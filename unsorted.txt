@@ -724,6 +724,31 @@ legendary adventures.
 み た り き い た り し た こ と を う た に し て い ま す 。
 90 80 98 77 72 80 98 7c 80 7a 84 66 73 80 86 7c 83 72 8f 7d a1 02 
 
+"さいかいのうた"をおしえましょう。
+このうたをメモしておけば、このせかいのことを
+わすれないでいられますよ。
+
+Let me tell you the "reunion song".
+Write it down, and you won't forget
+your quest.
+
+Write down my reunion
+song & you won't forget
+your quest.
+
+Write down my song and
+then you won't forget
+your quest.
+
+22 7b 72 76 72 89 73 80 22 66 75 7c 74 8f 7c 6e 73 a1 02
+W  R  I  T  E  20 D  O  W  N  20 M  Y  20 S  O  N  G  20
+
+7a 89 73 80 66 d2 d3 7c 83 75 79 8a de a4 7a 89 7e 76 72 89 7a 84 66 02
+A  N  D  02 T  H  E  N  20 Y  O  U  20 W  O  N  '  T  20 F  O  R  G  E
+
+9c 7d 9a 85 72 83 de 72 97 9a 8f 7d 96 a1 02 05
+T  02 Y  O  U  R  20 Q  U  E  S  T  .  df 02 05
+
 Appears twice:
 
 さいかいのうたをきかせてあけdeましょう。
