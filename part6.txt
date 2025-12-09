@@ -677,6 +677,25 @@ A  L  E  P  H  20 I  S  20 S  T  I  L  L  20 O  N  L  Y  20 8
 80 8b de 86 83 de 99 85 9d 83 a4 77 79 9d 7d 77 de 8f 7d 9c a1 0f
 ,  02 T  O  O  20 Y  O  U  N  G  20 T  O  20 Q  U  E  S  T  .
 
+-- new hope queen after aleph leaves for galtera?
+
+おうひ「アレフは、いってしまいました...
+でも、おとこのこなんだから、じぶんの
+おもいどおりにするのが、いちばんですね。
+
+Oh, Aleph is gone...
+I suppose it's fine if
+it makes him happy...
+
+75 73 8b a2 b1 da cc 8a a4 72 6f 83 7c 8f 72 8f 7c 80 eb 02
+O  H  ,  20 A  L  E  P  H  20 I  S  20 G  O  N  E  .  .  02
+
+83 de 93 a4 75 84 7a 89 7a 85 9d 80 de 76 97 a4 7c de 8c de 9d 89 02
+I  20 S  U  P  P  O  S  E  20 I  T  '  S  20 F  I  N  E  20 I  F  20
+
+75 93 72 84 de 75 98 86 7d 99 89 76 de a4 72 81 8a de 9d 83 de 7d 88 a1 0f
+I  T  02 M  A  K  E  S  20 H  I  M  20 H  A  P  P  Y  .  .  .
+
 -- woman in new hope church
 
 *「にげおくれたパパは、いきているのかしら...
@@ -1208,7 +1227,23 @@ H  E  Y  20 Y  O  U  ,  20 F  R  E  S  H  20 M  E  A  T  !  02 H  E  A  V  E  - 
 76 72 21 02 86 7e 14 a2 8b b0 a4 80 7d 79 83 b0 21 0f
 !  02 05 G  A  H  ,  20 H  E  L  P  20 M  E  !
 
--- mercenary on galtera
+-- mercenary on galtera before marin
+
+MERCENARY「あー、ふねのメシって、どーしてこう
+マズいんだろう!
+
+Argh, the grub here is utterly terrible!
+
+The grub is utterly
+terrible!
+
+16 a2 71 b0 a4 8c 88 89 d2 bc 6f 83 a4 84 de b0 7c 83 7a 73 02
+T  H  E  20 G  R  U  B  20 I  S  20 U  T  T  E  R  L  Y  20 T
+
+cf bd de 72 9d 80 de 9b 73 21 0f
+E  R  R  I  B  L  E  !
+
+-- mercenary on galtera after marin
 
 MERCENARY「きょうのメシは、なかなかだな。
 Today's meal is quite something.
@@ -1216,6 +1251,20 @@ The food's lovely.
 
 16 a2 77 6e 73 89 d2 bc 8a a4 85 76 85 76 80 de 85 a1 0f
 T  H  E  20 F  O  O  D  '  S  20 L  O  V  E  L  Y  .
+
+-- blind girl showing amulet before being cured?
+
+メイ「なに...ペンダント?
+わからないわ...わたし、めがみえないの...
+
+What, an amulet?
+I can't see it...
+
+d2 b2 a2 85 86 eb cd df dd c0 de dd c4 3f 02
+W  H  A  T  ,  20 A  N  20 A  M  U  L  E  T
+
+9c 76 97 85 72 9c eb 9c 80 7c a4 92 76 de 90 74 85 72 89 eb 0f
+?  02 I  20 C  A  N  '  T  20 S  E  E  20 I  T  .  .  .
 
 -- using arao amulet on blind girl
 
@@ -1650,6 +1699,23 @@ I  S  L  A  N  D  .  02 05 T  O  D  A
 
 eb 7f 7c 83 a4 77 6e 73 76 de a4 7f 89 31 30 30 88 9d 92 85 89 80 de 21 0f
 Y  20 M  A  R  K  S  20 T  H  E  20 1  0  0  T  H  20 Y  E  A  R  !
+
+-- arao's daughter after speaking to him?
+
+メイ「おじいちゃんをたすけてくれたのね。
+ああ、なんておれいをいっていいか...
+
+So you saved Granddad. Oh,
+I don't know how to thank you...
+
+You saved gramps.
+Thank you so much.
+
+d2 b2 a2 75 7c de 72 81 6c 9d 66 80 7d 79 83 78 9a 80 89 88 a1 02
+Y  O  U  20 S  A  V  E  D  20 G  R  A  M  P  S  .  02 T  H  A  N
+
+71 71 a4 85 9d 83 75 9a 72 66 72 6f 83 72 72 76 eb 0f
+K  20 Y  O  U  20 S  O  20 M  U  C  H  .
 
 -- skullcros capturing ship
 
@@ -2287,3 +2353,26 @@ We're taken up!
 
 7c 9b 76 de a4 7f 97 86 7d 72 7a 8f 9a 83 72 78 21 04
 W  E  '  R  E  20 T  A  K  E  N  20 U  P  !
+
+-- unknown, maybe on atlantis?
+
+ELF「げんきをだして。
+ぼくが、うたをうたってあげるから...
+
+Cheer up.
+I'll sing a song...
+
+11 a2 79 de 9d 77 66 80 de 7c 83 a1 02
+C  H  E  E  R  20 U  P  .  02 I  '  L
+
+8e de 78 76 de a4 73 80 66 73 80 6f 83 71 79 de 99 76 97 eb 0f
+L  20 S  I  N  G  20 A  20 S  O  N  G  .  .  .
+
+-- unknown
+
+みちは、ふさがれている。
+The path's blocked.
+It's blocked.
+
+90 81 8a a4 8c 7b 76 de 9a 83 72 99 a1 0f
+I  T  '  S  20 B  L  O  C  K  E  D  .
