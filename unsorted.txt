@@ -475,6 +475,12 @@ Blaze Ember
 cc de da b2 bd de 89 8b 80 de 88
 B  L  A  Z  E  20 E  M  B  E  R
 
+タコロスのカギ
+Takoros Key (unused?)
+
+c0 ba db bd 89 b6 b7 de
+T  A  K  20 K  E  Y  df
+
 レーザーじゅう
 Laser Gun
 
@@ -2242,6 +2248,12 @@ Merlin Robe
 cf b0 d8 dd 89 db b0 cc de
 M  E  R  L  I  N  R  O  B
 
+ブロンズメイス
+Bronze Mace
+
+cc de db dd bd de d2 b2 bd
+B  R  Z  .  M  A  C  E  df
+
 スチールメイス
 Steel Mace
 St.Mace
@@ -2957,6 +2969,12 @@ Elec. Cut
 い な す de ま か de え し
 72 85 7d de 8f 76 de 74 7c
 E  L  E  C  .  20 C  U  T
+
+カミカゼ
+Kamikaze
+
+b6 d0 b6 be de
+K  A  M  I  K
 
 --- Chests
 
