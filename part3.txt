@@ -1884,7 +1884,7 @@ H  E  H  20 H  E  H  .  20 Y  O  U  '  V  E  20 C  O  M  E  20 F  A  R  .
 「ふふふ。わたしは、
 ネクロス7にんしゅうのかしら、ドクロス。
 
-(Muahaha.) I am Skullcros,
+(Muahaha.) I am Docros,
 leader of the (Necros) 7.
 
 a2 8c 8c 8c a1 9c 80 7c 8a a4 02
@@ -1945,7 +1945,7 @@ BERSERKERのおかげで、たまたまヘビロスのやぼうを
 
 With the help of Berserker, Elf and Samurai
 had accidentally thwarted Hebiros' ambitions.
-Though concerned by Skullcros' words, they
+Though concerned by Docros' words, they
 hurried towards Tankirie Castle where
 everyone awaited them.
 

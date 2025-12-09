@@ -853,7 +853,7 @@ I  S  20 K  I  N  G  20 H  O  P  E  20 S  A  F  E  ?
 Well well. What fools you
 are to come here.
 
-Now meet your end (at the hands of Skullcros).
+Now meet your end (at the hands of Docros).
 
 c4 de b8 db bd a2 8e 8e 73 a1 02 9c 7b de 9c 7b de 7a 9b 7b 9a 86 78
 W  E  L  L  20 W  E  L  L  .  20 W  H  A  T  20 F  O  O  L  S  20 Y
@@ -879,7 +879,7 @@ A  H  20 T  O  20 H  E  L  L  20 W  I  T  H  20 Y  O  U  !
 さて、はやくわしをたおしてすすまんと、
 ホープおうはいきたえてしまうぞ!
 
-(Grr...) While Skullcros slowed
+(Grr...) While Docros slowed
 you down , I went for the
 King.
 

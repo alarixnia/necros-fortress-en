@@ -1242,7 +1242,7 @@ U  20 F  I  N  D  20 I  T  ?
 さきもりのしまのちかくをさがしているはずよ。
 
 Grandpa didn't leave, he
-was abducted by Skullcros as
+was abducted by Docros as
 a guide to Atlantis.
 They're far out at sea.
 
@@ -1281,7 +1281,7 @@ U  T  '  S  20 Y  E  L  L  I  N  G  .  02 05 L  E  T  '  S  20 S  A  I  L  ?
 ドクロスせんじゃないか!?
 
 (Oi,) look! Isn't that
-Skullcros' ship?!
+Docros' ship?!
 
 2a a2 75 72 21 20 71 6f 81 89 8e 73 86 90
 L  O  O  K  !  20 I  S  N  '  T  20 T  H
@@ -1443,7 +1443,7 @@ G  .  20 H  O  20 H  O  .
 
 *「うむ、これは、たしかにドクロスせんだ。
 
-It's really Skullcros.
+It's really Docros.
 
 2a a2 73 91 a4 7a 9a 8a a4 80 7c 76 86 c4 de b8 db bd 7e 9d 80 de a1
 I  T  '  S  20 R  E  A  L  L  Y  20 S  K  U  L  L  C  R  O  S  .
@@ -1458,7 +1458,7 @@ I  T  '  S  20 R  E  A  L  L  Y  20 S  K  U  L  L  C  R  O  S  .
 
 COUNTER-ATTACK!
 Whoa!
-Now, let's board (Skullcros' ship)!
+Now, let's board (Docros' ship)!
 
 a2 7a 7c 6c 78 85 21 20 8a 9d 79 de 77 80 de 21 04
 C  O  U  N  T  E  R  -  A  T  T  A  C  K  !
@@ -1657,7 +1657,7 @@ Y  20 M  A  R  K  S  20 T  H  E  20 1  0  0  T  H  20 Y  E  A  R  !
 ガルテラごうは、このドクロスがいただいた!
 
 Haha, you fools! Now the
-Galtera belongs to us (Skullcros)!
+Galtera belongs to us (Docros)!
 
 c4 de b8 db bd a2 78 de 6f 8c 6f 8c a4 8f 87 79 84 de 93 92 21 02
 H  A  H  A  ,  20 Y  O  U  20 F  O  O  L  S  !  02 05 N  O  W  20
