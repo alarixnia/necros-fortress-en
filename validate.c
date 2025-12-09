@@ -16,7 +16,7 @@ main(int argc, char *argv[])
 	uint8_t b1[256], b2[256];
 	size_t ret, offset;
 
-	if (argc < 2) {
+	if (argc < 3) {
 		fprintf(stderr,
 		    "%s: usage %s original.pce modified.pce\n",
 		    argv[0], argv[0]);
