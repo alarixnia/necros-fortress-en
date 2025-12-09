@@ -504,6 +504,17 @@ D  O  N  '  T  20 J  U  S  T  20 B  A  R  G
 76 6f 83 86 8a 72 6f 83 7a 85 72 83 de 78 9a a1 0f
 E  20 I  N  20 T  O  20 M  Y  20 H  O  M  E  !
 
+*「おや、KNIGHTさん。
+きょうは、なにかかってくれるんですか?
+
+Ah, Sir Knight. Drinks on you?
+
+2a a2 75 94 a4 14 7b 9d a1 02
+A  H  ,  20 S  I  R  20 K  N
+
+77 6e 73 8a a4 85 86 76 76 6f 83 78 9a 99 9d 83 de 7d 76 3f 05 02
+I  G  H  T  .  20 D  R  I  N  K  S  20 O  N  20 Y  O  U  ?
+
 *「シドのむらにいきたい?
 あそこは、ショーグンにおそわれて、むちゃくちゃに
 なっているぞ。
@@ -2188,3 +2199,78 @@ L  L  20 W  E  20 C  O  N  S  U  L  T  20 T  H  E  02 S  P  I  R  I  T
 
 84 86 76 78 a4 80 8b de 89 7c 80 78 66 7c 96 73 a1 0f
 20 J  O  U  R  N  E  Y  .  .  .
+
+-- i think these are from ghoulies near their outpost
+
+*「なんみんセンターか?
+あそこだけは、ぶじみたいだな。なんでだろ?
+
+The refuge? It seems
+busy there. Why?
+
+2a a2 85 9d 90 9d be dd c0 b0 76 3f 02
+T  H  E  20 R  E  F  U  G  E  ?  20 I
+
+71 7f 7a 80 de 79 8a a4 8c de 7c de 90 80 72 80 de 85 a1 85 9d 83 de 80 de 9b 3f 0f
+T  20 S  E  E  M  S  20 B  U  S  Y  20 T  H  E  R  E  .  20 W  H  Y  ?
+
+*「KNIGHTをたおしたんだってな。
+さきをこされちまったぜ!
+
+I hear you took down Sir Knight.
+You beat me to it!
+
+I hear you took
+out Sir Knight!
+
+2a a2 14 66 80 75 7c 80 9d 80 de 6f 83 85 a1 02 7b 77 66 7a 7b 9a 81 8f 6f 80 7e de 21 0f
+I  20 H  E  A  R  20 Y  O  U  20 T  O  O  K  20 O  U  T  20 S  I  R  20 14 G  H  T  !
+
+*「あやしいヤツめ。
+さっきから、なにをウロウロしている!
+
+Suspicious.
+You certainly are wandering!
+
+Why are you wandering about?
+
+2a a2 71 94 7c 72 d4 c2 92 a1 02
+W  H  Y  20 A  R  E  20 Y  O  U
+
+7b 6f 77 76 97 a4 85 86 66 b3 db b3 db 7c 83 72 99 0f
+20 W  A  N  D  E  R  I  N  G  20 A  B  O  U  T  ?
+
+-- unknown
+
+*「しょうにんのふくですね。
+よろいをぬがないと、きることができませんから
+きをつけてください。
+
+It's merchant's clothes.
+Be careful not to rip them
+on your armour.
+
+2a a2 7c 6e 73 86 9d 89 8c 78 83 de 7d 88 a1 02
+I  T  '  S  20 M  E  R  C  H  A  N  T  '  S  20
+
+96 9b 72 66 87 76 de 85 72 84 a4 77 99 7a 84 76 de 83 de 77 8f 7e 9d 76 97 02
+C  L  O  T  H  E  S  .  20 D  O  N  '  T  20 R  I  P  20 I  T  20 O  N  20 Y
+
+77 66 82 79 83 78 80 de 7b 72 a1 02 05
+O  U  R  20 A  R  M  O  R  .
+
+-- refuge?
+
+*「あなたのクスリのおかげで、
+ケガもなおりました。
+
+I'm healed thanks to your medicine.
+
+Your medicine has
+healed me.
+
+2a a2 71 85 80 89 b8 bd d8 89 75 76 79 de 83 de a4 02
+Y  O  U  R  20 M  E  D  I  C  I  N  E  20 H  A  S  20
+
+b9 b6 de 93 85 75 98 8f 7c 80 a1 05 02
+H  E  A  L  E  D  20 M  E  .
