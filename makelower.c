@@ -54,6 +54,8 @@ static const char *names[] = {
 	"DAN",
 	"ANGELA",
 	"HOPE",
+	"MOUNT",
+	"XENO",
 	"HARRISON",
 	"KING",
 	"PRINCE",
@@ -157,7 +159,7 @@ main(int argc, char *argv[])
 
 				b2[off] = toupper(b2[off]);
 				for (j = off; j < max; ++j) {
-					if (isspace(b2[j])) {
+					if (isspace(b2[j]) || b2[j] == 0x02) {
 						b2[j + 1] = toupper(b2[j + 1]);
 					}
 				}
