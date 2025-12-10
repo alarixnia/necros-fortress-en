@@ -1772,20 +1772,18 @@ O  H  eb 20 O  N  I  R  O  S  !
 ショーグンにしては、よわいとおもったろう?
 ワシが、どくをもっておいたのだ。
 
-Needs checking:
-
-Well done. You thought me
-weak (for a leader)?
-I have poison ready.
+Well done. Noticed
+Shogun's weakness?
+I poisoned him.
 
 a2 96 78 94 6f 83 78 9a 80 a1 02
-W  E  L  L  20 D  O  N  E  .  02
+W  E  L  L  20 D  O  N  E  .  20
 
 bc ae b0 b8 de dd 86 7c 83 8a a4 96 9c 72 84 75 93 6f 80 9b 73 3f 02
-Y  O  U  20 T  H  O  U  G  H  T  20 M  E  20 W  E  A  K  ?  20 I  H
+N  O  T  I  C  E  D  02 S  H  O  G  U  N  '  S  20 W  E  A  K  N  E
 
 dc bc 76 de a4 84 de 78 66 93 6f 83 75 72 80 89 80 de a1 04
-A  V  E  20 P  O  I  S  O  N  20 R  E  A  D  Y  .
+S  S  ?  02 I  20 P  O  I  S  O  N  E  D  20 H  I  M  .
 
 これで、ワシがひとりで、ぐんをしはいできる。
 ゆうしゃがワシのためにはたらいてくれるとは、
