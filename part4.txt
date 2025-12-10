@@ -45,6 +45,21 @@ K  I  N  G  20 H  O  P  E  '  S  20 O  U  R  20 K  I  N
 7c 9d 95 73 85 89 83 de 7d a1 0f
 G  '  S  20 A  L  L  Y  .
 
+*「ホープおうこくは、まのもりを
+にしにこえたばしょにあります。
+
+Blizzard is to the west,
+beyond the forest.
+
+Blizzard is in the
+western sea.
+
+2a a2 ce b0 cc df 75 73 7a 78 8a a4 8f 89 93 98 66 02
+B  L  I  Z  Z  A  R  D  20 I  S  20 I  N  20 T  H  E
+
+86 7c 86 7a 74 80 8a de 7c 6e 86 71 98 8f 7d a1 0f
+02 W  E  S  T  E  R  N  20 S  E  A  .
+
 *「ブリザラードは、タンキリエのはるか
 にしのうみにある、こおりのくにです。
 
@@ -1249,6 +1264,28 @@ U  S  E  20 I  T  20 A  T  20 T  H  E  20 C  R  A  T  E  R  '  S
 7a 73 76 76 de 85 72 76 97 85 a1 77 66 82 79 9b 96 a1 0f
 02 E  D  G  E  .  20 T  A  K  E  20 C  A  R  E  .
 
+ボムはかせ「なに、せいこうしたか!
+そうじゃろう、そうじゃろう。
+わしのはつめいは、かんぺきじゃからな。
+
+Hah, it worked!
+That's right. Of
+course my invention
+is perfect.
+
+Hah, it worked! Of
+course, my inventions
+are perfect!
+
+ce de d1 8a 76 7e a2 85 86 a4 7e 72 7a 73 7c 80 76 21 02
+H  A  H  ,  20 I  T  20 W  O  R  K  E  D  !  20 O  F  02
+
+7f 73 7c de 6c 9b 73 a4 7f 73 7c de 6c 9b 73 a1 02
+C  O  U  R  S  E  ,  20 M  Y  20 I  N  V  E  N  T
+
+9c 7c 89 8a 82 92 72 8a a4 76 9d 8d df 77 7c de 6c 76 97 85 a1 0f
+I  O  N  S  20 A  R  E  20 P  E  R  F  E  C  T  !
+
 -- tankirie king
 
 タンキリエおう「ちょうさは、すすんだか?
@@ -1294,6 +1331,15 @@ E  E  K  !  20 T  H  A  T  '  S  20 B  L  A  Z  E  '  S  20 E  M  B  E  R  !  02
 
 75 88 76 de 72 a4 81 76 82 de 76 85 72 83 de 78 80 de 7b 72 21 0f
 O  N  '  T  20 C  O  M  E  20 A  N  Y  20 C  L  O  S  E  R  !
+
+-- mark in unknown context?
+
+マーク「おい。かのじょをいじめるなよ。
+Oi. Don't bully her.
+Oi. Leave her alone.
+
+cf b0 b8 a2 75 72 a1 76 89 7c de 6e 66 72 7c de 92 99 85 96 a1 0f
+O  I  .  20 L  E  A  V  E  20 H  E  R  20 A  L  O  N  E  .
 
 -- king after blaze encounter
 
@@ -1429,6 +1475,19 @@ E  N  J  O  Y  20 T  H  E  20 S  H  I  P  20 '  T  I  L  20 W  E
 
 b6 de d9 c3 d7 7a de 73 8a a4 9c 7c 89 7c de 8f 9d 7c de 6c 76 97 85 a1 0f
 '  M  20 P  R  O  U  D  02 O  F  20 M  Y  20 G  A  L  T  E  R  A  .
+
+(unknown where this appears)
+
+エイヴ「ブリザラードまで、すこしかかるぞ。
+It'll take a while to reach Blizzard.
+It'll take a while to get there.
+The trip to Blizzard is far.
+
+We'll be sailing
+a while.
+
+b4 b2 b3 de a2 cc de d8 bb de d7 b0 c4 de 8f 83 de a4 7d 7a 7c 76 76 99 7f de a1 0f
+W  E  '  L  L  20 B  E  20 S  A  I  L  I  N  G  02 A  20 W  H  I  L  E  .
 
 -- galtera crew after setting sail
 
@@ -1693,6 +1752,33 @@ T  H  I  S  20 F  O  R  T  R  E  S  S  20 W  I  L  L
 75 8f 74 80 81 93 a4 7c 88 21 04
 E  N  02 Y  O  U  !
 
+-- takoros in unknown circumstances
+
+タコロス「わがタコロスのようさいにようこそ。
+[...]
+りくでどんなにつよくても、
+うみのなかでわたしにかなうものはない。
+おまえたちも、2どとりくにかえしはしないぞ!
+
+Welcome to Takoros' domain.
+
+However strong you may
+be on land, nobody can
+match me at sea!
+(You won't see land again!)
+
+c0 ba db bd a2 9c 76 de c0 ba db bd 89 96 73 7b 72 86 96 73 7a 7f a1 02 05
+W  E  L  C  O  M  E  20 T  O  20 M  Y  20 D  O  M  A  I  N  .  02 05 H  O
+
+98 78 83 de 84 de 9d 85 86 82 96 78 83 93 a4 02
+W  E  V  E  R  20 S  T  R  O  N  G  20 Y  O  U
+
+73 90 89 85 76 83 de 9c 80 7c 86 76 85 73 93 89 8a 85 72 a1 02
+20 M  A  Y  02 B  E  20 O  N  20 L  A  N  D  ,  20 N  O  B  O
+
+75 8f 74 80 81 93 a4 32 84 de 84 98 78 86 76 74 7c 8a 7c 85 72 7f de 21 0f
+D  Y  20 C  A  N  02 M  A  T  C  H  20 M  E  20 A  T  20 S  E  A  !
+
 -- after defeating takoros
 
 タコロス「このタコロスが...たおされるとは...
@@ -1798,6 +1884,25 @@ E  T  20 Y  O  U  ,  20 H  E  R  O  E  S  .  02 05 B  U  T  20 A  L  A  S  ,  20
 7c 76 7c a4 9c 99 72 76 de a4 75 8f 74 80 81 66 80 72 8e 7d 99 21 0f
 O  U  '  R  E  20 U  N  D  E  R  02 A  R  R  E  S  T  !
 
+ブリザラード「むすめのてがみだと...!?
+[...]
+ふん、ほんものというしょうこがあるのか?
+しんようできんな。
+
+Hmm, a letter from
+my daughter...?
+Can you prove it's real?
+(I can't trust you.)
+
+cc de d8 bb de d7 b0 c4 de a2 91 7d 92 89 83 76 de 90 80 de 84 eb 21 3f 02 05
+H  M  M  ,  20 A  20 L  E  T  T  E  R  20 F  R  O  M  20 M  Y  20 D  A  U  G
+
+8c 9d a4 8e 9d 93 89 84 72 73 7c 6e 73 7a 76 de 71 99 89 76 3f 02
+H  T  E  R  eb ?  02 05 C  A  N  20 Y  O  U  20 P  R  O  V  E  20
+
+7c 9d 96 73 83 de 77 9d 85 a1 0f
+I  T  '  S  20 R  E  A  L  ?
+
 -- ice queen cutscene
 
 「えいへい! このものたちをとらえよ!
@@ -1858,6 +1963,37 @@ a2 b7 bb cf d7 c6 a4 b2 b2 d3 c9 a6 d0 be c3 d4 db b3 a1 04
 Y  O  U  '  L  L  20 B  E  20 A  M  A  Z  E  D  .  .  .
 
 -- mecharos mk2
+
+(this part maybe unused, there is cutscene instead)
+
+*「ピピー! ヒサシブリダナ。
+でーたヲせーぶシタワタシハ、メカロスMK2トシテ
+フッカツシタノダ!
+ピピー。モウ1ケン、キョウガクスベキ、ジジツヲ、
+カクニンサセヨウ。クルガイイ。
+
+Beep! It is I, Mecharos
+MK2, recovered from a
+backup!
+
+Now, let us confirm
+another shocking
+fact. Beep!
+
+2a a2 cb df cb df b0 21 20 cb bb bc cc de d8 c0 de c5 a1 02
+B  E  E  P  !  20 I  T  20 I  S  20 I  ,  20 M  E  C  H  A
+
+83 de b0 80 a6 7e b0 8c de bc c0 dc c0 bc ca a4 d2 b6 db bd 4d 4b 32 c4 bc c3 02
+R  O  S  20 M  K  2  ,  20 R  E  C  O  V  E  R  E  D  20 F  R  O  M  20 A  20 B
+
+cc af b6 c2 bc c0 c9 c0 de 21 02
+A  C  K  U  P  !  02 05 N  O  W
+
+cb df cb df b0 a1 d3 b3 31 b9 dd a4 b7 ae b3 b6 de b8 bd cd de b7 a4 bc de bc de c2 a6 a4 02
+,  20 L  E  T  20 U  S  20 C  O  N  F  I  R  M  20 A  N  O  T  H  E  R  20 S  H  O  C  K  I
+
+b6 b8 c6 dd bb be d6 b3 a1 b8 d9 b6 de b2 b2 a1 0f
+N  G  20 F  A  C  T  .  20 B  E  E  P  !
 
 メカロスMK2「ピピー!
 ツイニ、ぷろぐらむハ、シュウリョウスル!

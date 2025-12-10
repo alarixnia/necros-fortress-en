@@ -1,0 +1,14 @@
+Text that wasn't seen in-game
+=============================
+
+*「みなさん、おきをつけて。
+Everyone, be careful.
+
+2a a2 90 85 7b 9d a4 75 77 66 82 79 83 a1 0f
+B  E  20 C  A  R  E  F  U  L  .
+
+*「フンガー。
+Grr.
+
+2a a2 cc dd b6 de b0 a1 0f
+G  R  R  .  .  . 
