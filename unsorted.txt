@@ -3404,6 +3404,26 @@ You need more gold.
 75 77 6c 78 7b 9d a4 75 76 88 76 de 80 98 85 72 b1 d9 96 a1 02
 Y  O  U  20 N  E  E  D  20 M  O  R  E  20 G  O  L  D  .
 
+やくそうは、それいじょうもてませんよ。
+You can't hold more medicine.
+
+94 78 7f 73 8a a4 7f 9a 72 7c de 6e 73 93 83 8f 7e 9d 96 a1 02
+Y  O  U  20 C  A  N  '  T  20 H  O  L  D  20 M  O  R  E  .
+
+やくそうは、それいじょうもてないニャ。
+You can't hold more medicine, meow.
+Meow! That's enough.
+
+94 78 7f 73 8a a4 7f 9a 72 7c de 6e 73 93 83 85 72 c6 ac a1 02
+M  E  O  W  !  20 T  H  A  T  '  S  20 E  N  O  U  G  H  .
+
+やくそうは、それいじょうもてないアルよ。
+You can't hold more meds, says I.
+Can't do more, I says.
+
+94 78 7f 73 8a a4 7f 9a 72 7c de 6e 73 93 83 85 72 b1 d9 96 a1
+C  A  N  '  T  20 D  O  20 M  O  R  E  20 I  20 S  A  Y  S  .
+
 ありがとうございました。
 Thank you very much.
 Thank you.
