@@ -301,6 +301,33 @@ O  H  ,  20 Y  O  U  '  V  E  20 F  O  U  N  D  20 P  R  I  N  C  E  20 A  L  E
 7b 6f 7f 78 a4 75 73 7c de 89 93 84 8d 72 78 84 7c 8f 7c 6e 73 a1 0f
 P  H  ?  02 L  E  T  '  S  20 G  O  20 A  T  20 O  N  C  E  .
 
+-- harrison if nobody in party has met him?
+
+ハリソン「わたしは、ハリソンと
+もうしますが...
+
+My name is Harrison...
+
+ca d8 bf dd a2 9c 80 7c 8a a4 ca d8 bf dd 84 02 93 73 7c 8f 7d 76 de eb 05 02
+M  Y  20 N  A  M  E  20 I  S  20 H  A  R  R  I  S  O  N  .  .  .  df 20
+
+-- harrison after finding aleph
+
+ハリソン「おかげさまで、
+アレフおうじをみつけられました。
+
+Thanks to you, we
+found Prince Aleph.
+
+We found the prince.
+Thank you.
+
+ca d8 bf dd a2 75 76 79 de 7b 8f 83 de a4 02
+W  E  20 F  O  U  N  D  20 T  H  E  20 P  R
+
+b1 da cc 75 73 7c de 66 90 82 79 97 9a 8f 7c 80 a1 0f
+I  N  C  E  .  20 T  H  A  N  K  20 Y  O  U  .
+
 -- cat in cave
 
 *「あら、ELFさん。おひさしぶりね!
@@ -335,6 +362,15 @@ H  M  P  H  ,  20 H  U  M  A  N  S  20 A  L  W  A  Y  S  20 B  R  I  N  G  20
 
 85 72 9c 21 20 cc b0 21 21 0f
 T  R  O  U  B  L  E  !  !
+
+-- cat in cave without elf in party
+
+*「ニャーゴ! フー!!
+
+Meow! Nya!!
+
+2a a2 c6 ac b0 ba de 21 20 cc b0 21 21 0f
+M  E  O  W  !  20 N  Y  A  A  A  !  !
 
 -- angela in cave
 
@@ -371,6 +407,31 @@ A  R  L  I  E  R  .  02 05 P  L  E  A  S  E  20 T  A  K  E  20 I  T  ,
 
 84 de 73 7f de a4 93 6f 83 72 6f 83 78 80 de 7b 72 a1 0f
 E  T  H  I  N  G  20 Y  O  U  ' D   20 N  E  E  D  .
+
+-- angela in cave (if no party members have met her before?)
+
+アンジェラ「こんにちは。わたしはアンジェラ。
+となりは、しゅじんのダンです。ゆうしゃさまのことは
+よくぞんじておりますわ。
+
+(Good day. I'm Angela,
+next to me is my
+husband Dan.)
+
+Hi I'm Angela, and this
+is my husband Dan.
+
+We know the heroes
+well.
+
+b1 dd bc de aa d7 a2 7a 9d 86 81 8a a1 9c 80 7c 8a b1 dd bc de aa d7 a1 02
+H  I  20 I  '  M  20 A  N  G  E  L  A  ,  20 A  N  D  20 T  H  I  S  20 I
+
+84 85 98 8a a4 7c 6d 7c de 9d 89 c0 de dd 83 de 7d a1 95 73 7c 6c 7b 8f 89 7a 84 8a 02
+S  20 M  Y  20 H  U  S  B  A  N  D  20 D  A  N  .  02 05 W  E  20 K  N  O  W  20 T  H
+
+96 78 7f de 9d 7c de 83 75 98 8f 7d 9c a1 05 02
+E  20 H  E  R  O  E  S  20 W  E  L  L  .
 
 -- mark in west cave
 
@@ -474,6 +535,12 @@ Oh, Mercenary...
 
 cf d8 dd a2 71 6f a4 16 7b 9d a1 05 02
 O  H  ,  20 M  E  R  C  Y  .  .  02 05
+
+マリン「どうもありがとう。
+Thank you very much.
+
+cf d8 dd a2 84 de 73 93 71 98 76 de 84 73 a1 05 02
+T  H  A  N  K  20 Y  O  U  . 
 
 -- marin after rescuing her dad
 
@@ -1233,3 +1300,40 @@ A  V  E  N  '  T  20 C  H  A  N  G  E  D  .  02 05 [  E
 
 16 a2 74 3f 02 71 6f 21 20 71 9d 80 8a eb 0f
 H  ?  20 O  H  ,  20 I  T  '  S  .  .  ]
+
+-- more knight roy
+
+ロイ「KNIGHTさま、たいへんです。
+KNIGHT「おお、ロイ。ぶじだったのか。
+ロイ「それどころではありません。
+そとのようすがへんなのです。
+
+My Lord Knight, it's
+an emergency.
+
+(Ah, you're safe then?)
+
+Never mind that.
+(There's a very strange
+situation outside.)
+Take a look outside.
+
+db b2 a2 14 7b 8f a4 80 72 8d 9d 83 de 7d a1 02 05
+S  I  R  20 K  N  I  G  H  T  ,  20 I  T  '  S  20
+
+14 a2 75 75 a4 db b2 a1 8c de 7c de 80 de 6f 80 89 76 a1 02 05
+A  N  02 E  M  E  R  G  E  N  C  Y  .  02 05 N  E  V  E  R  20
+
+db b2 a2 7f 9a 84 de 7a 9b 83 de 8a 71 98 8f 7e 9d a1 02
+M  I  N  D  20 T  H  A  T  .  02 T  A  K  E  20 A  20 L
+
+7f 84 89 96 73 7d 76 de 8d 9d 85 89 83 de 7d a1 0f
+O  O  K  20 O  U  T  S  I  D  E  .
+
+-- unknown marin, maybe unused?
+
+マリン「しくしく...
+[Marin sniffles...]
+
+cf d8 dd a2 7c 78 7c 78 eb 05 02
+S  N  I  F  F  L  E  .  .
