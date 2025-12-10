@@ -2386,3 +2386,9 @@ G  I  V  E  20 I  T  20 U  P  .  20 F  I
 
 76 82 83 89 85 76 8f 84 80 80 76 73 89 8a a4 7c 89 8b de 85 72 eb 0f
 G  H  T  I  N  G  20 F  R  I  E  N  D  S  20 H  U  R  T  S  .
+
+「ショーグンだって?
+Shogun, eh?
+
+a2 bc ae b0 b8 de dd 80 de 6f 83 3f 04
+S  H  O  G  U  N  ,  20 E  H  ?

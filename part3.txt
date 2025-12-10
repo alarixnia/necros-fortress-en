@@ -1806,6 +1806,21 @@ T  H  I  S  20 I  S  N  '  T  20 T  A  N  K  I
 7a 7a 8a a4 90 7d de 73 90 89 7c 9b 80 de 96 a1 02
 R  I  E 02 C  A  S  T  L  E  ,  20 M  A  N  !
 
+タンキリエのしろでござろう?
+ここは、みずうみのしろでござるぞ!
+
+This is the lake! Shall
+we got to the castle?
+
+This is the lake! Let's
+meet the King.
+
+c0 dd b7 d8 b4 89 7c 9b 83 de 7a de 7b de 9b 73 3f 02
+T  H  I  S  20 I  S  20 T  H  E  20 L  A  K  E  !  02
+
+7a 7a 8a a4 90 7d de 73 90 89 7c 9b 83 de 7a de 7b de 99 7f de 21 04
+L  E  T  '  S  20 M  E  E  T  20 T  H  E  20 K  I  N  G  .
+
 「まったく、BERSERKERどのは
 のんきでござるなあ。
 
@@ -2223,6 +2238,15 @@ O  H  ,  20 H  O  W  20 R  E  A  S  S  U  R  I  N  G  !  02
 83 de 8a a4 14 a4 10 a4 7f 7c 83 17 84 de 89 86 02 75 88 76 de 72 7c 96 73 21 0f
 G  R  E  A  T  ,  20 W  E  20 H  A  V  E  20 O  U  R  20 H  E  R  O  E  S  !
 
+-- cutscene when elf is not in party (i think)
+
+「わからぬか? ...やむをえん。
+Don't you understand...?
+Don't you get it...?
+
+a2 9c 76 97 87 76 3f 20 eb 94 91 66 74 9d a1 04
+D  O  N  '  T  20 G  E  T  20 I  T  .  .  ?
+
 -- unknown, maybe unused
 
 *「われわれは、もりとかたりあえる
@@ -2247,3 +2271,17 @@ Get lost you weirdo!
 
 2a a2 73 9c a1 8d 9d 85 d4 c2 92 21 20 84 de 6f 76 72 79 21 0f
 G  E  T  20 L  O  S  T  20 Y  O  U  20 W  E  I  R  D  O  !
+
+-- unknown cutscene
+
+「ずいぶんさがしたでござるぞ。
+なにゆえ、こんなところに?
+
+It's been a while.
+Why are you here?
+
+a2 7d de 72 8c de 9d 7b 76 de 7c 80 83 de 7a de 7b de 99 7f de a1 02
+I  T  '  S  20 B  E  E  N  20 A  20 W  H  I  L  E  .  02 W  H  Y  20
+
+85 86 95 74 a4 7a 9d 85 84 7a 9b 86 3f 04
+A  R  E  20 Y  O  U  20 H  E  R  E  ?
