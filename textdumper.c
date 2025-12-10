@@ -3,6 +3,10 @@
 
 char *charset[256];
 
+/*
+ * Public domain.
+ */
+
 void *
 read_file_full(const char *path, size_t *len)
 {

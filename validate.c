@@ -8,6 +8,8 @@
 /*
  * Verify that all existing dialogue ending markers are in
  * the same position.
+ *
+ * Public domain.
  */
 
 int
