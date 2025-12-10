@@ -2,6 +2,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <string.h>
+#include <ctype.h>
 #include <errno.h>
 
 /*
@@ -15,6 +16,7 @@ main(int argc, char *argv[])
 	FILE *origf, *newf;
 	uint8_t b1[256], b2[256];
 	size_t ret, offset;
+	size_t last_japanese;
 
 	if (argc < 3) {
 		fprintf(stderr,
@@ -36,6 +38,8 @@ main(int argc, char *argv[])
 	}
 
 	offset = 0;
+	last_japanese = 0;
+
 	for (;;) {
 		size_t i;
 
@@ -49,7 +53,22 @@ main(int argc, char *argv[])
 			break;
 		}
 
-		for (i = 0; i < 256; ++i) {
+		for (i = 0; i < ret; ++i) {
+			if ((offset + i) >= 0x211e0 &&
+			    (offset + i) <= 0x2bf50) {
+				/* within dialogue range */
+				if (isascii((unsigned char)b2[i]) ||
+				    b2[i] == 0xdf || b2[i] == 0x0f ||
+				    b2[i] == 0xeb) {
+					continue;
+				}
+				if ((offset + i) < (last_japanese + 64)) {
+					continue;
+				}
+				printf("possible japanese text at %lx (%02x)\n",
+				    offset + i, b2[i]);
+				last_japanese = offset + i;
+			}
 			if (b1[i] == 0x0f || b1[i] == 0x04) {
 				if (b2[i] != b1[i]) {
 					printf("missing marker at: 0x%lx",
