@@ -94,5 +94,8 @@ main(int argc, char *argv[])
 		offset += ret;
 	}
 
+	fclose(origf);
+	fclose(newf);
+
 	return EXIT_SUCCESS;
 }
