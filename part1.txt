@@ -1108,39 +1108,45 @@ t  h  e  20 i  n  n  20 g  o  ?
 おっと、いけね...
 きかなかったことにしてくれ。
 
-Lately, grease is (all) sold out.
-The king buys it all...
-... (Wait,) You heard nothing.
+(Night) Oil is sold out lately.
+The count buys it all...
+... Wait, you heard nothing.
 
 *  「 さ い き ん 、 て つ や あ ぶde ら がde よ く う れ る 。
 2a a2 7b 72 77 9d a4 83 82 94 71 8c de 97 76 de 96 78 73 9a 99 a1 02
-l  a  t  e  l  y  ,  20 g  r  e  a  s  e  20 i  s  20 s  o  l  d  20
+O  I  L  20 I  S  20 S  O  L  D  20 O  U  T  20 L  A  T  E  L  Y  .
 
 は く し ゃ く さ ま か de 、 せ de ん ふ de か っ て く れ る か ら な ...
 8a 78 7c 6c 78 7b 8f 76 de a4 7e de 9d 8c de 76 6f 83 78 9a 99 76 97 85 eb 02 05
-o  u  t  .  20 t  h  e  20 k  i  n  g  20 b  u  y  s  20 i  t  20 a  l  l  .  02
+02 T  H  E  20 C  O  U  N  T  20 B  U  Y  S  20 I  T  20 A  L  L  eb 02 05 eb W
 
 お っ と 、 い け ね ...
 75 6f 84 a4 72 79 88 eb 02
-05 .  .  .  y  o  u  20 h
+A  I  T  ,  20 Y  O  U  20
 
 き か な か っ た こ と に し て く れ 。
 77 76 85 76 6f 80 7a 84 86 7c 83 78 9a a1 0f
-e  a  r  d  20 n  o  t  h  i  n  g  .  0f
+H  E  A  R  D  20 N  O  T  H  I  N  G  .
 
 --- inn on road - second old man
 
 *「さいきんこのへんてde、きdeんをかいしめている
 やつかdeいるらしいせde。
 
-Someone's been stealing
+Someone's been buying up
+all the silver around here
+lately.
+
+A shifty guy bought all
 our silver.
 
 * 「  さ い き ん こ の へ ん て de 、 き de ん を か い し め て い る
 2a a2 7b 72 77 9d 7a 89 8d 9d 83 de a4 77 de 9d 66 76 72 7c 92 83 72 99 02
+A  20 S  H  I  F  T  Y  20 G  U  Y  20  B  O  U  G  H  T  20 A  L  L 20 O
 
 や つ か de い る ら し い せ de 。
 94 82 76 de 72 99 97 7c 72 7e de a1 0f
+U  R  20 S  I  L  V  E  R  .
 
 --- inn on road - third old man
 
@@ -1352,30 +1358,30 @@ Rioau (on behalf of Sir Knight).
 It seems to be quite a pickle.
 We should inform Sir Knight at once.
 
-Greetings.
+Greetings, I'm Sir Roy.
 We must bring news of the
 trouble in Rioau to Sir
 Knight at once.
 
 *  「 わ た し は 、 き し ロ イ 。
 2a a2 9c 80 7c 8a a4 77 7c db b2 a1 02
-g  r  e  e  t  i  n  g  s  .  02 w  e 
+G  R  E  E  T  I  N  G  S  ,  20 I  '
 
 14 さ ま の め い れ い て de 、 リ オ ア ウ の
 14 7b 8f 89 92 72 9a 72 83 de a4 d8 b5 b1 b3 89 02
-20 m  u  s  t  20 b  r  i  n  g  20 n  e  w  s  20 
+M  20 S  I  R  20 R  O  Y  .  02 W  E  20 M  U  S
 
 む ら の し de け ん を し ら へ de に き た の て de す 。
 91 97 89 7c de 79 9d 66 7c 97 8d de 86 77 80 89 83 de 7d a1 02 05
-o  f  20 t  h  e  20 t  r  o  u  b  l  e  20 i  n  20 r  i  a  o
+T  20 B  R  I  N  G  20 N  E  W  S  20 O  F  20 T  H  E  02 T  R
 
 と de う や ら 、 た い へ ん な し de た い の よ う て de す ね 。
 84 de 73 94 97 a4 80 72 8d 9d 85 7c de 80 72 89 96 73 83 de 7d 88 a1 02
-u  20 t  o  20 h  i  s  20 m  a  j  e  s  t  y  20 s  i  r  20 k  n  i
+O  U  B  L  E  20 I  N  20 R  I  O  A  U  20 T  O  20 S  I  R  02 K  N
 
 は や く 14 さ ま に ほ う こ く し な け れ は de ...
 8a 94 78 14 7b 8f 86 8e 73 7a 78 7c 85 79 9a 8a de eb 0f 
-g  h  t  20 a  t  20 o  n  c  e .
+I  G  H  T  20 A  T  20 O  N  C  E  .
 
 --- sabretooth tiger
 
