@@ -293,6 +293,8 @@ O  N  E  02 W  I  L  L  20 R  E  V  I  V  E  20 H  E  R  E  .
 そなたに、ヘブライルのごかごがあらんことを。
 ?に、ヘフdeライルのこdeかこdeかde、あらんことを。
 
+に、ヘブライルのごかごが、あらんことを。
+May Hebrail bless you.
 Blessings upon thee.
 
 に 、 ヘ フ de ラ イ ル の こ de か こ de か de 、 あ ら ん こ と を 。
@@ -765,6 +767,122 @@ Let's save it to memory?
 
 7a 89 73 80 66 4d 45 4d 4f 52 59 20 df d2 d3 d8 86 77 9b 78 7c 8f 7d 76 3f
 L  E  T  '  S  20 S  A  V  E  20 I  T  20 T  O  20 M  E  M  O  R  Y  ?
+
+きろくしました。
+Recorded.
+Written.
+
+き ろ く し ま し た 。
+77 9b 78 7c 8f 7c 80 a1 0f
+W  R  I  T  T  E  N  .
+
+メモリーが、たりないため、バックアップメモリにきろくできません。
+Not enough memory to write (to) backup.
+
+d2 d3 d8 b0 76 de a4 80 98 85 72 80 92 a4 ca de af b8 b1 af cc df d2 d3 d8 86 77 9b 78 83 de 77 8f 7e 9d a1 02 05
+N  O  T  20 E  N  O  U  G  H  20 M  E  M  O  R  Y  20 T  O  20 W  R  I  T  E  20 B  A  C  K  U  P  .
+
+さいかいのうたをメモしてください。
+Please note down the song.
+
+7b 72 76 72 89 73 80 66 d2 d3 7c 83 78 80 de 7b 72 a1 
+N  O  T  E  20 T  H  E  20 S  O  N  G  20 D  O  W  N
+
+バックアップメモリがしょきかされていません。
+(Backup) memory not initialized.
+
+ca de af b8 b1 af cc df d2 d3 d8 76 de 7c 6e 77 76 7b 9a 83 72 8f 7e 9d a1 02 
+M  E  M  O  R  Y  20 N  O  T  20 I  N  I  T  I  A  L  I  Z  E  D  .
+
+7c 6e 77 76 7c 8f 7d 76 3f
+I  N  I  T  20 N  O  W  ?
+
+はしようできません。
+Not possible.
+No can do. (lol)
+
+8a 7c 96 73 83 de 77 8f 7e 9d a1
+N  O  20 C  A  N  20 D  O  .
+
+バックアップメモリ
+Backup memory
+
+をしょきかしました。
+Initialized.
+Init done.
+
+66 7c 6e 77 76 7c 8f 7c 80 a1 0f
+I  N  I  T  20 D  O  N  E  .
+
+バックアップメモリをせつぞくしてください
+Please disconnect (backup) memory.
+
+ca de af b8 b1 af cc df d2 d3 d8 66 7e 82 7f de 78 7c 83 78 80 de 7b 72 0f
+P  L  E  A  S  E  20 D  I  S  C  O  N  N  E  C  T  20 M  E  M  O  R  Y  
+
+さいかいのうたをよむ
+さいかいのうたのしょうきょ
+Load a save
+Delete saves
+
+7b 72 76 72 89 73 80 66 96 91 02
+L  O  A  D  20 A  20 S  A  V  E
+
+20 7b 72 76 72 89 73 80 89 7c 6e 73 77 6e 00 3f 90 f0 48 92 
+02 20 D  E  L  E  T  E  20 S  A  V  E  df
+
+さいかいのうたが、かきこまれていません。
+(The) song was not written.
+
+7b 72 76 72 89 73 80 76 de a4 76 77 7a 8f 9a 83 72 8f 7e 9d a1 0f
+S  O  N  G  20 W  A  S  20 N  O  T  20 W  R  I  T  T  E  N  .
+
+さいかいのうたが、こわれています。
+The song was lost.
+
+7b 72 76 72 89 73 80 76 de a4 7a 9c 9a 83 72 8f 7d a1
+T  H  E  20 S  O  N  G  20 W  A  S  20 L  O  S  T  .
+
+にはかきこまれていません。
+Not written.
+
+86 8a 76 77 7a 8f 9a 83 72 8f 7e 9d a1 0f
+N  O  T  20 W  R  I  T  T  E  N  .
+
+のさいかいのうたをしょうきょします。
+よろしいですか?
+The song will be erased.
+OK?
+
+89 7b 72 76 72 89 73 80 66 7c 6e 73 77 6e 7c 8f 7d a1 02
+T  H  E  20 S  O  N  G  20 W  I  L  L  20 B  E  20 E  R
+
+96 9b 7c 72 83 de 7d 76 3f
+A  S  E  D  .  20 O  K  ?
+
+しょうきょしました。
+Erased it.
+
+7c 6e 73 77 6e 7c 8f 7c 80 a1 0f
+E  R  A  S  E  D  20 I  T  .
+
+さいかいのうたをうたいなさい
+Sing the song
+
+2a 7b 72 76 72 89 73 80 66 73 80 72 85 7b 72 2a
+2a S  I  N  G  20 T  H  E  20 S  O  N  G  2a
+
+つかわれていない
+Not used
+
+82 76 9c 9a 83 72 85 72
+N  O  T  20 U  S  E  D
+
+こわれています
+Broken
+
+7a 9c 9a 83 72 8f 7d
+B  R  O  K  E  N
 
 --- battle menu
 
@@ -3572,6 +3690,15 @@ Fee's
 75 84 8f 98 8a a4 00 41 90 64 41 93 47 83 de 7d a1 02
 F  E  E  '  S  20 ?? ?? ?? ?? ?? ?? G  20 N  O  W
 
+おお、ゆうしゃさま。おだいはいりません。
+どうぞおとまりください。
+
+Oh, hero, there's no
+need for payment.
+Please, stay.
+
+TODO
+
 --- berserker battle options
 
  ふつう
@@ -3668,3 +3795,17 @@ MP was restored.
 
 93 89 4d 50 76 de a4 76 72 8c 78 7c 80 a1
 93 20 M  P  20 R  E  S  T  O  R  E  D  .
+
+-- random stuff TODO
+
+どなたをおのぞみかな?
+Who do you want?
+
+おきゃくさま、
+Dear guest,
+
+MPがたりません。
+Not enough MP.
+
+だれもしんでいません。
+No one died.
