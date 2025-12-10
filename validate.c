@@ -59,7 +59,8 @@ main(int argc, char *argv[])
 				/* within dialogue range */
 				if (isascii((unsigned char)b2[i]) ||
 				    b2[i] == 0xdf || b2[i] == 0x0f ||
-				    b2[i] == 0xeb) {
+				    b2[i] == 0xeb || b2[i] == 0xa2 ||
+				    b2[i] == 0xec) {
 					continue;
 				}
 				if ((offset + i) < (last_japanese + 64)) {
