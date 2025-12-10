@@ -2557,7 +2557,8 @@ G  O  20 Q  U  I  C  K  L  Y  ,  20 W  H  I  L  E  20 W  E  20 H  O  L  D
 
 A vampire attacked Sir
 Knight?
-Surely not Kushaka reborn...
+Surely not the count
+reborn...
 
 *  「 14 さ ま は 、 き ゅ う け つ き に お そ わ れ て い た の
 2a a2 14 7b 8f 8a a4 77 6d 73 79 82 77 86 75 7f 9c 9a 83 72 80 89 02
@@ -2565,11 +2566,11 @@ A  20 V  A  M  P  I  R  E  20 A  T  T  A  C  K  E  D  20 S  I  R  20
 
 て de す ね 。 ま さ か 、 あ の ハ de ン ハ df イ ヤ は く し ゃ く がde
 83 de 7d 88 a1 8f 7b 76 a4 71 89 ca de dd ca df b2 d4 8a 78 7c 6c 78 76 de 02
-K  N  I  G  H  T  ?  20 S  U  R  E  L  Y  20 N  O  T  20 K  U  S  H  A  K  A
+K  N  I  G  H  T  ?  20 S  U  R  E  L  Y  20 N  O  T  20 T  H  E  20 C  O  U
 
 よ み か de え っ た の て de は...
 96 90 76 de 74 6f 80 89 83 de 8a eb 0f
-02 R  E  B  O  R  N  .  .  .
+N  T  02 R  E  B  O  R  N  .  .  .
 
 *「あ、KNIGHTさまをすくってくださって、
 ありがとうございます!
