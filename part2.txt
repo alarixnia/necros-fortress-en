@@ -1532,6 +1532,19 @@ S  20 C  L  A  W  .  02 A  S  20 P  R  O  M  I  S  E  D  ,  20
 8e 89 75 89 79 9d 66 9c 80 7f 73 a1 05 02
 Y  O  U  R  20 S  W  O  R  D  .
 
+ん? しかし、つかえるものがおらんな...
+あらためてくるがいい。
+
+Hmm, but none of you
+can use it...
+(Come back later.)
+
+9d 3f 20 7c 76 7c a4 82 76 74 99 93 89 76 de 75 97 9d 85 eb 02
+H  M  M  ,  20 B  U  T  20 N  O  N  E  20 O  F  20 Y  O  U  20
+
+71 97 80 92 83 78 99 76 de 72 72 a1 0f
+C  A  N  20 U  S  E  20 I  T  eb df
+
 *「おお、さきほどはごくろう。
 
 Thank you for your work earlier.
@@ -2280,3 +2293,96 @@ Y  O  U  R  20 M  E  D  I  C  I  N  E  20 H  A  S  20
 
 b9 b6 de 93 85 75 98 8f 7c 80 a1 05 02
 H  E  A  L  E  D  20 M  E  .
+
+-- unknown
+
+*「ゆうしゃのオノですか?
+
+[...]
+すみません。じつは、まのもりのかいぶつに
+とられてしまいまして...
+
+The Hero's Axe?
+
+I'm afraid it was taken by
+monsters into the forest...
+
+I'm sorry, the monsters
+took it...
+
+2a a2 95 73 7c 6c 89 b5 c9 83 de 7d 76 3f 02 05
+T  H  E  20 H  E  R  O  '  S  20 A  X  E  ?  02
+
+7d 90 8f 7e 9d a1 7c de 82 8a a4 8f 89 93 98 89 76 72 8c de 82 86 02
+05 I  '  M  20 S  O  R  R  Y  ,  20 T  H  E  20 M  O  N  S  T  E  R
+
+84 97 9a 83 7c 8f 72 8f 7c 83 eb 02 05
+S  02 T  O  O  K  20 I  T  .  .
+
+-- trying to use the hero's axe without dwarf
+
+だめだ。やはり、ゆうしゃのオノは、
+DWARFがつかわなくてはいみがない。
+
+It's no good.
+Only Dwarf can use
+the axe.
+
+80 de 92 80 de a1 94 8a 98 a4 95 73 7c 6c 89 b5 c9 8a a4 02
+I  T  '  S  20 N  O  20 G  O  O  D  .  02 O  N  L  Y  20 13
+
+13 76 de 82 76 9c 85 78 83 8a 72 90 76 de 85 72 a1 0f
+20 C  A  N  20 U  S  E  02 T  H  E  20 A  X  E  .
+
+-- more samurai dialogue
+
+SAMURAI「おぬしら、なぜ、いまごろになって...
+
+[...]
+ショーグンは、このおくだ。
+しかし、ここをとおるなら、まず、
+せっしゃをきってからいけ!
+
+You lot, oh, why now...
+
+The Shogun is past these
+walls. But first you must
+cut through me!
+
+The Shogun is past
+here, but first cut
+through me!
+
+12 a2 75 87 7c 97 a4 85 7e de a4 72 8f 7a de 9b 86 85 6f 83 eb 02 05
+Y  O  U  20 L  O  T  ,  20 O  H  ,  20 W  H  Y  e  b  02 05 T  H  E
+
+bc ae b0 b8 de dd 8a a4 7a 89 75 78 80 de a1 02
+20 S  H  O  G  U  N  20 I  S  20 P  A  S  T  20
+
+7c 76 7c a4 7a 7a 66 84 75 99 85 97 a4 8f 7d de a4 02
+H  E  R  E  .  20 B  U  T  20 F  I  R  S  T  20 C  U
+
+7e 6f 7c 6c 66 77 6f 83 76 97 72 79 21 0f
+T  20 T  H  R  O  U  G  H  20 M  E  !
+
+SAMURAI「あんしんせい、みねうちだ。
+
+The vital point is struck.
+It's a fatal hit.
+
+12 a2 71 9d 7c 9d 7e 72 a4 90 88 73 81 80 de a1 0f
+I  T  '  S  20 A  20 F  A  T  A  L  20 H  I  T  .
+
+SAMURAI「もう、あきらめてくれ。
+かつてのなかまとたたかうのは、しのびない...
+Give it up.
+Fighting old friends is unbearable.
+
+Give it up. Fighting
+friends hurts.
+
+12 a2 93 73 a4 71 77 97 92 83 78 9a a1 02
+G  I  V  E  20 I  T  20 U  P  .  20 F  I
+
+76 82 83 89 85 76 8f 84 80 80 76 73 89 8a a4 7c 89 8b de 85 72 eb 0f
+G  H  T  I  N  G  20 F  R  I  E  N  D  S  20 H  U  R  T  S  .
