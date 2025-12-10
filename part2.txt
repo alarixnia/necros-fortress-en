@@ -2392,3 +2392,82 @@ Shogun, eh?
 
 a2 bc ae b0 b8 de dd 80 de 6f 83 3f 04
 S  H  O  G  U  N  ,  20 E  H  ?
+
+-- misc. onrios dialogue
+
+*「ニロスとは、まっかないつわり。
+わしのしょうたいは、ネクロスさまのでし、
+オニロスだ! がっはっはっ
+[...]
+ショーグンにしては、よわすぎると
+おもったろう?
+わしが、どくをのませておいたのだ!
+[...]
+これでわしがひとりで、かいぶつたちを
+しはいできる。すべては、わしのけいかくどおり!
+[...]
+8ゆうしゃが、わしのためにはたらいてくれるとは、
+なんともゆかいなことよのう。がっはっはっ!
+[...]
+さて、おまえたちのやくめもおわった。
+めいろのなかでさまよいはてて、しぬがいい。
+がっはっはっ!
+
+Niros is only a fiction.
+In truth I am Oniros,
+disciple of Necros!
+
+You thought Shogun was
+weak, yes? I poisoned
+him!
+
+Now I may rule the
+monsters alone!
+(All according to plan!)
+
+How amusing that the 8
+heroes do my dirty work!
+
+Now you are no longer
+useful, wander this maze
+('til death takes you)
+forever!
+
+2a a2 c6 db bd 84 8a a4 8f 6f 76 85 72 82 9c 98 a1 02
+N  I  R  O  S  20 I  S  20 O  N  L  Y  20 A  20 F  I
+
+9c 7c 89 7c 6e 73 80 72 8a a4 c8 b8 db bd 7b 8f 89 83 de 7c a4 02
+C  T  I  O  N  .  20 I  N  20 T  R  U  T  H  20 I  20 A  M  20 O
+
+b5 c6 db bd 80 de 21 20 76 de 6f 8a 6f 8a 6f 02 05
+N  I  R  O  S  ,  20 D  I  S  C  I  P  L  E  20 O
+
+bc ae b0 b8 de dd 86 7c 83 8a a4 96 9c 7d 77 de 99 84 02
+F  20 N  E  C  R  O  S  !  02 05 Y  O  U  20 T  H  O  U
+
+75 93 6f 80 9b 73 3f 02
+G  H  T  20 S  H  O  G
+
+9c 7c 76 de a4 84 de 78 66 89 8f 7e 83 75 72 80 89 80 de 21 02 05
+N  20 W  A  S  20 W  E  A  K  ,  20 Y  E  S  ?  20 I  20 P  O  I
+
+7a 9a 83 de 9c 7c 76 de 8b 84 98 83 de a4 76 72 8c de 82 80 81 66 02
+S  O  N  E  D  20 H  I  M  !  02 05 N  O  W  20 I  20 M  A  Y  20 R
+
+7c 8a 72 83 de 77 99 a1 7d 8d de 83 8a a4 9c 7c 89 79 72 76 78 84 de 75 98 21 02 05
+U  L  E  20 T  H  E  20 M  O  N  S  T  E  R  S  20 A  L  O  N  E  !  02 05 H  O  W
+
+38 95 73 7c 6c 76 de a4 9c 7c 89 80 92 86 8a 80 97 72 83 78 9a 99 84 8a a4 02
+20 A  M  U  S  I  N  G  20 T  H  A  T  20 T  H  E  20 8  20 H  E  R  O  E  S
+
+85 9d 84 93 95 76 72 85 7a 84 96 89 73 a1 76 de 6f 8a 6f 8a 6f 21 02 05
+20 D  O  20 M  Y  20 D  I  R  T  Y  20 W  O  R  K  .  02 05 N  O  W  20
+
+7b 83 a4 75 8f 74 80 81 89 94 78 92 93 75 9c 6f 80 a1 02
+Y  O  U  20 A  R  E  20 N  O  20 L  O  N  G  E  R  20 U
+
+92 72 9b 89 85 76 83 de 7b 8f 96 72 8a 83 83 a4 7c 87 76 de 72 72 a1 02
+S  E  F  U  L  ,  20 W  A  N  D  E  R  20 T  H  I  S  20 M  A  Z  E  20
+
+76 de 6f 8a 6f 8a 6f 21 0f
+F  O  R  E  V  E  R  !
