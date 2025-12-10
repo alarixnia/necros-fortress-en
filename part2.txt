@@ -1357,6 +1357,12 @@ A  R  E  20 Y  O  U  20 R  E  C  O
 76 a4 76 9d 76 de 74 85 75 7b 9d 76 3f 02 05
 N  S  I  D  E  R  I  N  G  ?
 
+「わーっ、ちょ、ちょっとまて!
+Whoa, calm down!
+
+a2 9c b0 6f a4 81 6e a4 81 6e 6f 84 8f 83 21 02 0f
+W  H  O  A  ,  20 C  A  L  M  20 D  O  W  N  !
+
 にせKNIGHT「ひゃああ!
 お、おたすけえ!
 

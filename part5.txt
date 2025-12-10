@@ -1048,6 +1048,28 @@ S  O  20 M  E  S  S  Y  .  02 05 W  E  L  L  ,  20 P  L  E  A  S  E  20
 83 de 93 a4 77 66 82 79 83 88 a1 0f
 T  A  K  E  20 C  A  R  E  .
 
+-- marin if mercenary is dead
+
+マリン「あのお...MERCENARYさんは?
+[...]
+
+えっ! しんじゃったの!?
+そんな...ねえ、はやくいきかえらせてあげて!
+
+... Where's Mercenary?
+
+What?! (He's dead?!)
+Revive him immediately!
+
+cf d8 dd a2 71 89 75 eb 16 7b 9d 8a 3f 05 02
+...20 W  H  E  R  E  '  S  20 M  E  R  C  E
+
+74 6f 21 20 7c 9d 7c de 6c 6f 80 89 21 3f 02
+N  A  R  Y  ?  02 05 W  H  A  T  ?  !  20 R
+
+7f 9d 85 eb 88 74 a4 8a 94 78 72 77 76 74 97 7e 83 71 79 de 83 21 0f
+E  V  I  V  E  20 H  I  M  20 I  M  M  E  D  I  A  T  E  L  Y  !
+
 -- once marin leaves
 
 MERCENARY「なんだい、へんなの...

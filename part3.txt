@@ -498,6 +498,13 @@ Meow! I'm just a cat!
 2a a2 dc bc 8a a4 80 80 de 89 c8 ba 81 de 6c 21 20 86 6c 71 21 0f
 M  E  O  W  !  20 I  '  M  20 J  U  S  T  20 A  20 C  A  T  !
 
+This bit might be unused
+
+ニャーニャー
+
+c6 ac b0 c6 ac b0 0f
+M  E  O  W  .
+
 --- priest next to church altar
 
 *「わたしは、ここのしんぷです。
@@ -1743,6 +1750,21 @@ Ah ! Berserker!
 71 6f 21 20 15 21 0f
 A  H  !  20 15 !  0f
 
+--- finding berserker
+
+*「なんだ、BERSERKERじゃないか。
+まだこんなところをウロウロしていたのか。
+
+Huh, Berserker.
+(No idea why you're here.)
+Why's he still here?
+
+2a a2 85 9d 80 de a4 15 7c de 6c 85 72 76 a1 02
+H  U  H  ,  20 B  E  R  S  E  R  K  E  R  .  02
+
+8f 80 de 7a 9d 85 84 7a 9b 66 b3 db b3 db 7c 83 72 80 89 76 a1 0f
+W  H  Y  '  S  20 H  E  20 S  T  I  L  L  20 H  E  R  E  ?
+
 --- berserker cutscene
 
 「ずいぶんさがしたよ!
@@ -2200,3 +2222,28 @@ O  H  ,  20 H  O  W  20 R  E  A  S  S  U  R  I  N  G  !  02
 
 83 de 8a a4 14 a4 10 a4 7f 7c 83 17 84 de 89 86 02 75 88 76 de 72 7c 96 73 21 0f
 G  R  E  A  T  ,  20 W  E  20 H  A  V  E  20 O  U  R  20 H  E  R  O  E  S  !
+
+-- unknown, maybe unused
+
+*「われわれは、もりとかたりあえる
+かずすくないニンゲンなのです。
+
+We're the few humans who
+can talk to the forest.
+
+We know how to talk
+to the forest.
+
+2a a2 9c 9a 9c 9a 8a a4 93 98 84 76 80 98 71 74 99 02 76 7d de 7d 78
+W  E  20 K  N  O  W  20 H  O  W  20 T  O  20 T  A  L  K  20 T  O  20
+
+85 72 c6 dd b9 de dd 85 89 83 de 7d a1 02 05
+T  H  E  20 F  O  R  E  S  T  .
+
+-- unknown villager
+
+*「うわ。へんなヤツめ! どっかいけ!
+Get lost you weirdo!
+
+2a a2 73 9c a1 8d 9d 85 d4 c2 92 21 20 84 de 6f 76 72 79 21 0f
+G  E  T  20 L  O  S  T  20 Y  O  U  20 W  E  I  R  D  O  !

@@ -2712,6 +2712,34 @@ A  M  A  Z  O  N  20 Q  U  I  C  K  L  Y  20 J  O  I  N  S  !
 
 --- amazon when mercenary is dead
 
+AMAZON「あら、MAGEさま。おひさしぶりね。
+じつは、うちのいちぞくのコがゆくえふめいで、
+さがしにきてるんだけど...
+[...]
+そういえば、MERCENARYがこのへんに
+きているんですって?
+
+Ah, Mage, it's been a
+while. I'm looking for
+my lost sister.
+
+... But where is
+Mercenary?
+
+10 a2 71 97 a4 17 7b 8f a1 75 8b 7b 7c 8c de 98 88 a1 02
+A  H  ,  20 17 ,  20 I  T  '  S  20 B  E  E  N  20 A  20
+
+7c de 82 8a a4 73 81 89 72 81 7f de 78 89 ba 76 de 95 78 74 8c 92 72 83 de a4 02
+W  H  I  L  E  .  20 I  '  M  20 L  O  O  K  I  N  G  20 F  O  R  20 M  Y  20 L
+
+7b 76 de 7c 86 77 83 99 9d 80 de 79 84 de eb 02 05
+O  S  T  20 S  I  S  T  E  R  .  02 05 .  .  .  20
+
+7f 73 72 74 8a de a4 16 76 de 7a 89 8d 9d 86 02 77 83 72 99 9d 83 de 7d 6f 83 3f 0f
+B  U  T  20 W  H  E  R  E  20 I  S  20 M  E  R  C  E  N  A  R  Y  ?
+
+--- amazon when mercenary is dead (alternate?)
+
 *「ああ、8ゆうしゃのかたですね?
 わたしは、AMAZONぞくのむすめです。
 

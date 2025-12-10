@@ -1,6 +1,12 @@
 Text that wasn't seen in-game
 =============================
 
+*「うーん、うーん。
+Hmm, hmm.
+
+2a a2 73 b0 9d a4 73 b0 9d a1 0f
+H  M  M  ,  20 H  M  M  .
+
 *「みなさん、おきをつけて。
 Everyone, be careful.
 
@@ -12,3 +18,37 @@ Grr.
 
 2a a2 cc dd b6 de b0 a1 0f
 G  R  R  .  .  . 
+
+*「これは、ゆうしゃどの。
+よくまいられました。
+
+Well met, hero.
+This is for you.
+
+This is for you, heroes.
+
+2a a2 7a 9a 8a a4 95 73 7c 6c 84 de 89 a1 02
+T  H  I  S  20 I  S  20 F  O  R  20 Y  O  U
+
+96 78 8f 72 97 9a 8f 7c 80 a1 0f
+,  20 H  E  R  O  E  S  .
+
+ブリザラード「そうだ、そなたらのだれかが、
+かわってこのしまをおさめてはどうじゃ?
+
+Well, how about one
+of you takes over the
+island?
+
+cc de d8 bb de d7 b0 c4 de a2 7f 73 80 de a4 7f 85 80 97 89 80 de 9a 76 76 de a4 02
+W  E  L  L  ,  20 H  O  W  20 A  B  O  U  T  20 O  N  E  20 O  F  20 Y  O  U  20 T
+
+76 9c 6f 83 7a 89 7c 8f 66 75 7b 92 83 8a 84 de 73 7c de 6c 3f 0f
+A  K  E  S  20 O  V  E  R  20 T  H  E  20 I  S  L  A  N  D  ?
+
+タンキリエおう「みなは、ぶじでおるか?
+Are you all well?
+
+c0 dd b7 d8 b4 75 73 a2 90 85 8a a4 8c de 7c de 83 de 75 99 76 3f 02 0f
+A  R  E  20 Y  O  U  20 A  L  L  20 W  E  L  L  ?
+

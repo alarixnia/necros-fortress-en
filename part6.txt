@@ -2376,3 +2376,25 @@ It's blocked.
 
 90 81 8a a4 8c 7b 76 de 9a 83 72 99 a1 0f
 I  T  '  S  20 B  L  O  C  K  E  D  .
+
+-- elf joining galtera
+
+ELF「けっきょく、じょおうも
+さみしかったんだよね...
+[...]
+
+ぼくもガルテラごうにのるよ。
+
+It seems the queen
+was lonely too...
+
+I'll join the Galtera.
+
+11 a2 79 6f 77 6e 78 a4 7c de 6e 75 73 93 02
+I  T  20 S  E  E  M  S  20 T  H  E  20 Q  U
+
+7b 90 7c 76 6f 80 9d 80 de 96 88 eb 05 02
+E  E  N  '  S  20 L  O  N  E  L  Y  20 T
+
+8e de 78 93 b6 de d9 c3 d7 7a de 73 86 89 99 96 a1 02 0f
+O  O  .  20 I  '  L  L  20 J  O  I  N  20 Y  O  U  .
