@@ -884,6 +884,11 @@ Broken
 7a 9c 9a 83 72 8f 7d
 B  R  O  K  E  N
 
+パスワードがちがっています。
+Password incorrect.
+
+TODO
+
 --- battle menu
 
 at 3CDD0
@@ -3801,6 +3806,9 @@ MP was restored.
 どなたをおのぞみかな?
 Who do you want?
 
+に、ヘブライルのごかごが、あらんことを。
+Hmph! I'm short on gold.
+
 おきゃくさま、
 Dear guest,
 
@@ -3809,3 +3817,30 @@ Not enough MP.
 
 だれもしんでいません。
 No one died.
+
+まだおぼえていない。
+I don't know it.
+
+しんでいる!
+Dead!
+
+しかしなにもあらわれない。
+Nothing happens.
+
+みちが、ふさがれている!
+Path is blocked!
+
+いりぐちが、ふさがれている!
+Entrance is blocked!
+
+は、すでにもっています。
+Already have it.
+
+しかし、そうびできるものがいない。
+But no-one can equip it.
+
+をあきらめた。
+Gave up.
+
+かぎがかかっている!
+It's locked!
