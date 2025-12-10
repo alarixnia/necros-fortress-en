@@ -52,3 +52,8 @@ Are you all well?
 c0 dd b7 d8 b4 75 73 a2 90 85 8a a4 8c de 7c de 83 de 75 99 76 3f 02 0f
 A  R  E  20 Y  O  U  20 A  L  L  20 W  E  L  L  ?
 
+BERSERKER「フンガー!
+Ah feck!
+
+15 a2 cc dd b6 de b0 21 02 05
+A  H  20 F  E  C  K  !

@@ -923,10 +923,17 @@ G  R  R  20 G  R  R  20 G  R  R  20 G  R  R  !  20
 
 *は、うんをてんにいのった!
 Leave it to fate!
-Fate take me!
+Fate guide me!
 
 2a 8a a4 73 9d 66 83 9d 86 72 89 6f 80 21 02 04
-F  A  T  E  20 T  A  K  E  20 M  E  !
+F  A  T  E  20 G  U  I  D  E  20 M  E  !
+
+*「くらえっ!
+Take that!
+Roar!
+
+2a a2 78 97 74 6f 21 02 04
+R  O  A  R  !
 
 *「いくぞ!
 Let's go!
@@ -947,6 +954,12 @@ X played Y!
 
 2a 8a a4 23 66 76 85 83 de 80 21 02 04
 2a 20 P  L  A  Y  E  D  20 23 !
+
+*、ドッペルゲンカーをよびだした!
+Summoned a clone!
+
+2a a4 c4 de af cd df d9 b9 de dd b6 b0 66 96 8b de 80 de 7c 80 21 02 04
+2a 20 S  U  M  M  O  N  E  D  20 A  20 C  L  O  N  E  !
 
 *は、カマをふりかざした!
 Swung a scythe!
@@ -1142,6 +1155,12 @@ B  A  D  20 L  U  C  K  eb df 02
 *  「 う っ !
 2a a2 73 6f 21 02
 U  G  H  !  20
+
+*は、かぜのじんをくんだ!
+Used wind form!
+
+2a 8a a4 76 7e de 89 7c de 9d 66 78 9d 80 de 21 02 04
+2a 20 U  S  E  D  20 W  I  N  D  20 F  O  R  M
 
 ダイビングアタック!
 Dive attack!
@@ -1497,6 +1516,12 @@ Sudden attack.
 72 77 85 98 75 7f 72 76 76 6f 83 77 80 a1 04
 S  U  D  D  E  N  20 A  T  T  A  C  K  .
 
+*は、?をつかった。
+X used Y.
+
+2a 8a a4 23 66 82 76 6f 80 a1 02
+2a 20 U  S  E  D  20 23 .
+
 *は、どくにおかされた!
 was poisoned!
 poisoned!
@@ -1505,11 +1530,37 @@ poisoned!
 2a 8a a4 84 de 78 86 75 76 7b 9a 80 21 02
 2a 20 P  O  I  S  O  N  E  D  !  20 20
 
+*は、マヒした!
+X was paralyzed!
+
+2a 8a a4 cf cb 7c 80 21 02
+S  T  U  N  N  E  D  !
+
+*は、ねむった!
+X fell asleep!
+Sleeping
+
+2a 8a a4 88 91 6f 80 21 02
+S  L  E  E  P  I  N  G
+
 *は、うごけなくなった!
 immobilized!
 
 2a 8a a4 73 7a de 79 85 78 85 6f 80 21 02
 2a 20 I  M  M  O  B  I  L  I  Z  E  D
+
+ふうじられている。
+Frozen.
+
+8c 73 7c de 97 9a 83 72 99 a1 02
+F  R  O  Z  E  N  .
+
+しかし、なにもおこらなかった
+Yet nothing happened.
+And yet zilch.
+
+7c 76 7c a4 85 86 93 75 7a 97 85 76 6f 80 02 04
+A  N  D  20 Y  E  T  20 Z  I  L  C  H  .
 
 *は、?をとなえた!
 X cast Y spell!
@@ -1594,6 +1645,13 @@ S  H  I  E  L  D  20 B  R  O  K  E  N  !  20 02
 2a 89 4d 50 76 de 25 ce df b2 dd c4 76 72 8c 78 7c 80 a1 02 04
 2a 20 G  O  T  20 25 M  P  20 R  E  S  T  O  R  E  D  .
 
+*は、しびれがとれた。
+X's numbness subsided.
+X recovered.
+
+2a 8a a4 7c 8b de 9a 76 de 84 9a 80 a1 02 04
+2a 20 R  E  C  O  V  E  R  E  D  .
+
 *は、どくがぬけた。
 's poison worn off.
 Not poisoned
@@ -1644,6 +1702,18 @@ Barrier up!
 
 ca de d8 b1 76 de 8a 97 9a 80 21 02 04
 I  E  R  20 U  P  !
+
+*は、ねんじた!
+X prayed!
+
+2a 8a a4 88 9d 7c de 80 21 02
+2a 20 P  R  A  Y  E  D  !
+
+*は、いきをふきかえした!
+X revived!
+
+2a 8a a4 72 77 66 8c 77 76 74 7c 80 21
+2a 20 R  E  V  I  V  E  D  !
 
 --- Monster names
 
