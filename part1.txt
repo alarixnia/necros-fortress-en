@@ -3265,7 +3265,7 @@ true, Samurai must be
 taken down.
 
 The other heroes must
-gather at the White Tower.
+gather at this castle.
 
 ロ イ 「 14 の ま ち よ り 、 つ か い て de ま い り ま し た 。
 db b2 a2 14 89 8f 81 96 98 a4 82 76 72 83 de 8f 72 98 8f 7c 80 a1 02 05
@@ -3304,7 +3304,7 @@ A  I  20 M  U  S  T  20 B  E  02 T  A  K  E  N  20 D  O  W  N  .  02 05
 T  H  E  20 O  T  H  E  R  20 H  E  R  O  E  S  20 M  U  S  T  02 G  A  T  H
 
 96 73 a4 82 73 80 82 7d 99 76 de 96 72 a1 02 05 db b2 a2 8a 8a ec 6f 0f
-E  R  20 A  T  20 T  H  E  20 W  H  I  T  E  20 T  O  W  E  R  .  20
+E  R  20 I  N  20 T  H  I  S  20 C  A  S  T  L  E  .
 
 --- back at knight's town
 
