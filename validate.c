@@ -80,7 +80,8 @@ main(int argc, char *argv[])
 				printf("stray marker at: 0x%lx\n",
 				    (offset + i));
 			} else if ((b1[i] > 0x05 && b1[i] < 0x10) ||
-			    b1[i] > 0xec || b1[i] == 0x01 ||
+			    b1[i] > 0xec || b1[i] == 0x00 ||
+			    b1[i] == 0x01 ||
 			    (b1[i] > 0x05 && b1[i] < 0x0f)) {
 				if (b2[i] != b1[i]) {
 					printf("progam byte lost at: 0x%lx",

@@ -275,33 +275,67 @@ Ugh. My throat hurts.
 ヘフdeライルしんてdeんへ、ようこそ。
 えらはdeれしものなら、ここてdeふっかつてdeきる。
 
-Welcome (to the shrine).
+Welcome (to Hebrail's Shrine).
 If you're the chosen one, you can be
 revived here.
 
-The chosen one
-will revive here.
+The chosen ones
+can be revived here.
+
+Welcome, child. Heroes
+can be revived here.
 
 ヘ ブ de ラ イ ル し ん で de ん へ 、 よ う こ そ 。
 cd cc de d7 b2 d9 7c 9d 83 de 9d 8d a4 96 73 7a 7f a1 02 05
-W  E  L  C  O  M  E  .  20 T  H  E  20 C  H  O  S  E  N  20
+W  E  L  C  O  M  E  ,  20 C  H  I  L  D  .  20 H  E  R  O
 
 え ら は de れ し も の な ら 、 こ こ て de ふ っ か つ て de き る 。
 74 97 8a de 9a 7c 93 89 85 97 a4 7a 7a 83 de 8c 6f 76 82 83 de 77 99 a1 02 05
-O  N  E  02 W  I  L  L  20 R  E  V  I  V  E  20 H  E  R  E  .
+E  S  20 C  A  N  20 B  E  20 R  E  V  I  V  E  D  20 H  E  R  E  .
 
 そなたに、ヘブライルのごかごがあらんことを。
 ?に、ヘフdeライルのこdeかこdeかde、あらんことを。
 
 に、ヘブライルのごかごが、あらんことを。
-May Hebrail bless you.
-Blessings upon thee.
+May Hebrail bless thee.
 
 に 、 ヘ フ de ラ イ ル の こ de か こ de か de 、 あ ら ん こ と を 。
 86 a4 cd cc de d7 b2 d9 89 7a de 76 7a de 76 de a4 71 97 9d 7a 84 66 a1 0f
-B  L  E  S  S  I  N  G  S  20 U  P  O  N  20 T  H  E  E  .
+M  A  Y  20 H  E  B  R  A  I  L  20 B  L  E  S  S  20 T  H  E  E  .
 
-i'm not sure how the "you" (そなた) is encoded lol
+"you" (そなた) is encoded separately depends on single or plural
+
+ヘブライルしんでんに、ようこそ。
+[...]
+えらばれしものなら、ここでふっかつできる。
+まずは、そのふくをぬぐがよい。
+
+Welcome to Lord Hebrail's
+shrine.
+Heroes can be revived here.
+
+(First, remove your cloak.)
+
+cd cc de d7 b2 d9 7c 9d 83 de 9d 86 a4 96 73 7a 7f
+W  E  L  C  O  M  E  20 T  O  20 L  O  R  D  20 H
+
+a1 05 02 74 97 8a de 9a 7c 93 89 85 97 a4 7a 7a 83 de 8c 6f 76 82 83 de 77
+E  B  R  A  I  L  '  S  20 S  H  R  I  N  E  .  20 H  E  R  O  E  S  20 C
+
+99 a1 02 8f 7d de 8a a4 7f 89 8c 78 66 87 78 de 76 de 96 72 a1 0f
+A  N  20 B  E  20 R  E  V  I  V  E  D  20 H  E  R  E  .
+
+どなたをおのぞみかな?
+Who do you want?
+Pick a hero.
+
+84 de 85 80 66 75 89 7f de 90 76 85 3f 02 05
+P  I  C  K  20 A  20 H  E  R  O  .
+
+asking for money
+
+7f 9a 83 de 8a a4 00 41 90 64 41 93 47 89 79 9d 77 9d 66 a1 02
+T  I  T  H  E  20 00 41 90 64 41 93 G  ,  20 O  K  ? 
 
 -- This sentence appears 3 times:
 
@@ -1134,7 +1168,7 @@ Threw star!
 2a 20 T  H  R  E  W  20 S  T  A  R  !
 
 *は、かえんをはいた!
-Spatt fire!
+Spat fire!
 
 *  は 、 か え ん を は い た !
 2a 8a a4 76 74 9d 66 8a 72 80 21 02 04
@@ -1150,7 +1184,7 @@ Used fire attack!
 *は、うけとめた!
 Took the blow!
 Took it
-
+ 
 2a 8a a4 73 79 84 92 80 21 02 04
 2a 20 T  O  O  K  20 I  T
 
@@ -3723,6 +3757,19 @@ Rage
 20 8c 82 73 02 20 ca de b6 81 de 76 97 02 20 84 82 79 de 77 02 00
 20 A  T  K  20 20 02 20 B  R  U  T  E  02 20 R  A  G  E  20 02 00
 
+--- knight block options
+
+ じぶん
+ ぜんたい
+
+Self
+All
+
+20 7c de 8c de 9d 02
+20 S  E  L  F  df 02
+20 7e de 9d 80 72
+20 A  L  L  df 20
+
 -- generic service person
 
 なにをごしょもうアルか?
@@ -3802,9 +3849,6 @@ MP was restored.
 93 20 M  P  20 R  E  S  T  O  R  E  D  .
 
 -- random stuff TODO
-
-どなたをおのぞみかな?
-Who do you want?
 
 に、ヘブライルのごかごが、あらんことを。
 Hmph! I'm short on gold.
