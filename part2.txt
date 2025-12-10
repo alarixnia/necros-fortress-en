@@ -480,15 +480,16 @@ H  E  Y  !  20 L  E  T
 なにいってる。
 リオのむらにきまっているだろ!
 
-What are you saying (talking about)? This is Rio!
+Where are you?
+You're in Rio, duh!
 
 *  「 こ こ は と de こ か っ て ?
 2a a2 7a 7a 8a 84 de 7a 76 6f 83 3f 02
-W  H  A  T  20 A  R  E  20 Y  O  U  20
+W  H  E  R  E  20 A  R  E  20 Y  O  U
 
 な に い っ て る 。 リ オ の む ら に き ま っ て い る た de ろ !
 85 86 72 6f 83 99 a1 d8 b5 89 91 97 86 77 8f 6f 83 72 99 80 de 9b 21 0f
-S  A  Y  I  N  G  ? 20 T  H  I  S  20 I  S  20 R  I  O  !
+?  20 Y  O  U  '  R  E  20 I  N  20 R  I  O  ,  20 D  U  H  !
 
 *「うわっ、KNIGHTじゃないか!
 かってにはいってこないでくれ。
@@ -507,13 +508,13 @@ E  20 I  N  20 T  O  20 M  Y  20 H  O  M  E  !
 *「おや、KNIGHTさん。
 きょうは、なにかかってくれるんですか?
 
-Ah, Sir Knight. Drinks on you?
+Ah, Sir Knight. Need anything?
 
 2a a2 75 94 a4 14 7b 9d a1 02
 A  H  ,  20 S  I  R  20 K  N
 
 77 6e 73 8a a4 85 86 76 76 6f 83 78 9a 99 9d 83 de 7d 76 3f 05 02
-I  G  H  T  .  20 D  R  I  N  K  S  20 O  N  20 Y  O  U  ?
+I  G  H  T  .  20 N  E  E  D  20 A  N  Y  T  H  I  N  G  ?
 
 *「シドのむらにいきたい?
 あそこは、ショーグンにおそわれて、むちゃくちゃに
