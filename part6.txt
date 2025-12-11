@@ -2487,3 +2487,85 @@ Berserker: Hmph!
 
 15 a2 cc dd b6 de b0 21 0f
 15 a2 H  M  P  H  !
+
+-- ice queen, maybe in the cave?
+
+ブリザラード「な、なんじゃ、おまえらは!
+わらわが、じさつじゃと? ばかをもうせ。
+ただ、ここをかたずけにな...
+[...]
+ここは、シルフィーのあそびばじゃ。
+おやのおんをわすれて、ニンゲンなどと
+いっしょになりおって!
+[...]
+...わらわは、ゆきのたみたちをつれて、
+きたのふるさとにかえることにした。
+[...]
+ここは、もともと、かりのすまい。
+われらがされば、またみどりのしまにもどるじゃろう。
+...シルフィーによろしくつたえてくれ。
+
+Suicide? What are you
+talking about?! I'm
+merely cleaning up here...
+[...]
+(This was once Sylphy's
+playground. Forgetting her
+roots parents' kidness),
+she's joined the humans!)
+This was once Sylphy's
+place, but she forgot
+her roots!
+[...]
+... I've decided to take
+the snow folk back (to our
+northern homeland.)
+to the north.
+[...]
+(This was always temporary.)
+When we're gone, it'll
+be green once again.
+(... Send regards to
+Sylphy.)
+
+cc de d8 bb de d7 b0 c4 de a2 85 a4 85 9d 7c de 6c a4 75 8f 74 97 8a 21 02
+S  U  I  C  I  D  E  ?  20 W  H  A  T  20 A  R  E  20 Y  O  U  20 T  A  L
+
+9c 97 9c 76 de a4 7c de 7b 82 7c de 6c 84 3f 20 8a de 76 66 93 73 7e a1 02
+L  K  I  N  G  20 A  B  O  U  T  ?  !  20 I  '  M  20 M  E  R  E  L  Y  20
+
+80 80 de a4 7a 7a 66 76 80 7d de 79 86 85 eb 02 05
+C  L  E  A  N  I  N  G  20 U  P  20 H  E  R  E  eb
+
+7a 7a 8a a4 bc d9 cc a8 b0 89 71 7f 8b de 8a de 7c de 6c a1 02
+02 05 T  H  I  S  20 W  A  S  20 O  N  C  E  20 S  Y  L  P  H
+
+75 94 89 75 9d 66 9c 7d 9a 83 a4 c6 dd b9 de dd 85 84 de 84 02
+Y  '  S  20 P  L  A  C  E  ,  20 B  U  T  20 S  H  E  20 F  O
+
+72 6f 7c 6e 86 85 98 75 6f 83 21 02 05
+R  G  O  T  20 H  E  R  20 R  O  O  T
+
+eb 9c 97 9c 8a a4 95 77 89 80 90 80 81 66 82 9a 83 a4 02
+S  !  02 05 I  '  V  E  20 D  E  C  I  D  E  D  20 T  O
+
+77 80 89 8c 99 7b 84 86 76 74 99 7a 84 86 7c 80 a1 02 05
+20 B  R  I  N  G  20 T  H  E  20 S  N  O  W  20 F  O  L
+
+7a 7a 8a a4 93 84 93 84 a4 76 98 89 7d 8f 72 a1 02
+K  20 B  A  C  K  20 T  O  20 T  H  E  20 N  O  R
+
+9c 9a 97 76 de 7b 9a 8a de a4 8f 80 90 84 de 98 89 7c 8f 86 93 84 de 99 7c de 6c 9b 73 a1 02
+T  H  .  02 05 W  H  E  N  20 W  E  '  R  E  20 G  O  N  E  ,  20 I  T  '  L  L  20 B  E  20
+
+eb bc d9 cc a8 b0 86 96 9b 7c 78 82 80 74 83 78 9a a1 0f
+G  R  E  E  N  20 O  N  C  E  20 A  G  A  I  N  .
+
+-- no idea
+
+ELF「うみをみていると、かなしくなるね...
+Looking at the sea, I feel sad...
+I feel quite sad...
+
+11 a2 73 90 66 90 83 72 99 84 a4 76 85 7c 78 85 99 88 eb 
+11 a2 I  20 F  E  E  L  20 Q  U  I  T  E  20 S  A  D  eb
