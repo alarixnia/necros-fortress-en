@@ -12,8 +12,8 @@
  */
 
 #define ROM_SIZE	(8 << 16)
-#define DIALOGUE_START	(0x211e0)
-#define DIALOGUE_END	(0x2bf50)
+#define DIALOGUE_START	(0x211e3)
+#define DIALOGUE_END	(0x2bf75)
 
 static const char *names[] = {
 	"I'M",
@@ -81,6 +81,9 @@ static const char *names[] = {
 	"CAPTAIN AIV",
 	"CAPT. AIV",
 	"CAPT AIV",
+	"NIGHT VISIT",
+	"CLOSED WAY",
+	"THE FINALE!",
 };
 
 int
@@ -152,7 +155,7 @@ main(int argc, char *argv[])
 		uint8_t *tmp = b1 + DIALOGUE_START;
 		uint8_t *loc;
 
-		while ((loc = strcasestr(tmp, names[i])) != NULL) {
+		while ((loc = strstr(tmp, names[i])) != NULL) {
 			size_t off = loc - b1;
 			size_t max = off + strlen(names[i]);
 

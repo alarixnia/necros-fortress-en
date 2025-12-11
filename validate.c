@@ -12,6 +12,9 @@
  * Public domain.
  */
 
+#define DIALOGUE_START	(0x211e3)
+#define DIALOGUE_END	(0x2bf75)
+
 int
 main(int argc, char *argv[])
 {
@@ -56,8 +59,8 @@ main(int argc, char *argv[])
 		}
 
 		for (i = 0; i < ret; ++i) {
-			if ((offset + i) >= 0x211e0 &&
-			    (offset + i) <= 0x2bf50) {
+			if ((offset + i) >= DIALOGUE_START &&
+			    (offset + i) <= DIALOGUE_END) {
 				/* within dialogue range */
 				if (isascii((unsigned char)b2[i]) ||
 				    b2[i] == 0xdf || b2[i] == 0x0f ||
