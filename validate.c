@@ -15,7 +15,7 @@
 #define DIALOGUE_START	(0x211e3)
 #define DIALOGUE_END	(0x2bf75)
 #define COMBAT_START	(0x76b7)
-#define COMBAT_END	(0x7ab1)
+#define COMBAT_END	(0x7d47)
 
 int
 main(int argc, char *argv[])
