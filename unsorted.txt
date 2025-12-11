@@ -940,6 +940,20 @@ Wrong password.
 ca df bd dc b0 c4 de 76 de 81 76 de 6f 83 72 8f 7d a1
 W  R  O  df N  G  df 20 P  A  S  S  df W  O  R  D  df
 
+password screen "backspace"
+
+ももどる
+
+93 93 84 de 99
+93 B  A  C  K
+
+password screen "enter"
+
+もおわり
+
+93 75 9c 98
+93 E  N  T
+
 --- battle menu
 
 at 3CDD0
