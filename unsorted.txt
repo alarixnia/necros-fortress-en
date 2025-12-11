@@ -1623,6 +1623,12 @@ Party fled.
 ca df b0 c3 a8 8a a4 86 79 de 80 de 7c 80 a1
 P  A  R  T  Y  20 df F  L  E  D  .  df df df
 
+もたち
+& co (used when defeating a party)
+
+93 80 81
+93 +  df
+
 もをやっつけた!
 Defeated!
 Beaten
