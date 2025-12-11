@@ -1706,9 +1706,7 @@ Y  A  Y  ,  20 S  I  R  20 '  S  20 H  E  A  L  T  H  Y  !
 *「ああ、はくしゃくがふっかつする!
 ちのうみじゃ! またもや、きょうふのまちじゃ!
 
-Really needs double-checking:
-
-The demon returns!
+The count returns!
 Again, our city suffers!
 
 *「ああ、はくしゃくかdeふっかつする!
@@ -1716,7 +1714,7 @@ Again, our city suffers!
 
 *  「 あ あ 、 は く し ゃ く か de ふ っ か つ す る !
 2a a2 71 71 a4 8a 78 7c 6c 78 76 de 8c 6f 76 82 7d 99 21 02
-T  H  E  20 D  E  M  O  N  20 R  E  T  U  R  N  S  !  02 A
+T  H  E  20 C  O  U  N  T  20 R  E  T  U  R  N  S  !  02 A
 
 ち の う み し de ゃ !  20 ま た も や 、 き ょ う ふ の ま ち し de ゃ !
 81 89 73 90 7c de 6c 21 20 8f 80 93 94 a4 77 6e 73 8c 89 8f 81 7c de 6c 21 02 0f
@@ -1753,13 +1751,15 @@ M  A  G  E  '  S  20 S  H  R  I  N  E  20 I  S  20 N  O  R  T  H
 
 *「みんな、ふあんてde、サケをのみにくるのさ...
 
-Needs double-checking:
+Everyone's anxious,
+so they come here to
+drink...
 
-(Bad times.) Everyone wants sake...
+Everyone wants sake...
 
 *  「 み ん な 、 ふ あ ん て de 、 サ ケ を の み に く る の さ...
 2a a2 90 9d 85 a4 8c 71 9d 83 de a4 bb b9 66 89 90 86 78 99 89 7b eb 0f
-E  V  E  R  Y  O  N  E  20 W  A  N  T  S  20 S  A  K  E  .  .  .
+E  V  E  R  Y  O  N  E  20 N  E  E  D  S  20 S  A  K  E  .  .  .
 
 *「KNIGHTさまのぜんかいいわいだ!
 きょうは、みんなタダでのんでくれ!!

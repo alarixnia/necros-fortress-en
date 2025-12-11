@@ -1695,8 +1695,6 @@ W  A  K  E  20 U  P  20 12 !
 
 --- shogun boss battle
 
-Translation needs checking:
-
 ショーグン「よくも、SAMURAIをやってくれたな!
 Well, you took on Samurai!
 
