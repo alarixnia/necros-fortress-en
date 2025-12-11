@@ -14,6 +14,8 @@
 
 #define DIALOGUE_START	(0x211e3)
 #define DIALOGUE_END	(0x2bf75)
+#define COMBAT_START	(0x76b7)
+#define COMBAT_END	(0x7ab1)
 
 int
 main(int argc, char *argv[])
@@ -59,8 +61,10 @@ main(int argc, char *argv[])
 		}
 
 		for (i = 0; i < ret; ++i) {
-			if ((offset + i) >= DIALOGUE_START &&
-			    (offset + i) <= DIALOGUE_END) {
+			if (((offset + i) >= DIALOGUE_START &&
+			    (offset + i) <= DIALOGUE_END) ||
+			    ((offset + i) >= COMBAT_START &&
+			    (offset + i) <= COMBAT_END)) {
 				/* within dialogue range */
 				if (isascii((unsigned char)b2[i]) ||
 				    b2[i] == 0xdf || b2[i] == 0x0f ||
