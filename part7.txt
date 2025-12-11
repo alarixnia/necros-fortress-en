@@ -1337,3 +1337,39 @@ O  O  K  20 O  U  T  S  I  D  E  .
 
 cf d8 dd a2 7c 78 7c 78 eb 05 02
 S  N  I  F  F  L  E  .  .
+
+-- unknown marin part2, maybe unused?
+
+*「おとうさんは、さっきたすけた。あんしんなさい。
+
+Dad was just rescued.
+(Don't worry.)
+
+2a a2 75 84 73 7b 9d 8a a4 7b 6f 77 80 7d 79 80 a1 71 9d 7c 9d 85 7b 72 a1 0f
+D  A  D  20 W  A  S  20 J  U  S  T  20 R  E  S  C  U  E  D  .
+
+MERCENARY「おやじさんなら、おれが
+たすけてやったぜ。
+[...]
+マリン「ありがとう...えーん!
+MERCENARY「こら、なくなよ。
+なくなったら!
+
+Mercenary: I've saved your old man.
+Marin: Thank you... Waah!
+Mercenary: Hey, don't cry!
+
+16 a2 75 94 7c de 7b 9d 85 97 a4 75 9a 76 de 02
+16 a2 I  '  V  E  20 S  A  V  E  D  20 Y  O  U
+
+80 7d 79 83 94 6f 80 7e de a1 02 05
+R  20 O  L  D  20 M  A  N  . 
+
+cf d8 dd a2 71 98 76 de 84 73 eb 74 b0 9d 21 02
+M  A  R  a2 T  H  A  N  K  S  eb 20 W  A  H  ! 
+
+16 a2 7a 97 a4 85 78 85 96 a1 02
+02 16 a2 H  E  Y  ,  20 D  O  N
+
+85 78 85 6f 80 97 21 0f
+'  T  20 C  R  Y  !  
