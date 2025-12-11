@@ -3733,11 +3733,11 @@ You've got one.
 8a a4 7d 83 de 86 75 93 81 89 96 73 83 de 7d 76 de a1 0f
 Y  O  U  '  V  E  20 G  O  T  20 O  N  E  .
 
---- dead message on stat screen
+--- dead indicator on party screen
 
 しぼう
 7c 8e de 73
-D  E  A  D
+20 K  O df
 
 --- staying at the inn
 
