@@ -880,9 +880,10 @@ L  O  A  D  20 A  20 S  A  V  E
 
 さいかいのうたが、かきこまれていません。
 (The) song was not written.
+The slot is empty.
 
 7b 72 76 72 89 73 80 76 de a4 76 77 7a 8f 9a 83 72 8f 7e 9d a1 0f
-S  O  N  G  20 W  A  S  20 N  O  T  20 W  R  I  T  T  E  N  .
+T  H  E  20 S  L  O  T  20 I  S  20 E  M  P  T  Y  .
 
 さいかいのうたが、こわれています。
 The song was lost.
@@ -892,9 +893,10 @@ T  H  E  20 S  O  N  G  20 W  A  S  20 L  O  S  T  .
 
 にはかきこまれていません。
 Not written.
+Is empty.
 
 86 8a 76 77 7a 8f 9a 83 72 8f 7e 9d a1 0f
-N  O  T  20 W  R  I  T  T  E  N  .
+20 I  S  20 E  M  P  T  Y  . 
 
 のさいかいのうたをしょうきょします。
 よろしいですか?
@@ -936,7 +938,7 @@ Password incorrect.
 Wrong password.
 
 ca df bd dc b0 c4 de 76 de 81 76 de 6f 83 72 8f 7d a1
-W  R  O  N  G  20 P  A  S  S  W  O  R  D  .
+W  R  O  df N  G  df 20 P  A  S  S  df W  O  R  D  df
 
 --- battle menu
 
