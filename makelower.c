@@ -60,7 +60,7 @@ static const char *names[] = {
 	"KING",
 	"PRINCE",
 	"ALEPH",
-	"GALTERA",
+	"CALDERA",
 	"BLIZZARD",
 	"SYLPHY",
 	"MARK",

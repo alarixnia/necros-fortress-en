@@ -867,7 +867,7 @@ You wish to go to
 Blizzard?
 
 Seek Capt. Aiv of the
-Galtera (Ship).  (He might) He'll lend you
+Caldera (Ship).  (He might) He'll lend you
 a ship.
 
 The sailors (should know where he is) know him,
@@ -990,13 +990,13 @@ H  .  02 B  I  T  20 O  F  20 A  N  20 O  D  D  B  A  L  L  .
 ガルテラごうにのれるよ。
 
 Cross (the bridge) and (you
-can) board the Galtera.
+can) board the Caldera.
 
-The Galtera is over the
+The Caldera is over the
 bridge.
 
 2a a2 7b 9d 8a de 7c 66 71 99 72 83 72 79 8a de a4 02
-T  H  E  20 G  A  L  T  E  R  A  20 I  S  20 O  V  E
+T  H  E  20 C  A  L  D  E  R  A  20 I  S  20 O  V  E
 
 b6 de d9 c3 d7 7a de 73 86 89 9a 99 96 a1 0f
 R  20 T  H  E  02 B  R  I  D  G  E  .
@@ -1004,12 +1004,12 @@ R  20 T  H  E  02 B  R  I  D  G  E  .
 *「ガルテラごうなら、
 あのでっかいふねがそうさ。
 
-The Galtera is one big
+The Caldera is one big
 ship.
-[Lit: "The Galtera is the big one"]
+[Lit: "The Caldera is the big one"]
 
 2a a2 b6 de d9 c3 d7 7a de 73 85 97 a4 02 71 89 83 de 6f 76 72 8c 88 76 de 7f 73 7b a1 0f
-T  H  E  20 G  A  L  T  E  R  A  20 I  S  20 O  N  E  20 B  I  G  20 S  H  I  P  .
+T  H  E  20 C  A  L  D  E  R  A  20 I  S  20 O  N  E  20 B  I  G  20 S  H  I  P  .
 
 *「エイヴせんちょうは、
 おとこのなかのおとこだよ。
@@ -1029,11 +1029,11 @@ R  U  E  20 M  A  N  '  S  20 M  A  N  .
 
 *「おもてのでっかいふねは、ガルテラごうさ。
 
-The large ship out front is the Galtera.
-The Galtera's out front.
+The large ship out front is the Caldera.
+The Caldera's out front.
 
 2a a2 75 93 83 89 83 de 6f 76 72 8c 88 8a a4 b6 de d9 c3 d7 7a de 73 7b a1 0f
-T  H  E  20 G  A  L  T  E  R  A  '  S  20 O  U  T  20 F  R  O  N  T  .
+T  H  E  20 C  A  L  D  E  R  A  '  S  20 O  U  T  20 F  R  O  N  T  .
 
 *「ここのところ、ずっとりくにいるから、
 からだがなまっちまったなあ。
@@ -1101,7 +1101,7 @@ T  H  E  20 S  E  A  '  S  20 F  R  O  Z  E  N  ,  20 W  E  02 C
 8c 88 76 de 73 7a de 76 7e 88 74 a1 0f
 C  A  N  '  T  20 M  O  V  E  .
 
--- trader inside galtera
+-- trader inside caldera 
 
 *「ワタシ、ガルテラごうのよろずやアル。
 ケガのちりょうからアイテムはんばいまで、
@@ -1110,7 +1110,7 @@ C  A  N  '  T  20 M  O  V  E  .
 From healing to item
 trading, I'm doing a bit
 of everything
-(aboard the Galtera).
+(aboard the Caldera).
 
 2a a2 dc c0 bc a4 b6 de d9 c3 d7 7a de
 F  R  O  M  20 H  E  A  L  I  N  G  20
@@ -1464,8 +1464,8 @@ D  Y  ?  20 W  E  20 W  O  N  '  T
 
 Enjoy the ship
 'til we reach Blizzard,
-(The Galtera is my pride and joy.)
-I'm proud of my Galtera.
+(The Caldera is my pride and joy.)
+I'm proud of my Caldera.
 
 cc de d8 bb de d7 b0 c4 de 86 82 78 8f 83 de 89 71 72 80 de a4 02
 E  N  J  O  Y  20 T  H  E  20 S  H  I  P  20 '  T  I  L  20 W  E
@@ -1474,7 +1474,7 @@ E  N  J  O  Y  20 T  H  E  20 S  H  I  P  20 '  T  I  L  20 W  E
 02 R  E  A  C  H  20 B  L  I  Z  Z  A  R  D  .  02 I
 
 b6 de d9 c3 d7 7a de 73 8a a4 9c 7c 89 7c de 8f 9d 7c de 6c 76 97 85 a1 0f
-'  M  20 P  R  O  U  D  02 O  F  20 M  Y  20 G  A  L  T  E  R  A  .
+'  M  20 P  R  O  U  D  02 O  F  20 M  Y  20 C  A  L  D  E  R  A  .
 
 (unknown where this appears)
 
@@ -1489,7 +1489,7 @@ a while.
 b4 b2 b3 de a2 cc de d8 bb de d7 b0 c4 de 8f 83 de a4 7d 7a 7c 76 76 99 7f de a1 0f
 W  E  '  L  L  20 B  E  20 S  A  I  L  I  N  G  02 A  20 W  H  I  L  E  .
 
--- galtera crew after setting sail
+-- caldera crew after setting sail
 
 *「おかげで、ひさしぶりにしゅっこうできたぜ。
 ありがとうよ。
@@ -1650,7 +1650,7 @@ H  A  T  '  S  20 T  H  E  20 W  E  A  K  20 P  O  I  N  T  .
 
 エイヴ「どうだ、ガルテラごうですこしやすんでいくか?
 Do you need to rest on
-board (the Galtera)?
+board (the Caldera)?
 
 b4 b2 b3 de a2 84 de 73 80 de a4 b6 de d9 c3 d7 7a de 73 83 de 7d 7a 7c
 D  O  20 Y  O  U  20 N  E  E  D  20 T  O  20 R  E  S  T  20 O  N  02 B
