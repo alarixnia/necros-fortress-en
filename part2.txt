@@ -169,17 +169,17 @@ F  20 D  E  M  O  N  02 F  O  R  E  S  T  .  .  .
 しんじられん。
 たのむ、わしもつれていってくれ!
 
-(I can't believe) SAMURAI betrayed me!
-Let me join you!
+I can't believe (SAMURAI)
+betrayed us! Let me join (you)!
 
 a2 9c 7c 86 8a a4 12 76 de 73 97 77 de 6f 80 85 9d 83 02
-S  A  M  U  R  A  I  20 B  E  T  R  A  Y  E  D  20 M  E
+I  20 C  A  N  '  T  20 B  E  L  I  E  V  E  20 H  E  20
 
 7c 9d 7c de 97 9a 9d a1 02
-!  02 L  E  T  20 M  E  20
+B  E  T  R  A  Y  E  D  20
 
 80 89 91 a4 9c 7c 93 82 9a 83 72 6f 83 78 9a 21 04
-J  O  I  N  20 Y  O  U  .
+U  S  !  20 L  E  T  20 M  E  20 J  O  I  N  !
 
 --- mage's dialogue in castle
 
