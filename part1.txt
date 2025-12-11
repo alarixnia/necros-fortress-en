@@ -3440,3 +3440,18 @@ Zzz...
 
 2a a2 bd d4 bd d4 eb 0f
 Z  Z  Z  .  .  .  
+
+-- results of looking at things
+
+いどのそこに、くうどうがみえる!
+There's a cave at the bottom!
+I can see a cave!
+
+72 84 de 89 7f 7a 86 a4 78 73 84 de 73 76 de 90 74 99 21
+I  20 C  A  N  20 S  E  E  20 A  20 C  A  V  E  !
+
+シルヴィアだ!
+It's Sylvia!
+
+bc d9 b3 de a8 b1 80 de 21 0f
+S  Y  L  V  I  A  !  df 20

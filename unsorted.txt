@@ -343,6 +343,13 @@ asking for money
 7f 9a 83 de 8a a4 00 41 90 64 41 93 47 89 79 9d 77 9d 66 a1 02
 T  I  T  H  E  20 00 41 90 64 41 93 G  ,  20 O  K  ? 
 
+うむむっ! オカネがたりませんぞ。
+
+(Hmph!) I'm short on gold.
+
+73 91 91 6f 21 20 b5 b6 c8 76 de 80 98 8f 7e 9d 7f de a1 02 05
+I  '  M  20 S  H  O  R  T  20 O  N  20 G  O  L  D  .
+
 -- This sentence appears 3 times:
 
 おきゃくさま、おかねか de たりないようて de すか de 。
@@ -926,8 +933,10 @@ B  R  O  K  E  N
 
 パスワードがちがっています。
 Password incorrect.
+Wrong password.
 
-TODO
+ca df bd dc b0 c4 de 76 de 81 76 de 6f 83 72 8f 7d a1
+W  R  O  N  G  20 P  A  S  S  W  O  R  D  .
 
 --- battle menu
 
@@ -3757,10 +3766,14 @@ F  E  E  '  S  20 ?? ?? ?? ?? ?? ?? G  20 N  O  W
 どうぞおとまりください。
 
 Oh, hero, there's no
-need for payment.
-Please, stay.
+need to pay.
+(Please, stay.)
 
-TODO
+75 75 a4 95 73 7c 6c 7b 8f a1 75 80 de 72 8a 72 98 8f 7e 9d a1 02
+O  H  ,  20 H  E  R  O  ,  20 T  H  E  R  E  '  S  20 N  O  20 N
+
+84 de 73 7f de 75 84 8f 98 78 80 de 7b 72 a1
+E  E  D  20 T  O  20 P  A  Y  .
 
 --- berserker battle options
 
@@ -3925,30 +3938,15 @@ Bailed.
 G  A  V  E  20 U  P
 B  A  I  L  E  D  .
 
-(???)
-
-72 84 de 89 7f 7a 86 a4 78 73 84 de 73 76 de 90 74 99 21
-
-(???)
-
-bc d9 b3 de a8 b1 80 de 21 0f
-
-(???)
+きのみきに、あながあいている。
+There's holes in the nuts.
+There's holes...
 
 77 89 90 77 86 a4 71 85 76 de 71 72 83 72 99 a1
+T  H  E  R  E  '  S  20 H  O  L  E  S  .  .  .
 
-(???)
+きんぞくせいのとびらだ。
+A metal door.
 
 77 9d 7f de 78 7e 72 89 84 8b de 97 80 de a1
-
-(???)
-
-75 75 a4 95 73 7c 6c 7b 8f a1 75 80 de 72 8a 72 98 8f 7e 9d a1
-
-(???)
-
-73 91 91 6f 21 20 b5 b6 c8 76 de 80 98 8f 7e 9d 7f de a1
-
-(???)
-
-ca df bd dc b0 c4 de 76 de 81 76 de 6f 83 72 8f 7d a1
+A  20 M  E  T  A  L  20 D  O  O  R  .  df 20
