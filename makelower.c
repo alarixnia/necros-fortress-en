@@ -37,6 +37,7 @@ static const char *names[] = {
 	"ELF",
 	"SAMURAI",
 	"BERSERKER",
+	"DEMON FOREST",
 	"RIO",
 	"CID",
 	"SHOGUN",
@@ -132,20 +133,14 @@ main(int argc, char *argv[])
 	memcpy(b2, b1, ROM_SIZE);
 
 	for (i = DIALOGUE_START; i < DIALOGUE_END; ++i) {
-		if (!isascii(b1[i])) {
-			if (b1[i] == 0x0f || b1[i] == 0x04 ||
-			    b1[i] == 0x05 || b1[i] == 0xeb) {
-				upper = true;
-			}
-			continue;
-		}
-
-		if (b1[i] == '?' || b1[i] == '!' || b1[i] == '.') {
+		if (b1[i] == '?' || b1[i] == '!' || b1[i] == '.' ||
+		    b1[i] == 0x0f || b1[i] == 0x04 ||
+		    b1[i] == 0x05 || b1[i] == 0xeb) {
 			upper = true;
-			continue;
-		}
-
-		if (b1[i] >= 'A' && b1[i] <= 'Z') {
+		} else if (b1[i] >= 0x10 && b1[i] <= 0x17) {
+			/* hero names are already capitalized */
+			upper = false;
+		} else if (b1[i] >= 'A' && b1[i] <= 'Z') {
 			b2[i] = upper ? toupper(b1[i]) : tolower(b1[i]);
 			upper = false;
 		}
@@ -182,12 +177,16 @@ skip:
 		}
 	}
 
-	/* find and fix "I"s */
 	for (i = DIALOGUE_START; i < DIALOGUE_END; ++i) {
+		/* find and capitalize "I"s */
 		if (b1[i] == 'I' && 
 		    (b1[i - 1] < 'A' || b1[i - 1] > 'Z') &&
 		    (b1[i + 1] < 'A' || b1[i + 1] > 'Z')) {
 			b2[i] = 'I';
+		}
+		/* fix double spaces */
+		if (b1[i] == ' ' && b1[i + 1] == ' ') {
+			b2[i] = 0xdf;
 		}
 	}
 
