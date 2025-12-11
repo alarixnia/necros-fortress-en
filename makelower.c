@@ -12,6 +12,8 @@
  */
 
 #define ROM_SIZE	(8 << 16)
+#define COMBAT_START	(0x76b7)
+#define COMBAT_END	(0x7d47)
 #define DIALOGUE_START	(0x211e3)
 #define DIALOGUE_END	(0x2bf75)
 
@@ -131,6 +133,25 @@ main(int argc, char *argv[])
 	}
 
 	memcpy(b2, b1, ROM_SIZE);
+
+	upper = false;
+
+	for (i = COMBAT_START; i < COMBAT_END; ++i) {
+		if (i >= 0x7ab1 && i <= 0x7b04) {
+			continue;
+		}
+		if (b1[i] == '*') {
+			upper = false;
+		} else if (!isspace(b1[i]) && !isalpha(b1[i]) &&
+		    b1[i] != ',' && b1[i] != '\'') {
+			upper = true;
+		} else if (b1[i] >= 'A' && b1[i] <= 'Z') {
+			b2[i] = upper ? toupper(b1[i]) : tolower(b1[i]);
+			upper = false;
+		}
+	}
+
+	upper = true;
 
 	for (i = DIALOGUE_START; i < DIALOGUE_END; ++i) {
 		if (b1[i] == '?' || b1[i] == '!' || b1[i] == '.' ||
