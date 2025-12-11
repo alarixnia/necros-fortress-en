@@ -128,6 +128,12 @@ r  e  s  i  s  t  s
 さ む さ
 7b 91 7b
 
+しんでいる!
+Dead!
+
+93 20 7c 9d 83 de 72 99 21 0f
+93 20 D  E  A  D  !  df 20
+
 --- settings select
 
 メッセージ スピード
@@ -3303,6 +3309,24 @@ But inv is full!
 7c 76 7c a4 7a 9a 72 7c de 6e 73 93 83 85 72 21 0f
 B  U  T  20 I  N  V  20 I  S  20 F  U  L  L  !
 
+は、すでにもっています。
+Already have it.
+
+8a a4 7d 83 de 86 93 6f 83 72 8f 7d a1
+A  L  R  E  A  D  Y  20 H  A  V  E  .
+
+しかし、そうびできるものがいない。
+(But) no-one can equip it.
+
+7c 76 7c a4 7f 73 8b de 83 de 77 99 93 89 76 de 72 85 72 a1
+N  O  - O   N  E  20 C  A  N  20 E  Q  U  I  P  20 I  T  .
+
+かぎがかかっている!
+It's locked!
+
+76 77 de 76 de 76 76 6f 83 72 99 21 0f
+I  T  '  S  20 L  O  C  K  E  D  !
+
 --- Death
 
 もは、しんでしまった。
@@ -3850,41 +3874,81 @@ MP was restored.
 
 -- random stuff TODO
 
-に、ヘブライルのごかごが、あらんことを。
-Hmph! I'm short on gold.
-
 おきゃくさま、
-Dear guest,
+Dear guest, (TODO where does this appear?)
 
 MPがたりません。
 Not enough MP.
+MP too low
+
+4d 50 76 de 80 98 8f 7e 9d a1
+M  P  20 T  O  O  20 L  O  W
 
 だれもしんでいません。
-No one died.
+No-one has died.
+No-one dead.
+
+80 de 9a 93 7c 9d 83 de 72 8f 7e 9d a1 0f
+N  O  -  O  N  E  20 D  E  A  D  .
 
 まだおぼえていない。
 I don't know it.
+Not known.
 
-しんでいる!
-Dead!
+8f 80 de 75 8e de 74 83 72 85 72 a1
+N  O  T  20 K  N  O  W  N  .
 
 しかしなにもあらわれない。
 Nothing happens.
+But zilch...
+
+7c 76 7c 85 86 93 71 97 9c 9a 85 72 a1
+B  U  T  20 Z  I  L  C  H  .  .  .
 
 みちが、ふさがれている!
 Path is blocked!
 
+90 81 76 de a4 8c 7b 76 de 9a 83 72 99 21
+P  A  T  H  20 B  L  O  C  K  E  D  !  df
+
 いりぐちが、ふさがれている!
 Entrance is blocked!
 
-は、すでにもっています。
-Already have it.
-
-しかし、そうびできるものがいない。
-But no-one can equip it.
+72 98 78 de 81 76 de a4 8c 7b 76 de 9a 83 72 99 21
+E  N  T  R  A  N  C  E  20 B  L  O  C  K  E  D  !
 
 をあきらめた。
 Gave up.
+Bailed.
 
-かぎがかかっている!
-It's locked!
+66 71 77 97 92 80 a1
+G  A  V  E  20 U  P
+B  A  I  L  E  D  .
+
+(???)
+
+72 84 de 89 7f 7a 86 a4 78 73 84 de 73 76 de 90 74 99 21
+
+(???)
+
+bc d9 b3 de a8 b1 80 de 21 0f
+
+(???)
+
+77 89 90 77 86 a4 71 85 76 de 71 72 83 72 99 a1
+
+(???)
+
+77 9d 7f de 78 7e 72 89 84 8b de 97 80 de a1
+
+(???)
+
+75 75 a4 95 73 7c 6c 7b 8f a1 75 80 de 72 8a 72 98 8f 7e 9d a1
+
+(???)
+
+73 91 91 6f 21 20 b5 b6 c8 76 de 80 98 8f 7e 9d 7f de a1
+
+(???)
+
+ca df bd dc b0 c4 de 76 de 81 76 de 6f 83 72 8f 7d a1
