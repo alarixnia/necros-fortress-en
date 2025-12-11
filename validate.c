@@ -48,7 +48,7 @@ main(int argc, char *argv[])
 	last_japanese = 0;
 
 	for (;;) {
-		size_t i;
+		size_t i, j;
 
 		ret = fread(b1, 1, 256, origf);
 		if (ret == 0) {
@@ -96,6 +96,28 @@ main(int argc, char *argv[])
 					printf("progam byte lost at: 0x%lx",
 					    (offset + i));
 					printf(" (was 0x%02x)\n", b1[i]);
+				}
+			}
+		}
+
+		/* scan for orphaned system text */
+		for (i = 0; i < ret; ++i) {
+			if (b2[i] != 0x93) {
+				continue;
+			}
+			for (j = i; j < ret; ++j) {
+				if (b2[j] == 0x00 || isalnum(b2[j]) ||
+				    b2[j] == 0xa0 || b2[j] == 0x68 ||
+				    b2[j] == 0x01 || b2[j] == 0x03 ||
+				    (b2[j] >= 0x06 && b2[j] <= 0x17)) {
+					/* probably not system text */
+					break;
+				}
+				/* ending full stop */
+				if (b2[j] == 0xa1) {
+					printf("possible japanese text at %lx\n",
+					    offset + i);
+					break;
 				}
 			}
 		}
