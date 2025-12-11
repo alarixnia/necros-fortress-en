@@ -3908,6 +3908,13 @@ MP was restored.
 93 89 4d 50 76 de a4 76 72 8c 78 7c 80 a1
 93 20 M  P  20 R  E  S  T  O  R  E  D  .
 
+それはつかえない。
+It can't be used.
+Can't use
+
+7f 9a 8a 82 76 74 85 72 a1
+C  A  N  '  T  20 U  S  E
+
 -- random stuff TODO
 
 おきゃくさま、
