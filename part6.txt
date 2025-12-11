@@ -2398,3 +2398,92 @@ E  E  N  '  S  20 L  O  N  E  L  Y  20 T
 
 8e de 78 93 b6 de d9 c3 d7 7a de 73 86 89 99 96 a1 02 0f
 O  O  .  20 I  '  L  L  20 J  O  I  N  20 Y  O  U  .
+
+-- more arao?
+
+アラオ「*「あのうずまきにのみこまれては、
+ドクロスせんといえど、ひとたまりもない。
+2どとこちらのせかいにかえってこれないでしょう。
+
+If the portal swallowed
+you, (even in Docros' ship,)
+you'd be goners,
+and never (make it back) escape.
+
+b1 d7 b5 a2 2a a2 71 89 73 7d de 8f 77 86 89 90 7a 8f 9a 83 8a a4 02
+A  R  A  a2 I  F  20 T  H  E  20 P  O  R  T  A  L  20 S  W  A  L  L
+
+c4 de b8 db bd 7e 9d 84 72 74 84 de a4 8b 84 80 8f 98 93 85 72 a1 02
+O  W  E  D  20 Y  O  U  ,  20 Y  O  U  '  D  20 B  E  20 G  O  N  E
+
+32 84 de 84 7a 81 97 89 7e 76 72 86 76 74 6f 83 7a 9a 85 72 83 de 7c 6e 73 a1 0f
+R  S  ,  20 A  N  D  20 N  E  V  E  R  20 E  S  C  A  P  E  .
+
+*「おお、タレかいきかえらせたいアルか?
+ワタシ、じつはヘヴライルしんかんの
+めんきょももっているのコトよ!
+
+[...]
+はい、じっとしているヨロシ。イーアルサンスー!
+
+Oh, does your comrade
+need reviving? I'm
+a licensed priest!
+
+(Right then, stay still!)
+Right then here goes!
+
+2a a2 75 75 a4 c0 da 76 72 77 76 74 97 7e 80 72 b1 d9 76 3f 02
+O  H  ,  20 D  O  E  S  20 Y  O  U  R  20 C  O  M  R  A  D  E
+
+dc c0 bc a4 7c de 82 8a cd b3 de d7 b2 d9 7c 9d 76 9d 89 02
+02 N  E  E  D  20 R  E  V  I  V  I  N  G  ?  20 I  '  M  02
+
+92 9d 77 6e 93 93 6f 83 72 99 89 ba c4 96 21 02 05
+A  20 L  I  C  E  N  S  E  D  20 P  R  I  E  S  T
+
+8a 72 a4 7c de 6f 84 7c 83 72 99 d6 db bc a1 b2 b0 b1 d9 bb dd bd b0 21 0f
+!  02 05 R  I  G  H  T  20 T  H  E  N  20 H  E  R  E  20 G  O  E  S  !
+
+-- no idea where this appears
+
+*「アトランチスとは、でんせつのたいりくだ。
+こうどなぶんめいをほこっていたが、
+あるひ、いちやにして、うみのそこにしずんだという...
+
+(Atlantis is a legendary
+continent with an
+advanced civilization.
+[...]
+One day it sank to
+the sea floor...)
+
+Atlantis is a mythic
+land with an advanced 
+society. One day, it sunk...
+
+2a a2 b1 c4 d7 dd c1 bd 84 8a a4 83 de 9d 7e 82 89 80 72 98 78 80 de a1 02
+A  T  L  A  N  T  I  S  20 I  S  20 A  20 M  Y  T  H  I  C  20 L  A  N  D
+
+7a 73 84 de 85 8c de 9d 92 72 66 8e 7a 6f 83 72 80 76 de a4 02
+20 W  I  T  H  20 A  N  20 A  D  V  A  N  C  E  D  20 S  O  C
+
+71 99 8b a4 72 81 94 86 7c 83 a4 73 90 89 7f 7a 86 7c 7d de 9d 80 de 84 72 73 eb 0f
+I  E  T  Y  .  02 05 O  N  E  20 D  A  Y  ,  20 I  T  20 S  U  N  K  .  .  .
+
+DWARF「アントランチスには、オリハルコンとかいう
+すごいきんぞくがあったそうじゃ。
+BERSERKER「フンガー!
+
+Dwarf: They say Atlantis has
+advanced metals.
+Berserker: Hmph!
+
+13 a2 b1 dd c4 d7 dd c1 bd 86 8a a4 b5 d8 ca d9 ba dd 84 76 72 73 02
+13 a2 T  H  E  Y  20 S  A  Y  20 A  T  L  A  N  T  I  S  20 H  A  S
+
+7d 7a de 72 77 9d 7f de 78 76 de 71 6f 80 7f 73 7c de 6c a1 0f
+20 A  D  V  A  N  C  E  D  20 M  E  T  A  L  S  .
+
+15 a2 cc dd b6 de b0 21 0f
+15 a2 H  M  P  H  !
