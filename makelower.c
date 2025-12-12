@@ -15,6 +15,7 @@
 #define COMBAT_START	(0x76b7)
 #define COMBAT_END	(0x7d47)
 #define DIALOGUE_START	(0x211e3)
+#define CUTSCENE_START	(0x2af22)
 #define DIALOGUE_END	(0x2bf75)
 
 static const char *names[] = {
@@ -206,8 +207,11 @@ skip:
 			b2[i] = 'I';
 		}
 		/* fix double spaces */
-		if (b1[i] == ' ' && b1[i + 1] == ' ') {
+		if (b1[i] == ' ' && b1[i + 1] == ' ' && i < CUTSCENE_START) {
 			b2[i] = 0xdf;
+		}
+		if (b1[i] == 0xdf && i > CUTSCENE_START) {
+			b2[i] = ' ';
 		}
 	}
 
