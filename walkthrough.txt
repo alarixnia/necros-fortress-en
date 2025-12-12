@@ -29,7 +29,8 @@ Character summary
 In addition to the usual inn for healing, item, and medicine shops,
 most towns also contain a shrine where dead party members can be
 revived. In some instances, all party members need to be alive to
-make progress.
+make progress. Reviving at a shrine does not restore MP, unlike
+resting at an inn.
 
 Gameplay options
 ----------------
