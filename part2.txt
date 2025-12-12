@@ -206,10 +206,10 @@ Samurai's in the Demon Forest.
 Take care.
 
 10 a2 12 8a a4 8f 89 93 98 86 72 99 97 7c 72 9c a1 02
-C  A  R  E  F  U  L  ,  20 S  A  M  U  R  A  I  '  S
+C  A  R  E  F  U  L  ,  20 12 R  A  I  20 I  S  20 I
 
 77 66 82 79 83 72 6f 83 78 99 7a 84 88 a1 0f
-20 I  N  20 T  H  E  20 F  O  R  E  S  T  .
+N  02 T  H  E  20 F  O  R  E  S  T  .
 
 --- talking to shopkeeper
 
