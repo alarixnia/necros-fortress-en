@@ -1603,17 +1603,17 @@ l  i  v  e  20 t  h  e  20 8  20 h  e  r  o  e  s  !
 Sir Knight's illness is unnatural... has the creature
 awakened?
 
-Sir's illness is not
-natural. Has a monster
+Knight's illness is
+unnatural. Has a monster
 awoken?
 
 *  「 14 さ ま の こ de ひ de ょ う き は 、 と て も く de う せ de ん と は
 2a a2 14 7b 8f 89 7a de 8b de 6e 73 77 8a a4 84 83 93 78 de 73 7e de 9d 84 8a 02
-S  I  R  '  S  20 I  L  L  N  E  S  S  20 I  S  20 N  O  T  02 N  A  T  U R  A
+14 G  H  T  '  S  20 I  L  L  N  E  S  S  20 I  S  20 U  N  N  A  T  U  R  A  L
 
 お も え な い ...ま さ か 、 や つ か de め さ de め た の て de は !
 75 93 74 85 72 eb 8f 7b 76 a4 94 82 76 de 92 7b de 92 80 89 83 de 8a 21 02
-L  .  20 H  A  S  20 A  20 M  O  N  S  T  E  R  02 A  W  O  K  E  N  ?  20
+.  20 H  A  S  20 T  H  E  20 M  O  N  S  T  E  R  20 A  W  O  K  E  N  ?
 
 *「まんかdeいちにもKNIGHT さまかdeなくなったら、
 いったいとdeうなるのたdeろう!
@@ -1695,11 +1695,11 @@ E  T  20 D  R  U  N  K  !
 *「ああ、KNIGHT さまかdeけdeんきになってよかった!
 
 Ah, joy, Sir Knight is healthy!
-Yay, Sir's healthy!
+Yay, Sir Knight is healthy!
 
 *  「 あ あ 、 14 さ ま か de け de ん き に な っ て よ か っ た !
 2a a2 71 71 a4 14 7b 8f 76 de 79 de 9d 77 86 85 6f 83 96 76 6f 80 21 0f
-Y  A  Y  ,  20 S  I  R  20 '  S  20 H  E  A  L  T  H  Y  !
+Y  A  Y  ,  20 S  I  R  20 14 20 I  S  20 H  E  A  L  T  H  Y  !
 
 --- knight's town, north west house
 
@@ -1739,13 +1739,11 @@ G  R  A  N  D  A  D  '  S  20 S  E  N  I  L  E  .  .  .
 *「MAGE さまのほこらは、このまちのきたにある。
 
 Mage's shrine is to the north.
-Up there is a shrine.
-Mage's shrine is north
+Mage's crypt is north.
 
 *  「 17 さ ま の ほ こ ら は 、 こ の ま ち の き た に あ る 。
 2a a2 17 7b 8f 89 8e 7a 97 8a a4 7a 89 8f 81 89 77 80 86 71 99 a1 0f
-U  P  20 T  H  E  R  E  20 I  S  20 A  20 S  H  R  I  N  E  .
-M  A  G  E  '  S  20 S  H  R  I  N  E  20 I  S  20 N  O  R  T  H
+17 '  S  20 C  R  Y  P  T  20 I  S  20 N  O  R  T  H  .
 
 --- knight's town, barkeep
 

@@ -31,20 +31,20 @@ through the forest will appear.
 
 Talk to the old man behind the Knight's Town inn (in the northwestern
 corner of the town square), then you'll be able to go to Mage's
-Shrine to the north when you exit the town.
+crypt to the north when you exit the town.
 
 Talk to the Samurai in the innermost room of the Knight's Castle
 (far north of Knight's Town) to trigger a small cutscene.
 
-Once you've equipped yourself, travel to Mage's Shrine. Talk to
-the Thief inside the shrine to get a Rope.
+Once you've equipped yourself, travel to Mage's crypt. Talk to
+the Thief inside the crypt to get a Rope.
 
 Treasure Chests
 1F: Herb, Chocolate, Mage's Letter
 3F: 50G
 
 After obtaining the Mage's Letter from one of the treasure chests
-deep in the Mage's Shrine, go back to the roadside inn. Mage will
+deep in the Mage's crypt, go back to the roadside inn. Mage will
 be added to your party.
 
 After recruiting Mage, go back to Knight's Town and talk to Knight
@@ -453,7 +453,7 @@ Boss Battle: Skullcros
 After defeating Skullcros, he'll say something cryptic about the underground.
 There is a hidden dungeon below the temple that you can reach by searching
 the floor. Traveling downwards, it looks like you are going in circles
-(remember Mage's Shrine?) but you are not - just keep going down until you
+(remember Mage's crypt?) but you are not - just keep going down until you
 reach the facility. The dungeon is huge, so make sure you have Exit spells
 ready to return to Atlantis and heal when necessary.
 
