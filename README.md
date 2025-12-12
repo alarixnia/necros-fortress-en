@@ -31,7 +31,7 @@ See `reference.txt` for information on the character set.
 
 The game uses a custom 8-bit text encoding composed of Latin
 uppercase, digits, punctuation, Hiragana, Katakana, combining
-characters, and some control characters that effect things
+characters, and some control characters that affect things
 like scrolling.
 
 Resources
