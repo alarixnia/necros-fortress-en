@@ -123,7 +123,8 @@ Treasure Chests
 1F: Steel Mace, Wiz Robe
 
 In the south-east, a boss battle against a vampire will take place.
-He will drop an ID card.
+Use Mage's Hot spell to block his ice attacks. He will drop an
+ID card.
 
 With the ID card, return back to the staircase and head east this
 time. Use the ID card to proceed further into the facility.
