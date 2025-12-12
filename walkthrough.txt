@@ -473,7 +473,7 @@ occupied by Necros' forces. Travel south through the island and then to the
 east, following the path north. Docros is occupying the temple, and a boss
 battle against him will occur upon entering.
 
-Boss Battle: Doccros
+Boss Battle: Docros
 
 After defeating Docros, he'll say something cryptic about the underground.
 There is a hidden dungeon below the temple that you can reach by searching
