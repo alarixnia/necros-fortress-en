@@ -26,6 +26,15 @@ Character summary
   blade attacks that consume MP, some of which effect the entire
   enemy party.
 
+Gameplay options
+----------------
+
+The gameplay options can be accessed by pressing Select.
+
+This allows changing the scrolling speed of text and similar
+(lower is faster). I recommend a message speed of 1 and a scroll
+speed of 2. The default movement speed of 4 is fine.
+
 Part 1 - Night Visitor
 ----------------------
 
