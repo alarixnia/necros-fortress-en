@@ -1884,8 +1884,11 @@ MERCENARY 「うえー、とてもあのKNIGHT とは
 いったい、とdeうしたんたde?
 
 [I can't believe it's
-really him... what
+really the same guy... what
 happened?]
+
+[I can't believe he's like
+this... what happened?
 
 16 「 お い 、 14 !  20 と de う し た ん た de !
 16 a2 75 72 a4 14 21 20 84 de 73 7c 80 9d 80 de 21 02
@@ -1901,11 +1904,11 @@ O  V  E  D  20 P  R  I  N  C  E  S  S  !  02 05
 
 こ ん や も ま た 、 き て く た de さ る か...
 7a 9d 94 93 8f 80 a4 77 83 78 80 de 7b 99 76 eb 02 05
-[  I  20 C  A  N  '  T  20 B  E  L  I  E  V  E  20 I
+[  I  20 C  A  N  '  T  20 B  E  L  I  E  V  E  20 H
 
 16 「 う え ー 、 と て も あ の 14 と は
 16 a2 73 74 b0 a4 84 83 93 71 89 14 84 8a 02
-T  '  S  20 R  E  A  L  L  Y  20 H  I  M  .
+E  '  S  20 L  I  K  E  20 T  H  I  S  .  .
 
 お も え ね ー 。
 75 93 74 88 b0 a1
@@ -1950,19 +1953,21 @@ W  H  A  T  '  S  20 U  P  ?
 あったのだが...
 どうやら、ちとムリのようでござるな。
 
-The situation with Knight seems quite impossible.
+I wanted to speak with
+Knight, but it seems
+hopeless...
 
 「 う む 、 14 と de の に 、 そ う た de ん こ de と がde
 a2 73 91 a4 14 84 de 89 86 a4 7f 73 80 de 9d 7a de 84 76 de 02
-T  H  E  20 S  I  T  U  A  T  I  O  N  20 W  I  T  H  20 K  N
+I  20 W  A  N  T  E  D  20 T  O  20 S  P  E  A  K  20 W  I  T
 
 あ っ た の た de か de ...
 71 6f 80 89 80 de 76 de eb
-I  G  H  T  20 S  E  E  M
+H  02 14 G  H  T  ,  20 B
 
 と de う や ら 、 ち と ム リ の よ う て de こ de さ de る な 。
 84 de 73 94 97 a4 81 84 d1 d8 89 96 73 83 de 7a de 7b de 99 85 a1 04
-S  20 Q  U  I  T  E  20 I  M  P  O  S  S  I  B  L  E  .  .  .  20
+U  T  20 I  T  20 S  E  E  M  S  02 H  O  P  E  L  E  S  S  .
 
 --- knight's town marin dialogue in inn
 
