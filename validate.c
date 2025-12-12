@@ -14,6 +14,7 @@
 
 #define DIALOGUE_START	(0x211e3)
 #define DIALOGUE_END	(0x2bf75)
+#define FONTS_START	(0x2ce00)
 #define COMBAT_START	(0x76b7)
 #define COMBAT_END	(0x7d47)
 
@@ -61,6 +62,10 @@ main(int argc, char *argv[])
 		}
 
 		for (i = 0; i < ret; ++i) {
+			if ((offset + i) >= FONTS_START &&
+			    (offset + i) <= (FONTS_START + 3072)) {
+				continue;
+			}
 			if (((offset + i) >= DIALOGUE_START &&
 			    (offset + i) <= DIALOGUE_END) ||
 			    ((offset + i) >= COMBAT_START &&
