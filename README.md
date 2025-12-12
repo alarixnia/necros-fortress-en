@@ -1,5 +1,5 @@
-Fortress of Necros (English Translation)
-=========================================
+Fortress of Necros (English Hack)
+=================================
 
 Necros Fortress (or "Neclos Fortress")
 is a turn-based RPG released in Japan for the PC Engine in 1990 on
@@ -12,7 +12,7 @@ The game is divided into seven chapters, each with a different
 party of three characters.
 
 The 8 characters available are the Mercenary, Knight, Amazon,
-Magician, Elf, Samurai, Beserker, and Dwarf.
+Mage, Elf, Samurai, Beserker, and Dwarf.
 
 Character set
 -------------
@@ -30,3 +30,10 @@ Resources
 * Walkthrough: https://xn--cool-kk4csd1lrc8dvi.xyz/nekurosunoyousai/kouryaku.html
 * Shops: https://xn--cool-kk4csd1lrc8dvi.xyz/nekurosunoyousai/shop.html
 * Items: https://xn--cool-kk4csd1lrc8dvi.xyz/nekurosunoyousai/item.html
+
+Fonts
+-----
+
+This hack uses the Pristine font by DamienG:
+
+https://damieng.com/typography/zx-origins/
