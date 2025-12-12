@@ -40,6 +40,16 @@ This allows changing the scrolling speed of text and similar
 (lower is faster). I recommend a message speed of 1 and a scroll
 speed of 2. The default movement speed of 4 is fine.
 
+Items (medicine, consumable)
+----------------------------
+
+* Herb - restores a small amount of HP
+* Chocolate - restores a large amount of HP
+* Salts - cures being stunned/confused
+* Magic Cloth - teleports back to save point
+* Jewel - restores MP, rare until Chapter 7
+* Golden Apple - revives party member, rare until Chapter 7
+
 Part 1 - Night Visitor
 ----------------------
 
