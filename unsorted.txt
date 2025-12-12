@@ -3968,13 +3968,6 @@ Bailed.
 G  A  V  E  20 U  P
 B  A  I  L  E  D  .
 
-きのみきに、あながあいている。
-There's holes in the nuts.
-There's holes...
-
-77 89 90 77 86 a4 71 85 76 de 71 72 83 72 99 a1
-T  H  E  R  E  '  S  20 H  O  L  E  S  .  .  .
-
 きんぞくせいのとびらだ。
 A metal door.
 
