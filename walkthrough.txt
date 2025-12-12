@@ -470,12 +470,12 @@ to Atlantis in the ocean north of Frontier Island will open.
 Atlantis has various services offered by its peaceful ghostly residents, so
 you can heal at the inn there. Only the initial area of Atlantis is not
 occupied by Necros' forces. Travel south through the island and then to the
-east, following the path north. Skullcros is occupying the temple, and a
-boss battle against him will occur upon entering.
+east, following the path north. Docros is occupying the temple, and a boss
+battle against him will occur upon entering.
 
-Boss Battle: Skullcros
+Boss Battle: Doccros
 
-After defeating Skullcros, he'll say something cryptic about the underground.
+After defeating Docros, he'll say something cryptic about the underground.
 There is a hidden dungeon below the temple that you can reach by searching
 the floor. Traveling downwards, it looks like you are going in circles
 (remember Mage's crypt?) but you are not - just keep going down until you
@@ -492,8 +492,75 @@ Boss Battle: Necros.
 Part 7: Revival
 ---------------
 
-* talk to capt. aiv after unlocking portal
-* follow cave east, talk with dead thief, don't search the body
-* monsters in aleph/thief chamber are much stronger, bring magic cloth to
-  return to dr. bomb
-* necros and necrogar use a combination of fire and ice attacks
+Well, something has happened, but we don't know what. The game requires
+talking to the Bard to continue. After this is done, speak with the King
+to choose two members for your party. Pick carefully, as you can't change
+your choice without loading a save, and the most powerful monsters in the
+game are ahead of you. Make sure one of the characters has the ability to
+use shield spells.
+
+Inside the castle, speak to the Fairy when you need to heal. In the castle
+ground, to the north-west, you can buy any equipment you haven't managed
+to get so far. In the dungeon, slightly to the east, you can buy supplies.
+Make sure you get a Magic Cloth so you can easily return to the castle to
+heal.
+
+Various people you've met so far in your journey appear around the dungeon
+outside the castle.
+
+Travel through the eastern half, and speak to Angela to recieve an orb.
+
+Travel through the western half, and speak to Mark (Sylphy's husband)
+to recieve the ice orb. Travel deeper, and you'll encounter Marin.
+Her father is under attack by monsters. If you speak with the monsters,
+a boss battle will begin. This boss has the ability to summon copies of
+party members.
+
+Boss Battle: Ghost Shogun.
+
+Once her father is saved, speak to Marin again to recieve another orb.
+You'll probably want to return for healing at this point.
+
+Deeper in the western half of the dungeon, you'll encounter the lying
+old man from Cid village in Chapter 2. If you believe him and listen
+to his story, he'll give you another orb.
+
+At this point, you should have enough orbs to open the portal that
+Sylphy is standing near. Use the orbs on the pipes and operate the
+machine until you hear a distant noise.
+
+Once the portal is open, Capt. Aiv in the eastern dungeon will be
+freed from his trap. Talk to him to recieve another orb.
+
+The portal near Sylphy leads to a chamber with much more powerful
+monsters than before, so prepare before going there, and make sure
+you have a means of quick exit. Inside the chamber, Aleph and his
+mother are under attack.
+
+Boss Battle: Mecharos Ghost, Hebiros Ghost.
+
+Once you've defeated the monsters attacking Aleph, speak to him to
+recieve another orb.
+
+Deeper inside the chamber, to the east, you can find the dead body
+of Thief. Attempt to talk to him, then return to Dr. Bomb in the
+castle. Dr. Bomb will give you a revival potion.
+
+Return to Thief's body, and use the potion on him. He'll come back
+to life and give you the final orb.
+
+Once you've collected all the orbs, the metal doors behind the Fake
+Knight will open, leading to the final bosses of the game.
+
+Keep in mind for maintaining your Hot/Cold shields that these bosses
+alternate between using Ice and Fire attacks. You cannot heal except
+with spells/items between these boss fights, so make sure to stock up,
+including Jewels to recover your MP!
+
+Boss Battle: Necros Ghost
+
+Once the ghost of Necros is defeated, you are teleported to a dark
+void. This is an opportunity to use items to heal. Proceed through
+the void to encounter Necrogar.
+
+Boss Battle: Necrogar
