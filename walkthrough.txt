@@ -1,6 +1,31 @@
 Walkthrough for Fortress of Necros
 ==================================
 
+Character summary
+-----------------
+
+* Mercenary is a foolish young man who attacks with a bow. He can't
+  use magic, but has a Luck attack that has a small chance of
+  killing enemies in one hit, and consumes MP.
+* Mage is a DPS magic character. He has a range of powerful offensive
+  Magic attacks, but they all cost MP. He does have the ability to
+  raise shields, but not to heal.
+* Amazon is a well-rounded character with the ability to summon
+  dragons to attack, as well as various healing spells.
+* Knight is a melee character. He believes in virtue and not putting
+  yourself first, so has the ability to block for the entire party,
+  consuming MP.
+* Dwarf is a melee character with various "jar" attacks, buffs,
+  and debuffs which consume MP.
+* Elf is possibly the most useful utility magic character. He has
+  both healing spells and shields.
+* Berserker is a silly man with numerous brute force attacks. He has
+  the ability to use a Rage melee attack on the entire enemy party,
+  which consumes MP.
+* Samurai is the ultimate DPS character with numerous powerful
+  blade attacks that consume MP, some of which effect the entire
+  enemy party.
+
 Part 1 - Night Visitor
 ----------------------
 
