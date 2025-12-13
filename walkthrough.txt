@@ -67,7 +67,7 @@ When you arrive at Fipona, go to the east and exit. There's a
 bridge to the south, but the enemies here are too strong for now.
 Save going south for later.
 
-Treasure chest: Sacred salt.
+Treasure chest: Salts.
 
 Talk to the women in the westernmost back room of the roadside inn
 to trigger an event. After the event, go back to Rioau and fight
@@ -142,7 +142,7 @@ time. Use the ID card to proceed further into the facility.
 
 In the west part of the facility, there's a final boss battle
 against Mecharos. He can paralyze, so it's a good idea to carry
-sacred salts. Make sure to save and heal before proceeding.
+salts. Make sure to save and heal before proceeding.
 
 Part 2 - Betrayal Blues
 -----------------------
