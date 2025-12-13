@@ -2456,11 +2456,11 @@ N  E  C  K  L  A  C
 
 アマゾンアーマー
 Amazon Armour
-Amazonian
+AmazonArm
 
 ア マ ゾ de ン ア ー マ ー
 b1 cf bf de dd b1 b0 cf b0
-A  M  A  Z  O  N  I  A  N
+A  M  A  Z  O  N  A  R  M
 
 スターアーマー
 Star Armour
