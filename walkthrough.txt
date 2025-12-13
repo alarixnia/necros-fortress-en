@@ -6,7 +6,8 @@ Character summary
 
 * Mercenary is a foolish young man who attacks with a bow. He can't
   use magic, but has a Luck attack that has a small chance of
-  killing enemies in one hit, and consumes MP.
+  killing enemies in one hit, and consumes MP. This results in the
+  battle awarding no XP or gold.
 * Mage is a DPS magic character. He has a range of powerful offensive
   Magic attacks, but they all cost MP. He does have the ability to
   raise shields, but not to heal.
