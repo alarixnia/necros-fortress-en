@@ -2468,3 +2468,11 @@ S  E  F  U  L  ,  20 W  A  N  D  E  R  20 T  H  I  S  20 M  A  Z  E  20
 
 76 de 6f 8a 6f 8a 6f 21 0f
 F  O  R  E  V  E  R  !
+
+-- talking to sick guys in refuge
+
+*「うーん、うーん。
+Groan...
+
+2a a2 73 b0 9d a4 73 b0 9d a1 0f
+G  R  O  A  N  .  .  .
