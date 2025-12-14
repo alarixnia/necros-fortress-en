@@ -863,10 +863,10 @@ Init done.
 I  N  I  T  20 D  O  N  E  .
 
 バックアップメモリをせつぞくしてください
-Please disconnect (backup) memory.
+Please connect (backup) memory.
 
 ca de af b8 b1 af cc df d2 d3 d8 66 7e 82 7f de 78 7c 83 78 80 de 7b 72 0f
-P  L  E  A  S  E  20 D  I  S  C  O  N  N  E  C  T  20 M  E  M  O  R  Y  
+P  L  E  A  S  E  20 C  O  N  N  E  C  T  20 M  E  M  O  R  Y  .
 
 さいかいのうたをよむ
 さいかいのうたのしょうきょ
