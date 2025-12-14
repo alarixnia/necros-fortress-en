@@ -1865,10 +1865,8 @@ T  H  E  R  E  '  S  20 L  I  G  H  T  .  .  .
 I'll heal you.
 
 Search the bottom of the water, you'll find a way out.
-You'll find a way out through the water at the bottom.
-You'll find a way out through water at the bottom.
 You can escape through
-the water at the bottom.
+the depths of the water.
 
 (Try your best / Good luck!)
 
@@ -1882,11 +1880,11 @@ C  A  N  20 E  S  C  A  P  E  20 T  H  R  O  U  G  H  02
 
 か い ふ く さ せ て あ け de ま す 。
 76 72 8c 78 7b 7e 83 71 79 de 8f 7d a1 02
-T  H  E  20 W  A  T  E  R  20 A  T  20 T
+T  H  E  20 D  E  P  T  H  S  20 O  F  20
 
 か de ん は de っ て く た de さ い !
 76 de 9d 8a de 6f 83 78 80 de 7b 72 21 0f
-H  E  20 B  O  T  T  O  M  !
+T  H  E  20 W  A  T  E  R  !
 
 --- samurai after oniros cutscene
 

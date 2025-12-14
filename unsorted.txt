@@ -1428,12 +1428,11 @@ Strikes!
 2a 20 S  T  R  I  K  E  S  !
 
 サンダーアタック!
-Thunder attack!
-Thunder!
+Dive attack!
 
 サ ン タ de ー ア タ ッ ク !
 bb dd c0 de b0 b1 c0 af b8 21 02 04
-T  H  U  N  D  E  R  !  20 20
+D  I  V  E  20 A  T  K  !
 
 *は、けんをぬいた!
 Used sword!
