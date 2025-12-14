@@ -2178,7 +2178,8 @@ Let's get ready for the journey.
 
 single-person version:
 [[[
-Samurai, the king sent for you.
+Samurai, the king sent
+for you.
 
 I know it's hard to face
 him because of the trouble...
