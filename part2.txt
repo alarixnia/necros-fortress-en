@@ -54,17 +54,17 @@ T  H  E  20 F  O  R  E  S  T  .
 *「SAMURAIをたおしにいかれるのですか?
 どうか、ごぶじで!
 
-Are you going to fight
+Are you going to defeat
 Samurai?
 (Please be careful!)
 
 *  「 12 を た お し に い か れ る の て de す か ?
 2a a2 12 66 80 75 7c 86 72 76 9a 99 89 83 de 7d 76 3f 02
-A  R  E  20 Y  O  U  20 G  O  I  N  G  20 T  O  20 F  I
+A  R  E  20 Y  O  U  20 G  O  I  N  G  20 T  O  20 D  E
 
 と de う か 、 こ de ふ de し de て de !
 84 de 73 76 a4 7a de 8c de 7c de 83 de 21 0f
-G  H  T  02 S  A  M  U  R  A  I  .  .  ?
+F  E  A  T  20 S  A  M  U  R  A  I  eb ?
 
 --- knight's town village rumours
 
@@ -186,16 +186,16 @@ U  S  !  20 L  E  T  20 M  E  20 J  O  I  N  !
 MAGE「ひがしのほうに、おおきなもりがある。
 そこがまのもりじゃ。
 
-To the east is the Demon
-Forest.
+The Demon Forest is to
+the east.
 
 17 「 ひ か de し の ほ う に 、 お お き な も り か de あ る 。
 17 a2 8b 76 de 7c 89 8e 73 86 a4 75 75 77 85 93 98 76 de 71 99 a1 02
-T  O  20 T  H  E  20 E  A  S  T  20 I  S  20 T  H  E  20 D  E  M  O
+T  H  E  20 D  E  M  O  N  20 F  O  R  E  S  T  20 I  S  20 T  O  02
 
 そ こ か de ま の も り し de ゃ 。
-N  02 F  O  R  E  S  T  .
 7f 7a 76 de 8f 89 93 98 7c de 6c a1 0f
+T  H  E  20 E  A  S  T  .
 
 --- amazon's dialogue in castle
 
