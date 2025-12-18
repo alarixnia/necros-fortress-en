@@ -1793,10 +1793,10 @@ was silenced!
 
 *には、きかなかった!
 X unaffected!
-X is immune
+X is clear!
 
 2a 86 8a a4 77 76 85 76 6f 80 21 02
-2a 20 I  S  20 I  M  M  U  N  E 
+2a 20 I  S  20 C  L  E  A  R  !
 
 *は、ひかりのかべではねかえした!
 ひかりのかべが、こわれた!
