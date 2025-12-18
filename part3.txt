@@ -1731,7 +1731,7 @@ it's in the middle of the lake.
 A  C  T  U  A  L  L  Y  ,  20 A  20 S  T  R  A  N  G  E  R  20 A  S
 
 de 84 77 78 89 83 de a4 72 72 82 80 74 89 7c 9b 89 7a 84 66 75 7c 74 80 9d 83
-K  E  D  20 M  E  20 A  B  O  U  T  20 T  H  E  20 L  E  G  E  N  D  A  R  Y
+K  E  D  02 M  E  20 A  B  O  U  T  20 T  H  E  20 L  E  G  E  N  D  A  R  Y
 
 de 7d 76 de eb 02
 20 C  A  S  T  L
