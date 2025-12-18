@@ -478,12 +478,12 @@ CidParcel
 C  I  D  P  A  R  C  E  L
 
 うらぐちのカギ
-Back Door Key
-Back Key
+Side Door Key
+Side Key
 
 う ら く de ち の カ キ de
 73 97 78 de 81 89 b6 b7 de
-B  A  C  K  20 K  E  Y  20
+S  I  D  E  20 K  E  Y  20
 
 2かいのカギ
 2nd Floor Key

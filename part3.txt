@@ -1006,10 +1006,10 @@ U  S  E  20 F  O  R  20 S  T  R  A  N  G  E  R  S  !
 (Turned away?)
 
 The east village merchant
-often uses the back door.
+often uses the side door.
 
 The east village merchant
-goes in (through) the back door.
+goes in (through) the side door.
 
 2a a2 75 72 76 74 7b 9a 80 3f 02
 T  H  E  20 E  A  S  T  20 V  I
@@ -1018,7 +1018,7 @@ cb b6 de bc 89 91 97 89 7c 6e 73 86 9d 8a a4 96 78 02
 L  L  A  G  E  20 M  E  R  C  H  A  N  T  20 G  O  E
 
 73 97 78 de 81 76 97 83 de 72 98 7c 83 80 79 84 de 88 a1 0f
-S  20 I  N  20 T  H  E  20 B  A  C  K  20 D  O  O  R  .
+S  20 I  N  20 T  H  E  20 S  I  D  E  20 D  O  O  R  .
 
 *「にゃあ? うらないしのとうにはいるほうほう?
 [...]
@@ -1039,7 +1039,7 @@ daily.
 
 The shopkeeper is hiding
 a key under that chair...
-(Perhaps it's for the back entrance.)
+(Perhaps it's for the side entrance.)
 
 2a a2 86 6c 71 3f 20 73 97 85 72 7c 89 84 73 86 8a 72 99 8e 73 8e 73 3f 02 05
 M  E  O  W  ?  20 H  O  W  20 T  O  20 E  N  T  E  R  20 T  H  E  02 S  E  E
