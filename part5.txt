@@ -146,18 +146,19 @@ O  02 D  E  S  E  R  T  20 I  S  20 D  R  E  A  D  F  U  L  .
 らしんばんがないと、とおることが
 できないそうです。
 
-They say the desert's
-cursed & needs a compass
-to cross.
+(They say that)
+due to a curse, you need
+a compass to cross the
+desert.
 
 2a a2 80 82 8f 77 7b 8a de 78 86 8a 89 9b 72 76 de 76 76 6f 83 72 83 a4 02
-T  H  E  Y  20 S  A  Y  20 T  H  E  20 D  E  S  E  R  T  '  S  02 C  U  R
+D  U  E  20 T  O  20 A  20 C  U  R  S  E  ,  20 Y  O  U  20 N  E  E  D  02
 
 97 7c 9d 8a de 9d 76 de 85 72 84 a4 84 75 99 7a 84 76 de 02
-S  E  D  20 &  20 N  E  E  D  S  20 A  20 C  O  M  P  A  S
+A  20 C  O  M  P  A  S  S  20 T  O  20 C  R  O  S  S  20 T
 
 83 de 77 85 72 7f 73 83 de 7d a1 0f
-S  02 T  O  20 C  R  O  S  S  .
+H  E  02 D  E  S  E  R  T  .
 
 *「ホープおうこくがおそわれたらしいが、
 ホープおうならだいじょうぶさ。

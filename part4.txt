@@ -69,13 +69,16 @@ Blizzard is an icy land (far) to the west
 Blizzard is an icy western land
 overseas.
 
+Blizzard's an icy land
+in the western sea.
+
 *  「 フ de リ サ de ラ ー ト de は 、 タ ン キ リ エ の は る か
 2a a2 cc de d8 bb de d7 b0 c4 de 8a a4 c0 dd b7 d8 b4 89 8a 99 76 02
-B  L  I  Z  Z  A  R  D  20 I  S  20 A  N  20 I  C  Y  20 W  E  S  T
+B  L  I  Z  Z  A  R  D  '  S  20 A  N  20 I  C  Y  20 L  A  N  D  20
 
 に し の う み に あ る 、 こ お り の く に て de す 。
 86 7c 89 73 90 86 71 99 a4 7a 75 98 89 78 86 83 de 7d a1 0f
-E  R  N  20 L  A  N  D  20 O  V  E  R  S  E  A  S  .
+I  N  20 T  H  E  20 W  E  S  T  E  R  N  20 S  E  A  .
 
 *「うう、さむいさむい...
 このさむさは、いったいどうしたことですか?
