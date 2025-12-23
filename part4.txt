@@ -1596,14 +1596,14 @@ O  H  20 M  Y  !
 かいていからあらわれたのは、きょだいな
 ようさいだった!
 
-A monsterous creature
+A colossal fortress
 emerged (from the depths)!
 
 76 72 83 72 76 97 71 97 9c 9a 80 89 8a a4 77 6e 80 de 72 85 02
-A  20 M  O  N  S  T  E  R  O  U  S  20 C  R  E  A  T  U  R  E
+A  20 C  O  L  O  S  S  A  L  20 F  O  R  T  R  E  S  S  02 E
 
 96 73 7b 72 80 de 6f 80 21 04
-02 E  M  E  R  G  E  D  !
+M  E  R  G  E  D  !
 
 「うわああっ! ぶつかるぞー!!
 We're gonna crash!
