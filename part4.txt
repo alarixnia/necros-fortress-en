@@ -531,11 +531,14 @@ Welcome (to Hope).
 We're waiting (for you)
 upstairs.
 
+King Hope is waiting
+upstairs.
+
 a2 a2 ce b0 cc df 7c de 6e 73 8d 96 73 7a 7f a1 02
-W  E  L  C  O  M  E  .  20 W  E  '  R  E  20 W  A
+K  I  N  G  20 H  O  P  E  20 I  S  20 W  A  I  T
 
 75 73 76 de a4 32 76 72 83 de 75 8f 81 83 de 7d a1 0f
-I  T  I  N  G  02 U  P  S  T  A  I  R  S  .
+I  N  G  20 U  P  S  T  A  I  R  S  .
 
 *「このかいだんは、
 ちかろうへつうじています。
