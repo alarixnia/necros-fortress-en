@@ -1744,10 +1744,10 @@ immobilized!
 2a 20 I  M  M  O  B  I  L  I  Z  E  D
 
 ふうじられている。
-Frozen.
+Silenced.
 
 8c 73 7c de 97 9a 83 72 99 a1 02
-F  R  O  Z  E  N  .
+S  I  L  E  N  C  E  D  .
 
 しかし、なにもおこらなかった
 Yet nothing happened.
