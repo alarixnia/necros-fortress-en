@@ -13,20 +13,6 @@ Grr.
 2a a2 cc dd b6 de b0 a1 0f
 G  R  R  .  .  . 
 
-*「これは、ゆうしゃどの。
-よくまいられました。
-
-Well met, hero.
-This is for you.
-
-This is for you, heroes.
-
-2a a2 7a 9a 8a a4 95 73 7c 6c 84 de 89 a1 02
-T  H  I  S  20 I  S  20 F  O  R  20 Y  O  U
-
-96 78 8f 72 97 9a 8f 7c 80 a1 0f
-,  20 H  E  R  O  E  S  .
-
 ブリザラード「そうだ、そなたらのだれかが、
 かわってこのしまをおさめてはどうじゃ?
 
