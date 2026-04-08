@@ -1,3 +1,10 @@
+1.3
+---
+
+- Fixed "damage numbers missing from battles".
+- Made the battle dialogue in the introduction cutscene
+  resemble a real battle, like the original.
+
 1.2
 ---
 
