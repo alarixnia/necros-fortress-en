@@ -1183,7 +1183,7 @@ There!
 
 て de た ー っ ! 
 83 de 80 b0 6f 21 20 2a
-T  H  E  R  E  ,  20 2a !
+H  E  R  E  ,  20 2a !
 
 ジェットストリームアタック!
 Jet stream attack!
@@ -1194,11 +1194,11 @@ bc de aa af c4 bd c4 d8 b0 d1 b1 c0 af b8 21 02 04
 
 *は、しゅりけんをなげた!
 Threw shuriken!
-Threw star!
+Threw stars!
 
 *  は 、 し ゅ り け ん を な け de た !
 2a 8a a4 7c 6d 98 79 9d 66 85 79 de 80 21 02 04
-2a 20 T  H  R  E  W  20 S  T  A  R  !
+2a 20 T  H  R  E  W  20 S  T  A  R  S  !
 
 *は、かえんをはいた!
 Spat fire!
